@@ -13,7 +13,7 @@
 "cname":"Superman,",
 "power":"",
 "world":"PRIME EARTH",
-"icon":"",
+"icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/20.jpg?t=",
 "bio":"",
 "image":""},
 {"name":"Joker",
@@ -21,9 +21,9 @@
 "cname":"Joker,",
 "power":"",
 "world":"PRIME EARTH",
-"icon":"",
+"icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/35.jpg?t=",
 "bio":"",
-"image":""},
+"image":""}
 ]
 
 
