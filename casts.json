@@ -37,6 +37,7 @@ Batman had to solve the murder of a New God when Orion was killed in Metropolis 
 {"name":"Superman",
 "rname":"Clark Kent",
 "cname":"Superman,",
+"series":"Action Comics (2016) Dark Crisis - Worlds Without A Justice League - Superman (2022)",
 "power":"",
 "world":"PRIME EARTH",
 "icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/20.jpg?t=",
@@ -73,6 +74,14 @@ Her love for the Joker inspired Harleen to adopt a new identity, that of Harley 
 In time, Harley came to realize the Joker was holding her back and she struck out on her own. She became an entrepreneur and a member of several slightly less-than-reputable super teams (including the Suicide Squad), Gotham City’s all-girl gang the Gotham City Sirens, and a traveling sideshow. Along the way Harley has become one of the most popular super-villains in the DC Universe, thanks in part to her versatility, charisma and cheery-but-deranged outlook on life.
 
 After all, as Harley would say, if you're going to go a little crazy, you may as well sit back and enjoy the ride!",
+"image":""},
+{"name":"Harley Quinn",
+"rname":"Harleen Quinzel",
+"cname":"Harley Quinn,",
+"power":"",
+"world":"PRIME EARTH",
+"icon":"",
+"bio":"",
 "image":""}
 ]
 
