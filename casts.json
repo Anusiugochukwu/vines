@@ -4,6 +4,7 @@
 "rname":"Bruce Wayne",
 "cname":"Batman",
 "power":"",
+"series":"",
 "world":"PRIME EARTH",
 "icon":"https:\/\/s3.amazonaws.com\/comicgeeks\/characters\/avatars\/2.jpg?t=1647766122",
 "bio":"Young Bruce Wayne was a child of privilege, raised under the watchful eye of his parents, Thomas and Martha, in the upper echelons of Gotham City’s high society. Far removed from the city’s slow descent into corruption and chaos, Bruce enjoyed a carefree childhood with the promise of a bright and easy future, in which his family’s name and fortune would see to it that he would never want for anything.
@@ -51,6 +52,7 @@ Clark would move out of his parents' home into the storied city of Metropolis, w
 "rname":"",
 "cname":"Joker,",
 "power":"",
+"series":"",
 "world":"PRIME EARTH",
 "icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/35.jpg?t=",
 "bio":"A complete psychopath with no moral compass whatsoever, The Joker, whose real name and identity remain completely unknown, is characterized by his chalk-white skin, green hair and a permanent rictus grin stretched across his face. But there isn’t a single thing funny about this particular clown, who only finds humor in the suffering of others.
@@ -63,6 +65,7 @@ Certainly, no villain has managed to inflict as much pain and suffering on Batma
 "rname":"Harleen Quinzel",
 "cname":"Harley Quinn,",
 "power":"",
+"series":"",
 "world":"PRIME EARTH",
 "icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/medium-41207.jpg?t=",
 "bio":"The multiverse would be a much less lively place without the hijinks and shenanigans of the former Dr. Harleen Quinzel, the one and only Clown Princess of Crime.
@@ -75,14 +78,29 @@ In time, Harley came to realize the Joker was holding her back and she struck ou
 
 After all, as Harley would say, if you're going to go a little crazy, you may as well sit back and enjoy the ride!",
 "image":""},
-{"name":"Harley Quinn",
-"rname":"Harleen Quinzel",
-"cname":"Harley Quinn,",
+{"name":"Ant-Man",
+"rname":"Hank Pym",
+"cname":"Ant-Man,",
 "power":"",
-"world":"PRIME EARTH",
-"icon":"",
+"series":"Ant-Man (2022)",
+"world":"EARTH-616",
+"icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/78.jpg?t=1659009027",
+"bio":"",
+"image":""},
+{"name":"Ant-Man",
+"rname":"Scott Lang",
+"cname":"Ant-Man,",
+"power":"",
+"series":"Ant-Man (2022)",
+"world":"EARTH-616",
+"icon":"https://s3.amazonaws.com/comicgeeks/characters/avatars/76.jpg?t=1605251090",
 "bio":"",
 "image":""}
 ]
+
+
+
+
+
 
 
