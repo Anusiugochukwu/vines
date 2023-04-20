@@ -70,7 +70,7 @@ THE WARRIOR ANGEL OF ST. DUMAS RETURNS! Jean-Paul Valley does not want to be Azr
 {
 "name":"Dark Crisis",
 "image":"",
-"fetch":event",
+"fetch":"event",
 "date":"",
 "status":"",
 "category":"",
@@ -143,6 +143,5 @@ THE WARRIOR ANGEL OF ST. DUMAS RETURNS! Jean-Paul Valley does not want to be Azr
 "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCh0pFJ4VI0ByuT-6dsLRjdla5LwzHChkMlw&usqp=CAU"
 }]'
 }
-
 
 
