@@ -33,6 +33,28 @@ Each villain has their reasons for opposing the Caped Crusader. But were they vi
 ]',
 'event':'[
 {
+"name":"Dark Web",
+"summary":"The two most famous clones ever are back to take what’s theirs. Ben Reilly and Madelyne Pryor have had enough and are reigniting the INFERNO! Spider-Man and the X-Men are not ready for what’s coming, and what role does Venom have in all of this? The sun is setting, dusk is approaching, and it’s going to be a long night.",
+"text":"#99D096",
+"body":"#000000",
+"info":"",
+"logo":"https://anusiugochukwu.github.io/vines/timeline/darkweb(l).png",
+"image":"https://anusiugochukwu.github.io/vines/timeline/darkweb(p).jpg",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTh4iK7iJ1Cz8j2b5qkAfpLpJq66aydEU-5T-cKLcrYsPsVGkM9uNRzvX6ImNbk_U1mikYB3bcoDWdCUILo6X4kNztAo0rnO8yE-HeSFmDhssjQCJrphfbD030GmH7QlRTAsTSJPqpHUfSZZjX2zZvbJ61zar4Yc6qpkar9Y0f9bnoAFJpg49XzX7-/s800/DARK-WEB.jpg",
+"tag":"dark web"
+},
+{
+"name":"Judgment Day",
+"summary":"IN THE LAND OF THE RIGHTEOUS...The X-Men claim they’re the planets’ new gods. The Eternals know that position is already filled. The Avengers are about to realize exactly how many secrets their so-called friends have kept from them. Years of tension lead to a volcanic eruption as two worlds burn. Who has leaked the X-Men’s secrets to their latest foes? Why is Tony Stark abducting an old friend? And who stands in judgment over the whole world? Judgment Day from Kieron Gillen and Valerio Schiti is the apocalyptic emotional event to define the summer.",
+"text":"#C2FBFC",
+"body":"#000000",
+"info":"",
+"logo":"https://anusiugochukwu.github.io/vines/timeline/axe(l).png",
+"image":"https://anusiugochukwu.github.io/vines/timeline/axe(p).jpg",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8CnHalTdCeT1F-DZZyBPVutAChIdCfxx5FDQ6Bwc-Z2-zrt_6Ol_9-4hY1yLeVYyRt5pU51Abcj9VpEJh0RymZh2tQXOQcIA5I-aP6jvHYzsuTFDOmXerNMUaLQinYArF2rGW2Xo13p93RwWauL8GMSZIUXcSP1S9wZ2jdPdPXZg7nCW4kHkflvB1/s800/AXE-Judgment-Day.jpg",
+"tag":"judgment day"
+},
+{
 "name":"Dark Crisis",
 "summary":"Crisis on Infinite Earths. Infinite Crisis. Final Crisis. And now…Dark Crisis! The epic event years in the making is finally here! Superman, Batman, Wonder Woman, and the rest of the Justice League are dead. The remaining heroes are left to protect the world from an onslaught of violent attacks by DC’s greatest villains! Can the legacy heroes step out of the shadows of the classic heroes to form a new Justice League? And will that be enough to stop a darkness greater than anything they’ve ever faced from destroying everything?",
 "text":"#D50000",
