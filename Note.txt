@@ -1,4 +1,785 @@
- {[{
+ [
+{
+"name":"DC Horror Presents - Sgt. Rock vs. The Army of the Dead (2022) @1",
+"summary":"Berlin, 1944. The Nazis are besieged on all fronts by the Allied forces. Defeat is inevitable. But Hitler and his team of evil scientists attempt a last-ditch effort that may turn the tide of the war and rewrite history itself: a serum that resurrects their dead soldiers, stronger than they were in life, and sends them back into the battlefield. Now Sgt. Frank Rock and Easy Company have been dispatched into enemy territory to face off against the strangest, most horrific enemies they've ever encountered: Nazi zombies! Horror icon Bruce Campbell and comics legend Eduardo Risso bring you a terror-soaked Sgt. Rock tale like no other!",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/R6_XPVx1C20Z6jgxiYhbCafcnN1CHs04cyDZxF-pwW832zQjFUnd1o6MlcKVog40WNXKlFnVbH3SHeW8_0GZucXoRTNHkBEvb0KE7uUeEOFU2BoM72CTa_PVixhCxh5clypY_l6C7g=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"dchorrorpresentssgtrockvsthearmyofthedead(2022)/dchorrorpresentssgtrockvsthearmyofthedead(2022)_1.html"
+},
+{
+"name":"DC Horror Presents - Sgt. Rock vs. The Army of the Dead (2022) @2",
+"summary":"WHAT COULD GO WRONG?
+
+Sgt. Rock and Easy Company are behind enemy lines, armed to the teeth, and ready to go up against the strangest—and deadliest—enemies they've ever encountered: zombies, and a whole lot of 'em! Strap in, soldiers, it's you against the world…of the dead!",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/NGkbv8ibR4WWkPP4x5nGn4eH_XR0mQMuOgSiMAQzD6_efATfYmgq4_Z1A6BZY-bKnfLAE4csxBF2JoSduNOv7egZMhjiDH5om2axZ7mrgr6NRGyZnE2JlYQs_x88M7vBOEEJEcjb2Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dchorrorpresentssgtrockvsthearmyofthedead(2022)/dchorrorpresentssgtrockvsthearmyofthedead(2022)_2.html"
+},
+{
+"name":"DC Horror Presents - Sgt. Rock vs. The Army of the Dead (2022) @3",
+"summary":"BELLY OF THE BEAST
+
+Rock and Easy Company have had some fun defending themselves against Hitler’s undead goons, but now it’s time for them to have a gas when they go on the offensive and head behind enemy lines. And hey, speaking of gas, is that a flamethrower in your hands or are ya just happy to see me? Time to burn it all down or die trying, Easy Company!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3M6LQ_MmN1WASMjZeBND_gGwwc8DcMOxArG846dwaoj78A_cNTD4nD-GFaLfTDCxojeo8mxBCQsBKOHELw4PgC41YMRnokTPr3SZHK8MtPqa9_8dR9tP3gHlN-4uLPdHT_4EWRL18w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dchorrorpresentssgtrockvsthearmyofthedead(2022)/dchorrorpresentssgtrockvsthearmyofthedead(2022)_3.html"
+},
+{
+"name":"DC Horror Presents - Sgt. Rock vs. The Army of the Dead (2022) @4",
+"summary":"WHERE THE RUBBER MEETS THE ROAD
+
+SGT. FRANK ROCK--NAZI SOLDIER? Worry not, the ol' sarge hasn't allied with the Axis, but he's hoping to trick the Nazis into thinking he has. Easy Company's found themselves behind enemy lines, disguised as German infantry, and they're blasting their way through a horde of zombies to get at the big man himself: Hitler!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/fOv2Uy7sWClEn1Rk9c_jXvc4MPpttWmb241ROyKeh-0UvTO5D1EwObqQpW-LhJE5VcbRzIbDKnBW0gkDFYg75A_XCz3hfL4Q6oDn3830Hz6ZlFPCMdlgr2Lp9qBGlhXO0HvbTVZr9Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dchorrorpresentssgtrockvsthearmyofthedead(2022)/dchorrorpresentssgtrockvsthearmyofthedead(2022)_4.html"
+},
+{
+"name":"DC Horror Presents - Sgt. Rock vs. The Army of the Dead (2022) @5",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/eAFYIzLwSQ16EikpiEjsXgHjXwtMbXzHAiwOQemvZxA-CCNTeUjwusgWSh-zYl72b4pcYkOYjETyPxkm9m4Bk3MCf8Wdpxy_f-yNuCfEAxiXXUfPy98dzyMP5ue55xlKgIT1vf_u8g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dchorrorpresentssgtrockvsthearmyofthedead(2022)/dchorrorpresentssgtrockvsthearmyofthedead(2022)_5.html"
+},
+{
+"name":"DC Horror Presents - Sgt. Rock vs. The Army of the Dead (2022) @6",
+"summary":"TARGET ZERO
+
+Stand at attention, cadet! Easy Company’s blasted their way through the undead all across Berlin—but don’t get cocky now, soldier, because your platoon’s just come face-to-face with something far more horrifying than zombies: Sgt. Rock has fallen in battle. Could it be that Easy Company will be sending their fearless leader home in a flag-draped coffin? Check out this fear-soaked finale to find out!",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3A_m14W_toO2CKkpMxSUWBD1kBltHKaJzqazYVlpL7qr9wWFpVXLt_TmjJ1RTyXXTKEKBYMR4VJzar0Umy9ww8EDtHuI8udT6ucF8k-1D1VAkg1C9oBCObJXY1ya7OBWWe3CAeh7iw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dchorrorpresentssgtrockvsthearmyofthedead(2022)/dchorrorpresentssgtrockvsthearmyofthedead(2022)_6.html"
+}
+]{[
+{
+"name":"DC - Mech (2022) 1",
+"summary":"At the end of World War II, Earth was invaded by giant mechanized Parademons from a planet called APOKOLIPS. The planet’s protectors, the Justice Society of America, were devastated and with them, the age of Super Heroes came to an end, and the era of the Mech began.
+
+In the ensuing years, the world has stockpiled colossal battle suits piloted by elite warriors, waiting for the day Apokolips returns. But when Kal-El, the last son of a dying world, crash lands in Metropolis with his own warsuit, he’ll face down two of earth’s greatest Mech fighters, The Flash and Batman.
+
+The dawn of a brave new mechanized DCU is here from the rising star creative team of Kenny Porter (Flash: The Fastest Man Alive, Fearless) and Baldemar Rivas (Robins, Batman: Urban Legends).",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jhqG7yY0EtdlLBnW6wdTQ_58X6Oyi5TxDYta2OYlF4IrdaUWkPcttAZj1fK6BRBt7l93g3YyeQXohp3uYuQtHLogGE43WZ8zCcku_uFsk8cGn0YiDk5MWVOx6cNTzrU4rO1Qs9PgFg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dcmech(2022)/dcmech(2022)_1.html"
+},
+{
+"name":"DC - Mech (2022) 2",
+"summary":"PART 2
+
+WONDER WOMAN’S WAR MACHINE! Wonder Woman and the Green Lanterns have arrived to help Batman and the Flash stop the invader from the stars known as Superman. The last time mechs from space arrived, they tried to destroy Earth—these heroes won’t let that happen again, despite Superman’s protests that he’s on their side. Hawkwoman, the war mother of Earth, will intervene to prove to Earth’s heroes Superman is on their side as Darkseid and Lex Luthor prepare their next moves in response to Superman’s arrival...",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/irYDB1eK6dWXJxkFscgZabThq4c0S_4fb2MXU2Eew-v2O0dzeHhzw4urUPbLDZsO8hcLq35LFOSjBLj_GZEQB-3s-EQESXJQ2_VDOATNOVqvpxTWTWU6-9opQYGBt4RKYitcnR5cbQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dcmech(2022)/dcmech(2022)_2.html"
+},
+{
+"name":"DC - Mech (2022) 3",
+"summary":"PART 3
+
+A BATTLE FOR THE STARS! Superman, Batman, Wonder Woman, Flash, and the Green Lanterns have combined their might and mechanized resources to help the world, but they're not a team quite yet. They're a group of pilots not flying in a pattern. This will have to change when they go to aid Steve Trevor's forces in space as they're attacked by Darkseid's Apokoliptian Army. And on Earth, Lex Luthor's experiments with Superman's DNA grow more frightening. The most epic miniseries of 2022 continues!",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/I1I82hdLwZ-CZf1ovlz9sn4Igp8rA9ZCfxp_UVWlO_srVl7IXP7d1MVvXhK9mdVE_f--cn8rsMd-68SuHPJnxHp30qOYiaICbyrKDXFi2D_k5Ii_oFncwlGXBtgnZAlGTNZq-RMnJA=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"dcmech(2022)/dcmech(2022)_3.html"
+},
+{
+"name":"DC - Mech (2022) 4",
+"summary":"PART 5
+
+A SQUADRON DIVIDED! The Justice Squadron is in pieces. The Green Lanterns and Flash have flown off to space with their mechs to face Darkseid’s forces head-on, still unwilling to trust Superman or accept his help. Batman will need to convince Wonder Woman that Superman is ready to rejoin their team, and time is running out. Darkseid’s forces are at their full power, and Lex Luthor is getting ready to unleash his ultimate weapon on the world...enter the biomechanical nightmare that is...B1-ZAR-0!!!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Nh1cU4leL3EO7DvXPl2dyaQ3lbA4Qz3n48j4-0X_Aw7n8f4_YTRfWFt1-BGeE8CNVJkTlD0EmAAb6j6ueCCpwS_hawbJFo6G0e9TaAJjG0_WVjq9rhQsFrCJpjRRes2rMyL6SxE8Yg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcmech(2022)/4.html"
+},
+{
+"name":"DC - Mech (2022) 5",
+"summary":"PART 5
+
+A SQUADRON DIVIDED! The Justice Squadron is in pieces. The Green Lanterns and Flash have flown off to space with their mechs to face Darkseid’s forces head-on, still unwilling to trust Superman or accept his help. Batman will need to convince Wonder Woman that Superman is ready to rejoin their team, and time is running out. Darkseid’s forces are at their full power, and Lex Luthor is getting ready to unleash his ultimate weapon on the world...enter the biomechanical nightmare that is...B1-ZAR-0!!!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ZFI8YXX_4yF4zDRztlrKHD_8UGWLE6K2TH8pcqTQFZFXmtfuLlbPNh77sEJHEPvz1GueP4nhdwKmbjsI_8nYmf_08yobl5ftoZ2UGp8MxBIXpT8_Gsc9eowLfWbM2GLq9lJvePBm1w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcmech(2022)/dcmech(2022)_5.html"
+},
+{
+"name":"DC - Mech (2022) 6",
+"summary":"FINALE
+
+AN ALL-OUT WAR ON ANTI-LIFE! The Justice Squadron and Darkseid's forces go head-to-head in the last stand for Earth's safety! The Squadron has brand-new mechs with Nth metal frames, but will it be enough to stop the wrath of Darkseid's best generals? And will Batman be able to stop Superman before he takes his revenge on the tyrant who destroyed Krypton? An intergalactic war 80 years in the making ends here!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tEAvTQ92iRwqP4KCaBl9ZgsNXz1H1Q4SLqvMWVpxG8b3qZtA2l-UNsHgc1QoPQo-VydFKQGrfQ7Uhk_RdC2uqev8Kn7chfikiM3s50jElBSDL2MBjyU4V8ijdZwLojTEHAOv5L6RzA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcmech(2022)/dcmech(2022)_6.html"
+}
+][
+{
+"name":"DC / RWBY (2023) @1",
+"summary":"CHAPTER ONE
+
+The world of Remnant comes crashing into the DCU! Grimm are running amok around Gotham, and Batman’s on the hunt to find whoever brought these mysterious monsters to his city. But as the trail goes cold, the Dark Knight finds himself face-to-face with none other than Team RWBY! What other effects are taking hold around our world with Ruby, Weiss, Blake, and Yang here, and what does it mean for the future of the DCU?! Marguerite Bennett returns to RWBY with Meghan Hetrick and Soo Lee for an epic tale of adventure spanning every corner of the DC Universe!",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tpcnX_6UoAcmFbp-9IhDKyVZtow3GdkxEAznAXsQBADdebKE1G1PTe-Thyh7r9ufZ2w8rapngSFgYehlmn759ASL8XO5AIftXO8tZKvfLIzRV8TjSMoEmmWmFycn4mEfaV1e05YXPQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcrwby(2023)/dcrwby(2023)_1.html"
+},
+{
+"name":"DC / RWBY (2023) @2",
+"summary":"CHAPTER TWO
+
+Gotham is being overwhelmed by Grimm! They keep appearing in every corner of the city, and the only lead the Dark Knight has is the four mysterious girls he just met. Ruby, Weiss, Blake, and Yang explain to Batman and the assembled Bat-Family how they landed in Gotham. But just as some pieces start to coalesce, a horde of Grimm are converging on the worst possible location: Arkham Asylum!",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/En2anLveQTCvydC8ZfBN8yb0PCRCHl_eBxSbrqbkOCNpsIPgNoYHAcgKFQWM9g_M776uEj-Mof3l3ppQsTgixAcZ_R5oSHiwEgbDhj_6w1sVCPWOEy81jjZ77dYzsoxTefy9uInHZg=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"dcrwby(2023)/dcrwby(2023)_2.html"
+}
+][{
+"name":"DC vs. Vampires (2021) 7",
+"summary":"The nightmarish second arc begins! The Earth is now cloaked in darkness as the victorious vampire empire has taken full control. Pockets of humanity can still be found, and they struggle to live but hope fades with every darker day. The leaders of the last surviving resistance force-Green Arrow, Batgirl, and Supergirl-hatch a desperate plan to save the world…or die trying!",
+"date":"July 5, 2022",
+"tag":"greenarrow, supergirl, batgirl,",
+"img":"https://2.bp.blogspot.com/Lo-pSX6O-6C5H5N3hRgleScU9faszFRIgFKrQzu3lRIFri3u1m_hoCCPQBP1OJ_FOICG6UCfWL79NSqANqBHAASnPoVXdh_1QbhzVnPt8rqC5K6MunlFbBCEYAYcZ9Q7FyW6VGlwjQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampires(2021)/dcvsvampires(2021)_7.html"
+},
+{
+"name":"DC vs. Vampires (2021) 8",
+"summary":"LONG DAY'S JOURNEY
+
+THE BATTLE FOR EARTH CONTINUES IN THIS BLOODTHIRSTY SERIES! The surviving heroes put their various plans in motion in their last attempt to save humanity! The Birds of Prey are out for blood and head back into the heart of the vampire kingdom: Gotham City! Supergirl must cross a vampire-infested ocean and Green Arrow’s mission is…just too horrifying to mention!",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/q-E7vfxfsyWJNAmaVsxoUsH2UQapPnkGrLEemIGwzrsmbkGd7JvrmYVP8YhE9ehwhS03Tb-YnscHj9RezpPo1CcIxrspgLB11ppYJBjRVhuDZ062XkFLVBMbOGvxU_wWHv0d2Bsx4w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampires(2021)/dcvsvampires(2021)_8.html"
+},
+{
+"name":"DC vs. Vampires (2021) 9",
+"summary":"A STILLNESS AND A STORM
+
+Road trip! Our heroes split up and spread out across the globe to prepare for the final strikes against the vampire kingdom! Will Green Arrow's mission force him to battle one of his oldest friends? What horrors await the Birds of Prey inside the ruins of Gotham? And does Black Manta's secret mean a watery grave for Supergirl?",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Oxn11eZW4YmEV_gDoqH88I2KRkGoC2QJzyQ0kkknH9naxd2b3Wvot5OWLreCRZhrzql9Iy8-CzCTGhsxjzLF61fpTOoRUdq_-5bkEof4VxcWjmkZiWJPC5D_FCXXu620vl3HUoL6Qw=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"dcvsvampires(2021)/dcvsvampires(2021)_9.html"
+},
+{
+"name":"DC vs. Vampires (2021) 10",
+"summary":"GOTHAM MUST FALL
+
+The war for Earth takes a decisive turn as the heroes prepare to strike back! Can Supergirl and her team in Australia escape to space? Will the Birds of Prey’s infiltration of Gotham City go unnoticed by the Vampire King? Can Green Arrow save the human cattle from the Blood Farm? The shocking answers await!",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0MYtuXgQHnbWWBUXmmnSXdnoODMFrwAEKNh-3Q5WunKHRC59FxXYbZy2mvrxvzTgqIfTltejnNMIXNyhe-0SNfsS5cnq_kk_mCd9myn6N-_OiTDITZRkwEIt5M2_sF6shcPQOGUWUA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampires(2021)/dcvsvampires(2021)_10.html"
+},
+{
+"name":"DC vs. Vampires (2021) 11",
+"summary":"OUR FINAL HOURS
+
+Humanity’s final battles against King Nightwing and his vampire armies have seemingly failed on all three fronts. Who lives? Who dies? As all hope is extinguished, will the surviving heroes be able to stop the extinction of the human race?",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/r8DChgVkJKF0DaTFSpU0yI2SWesc5IaQRfDNMAUxA_SWWhsKlWmpxdA3IQiNIP5CMnVXOhH9izfbzmTNj4DnoMdAlrc8SWgbrV0OSKw2veTZ-vln9CIKvWF_glivegxtQp7mRebCow=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampires(2021)/dcvsvampires(2021)_11.html"
+},
+{
+"name":"DC vs. Vampires (2021) 12",
+"summary":"DAWN
+
+The cataclysmic final issue of the bestselling series will end with a bang and a whimper! Green Arrow will lead humanity's final charge from the blood mines of Smallville. Supergirl's mission to get off-world comes to an explosive end. And it's Batgirl versus Nightwing for the fate of the entire planet—the stakes couldn't be higher as the future of humankind is on the line!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Q_bKehj1V8kAXwTrc0sumL0mBv-vsa80ekYrf-4qGkuoALrI9LFZBFubD42R9dS18Q6yxaVlB1QG8CBrMh-eB-BzB1-HyEoDq0_e7hlfChn-u9onB9IUHkicziJwgFNLeQkGyuMMUg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampires(2021)/dcvsvampires(2021)_12.html"
+}[
+{
+"name":"DC vs. Vampires - All-Out War (2022) 1",
+"summary":"ALL -OUT WAR, PART 1 / WHO'S TRAPPED?
+
+One of the last secret, underground human cities is facing total annihilation and its leader—John Constantine—must plan a suicide mission to assassinate a key lieutenant in the vampire empire! Against unreal odds and with an unlikely team including Booster Gold, Deathstroke, and Mary Marvel, does the Hellblazer have one more trick up his sleeve? A gritty, violent, monochromatic companion series to DC vs. Vampires, this series will feature a brutal story with a cadre of talented creators delivering 32 pages of original content!",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/A49i2ediz2cUJKu6PoqAtid92MnBGVpRLE3ZdaQ6EQI_MxG61CvANXWtk2uYpMsiP51aqx8YSv4nD_lry-4SENB3IzTy1e7fQyUCOYkGUTmI5TZ-h56UqWsaNjurqF01igW3UrFBfw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampiresalloutwar(2022)/dcvsvampiresalloutwar(2022)_1.html"
+},
+{
+"name":"DC vs. Vampires - All-Out War (2022) 2",
+"summary":"ALL -OUT WAR, PART 2 / DARK BIRTH, PART 1
+
+The survivors of a horrifying vampire attack, led by Deathstroke, take shelter with Talia al Ghul. With intel from a hero recently saved from vampirism, John Constantine prepares them for a (suicide) mission, while Midnighter goes through every scenario in his head and finds out the dark truth. Meanwhile the mysterious vampire Lord Cinder has become aware of their plans and prepares a surprise...",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_Ah5nW-r31PgivgnVa-VOuWVn7_fx-yEsjuhyiNm3QK-4_cPQG9TdpnT1-YdnN-sT6lkzvp3wAvL9XaUEbLbjVwrJ0iB7dF9WL6-1OmsW01MQlp7WydWkp_ZwPtBDmGX1FJqoJPDUg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampiresalloutwar(2022)/dcvsvampiresalloutwar(2022)_2.html"
+},
+{
+"name":"DC vs. Vampires - All-Out War (2022) 3",
+"summary":"ALL -OUT WAR, PART 3 / DARK BIRTH, PART 2
+
+The apocalyptic Suicide Squad team are planning for an all-out assault at the Blood Farm when one of Gotham's daughters finds them first. Batwoman gives them the chance to risk it all to save one of their own…but will this new mission give them the power they need to take on the mysterious Lord Cinder and his lieutenants? Or are they playing right into his hands? In the backup, learn the tragic story of Nightwing's betrayal and how he became a vampire!",
+"date":"September 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3OwkO4qlk3u69M244pbljtwh-IFDgC-1blAYDrjfuOgZPTRTIHomfAbn_BZ10XQupzI_jPaF0NtP0RlyAsrwTmZqGyPcUYwgys9O0RpwGlR0Zin20DzLnE_Eu-AFxx9I9bmke7_q=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"dcvsvampiresalloutwar(2022)/dcvsvampiresalloutwar(2022)_3.html"
+},
+{
+"name":"DC vs. Vampires - All-Out War (2022) 4",
+"summary":"ALL -OUT WAR, PART 4 / KILL THE MESSENGER
+
+With Baron Cinder and his lieutenants kept occupied by the mother of all diversions, the team attempts a daring raid on the Blood Farm to retrieve the one person who can bring sunlight back to the world. However, they have not reckoned on the terrifying presence of the Baron's vampire knights—familiar faces whose blades are every bit as bloodthirsty as they are. And in the backup, we learn the sad fate of the King of Cities, Jack Hawksmoor!",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/v4uZWYx4gEUOH7Ekl-tlDw1fK47IhkTi347-oYWJ_Xv3DfpiTFBzX8LkFJiknqR3mRGC6bfA4y4LqPWFKgYqxnbPN1ZgwRdSD4PpTJ6IpMGuBeP_D6etdjRev3WjlWAK2EbdzGj1Dw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampiresalloutwar(2022)/dcvsvampiresalloutwar(2022)_4.html"
+},
+{
+"name":"DC vs. Vampires - All-Out War (2022) 5",
+"summary":"ALL -OUT WAR, PART 5 / DEAD CITIES 
+
+Betrayed and out of options, the pitiful remnants of the team head to a bleak and desolate Central City for one last Hail Mary as Baron Cinder’s terrifying lieutenants close in. Will a Marvel Family showdown at the end of the world snuff out humanity’s last hope, or will the team’s final desperate gamble pay off?",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/UPzeml0AUyOFBMsPKtbmRZNwIIriCfS8k-kD8u8ZwRYheISh3jUjo3AQb-9S2xbP0pcqMDDqTHEJ7YmbXNbkFLovAyWKl1ZKnzvVRv9_19sJkrM7GgYTk2hRdJGlX4OepfMum5dS5A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampiresalloutwar(2022)/5.html"
+},
+{
+"name":"DC vs. Vampires - All-Out War (2022) 6",
+"summary":"ALL -OUT WAR, PART 6 / THIRST
+
+THE GRAND FINALE! With the dying embers of their hope rekindled at the eleventh hour, what's left of John Constantine's Suicide Squad attempts to traverse the badlands with precious cargo in tow. But just as final victory over the vampires and their endless night seems all but assured, the team must contend with their most powerful and terrifying enemy yet: Baron Cinder himself. In the backup, what happened to Poison Ivy when the world ended...?",
+"date":"December 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pPzlNnpWsl7Q_GLDTEel73SBrezbzit0fE_ACC-zZ65v_vhB6RHwIE-rPCUeMu7xCICB1W6JrOp2a_7DBzoUJHSusRhoDIN16m17XB6xrd3FGcr3iBbFBo-I1z06kJce7yWGhH9leA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dcvsvampiresalloutwar(2022)/dcvsvampiresalloutwar(2022)_6.html"
+}
+[
+{
+"name":"Deadly Neighborhood Spider-Man (2022) @1",
+"summary":"A revolutionary dark take on Spider-Man begins here! What is reality and what is dream? What is science and what is magic? At the intersection of all of this stands the Deadly Neighborhood Spider-Man. Peter Parker goes to Los Angeles and what he finds there are definitely not angels. The demons waiting for Peter are going to test him like never before. One demon in particular, a very famous one for Marvel and X fans in particular, might just eat Spider-Man alive.",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/sXlzLWtj8t9EivpRAcc6XZnuu2gHsUTFj46da2w6nXR9dN95PATpZ5jndADxw12F0w0-9TwEZWkE98AlbBgzamPcPlVTRim8qaMrBKb5L5wqIDcw8CfIeORdbH00yLRufvb6BSdT1g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadlyneighborhoodspiderman(2022)/deadlyneighborhoodspiderman(2022)_1.html"
+},
+{
+"name":"Deadly Neighborhood Spider-Man (2022) @2",
+"summary":"The creepiest Spider-Story in years continues! Beset and beleaguered by the wicked power of DEMON BEAR, Peter Parker is having nightmares whenever he falls asleep and sometimes even when he hasn’t! Worse still, it’s making his time as Spider-Man even MORE difficult! But there’s no rest for a weary spider, and the web-slinger will have no choice but to dig in and hang on—unless he wants to meet a grizzly end! (Hah. Grizzly!)",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/C7s0GPGmvsGlQ6jasdGKmh6WZONDQzjHt_hJiuiuGaTUCCAgfB_da7krsWcDKpQgZ-7N81Aa7lbULzhY90D3SGgqKZhkgsJ1z2QFTO3XyB8vi76lQvT9x24oLuryBskTrTEtvAuY-A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadlyneighborhoodspiderman(2022)/deadlyneighborhoodspiderman(2022)_2.html"
+},
+{
+"name":"Deadly Neighborhood Spider-Man (2022) @3",
+"summary":"DEMON BEAR keeps roaring through Spider-Man’s life and southern California—and just when Spidey had finished building his base tan too! With no other option, Spider-Man takes the fight to Demon Bear’s home turf, but in the process, will leave himself and the Spider-Verse forever altered! IN THIS ISSUE! Spidey finally lives up to the title of this series! But don’t say we didn’t warn ya!",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Dm2Gz8M-PEUuqJOem0v1brVwcsHAa3dNOtr61R-Uu4HLpCiy62zGJamTcICpAJWBadsQQ4AdDX-d6ZVDC_RcJkEUCxzGkaj7p8o49zX1njuGCAcc1f2lP0-uzHSB7U1yHQLhMIEMHg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadlyneighborhoodspiderman(2022)/deadlyneighborhoodspiderman(2022)_3.html"
+},
+{
+"name":"Deadly Neighborhood Spider-Man (2022) @4",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/1l7llssNCMj2k2szvjU_bgPttSWUzzsE_D7J_VPZOL1ZPvNH9EZbhIbAZh1uyGcGsilJ_q9lCylAec6CuiHuCqlYym95ljoK7K4bHx7zUaDDHa-41yf_p4HbkHBDR3iZd9iHUx3zpA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadlyneighborhoodspiderman(2022)/deadlyneighborhoodspiderman(2022)_4.html"
+},
+{
+"name":"Deadly Neighborhood Spider-Man (2022) @5",
+"summary":"The epic final installment in the Spider-redefining saga from Taboo, B. Earl and Juan Ferreyra! As the claws of the DEMON BEAR dig into Spider-Man’s very soul, will he be able to let go of his selfishness and fear, and put power and responsibility above everything else?",
+"date":"February 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hK7hLGylUz1WGTQ1IlgQpAGdr3JyGPkyVwYK8TkDMKQG9ErXSJINcsVMOy_hf74_aM5UALr_Zej_ftwt1wnGm3vTLG47dnLU-9hAwYgpjq___Ped1LN0miUsWFNSy7Q8_7erJEuGRA=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadlyneighborhoodspiderman(2022)/deadlyneighborhoodspiderman(2022)_5.html"
+}[
+{
+"name":"Deadman Tells The Spooky Tales (2022) Part 1",
+"summary":"Ever had the feeling that you were being watched? Ever taken a dark shortcut on the way home? Wondered what might just be living under your bed? Well, Deadman knows…has always known…and he's here to shed some light on those spine-tingling adventures and things that go bump in the night.
+
+Written by New York Times bestselling and Eisner Award-winning writer Franco and featuring art by some of DC Comics' favorite artists, Deadman Tells the Spooky Tales is sure to keep you on the edge of your seat through these hair-raising stories.
+
+Read at your own risk…",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/y6RzJCgXQVahMQKqOQ_dmInu3jiAdzVcqI0P11Y7ACMrEhi0b_O48f0kW8tIvw9PuaQl-_5DYTMt5-ryQyvFKojAM9Ydtg59NZAm1UtmzuwabiUvNfCWGuV_KUyBSU3S3Q9l1jFRHA=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"deadmantellsthespookytales(2022)/deadmantellsthespookytales(2022)_1.html"
+},
+{
+"name":"Deadman Tells The Spooky Tales (2022) Part 2",
+"summary":"Ever had the feeling that you were being watched? Ever taken a dark shortcut on the way home? Wondered what might just be living under your bed? Well, Deadman knows…has always known…and he's here to shed some light on those spine-tingling adventures and things that go bump in the night.
+
+Written by New York Times bestselling and Eisner Award-winning writer Franco and featuring art by some of DC Comics' favorite artists, Deadman Tells the Spooky Tales is sure to keep you on the edge of your seat through these hair-raising stories.
+
+Read at your own risk…",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/y6RzJCgXQVahMQKqOQ_dmInu3jiAdzVcqI0P11Y7ACMrEhi0b_O48f0kW8tIvw9PuaQl-_5DYTMt5-ryQyvFKojAM9Ydtg59NZAm1UtmzuwabiUvNfCWGuV_KUyBSU3S3Q9l1jFRHA=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"deadmantellsthespookytales(2022)/deadmantellsthespookytales(2022)_2.html"
+}
+[
+{
+"name":"Deadpool (2022) @1",
+"summary":"MEAT CUTE
+
+MARVEL’S TOP MERC IS BACK IN BUSINESS! We all know Wade Wilson is one of the top mercenary/assassins in the Marvel Universe, even if he is simultaneously the most annoying one…but he’s pushing to make that recognition official as he auditions for the elite group known as the Atelier. Now, he has 48 hours to kill one of the world’s most famous supervillains. Only problem? He’s been kidnapped, and something…strange…is GROWING INSIDE HIM. Things are going to get gross as writer Alyssa Wong (DOCTOR APHRA, IRON FIST) and artist Martin Coccolo (BANNER OF WAR) take out their pent up aggression on everyone’s pizza-faced, jabber-mouthed, misguided, hate-to-love, love-to-hate fave…Deadpool!",
+"date":"November 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hLBWlS7Wf4qU4v7rTL_OBqvu81KONW5Bf04CHCdVellwEiB_TnfsbAHs6CrH9ZPrbT_FvkGdXqb-57sAvqZvpASz4BhVL3MIMwWA1Wup-3BjUy8UmHllhBjKncz2r9RaLnMkrUpYHA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadpool(2022)/deadpool(2022)_1.html"
+},
+{
+"name":"Deadpool (2022) @2",
+"summary":"COMRADES AT ARMS (AND ARMS AND ARMS)
+
+EIGHT ARMS TO KILL YOU! Deadpool has less than 24 hours to kill Doctor Octopus if he wants into the most elite assassin alliance in the world. Can Doc Ock block a cocked glock? Or will he be filleted and slayed by Wade's blades? And also…uh…what's that thing hanging out of Wade's chest?",
+"date":"December 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RZ1gh77_BDsBr3w-pZr18bQkp0KUtUXtouykX9v38Kg7Mn2BlBwQkUBznucmpzpSGt28__v7LcpKcUpGYlClXhxWYywZ0WJ-uFOQOkdxF0eieVtXyJ0_d35dT9-P5ygV4elLc3BNwg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadpool(2022)/deadpool(2022)_2.html"
+},
+{
+"name":"Deadpool (2022) @3",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KzGJFbkcYprJ_nX416wPJB5XQiBPCO-X5dMeDs_EesONG82VwyHbbNAvFRT6rQ7DQWRv1lyUHwUU9VyqwCnqiWTNIsyVynL8enoOeqNRccwlIJUEXES1mBHftetZ8mTwtXyzDmWhjQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadpool(2022)/deadpool(2022)_3.html"
+},
+{
+"name":"Deadpool (2022) @4",
+"summary":"EAT YOUR HEART OUT
+
+BETRAYED! Lady Deathstrike cruelly betrays her recent partner-in-assassination Deadpool! Or wait… is it that Deadpool has casually betrayed his reluctant murder buddy Lady Deathstrike? It’s all gonna depend on whose version you believe—but either way, it’s time for bloody reprisal!",
+"date":"February 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/SUZKrq8X7TY2AYAa1AqqVof6kkXNMgOsJFIENE2Y4AwMNo_A_kph0lNHx8sfqZ7pyUNKkCpQ1bBTHuFLnPt06LVEjz26GcYqmE8UTocQwwFqTN9Z-GPmL5ITecVvM94tk63YSSHckQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deadpool(2022)/deadpool(2022)_4.html"
+},
+{
+"name":"Deadpool (2022) @5",
+"summary":"RENDER REVEAL PARTY 
+
+CARNAGE BREAKS LOOSE! Oh—did we not mention that the thing growing inside of Wade was Carnage? Because it is. And he’s extremely done with hitching a ride with Wade and WANTS OUT NOW. Brace yourself, Wade—you’re about to get ripped a new one!",
+"date":"March 29, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/qA193y6IJd-4TPhimMwu-Qst3YPBdEstyIkFtMnsi2guT0-deD7V9KFBinMWwDY9y0wZ4QonYPzr0qhXGE6PCunsLlwx_VLHLzzWmFfkeZKByCHQRe8PY476tDFDxw0K_nI3DqFKEw=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"deadpool(2022)/deadpool(2022)_5.html"
+}
+[
+{
+"name":"Deadpool - Bad Blood (2022) 2",
+"summary":"Deadpool is on the hunt for a superweapon with ties to his past – but every time he gets close, the armored brute named Thumper kind of…kills him. Wade Wilson always gets better, but dying still sucks. Can he and Domino get to the bottom of things before Deadpool meets his maker again? Answers might lay in a secret mission from years ago that brought Deadpool and X-Force together. But what do today’s problems have to do with this firefight flashback? Garrison Kane, the cyborg called Weapon X, knows the truth about Thumper – and now it’s up to Deadpool and Domino to beat it out of him!",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/xlYBQsI2TYs01_zW8eJwYH66cXsFWqcr26PMQAEBc7I6j0m9Cn6tjtXkb_p1lRUcM6cvOZLIvKjadKpvSO6mWElorrxWGuRm8dhk3j8Lyu90pu5y0C9Z6qkxODjxUREAUyhyduZw=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"deadpoolbadblood(2022)/deadpoolbadblood(2022)_2.html"
+},
+{
+"name":"Deadpool - Bad Blood (2022) 3",
+"summary":"Thumper was supposed to be Canada’s answer to the Winter Soldier, a programmable killing machine who can assassinate any target! There’s only one problem: On each mission, he goes rogue and hunts down Deadpool instead! That’s bad news for Canada—and even worse news for Wade Wilson, who’s no fan of the near-fatal beatings that Thumper administers every chance he gets! Now, with old pal Garrison Kane by his side, Deadpool faces the ultimate rematch against Thumper—but can he survive long enough to learn the truth about his single-minded nemesis?",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_n0D4Txk6eXRuv0H-BORKTpUM-84F6cHdIRkE8kKauxcQYavwkJyRD5F3rgCVqrggWe3RKRSvwZNNY3SbyoDxKRM0mK5T-DpoqTJG0aT7t_28h5tUA874x6fb55GaoGuNX0OZRa8wA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"deadpoolbadblood(2022)/deadpoolbadblood(2022)_3.html"
+},
+{
+"name":"Deadpool - Bad Blood (2022) 4",
+"summary":"The secret history of Thumper has been revealed! But now that Wade Wilson knows the massive masked man’s motivations—not to mention his startling true identity—what does that mean for Deadpool? Whose side is Garrison Kane on, anyway? And why is Wade suddenly trading blows—and bullets—with Domino? Isn’t she supposed to be his ally on this crazy caper? Prepare to experience the explosive finale of Rob Liefeld’s ultimate Deadpool story!",
+"date":"August 31, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jhbSuvCH2RYEeEnYURpWSSC6Q7HPoDoihCtr7OySDu9vwbB4cBdsi25lPobqtBhn4v-BZdXm_I50BLZbG0SBh1l4cqKG1cnNXYMLiVlx8h-XJ7Wi0r6JUyguRO-6DWI6JqEoCBIoPQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"deadpoolbadblood(2022)/deadpoolbadblood(2022)_4.html"
+}
+[
+{
+"name":"Deathstroke Inc (2021) 9",
+"summary":"A tragic death sends the Shadow War into overdrive, and Batman and Robin must solve the mystery before more blood is shed! Meanwhile, Deathstroke regroups with the Secret Society to plan an attack on Talia and the League of Shadows. If Talia wanted a war, she’s going to get a war!",
+"date":"May 24, 2022",
+"tag":"-deathstroke,",
+"img":"https://2.bp.blogspot.com/PWCz8QidNmACjD2owGpocizd8z-_4Dua2zkA2oHmYURQC3TwKNBHms66eG8aXqGJywi2g4WrjotNhB4pEFIbFPayi_B3p4WKWVd722UbPhCy0YYN9MQFqlSF9WhzloT6Blckd7Tviw=s1600",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_9.html"
+},
+{
+"name":"Deathstroke Inc (2021) 10",
+"summary":"Slade Wilson's blood-drenched past and exploits are well chronicled, but how did Slade become the infamous assassin and mercenary known as Deathstroke? What dark turns did his life take that set him on the path of destruction that would tear his family apart? Find out as “Deathstroke: Year One” begins...",
+"date":"June 28, 2022",
+"tag":"-deathstroke,",
+"img":"https://2.bp.blogspot.com/jzNfkseLpCBvVPXOypEK0SVhm0Yj_UkF5x1qjd7WRVuDj5QvdnG61dffimoBG_JlYyLjZjqJRSGGl9Sg3wWPKR_u8XBT2JrMO6MFC2CCuEUNolSv2jRTm2NobADY5EWd7xd_aUZ11Q=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_10.html"
+},
+{
+"name":"Deathstroke Inc. (2021) 11",
+"summary":"YEAR ONE, PART 2
+
+“Deathstroke: Year One” continues! To escape the banality of family life, Slade Wilson, the failed soldier and test subject, undertakes his first assassination mission. His target is the last surviving doctor from the experiment that gave him his powers! Slade doesn’t need his heightened senses to tell him something is wrong with all of this…but will his intuition stay his hand when the time comes for the final death stroke?",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/okX587mC0pZwbi5UOUHcbslrgsloJV9j66YfdTryB_gLYUkyygRjpBRJaYsn6e2qksdurRTjxgktaw5lrz-i8Bkct_uEIq64ZGsZ71vGaqNneFZsWFQUrFS1Ez4l8ujSUFI4VaLeMQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_11.html"
+},
+{
+"name":"Deathstroke Inc. (2021) 12",
+"summary":"YEAR ONE, PART 3
+
+DEATHSTROKE YEAR ONE PART THREE! Slade’s first assassination goes sideways, and he’s left to fight his way out! Things get even more complicated, though, when Oliver Queen shows up. Deathstroke versus Green Arrow in a battle for the ages!",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/lkn37H1JqQvJswMO3EQw88tqkM0n0dl6Urv-0P02Qvej-VmwLv-VUu7vTukOALoaiw5iXE-T46C1SIT-RObwYxVq2ByM79cSVh14yRgdXntMwbFaQr5eqBnm9Gn5Zrd6Pqm0tyEH5w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_12.html"
+},
+{
+"name":"Deathstroke Inc. (2021) 13",
+"summary":"YEAR ONE, PART 4
+
+DEATHSTROKE YEAR ONE CONTINUES! Deathstroke's mission went so wrong it landed him in...the morgue! In a race against time, Slade must get to his target before the entire mission is scrubbed!",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/fw1INmdrr7_aO9Fp9HTJpQ722awL_NCE6SiqxdADinzG98uBxOxJpGwaSvPtFsyO1BPxt8UVy0_YktSmM5dSamCc6UqUQwy6dxrHTp8l_NK5GNWjFWLnK91JkxPC6rBu1nvXApt1Ow=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_13.html"
+},
+{
+"name":"Deathstroke Inc. (2021) 14",
+"summary":"YEAR ONE, PART 5
+
+Outgunned and overwhelmed, Deathstroke's first mission takes a shocking and brutal turn as a new threat arises to steal his hit and his reward! Slade has to decide…live or fulfill his contract?",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/S-P0haeqlK4LumRK8Ru3O0c1r4i3ivdhTuREuZpNbSetTyXOaVmeL4RHScEKfN4A9sJQYENtJKD6o7XQL_Sk45gFcUocdbSCbMezA46eYlL2eHGfYjE1uUxBQQB_zGJVCNcVgQj26g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_14.html"
+},
+{
+"name":"Deathstroke Inc. (2021) 15",
+"summary":"YEAR ONE, PART 6
+
+The brutal conclusion to Year One is here…Deathstroke may have completed his first contract, but he’s still got a score to settle with the man who destroyed Slade Wilson’s life. If you thought you knew Slade Wilson, you’re about to learn how little you know about the origin of Deathstroke!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AL9nZEWbyPg3MwkopFxz24lOnubcJd2dZlqdoV1chXb-VtI--AJIox2ldBrE-a4ZAhDMiN6STpAuLUGqnZ4D7JnNfMd7u5Y2_81cz07Qb0BUA8YIXwqYXmk=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"deathstrokeinc(2021)/deathstrokeinc(2021)_15.html"
+}
+[
+{
+"name":"Defenders - Beyond (2022) 1",
+"summary":"Al Ewing and Javier Rodríguez follow up their acclaimed DEFENDERS: THERE ARE NO RULES series with a new volume and an all-new lineup, including none other than Loki, God of Stories! When Doctor Strange sends a dire warning from beyond the grave, Blue Marvel, America Chavez, Taaia (Galactus' mom!), Tigra and Loki assemble to defend reality itself! Plus, you won't believe who shows up on the final page!",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweWvQR48tpQJzEWgs2xcN53PS0A4axOQpH2cdSxN0Pnu5Mm_ZRxuhS5DwqORYSK6zpyigICS8cEWxGs--8uzvPw10pkcWC_WiQJSc7aaNRDk6-F6NyZlydqDmozHPTqXLav0eZ8uE8cyel3uD31OLs9RC0HG0Vat0lOpkSorgyKfkHrpRlI1lGxT-/s1600/clean.jpg",
+"page":"defendersbeyond(2022)/defendersbeyond(2022)_1.html"
+},
+{
+"name":"Defenders - Beyond (2022) 2",
+"summary":"THE SECOND COSMOS
+
+The adventure begins—in the path of the Beyonder? When Loki, Blue Marvel, America Chavez, Taaia and Tigra land rather unexpectedly in the Second Cosmos, they find their lives in the hands of its cosmic overseers—unless Loki can figure out the right trick to save them all.",
+"date":"August 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/76LlNxxk1s-2JkT3F3BTTvLxJ-o8QY5bpxL6dVN2PgIiZmMcXWGvVkyF-Qf9h_isRucP5aHS3n6IJ8Rpwhn4A1xDibuUH95uTU8SFJzSHXN_tOA6ddS6QWa8L_V1IGqe1Je-OUwfqg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"defendersbeyond(2022)/defendersbeyond(2022)_2.html"
+},
+{
+"name":"Defenders - Beyond (2022) 3",
+"summary":"TIPHARETH: THE WHITE HOT ROOM
+
+Loki’s Defenders manage to escape the Second Cosmos and the Beyonder, but Taaia is grievously wounded in the process and none of Loki’s or Blue Marvel’s expertise seems to be helping. Enter—the Phoenix! But what is the price of a universal constant’s aid…?",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tU6KgJ521oLODtLQR39Cb7UySs_vhpWGv8wtUwTawvVJnKI0Tk1-1H8nkQMj2CaBpyDOmCuxnIxp_-vN4XOMqV5P7E4oHuUMOTVmxlCXpJTay_ALwf3QQhp-Psu-Uni5akBlJAZgUg=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"defendersbeyond(2022)/defendersbeyond(2022)_3.html"
+},
+{
+"name":"Defenders - Beyond (2022) 4",
+"summary":"DA'AT: THE LAND OF COULDN'T-BE-SHOULDN'T-BE
+
+On their quest to save reality itself, the Defenders have stared down the Beyonder and survived the scorching flames of the Phoenix, but now Loki and Co. must face their greatest threat yet—themselves! The Defenders find themselves in a plane of possibility, where they are haunted by visions of the lives they wish they could have—if only, the dream weaver warns, they didn’t have the others holding them back! Will they turn against each other? Or accept closing those doors?",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/JAftKSRr6zJY-1QiDg1BRlqBdozcF7A7pydm6WJkHqMR5_w5YOBZOd-ajVnGfAzqYbtxwi8qvg2afOddkADDRLDUPVm8eXmMW0Tx31hDNeICt-QLpt24_M55SyrMwRGb6ci0bwv0Fw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"defendersbeyond(2022)/defendersbeyond(2022)_4.html"
+},
+{
+"name":"Defenders - Beyond (2022) 5",
+"summary":"KETHER: THE HOUSE OF IDEAS
+
+THE FINAL TRIAL OF LOKI! The final trial of Loki, America Chavez and the rest of the Defenders sees them entering…the one and only House of Ideas!",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6GNXklYGBedEA-_miDI_8-vRVMmmYTcdpGJG0aOOX0sgM-Io8eVC3Fh9gOVQr6IsKdqN0tdU5fqLAuqBXogCvBzK1g302g-XazKAvx0ssPFYMMj6x4p5VvqiBE8U8INgx5IgxkI60w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"defendersbeyond(2022)/defendersbeyond(2022)_5.html"
+}
+[
+{
+"name":"Detective Comics (2016) @1060",
+"summary":"THE SEVEN, PART TWO / GOTHAM GIRL, INTERRUPTED, PART 2
+
+Batman has deployed one of his most powerful weapons in the hunt for the mysterious bomber plaguing Gotham City…but it's not the Batmobile, the Batwing, or even the batarangs. It's Bruce Wayne! As Bruce investigates the courtroom bombing that nearly left Deb Donovan's daughter a splatter on the wall, could there be…love in the air?",
+"date":"May 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Qk5wca-6hjSE_GgyzGVZtdb-90MtzwfGsnAIucWMjVzo97BGhTg9K5iBRL2Dhfyscg3oOTErNKLiXNshBaMEOfem-QEvRWyImjLez8muEsO3Ay23c1wCvMJbWibj7lKeSCCbp0DjRw=s1600",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1060.html"
+},
+{
+"name":"Detective Comics (2016) @1061",
+"summary":"RIDDLE ME THIS, FINALE: THIRD TIME'S THE CHARM / GOTHAM GIRL, INTERRUPTED, FINALE
+
+Mommy’s home! With Talia al Ghul back in town, anything can happen...and the mother of Robin is here to lay down the law. Meanwhile, the Riddler’s scheme to turn Batman’s sacred city into a twisted riddle of life and death has at last been revealed...and Edward’s going to use whatever and whoever he can to turn Batman’s life upside down.
+
+Then, in the finale of Gotham Girl, Interrupted, Claire Clover unravels the mystery behind the Gotham Girl website...so why doesn’t she believe what she finds in the process? It’s betrayal, healing, and punches galore!",
+"date":"June 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/sJqU92GHUptiVbneOys9i6HX715mb_XQ8NOd-1dfJ2WfUlRszECmM2Sp2cXinKu9Tytsh2vbZuxzKlMCwjl3A5UK1w7O1MGSTpL8DmGLjMcU3yOcHeL-rdkMjwhOT0TSI6Govv6EcA=s1600?rhlupa=MTU3LjIzMC4yMjguMjUx&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1061.html"
+},
+{
+"name":"Detective Comics (2016) @1062",
+"summary":"GOTHAM NOCTURNE, PART 1: OVERTURE / THE CODA, PART 1 OF 3
+
+It’s a new era for the detective of the night as we introduce award-winning new series writer Ram V. (CATWOMAN, The Many Deaths of Laila Starr), and artist extraordinaire Rafael Albuquerque (AMERICAN VAMPIRE, SUPERMAN/BATMAN)! Together, they’ll be turning Gotham into a tragic yet beautiful gothic opera for our eyes and ears to feast on. Something is terribly wrong with Batman. No matter the tests Bruce takes, nor the numbers he counts, the greatest detective in the world can't pin down the source of this creeping dread—of his own inner demons and a looming mortality. Meanwhile, real demons roam the shadows as an ancient melody haunts the Gotham night. Here now the curtains rise and as the eerie tune streams in…who is human, who is demon, who is to tell? As Batman investigates the songs and the demons of Gotham, he is forced to confront the oldest question…whether there has been a demon within him all along…and if so, what does it want?…and why hasn't it taken over yet?",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/YHv5hUvkPJa1AWq0_R6gKJH9MJzYpPF1hJRAqU4pYBNTkjwSjU29GtdBvhlHmA0-UxssUXKh2Mms5V3qMHpTcwaXVCoDLYu-GcgGERRngSWzYMh60_mV5ElwWw4L76hCTmNqiOR_xw=s1600?rhlupa=MTU3LjIzMC4yMjguMjUx&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1062.html"
+},
+{
+"name":"Detective Comics (2016) @1063",
+"summary":"GOTHAM NOCTURNE OVERTURE, PART 2 / THE CODA, PART 2 OF 3
+
+Old friends Bruce Wayne and Harvey Dent share a moment together asking: At what point does Gotham not need a Batman anymore? As Batman’s investigation around Gotham leads him to encounter more and more demonic beings, the one thing they all have in common is…they’re all people he fights to keep off the streets and behind bars. But when Two-Face appears asking Batman for help, is he friend or foe? And is whatever’s going on with Batman already too late to do anything about?…Is he the detective or the devil?",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/X_Y5LUSg3XFQH8WmAbWWVDMofH3R0iTsqKJhMsrm2c06pGvp8CUfOqAB-39vLxmOdDI0dUQKT1eGSC_F9HHwzYCpU4QSBeTPC9l_HM1iLGwODSZbhgNM_TAkINPQASPMx35tK97L_Q=s1600?rhlupa=MTU3LjIzMC4yMjguMjUx&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1063.html"
+},
+{
+"name":"Detective Comics (2016) @1064",
+"summary":"GOTHAM NOCTURNE OVERTURE, PART 3 / THE CODA, PART 3 OF 3
+
+It’s a tango to the death as Batman dances with an old flame while trying not to catch on fire. Using the new information about “black noise,” Batman investigates the music box in his possession some more, which leads him to question whether music is actually able to contain physics-altering properties. Later, this theory is tested with Two-Face.",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ofmsgPo7LK9NGUNKlDXV9bGVREFXktRGKfNT4sSX67vjvoZlHPrJH8x8sd54Cy5BjDnc6qLltIFPv4meONOAlFRny5pMuMFQo8OJxCveLuqH18HVB17qAfAQDOKDlyVN9ETU_zGW4Q=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1064.html"
+},
+{
+"name":"Detective Comics (2016) @1065",
+"summary":"GOTHAM NOCTURNE: OVERTURE, PART 4 / A TALE OF THREE HALVES, PART 1 OF 3
+
+The Orgham family has dramatically arrived after traumatic events at the docks in Gotham, and they are ready to reclaim the land that belongs under their name…an English surname you may better know as Arkham. As Bruce Wayne and the young Orgham prince Arzen discuss how they both want to change Gotham for the better, it seems Batman and the Orghams might have different ways to go about doing so…",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2npOaUyn9RpKHVrlbym20zgiYwjn4Z2Inl39Bi-_-tr30Iw3MoNa5XhdJkyfhLU8AhyFPx_2NCEyeRHTTu04rQjdm6niQM4dJqW0-eI3nthkQCiJXhaIx1DoklAoGqTI5-aNqM3CJA=s1600?rhlupa=MTU3LjIzMC4yMjguMjUx&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1065.html"
+},
+{
+"name":"Detective Comics (2016) @1066",
+"summary":"GOTHAM NOCTURNE, ACT I: SOMETHING IN THE WAY, PART 1 / A TALE OF THREE HALVES, PART 2 OF 3
+
+As the Azmer demon takes hold of the Harvey Dent side of Two-Face, it's up to the bad side to save them both before it's too late…that is, if Harvey will give up the identity of Batman to help them. Meanwhile, the young Orgham heir Arzen meets Bruce Wayne for the first time, and Bruce see potential in the boy.",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/q7Vuexa5gqarfOZnxWkWqAuloh45A8u4njNaBydsonQXX2D_LcKcyBOY6zVlTdASRS9FT6Wxp3MiiL0_pgLIdL1c_dihPdH2SF35YOebr43zkufrd1D8iRTTDH6juRC3y_H3o1OtRQ=s1600?rhlupa=MTU3LjIzMC4yMjguMjUx&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1066.html"
+},
+{
+"name":"Detective Comics (2016) 2022 Annual",
+"summary":"GOTHAM NOCTURNE: MOTIF
+
+As a werewolf, Gael has lived through many generations, and so he has visited Gotham land before…hundreds of years ago. Take a trip back to the 1700s Renaissance Gotham with Gael on Arkham land to help remember with him exactly where he buried something important he now has to dig back up. And in a twist of fate, a dark knight in town also seems to be looking for something from out of time…his way back home to the present.",
+"date":"November 29, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/f5g5Lb8u8RgN6QTfQGRFJb_I8sgi3F3zmOd0FxwB53dYTMhNnbmtkJ4TnJpHNIqBvG50zDmd39FY13wy6DCsfzm4dTsCYJjfuQH_S1iIo4Rfn0utKUEiISfhlgBjo1RnffwNjdQfnA=s1600?rhlupa=MTU5LjIwMy4xODcuNTc=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_2022annual.html"
+},
+{
+"name":"Detective Comics (2016) @1069",
+"summary":"GOTHAM NOCTURNE, ACT I - PART IV: GRAND DESIGN / ABSOLUTE, PART 1 OF 3
+
+Batman investigates the frozen Azmer that Mr. Freeze gave him, and makes a huge discovery about the ancient demons. Meanwhile, Azmer begin to pour into Gotham’s streets, controlling helpless people and those poor souls the city cares not for…all to do the Orghams’ bidding. Then, in the backup story, what kind of deal have the Orghams struck with Mr. Freeze, and is he also controlled by an Azmer?",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KrCUQnDj50E3gy85Py_OvKb9EbWTBq7p53pYqmIt9STpE4tqKx6AOZsYDoKbP5eMqwXGO2fjOhviy6UYEHSAngiMaFD9Bc6vLzbj0JMNi3BZP4fH9wmQLtKFpGMG6rs96OdzVB63Ig=s1600?rhlupa=MTU5LjIwMy4xODcuNTc=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1069.html"
+},
+{
+"name":"Detective Comics (2016) @1070",
+"summary":"GOTHAM NOCTURNE, ACT I - PART II: GRAND DESIGN / ABSOLUTE, PART 2 OF 3
+
+The gothic opera crashes into a crescendo as Batman goes head-to-head with an Azmer demon…unaware that it is is someone in Bruce Wayne’s life. Meanwhile, a mysterious team called the Vigil arrives to investigate the Azmer sightings—but who are the Vigil, and are they on Batman’s side? Then, in the backup: With Mrs. Freeze only a pale image of the woman Victor Fries fell in love with—what is he to do now to save her?",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2nD4Wg63xjWJBnr9P3Ss9oRT3JXxduoiAesD3BxvfCHzWKCmOjUpFiYPASut-U6786C8rwzjQti1q1yXOshhlh9z1nAtUJuDyy7NzXcjkhVAdLlDMpy9YYuSumj0LoJonusywKqf8g=s1600?rhlupa=MTU5LjIwMy4xODcuNTc=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS85MC4wLjQ0MzAuMjEyIFNhZmFyaS81MzcuMzY=",
+"page":"detectivecomics(2016)/detectivecomics(2016)_1070.html"
+}
+[
+{
+"name":"Doctor Strange (2023) @1",
+"summary":"THE LIFE OF DOCTOR STRANGE / FREAK OUT
+
+CHANGE YOUR REALITY! Stephen Strange is back! Reunited with Clea and Wong, it’s back to business as usual for the Sorcerer Supreme. Have your children fallen into a deep nightmarish slumber? Are demonic refugees invading your home? Is your husband possessed by a satanic entity? Then call Doctor Strange! Join Jed MacKay (MOON KNIGHT, BLACK CAT) and Pasqual Ferry (NAMOR: CONQUERED SHORES, SPIDER-MAN: SPIDER’S SHADOW, THOR) as they begin a new chapter in the life of the Master of the Mystic Arts!",
+"date":"March 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/wsMgajOegMtrVFN7viLfe8uXTIDPswDz2YMZTpjIh8A-emdW-kcgbOu7DqjMvS6AFGIHsNS9ot99NSnaSDm-3GmOD8BuZ0bySOeN4oC9A5yvpmQcgcOeLSuUwwWseoCQ3e9hh-4lkg=s1600?rhlupa=MzUuMjAyLjMwLjEzNA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"doctorstrange(2023)/doctorstrange(2023)_1.html"
+}
+[
+{
+"name":"Doctor Strange - Fall Sunrise (2022) @1",
+"summary":"CHAPTER ONE: NOTHING!
+
+FROM THE MIND OF TRADD MOORE! Doctor Strange awakens alone in a distant world not his own. Lost of purpose and surrounded by danger, the wandering sorcerer must explore this land of blades and mystery to unravel arcane secrets and escape the deadly horrors that lie in wait! From the fantastical mind of creator Tradd Moore (SILVER SURFER: BLACK) comes a Strange story like you’ve never seen!",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AL9nZEVQSiUYYgrNzoxHUyLW50p1OuCLt7B0vvcsy-HbIw8TFXmfFoIS7NU6mkas92y6_9g9O0gfc6JV8FuzqAJf4Sd4LOPhNFXdfve5P4ryvthSlOtSL64=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"doctorstrangefallsunrise(2022)/doctorstrangefallsunrise(2022)_1.html"
+},
+{
+"name":"Doctor Strange - Fall Sunrise (2022) @2",
+"summary":"CHAPTER FOUR: FRAGMENTS / CHAPTER 5: WITNESS
+
+Doctor Strange joins forces with an all-new set of mystical heroes! But the treacherous Knights of the Body mean to make corpses of them all! BEWARE! What fresh terror awaits our heroes in the masked city of Sanc Nistos? A red river runs through the barbed bowels of the Body Machine, and all we have to hold onto are fragments and fearful chances!",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/wMmFSfsY2KOirIEDQ-P_y5poDaNocPCqg6sjDBoRauE6mal1ISMhBWLG5cDQnD9NawMvc69xUR2cW4rK3OfkgTV-wd7lieZKrWFQl3av3rYlaUwcFViwwt-oIbf7codWqD-7foZGiQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"doctorstrangefallsunrise(2022)/doctorstrangefallsunrise(2022)_2.html"
+},
+{
+"name":"Doctor Strange - Fall Sunrise (2022) @3",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Ax_Lq4LAiAJucjkxQUyE2nkYmLraQzuivHBbgQVQs12hsN2dVLIhekVNK5cW8ILTt7y9MDl__eX0vrWUrfgrmzuV9fqPqVEieNfHckEnEWPqTOCIZRg4HJfv0i8x4yQhhhUfT4BOfw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"doctorstrangefallsunrise(2022)/doctorstrangefallsunrise(2022)_3.html"
+},
+{
+"name":"Doctor Strange - Fall Sunrise (2022) @4",
+"summary":"Doctor Strange enters the cursed castle of Moriah Mensa to challenge a superlunary power and complete an impossible task. As the sun sets, a voice echoes, “There are no good places to die.”",
+"date":"February 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Oj0_ZfRi83GzlN_Iq5Jzrne16F_JRxTiYj8FV-8eK7xMQbNqiTzTfNgMljSyfq8BPNTXoFL7Oy4poufvp7l6--r_8RrGiRqnQHP7unPWYjKLomnbSKho91es-TG0PEeApycn0A8WhQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"doctorstrangefallsunrise(2022)/doctorstrangefallsunrise(2022)_4.html"
+[
+{
+"name":"DUO (2022) 1",
+"summary":"When Milestone returned, Reginald Hudlin and Denys Cowan weren’t planning to stop there! Now they welcome you to a whole new realm of original characters, extending far beyond Dakota…welcome to Earth-M! Nanotech engineers Dr. Kelly Vu and Dr. David Kim are committed to only one thing more than each other: using their regenerative nanobots to save the world. And following a violent attack, those very same nanobots end up saving David and Kelly’s lives…sort of. Their salvation comes with an unexpected consequence: husband and wife awaken to realize that they now share one super-powered body! Writer Greg Pak (Action Comics, Batman/Superman) and artist Khoi Pham (Teen Titans) team up to introduce two thrilling new superheroes in the body of one, with the power of billions of nanobots. But how close is too close, with the love of your life literally in your head? And what happens when a couple so closely bound discovers they have very different ideas about how their newfound powers should be used?",
+"date":"May 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pcBXNX6PglISdmsBCjntjMQmBTE6aZr9P5wUxoX2VO0TpKCrxzrZzLaf108pSG9_SM5rXTzQvLpm_-9DH0gf7moyLxP2dVm12Ff41tUtLPP51X0GgTUwa1BgjOyJxlr94k_F9tmRbA=s1600",
+"page":"duo(2022)/duo(2022)_1.html"
+},
+{
+"name":"DUO (2022) 2",
+"summary":"Kelly Vu and David Kim, partners in both life and science, miraculously survived a horrible attack…but Kelly’s body was sacrificed in the process! Now both their consciousnesses live within David’s brain, and things only get more complicated as a detective begins investigating David for Kelly’s murder. Far above their heads, powerful forces lie in wait for the right moment to finish what they started-and end David and Kelly once and for all.",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ifsRckC_ZnNAzZpIvCOgo_mnnFsQHrkshXcmegowTbdWkVaO0i4SLY3Mg8NK4ZJsRZ5gb4gBEIGWejaZyINB1GuM-xenADSCCPZBjxgqx5s87MHxrS5JksEi2F5u7TQqNj5hMiFQJA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"duo(2022)/duo(2022)_2.html"
+},
+{
+"name":"DUO (2022) 3",
+"summary":"Enter the Immutables, who make Dr. Kelly Vu and Dr. David Kim’s super-heroic body-sharing problems feel downright frivolous when they make their position clear—mere humans are not meant to live forever, and these godlike beings will put an end to anyone who tries!",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tY-FbSwOKjEBAzzDKt1pqJFS_JOaGzQJJVWzwi6S5JMCMBTJf9yn3TRCPey4I5yc6P-vSbIBQAxJ8bF4P2PiaVf7Q6D0K0zxLEoFWrkyT2PLCTzW2HFI4xNq3ZtgkFJtNTdJwHUCsQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"duo(2022)/duo(2022)_3.html"
+},
+{
+"name":"DUO (2022) 4",
+"summary":"The only thing worse than being hunted by gods is catching the attention of ambitious human scientists! When the mysterious Dr. Tinker hears about David and Kelly’s incredible regenerative powers, he moves to make the technology his own by any means necessary…even if it means dissecting them for it!",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9cFF_tdtakVNCHDuKSte7k-M3CgQ14KwqjJfVUkYpXPsqh_p-Ub7Rjzk7_Wm0Trajp_PNmhlG40_zX5mm7haoSCudok4R7_4mnD_UVbOQmoJ8GqfX0iSsYrjAT3JeSpSiOutSm88Iw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"duo(2022)/duo(2022)_4.html"
+},
+{
+"name":"DUO (2022) 5",
+"summary":"When bestowed with the enormous powers of a god...do as gods do! David and Kelly flout enemies and allies alike to reveal themselves to the public and heal the sick and suffering with their nanobot technology. But inside their shared body, David and Kelly are at war for control. With a new threat on the horizon so great that even the Immortals fear it, will the bickering lovers get it together in time to save the world?",
+"date":"September 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/IoO400G96zUVQAKOz85KLzH7lOQcmzEQKf0O8XV4Ou33_YG-W3cUHtWr9yXzsbzrkAXeroqc3tY6D4y1IYR4A1bl2fCQNzKR7_4oaI2E3XQ9loXPc2sb4HQ8Rxhvq2V4f_CtCe6H=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"duo(2022)/duo(2022)_5.html"
+},
+{
+"name":"DUO (2022) 6",
+"summary":"In this climactic final issue, Kelly and David fight a war on three fronts! On one side there are malevolent immortals hungry for vengeance. On the other, Dr. Tinker, who will let those immortals rip the city apart to get his hands on Kelly and David's nanotech. But the real war is Kelly and David's fight with each other for control of the body they share…and their fate will, in turn, decide humanity's!",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dio1Dei7owJ4dAjdVCd1Fa1qy2dHbE2e5sdAIlnC1c9fYImQkdM4dlzMnb1HwvHMxDUPWUvw08XsJIv5AClBX4jFbnpxG7QN0E3_X7y8_w4RFiXKdBPyFXmv6FUGNWhWuONTBriYOw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"duo(2022)/6.html"
+}
+[
+{
+"name":"EARTH-PRIME (2022) 3 - DC's Legends of Tomorrow",
+"summary":"Hold on to your Beebos, everyone! Ray Palmer assembles the retired Legends for one last go-round after he learns Mick Rory’s Necrian children have been kidnapped by a group of mysterious Necrian assassins. But is this universe-spanning mission really what it seems?",
+"date":"May 3, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/D_rJTNhp3id3SBJX4AcJ1qbMKvL1qFgXAYv6WQflW3SliLFKLw_QVajITlPqVrdwUtlbyhjGzlA0-Lljm8td1BnLdx-3QmBnoY6PRkwOWvvx9J-_o7aVgQKURibo0FCHv-bvn10QDA=s1600",
+"page":"earthprime(2022)/earthprime(2022)_3.html"
+},
+{
+"name":"EARTH-PRIME (2022) 6 - Hero's Twilight",
+"summary":"A threat has been amassing forces from across time and universes. Their plan is to finally free humanity from their dependency on these so-called heroes. All these beings do is bring about pain and destruction everywhere they go, solving no issues and bringing no peace to the world. Instead, this being will bring the hero community to its knees, and finally help society reach its true potential. The Age of Heroes is over.",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/o9ApD16bzM_-I6IJ39vV2DgqcJg0pZYKuEdfdunft8ntMiLR-6XiXXAku3gSI9dyV3KwMBv4-xWOG-6e4eyPw8CdtxTCPNVYZbNTWzH1K3v-tR0B_3B-v3HOVALqZywlI9EvyYo86w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"earthprime(2022)/earthprime(2022)_6.html"
+}
+[
+{
+"name":"Edge of Spider-Verse (2022) 1",
+"summary":"SOMETHING WICKED THIS WAY COMES / THE HERO WITHIN / SPIDER-REX!! / MY DAME... MY DESTINY
+
+THE END OF THE SPIDER-VERSE IS COMING! edge (’ej) noun – 1. outermost limit of an object. – 2. the sharp side of a blade. The leading edge of the Spider-Verse brought you Spider-Gwen and Peni Parker. This final edge will introduce you to some of the most important characters in the future of the Spider-Verse…but it will also slice the final strand of the web. IN THIS ISSUE: SPIDER-MAN NOIR! ARAÑA’S NEW STATUS QUO! SPIDER-REX AND MORE!",
+"date":"August 3, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ifhI1qSa3jeD8Fj7k_ettZVRuI4y3mu7DXxJyu9WmTc-2R8k5opVRb6QV6Cx3IwOxFc0PyQGgplOp-t2Ingj8DsugmzMcXcG_n-lv88rVYYcg3AZvf6FOHlGhAh4oWf1usJ-VEitEw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"edgeofspiderverse(2022)/edgeofspiderverse(2022)_1.html"
+},
+{
+"name":"Edge of Spider-Verse (2022) 2",
+"summary":"GIG OF NIGHTMARES / THE SPIDER AND THE DRAGON / A SINGLE THREAD / MINI MARVELS
+
+IN THIS ISSUE: SPIDER-GWEN! THE NEW SPIDER-UK! MINI-SPIDEY! And get to know your antagonist for this huge story!",
+"date":"August 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2-NBMUqqDGdQOVWLheRwBpZzV0jzjOUZybiUzVyzf44UMw5MDEgjJLAuzliKNFxfdBG6d6QrbDQsFeOETGuJkqr_7sGDdnfgxnaDC6PuPm1ju6rNADfpFbvFFUNgdcceKJDcdUXF=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"edgeofspiderverse(2022)/edgeofspiderverse(2022)_2.html"
+},
+{
+"name":"Edge of Spider-Verse (2022) 3",
+"summary":"AVERAGE RELUCTANT TEENAGE SUPER HERO / THE ALMOST PERFECT CRIME / A HERO BLOOMS
+
+IN THIS ISSUE! SPIDER-MAN: INDIA! AND NIGHT-SPIDER! Wait, WHO IS NIGHT-SPIDER?!",
+"date":"September 14, 2022",
+"tag":"Araña, Jean DeWolff (Earth-194), Madame Web, Night-Spider (Earth-194), Sakura Spider (Earth-346), Spider-Man (Earth-50101),",
+"img":"https://2.bp.blogspot.com/6CA_ms8MFyKIza8kD940nCaD07YZ78MMBX-HQQEJ01RSntYyK6PC8CIQSVs_JEJIU6FYZ3Gs-eeP7NG6FRtBkoebUEGpmk_2k6fQ6gwJQ8JpCd_qbvQPihGsXM7hYHL4EAeGanhs_Q=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"edgeofspiderverse(2022)/edgeofspiderverse(2022)_3.html"
+},
+{
+"name":"Edge of Spider-Verse (2022) 4",
+"summary":"THE LAST LAUGH / ONCE UPON A SPIDER: THE SPINSTRESS PRINCESS / DRIVE YOU CRAZY / PROM AND CIRCUMSTANCE
+
+SPIDER-HAM! SPIDER-MOBILE! SUN-SPIDER! SPINSTRESS! You know the first two, but you may not remember the Amazing Sun-Spider who debuted in 2020's SPIDER-VERSE miniseries as a winner of our Spidersona contest! She gets her own story here! And Spinstress is a brand new Spider-Princess who sings, talks to a spider and kicks villainous butt! And the writers of the Broadway smash hit COME FROM AWAY are bringing her in for a landing!",
+"date":"September 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/JwykRT_EWg0NXNqy65t5-BvS1biNHyVkVvhD3HE0ZWCFnGoOhiFUSUx5d7vbLqxlRSgnF8E-oENhLRCvM_dNsl5QfF4NEbxMevWO44H6KO7SAGeF_03MLw0yrzLzqYGjYRBTQsZIrg=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"edgeofspiderverse(2022)/edgeofspiderverse(2022)_4.html"
+},
+{
+"name":"Edge of Spider-Verse (2022) 5",
+"summary":"PREDATOR OR PREY / COUNTERFEIT CATWALK / SYLLIE SPIDER BY P.T. PARKER 
+
+Three brand new Spiders get their start here! WEB-WEAVER: A not-so-mild mannered fashion designer at Van Dyne gets spider-powers and shows us a very different kind of Spider-Slayer. HUNTER-SPIDER: Imagine a world where Sergei Kravinoff got Spider-Powers. You are not ready for the most hardcore Spider yet! Both of these and Phil Lord & Christopher Miller, the filmmakers behind the Spider-Verse movies, create a new Spider just in time for the END OF THE SPIDER-VERSE!",
+"date":"October 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/YGgWksAKRbfnBRwVmyaOeZAxPuICyi5WqGRe8SixnaZOIF_-mnGeQAJQinoUFg5UT7evDN72Rom37-0DeYM1kn5x4V0geWC-stfdI8N7R-onuXIvDpdnf3jOlzNFxrtnd6-DrdR4CA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"edgeofspiderverse(2022)/edgeofspiderverse(2022)_5.html"
+}
+]]]}]]]]]]]]{
 "name":"Future State - Gotham (2021) 1",
 "summary":"The event that was DC Future State continues in its own ongoing title starring the Bat-Family, beginning with the epic story “Hunt the Batman.” Disaster strikes Gotham City, and all evidence points to the Next Batman! Red Hood must choose justice over his family and allies when the corrupt Magistrate enlists him to bring in the new Batman dead or alive! Featuring the entire cast from the popular Future State Batman titles, this new series kicks off the next chapter in this forbidding world of tomorrow, and does so in brilliant, monochromatic storytelling! This black-and-white series will showcase the brutal world that’s around the corner in Future State Gotham!",
 "date":"May 11, 2021",
