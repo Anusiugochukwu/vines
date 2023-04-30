@@ -1,4 +1,242 @@
-{[[
+ {[{
+"name":"Future State - Gotham (2021) 1",
+"summary":"The event that was DC Future State continues in its own ongoing title starring the Bat-Family, beginning with the epic story “Hunt the Batman.” Disaster strikes Gotham City, and all evidence points to the Next Batman! Red Hood must choose justice over his family and allies when the corrupt Magistrate enlists him to bring in the new Batman dead or alive! Featuring the entire cast from the popular Future State Batman titles, this new series kicks off the next chapter in this forbidding world of tomorrow, and does so in brilliant, monochromatic storytelling! This black-and-white series will showcase the brutal world that’s around the corner in Future State Gotham!",
+"date":"May 11, 2021",
+"tag":"",
+"img":"https://2.bp.blogspot.com/NwcduomB0BYhnEMIWmDqDJSIVbkIavS_3RqLoGrSH9GIWr0zfATXAeUx0LoAiVEmWWg320KU0LB0Z6QxrZnMVT1wsWqyTCTJziwa7OnHEqxzorUUkOHWBvZOQmenNyJFUnbwerAR-Q=s1600",
+"page":"futurestategotham(2021)/futurestategotham(2021)_1.html"
+},
+{
+"name":"Future State - Gotham (2021) 14",
+"summary":"The real Bruce Wayne returns to Gotham City as Batman, but Jason Todd doesn’t believe it’s really him after Hush posed as Bruce for all those months. And what will this mean for Jace, the Next Batman? Just when things can’t get any worse, another mysterious Batman attacks the Magistrate! Also in this issue: the fate of Damian Wayne!",
+"date":"June 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pDIA_SwQm9NHKTX866KzZSJT6800rn8LrUKWG99cJYkPNQKWYu-ooRSKN9vBXlKEYkn57_wH2e8ep164s_P4Ra87viqlx6XQ_3OmBwMUYcQharwQDB6anSWTZyTFaVsSfQH-kTzBNw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"futurestategotham(2021)/futurestategotham(2021)_14.html"
+},
+{
+"name":"Future State - Gotham (2021) 15",
+"summary":"BATMAN AT WAR, PART THREE: KNOW YOUR ENEMY / HUNTER OR HUNTED
+
+There’s a new Batman in Gotham City and his name is…Dick Grayson? The only problem is, Jace Fox and Bruce Wayne still claim the name and neither is willing to give it up! Now it’s all-out war, with Jason Todd and Hunter Panic caught in the middle. Plus: Damian Wayne is back and that’s bad news for everyone!",
+"date":"July 12, 2022",
+"tag":"-fsbatwomankate,-fsbatman,-fsbatmanfox,-fsbatgirlgordon,-fsdukethomas,-fshunterpanic,-fsneron,-fscassandracainorphan,-fsrobintim,-fstaliaalghul,-fsstephaniebrown,",
+"img":"https://2.bp.blogspot.com/jEI9ULkxNByZxWspGYyjp5ahLptNiNUw01pGypYZ4athLTYtFIh3fkSRym8ENSBs7XrOtw-FxR0RpTV4HsB3nqaaZPt5SAJ2pon8hxIcZkKTbqUz7C6nEwnnMh7hP3E-nqm2UsWjVg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"futurestategotham(2021)/futurestategotham(2021)_15.html"
+},
+{
+"name":"Future State - Gotham (2021) 16",
+"summary":"BATMEN AT WAR, PART FOUR: IMPOSTER SYNDROME
+
+Jason Todd and Hunter Panic must help Jace, the Next Batman, against the original Batman and…his son Batman 666?! And while all hell breaks loose in Gotham the rest of the Bat-Family have an intervention with Nightwing about his addiction and claiming the mantle of Batman for his own! And if Damian is with his father, then who is the Batman with Talia?!",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/t_80qAz9l48g3Ntl6OemgqxiLcFzc1v-vq6wgfRapokCWeN_0KYXfXwuPjcgE32V0zDFGVzRMm0L40S1Q--SvX_xLM1Wm4n6AGN9a5nfMeeay6E7ps9QpWEgAiYbngmbnl8Dqq9SFg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"futurestategotham(2021)/futurestategotham(2021)_16.html"
+},
+{
+"name":"Future State - Gotham (2021) 17",
+"summary":"BATMEN AT WAR, PART FIVE: BATTLE ROYALE
+
+It's Bruce Wayne versus Jace Fox versus Dick Grayson vs. Damian Wayne versus Hush for the right to call themselves Batman! While Jason Todd and Hunter Panic face off against Oracle and Talia! And whoever wins must face the return of a sinister evil that wants to destroy all of Gotham City! Don't expect everyone to survive this!",
+"date":"September 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dND4QFniDLTOLbcCOJ80AOM8ozXSJbV1kVkJhIn9I0bYWJQx2HqohEcZFVBqB1jzFZTa3HFv3np7THcVKKCbP7YLSZeMpTWj9OZXPPnPbCpVoXsh1JpS6vW2_BJOLNaEdjNpJ1z0Ug=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"futurestategotham(2021)/futurestategotham(2021)_17.html"
+},
+{
+"name":"Future State - Gotham (2021) 18",
+"summary":"BATMEN AT WAR, PAT SIX: LAST BATMAN STANDING / CLAY 
+
+It's the last Batman standing versus Gotham's greatest threat! Who will ultimately win the war of the Batmen? And what will be left of the city when it's all said and done? It doesn't look good for anyone. 
+
+FINAL ISSUE",
+"date":"October 11, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/gEpdBZjeOXpmw2UYhJwa1Az4ucgfEZ1pIvh0z67cVyzCT2cYwmOOrQ9rtMiG_QrODjjnpHUIPxSuIq7AssqUBfvOoASaFzKq7Tl2C7WDe8HA3wsYUvilIgnoZiXwpTg2eMXHq9GT=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"futurestategotham(2021)/futurestategotham(2021)_18.html"
+}
+]{
+"name":"Fortnite X Marvel - Zero War (2022) 1",
+"summary":"THE MARVEL UNIVERSE COLLIDES WITH FORTNITE! The inhabitants on the Island are locked in what seems like a never-ending war, and only one thing has the potential to turn the tide - a crystallized fragment of the Zero Point that was cast into the Marvel Universe. Spider-Man and Wolverine team up with several Fornite fighters and new recruit Shuri to hunt down the elusive Zero Shard. Will these allies be able to find it in time and avert catastrophe? And can the heroes of the Marvel and Fortnite realities hold off the Imagined Order long enough to give them a fighting chance? Epic Games' Chief Creative Officer, Donald Mustard, teams up with veteran Marvel writer Christos Gage (SPIDER-GEDDON, AVENGERS ACADEMY) and artist Sergio Dávila (CAPTAIN MARVEL) for a five-part crossover event with enormous ramifications for both universes! Each first print issue contains a redeemable code to unlock a bonus digital cosmetic in Fortnite! See issue for details.",
+"date":"June 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/qyuRHwBmYyYtFLYLfoQ9OYEzJjjUf96BH0bzfkO6DyVe5Espg0IxHaNTw0lRBeqrpqc32fCrlv0aEcLfwWgYa-dYfiNBVmBk2kfKgea05ddXoI59sfbLP2TEzk4zZ2vLMnLCk9zCxw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fortnitexmarvelzerowar(2022)/fortnitexmarvelzerowar(2022)_1.html"
+},
+{
+"name":"Fortnite X Marvel - Zero War (2022) 2",
+"summary":"THE MARVEL UNIVERSE COLLIDES WITH FORTNITE! The hunt for the Zero Shard continues. Spider-Man and his allies are led to the outskirts of Wakanda—but no one said getting in would be easy! Meanwhile, Iron Man and The Foundation launch a daring mission into the unknown and stumble upon a game-changing revelation.",
+"date":"July 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-5K2SSOHnXXOtHMdR27Cqoou1quN50tDJDivZH14vSyHsQjvYYIod7UISW1HklvN4SsKVZ2EXIcjkDJdPBR129MVNWQSMzIPwCjf_GkSEMM2ZUbYSwJoI5mNWrVm9y8OkrIrI6yC=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fortnitexmarvelzerowar(2022)/fortnitexmarvelzerowar(2022)_2.html"
+},
+{
+"name":"Fortnite X Marvel - Zero War (2022) 3",
+"summary":"The return of an unlikely ally brings Iron Man and The Foundation closer to their goal. Meanwhile, it’s an all-out brawl against Stegron and his dinosaur hybrids in the Savage Land, as the hunt for the Zero Shard heats up! But Stegron’s not the only villain interested in the Zero Shard…",
+"date":"August 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/LEQy_M2qFTI4wmROTHLNmTNaQIW7Bkya62bukYMjZ3Co-TXrV-CJG9DK0id_oklgmmyqkxHuFsLn-1JQ6_3tJbvlp9kqZMtusvTiAIe5M9AhYdfR-5iZBBo3LLd4CUirlb6PWHuQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fortnitexmarvelzerowar(2022)/fortnitexmarvelzerowar(2022)_3.html"
+},
+{
+"name":"Fortnite X Marvel - Zero War (2022) 4",
+"summary":"The most dangerous person in the Marvel Universe has thrown in with some of the most dangerous people in the Fortnite universe. But what does Doom really want? And how far will he go to get it?",
+"date":"August 31, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/FJW4IvQAUSAGGULWvmct_E8sgG8hnlfZIZBeODDVlSkMBgeAh7U0a-d1yxmj5ihQGsLFjHaM3Q2YnkjHmFWWah2lA4BbQtVlw-Dyo1A9Urbk1-qG_YKuP8OK4BhX22aQze_ZuG9zlA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fortnitexmarvelzerowar(2022)/fortnitexmarvelzerowar(2022)_4.html"
+},
+{
+"name":"Fortnite X Marvel - Zero War (2022) 5",
+"summary":"The most dangerous person in the Marvel Universe has thrown in with some of the most dangerous people in the Fortnite universe. But what does Doom really want? And how far will he go to get it?",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/02H_rAXJWznfnEnvbeid84LfgtqUaZNEaRYSima0a1dD2vGw53RgGFqj1EuYLZqcr-kAjFVg9lD5fHxUYBP-iyzTRCDVPSb4PVdiiFHjDiUL39MiajJfZGsezDW-vyAaoAXGSIb--w=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"fortnitexmarvelzerowar(2022)/fortnitexmarvelzerowar(2022)_5.html"
+}
+{
+"name":"Flashpoint Beyond (2022) 2",
+"summary":"The DC event of 2022 continues! As Thomas Wayne investigates the continuing mystery of the Clockwork Killer, another mystery erupts when a strange inmate within Arkham claims that Bruce Wayne is the only Batman that should exist. And Thomas’s world is again turned upside down when a new, twisted version of an iconic Batman villain is born.",
+"date":"June 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/aBQEbMpjzAcRgqYSFc74BmZv6bP-KicKWRebzdOBM9XEdxGuhrkDc2kMNJqSPPVkzVZikZamPR9YS9pK_lk6wtZEXeet1pnu7OMthDV5NN5mHZ2_SnJV71u_6qJdcNEfpKqwZIfX1w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"flashpointbeyond(2022)/flashpointbeyond(2022)_2.html"
+},
+{
+"name":"Flashpoint Beyond (2022) 3",
+"summary":"The DC event of 2022 continues! Thomas Wayne’s investigation into the Clockwork Killer goes sideways when he is confronted by a deadly alien invader the world knows as...Project: Superman? But what’s happened to the Kryptonian and Krypton in the World of Flashpoint? Will Thomas Wayne do what he has to in order to stop Superman-or has he changed? And what are those strange earthquakes now erupting across reality?",
+"date":"July 5, 2022",
+"tag":"thomaswayne,",
+"img":"https://2.bp.blogspot.com/wS6XOdrkI5g-cR32RCHpUr0ZGLBZgp_JJlxLswNVqoopJwspVYLTnoUgw7lc-wlsZ9ESTPQiE0bcW9zLSn_mZzLVKcU7p52INb1aMk-PZGDnRF5bNc74yUYq7oplbFRNAL8CjUaa0w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"flashpointbeyond(2022)/flashpointbeyond(2022)_3.html"
+},
+{
+"name":"Flashpoint Beyond (2022) 4",
+"summary":"THE CLOCKWORK KILLER, CHAPTER FOUR: THE OTHER SIDE OF THE WALL;
+Thomas Wayne is quickly closing in on the Clockwork Killer, but his investigation might be impeded by young Dexter Dent and his own vigilante agenda: breaking his mother out of Arkham!",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/NL16VrGIHIa681xCrUYwWkUofj6HVqWN3ZPCSkTto3vfXYS7di3qou6XgqjJoNHk4A041GvX3Ohc2ybj27egIzQ1yrXe9GpcILzLcBZI_MXEvzkFlU6cebFgh4gHJ97XEjYa_K1FYA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"flashpointbeyond(2022)/flashpointbeyond(2022)_4.html"
+},
+{
+"name":"Flashpoint Beyond (2022) 5",
+"summary":"THE CLOCKWORK KILLER, CHAPTER FIVE: THE JOKE'S ON ME
+
+The Clockwork Killer's identity is finally revealed as the dust settles after the showdown at Arkham Asylum. But as we learn the truth behind how the Clockwork Killer came to be, Thomas is faced with a reality-altering choice!",
+"date":"September 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pVfXjOnTB2LHdA7wYxq_41MupFF4Afk7RAchLZX5MdqtguDtV6YujwW6B_NCsZvYRC3Fh2AYfDMMyCHXx53zn4mUTqr6_TY80kWRKNZNK7qthtUO2bVKHTN4V1KqAYz8EYq47yjKtQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=',",
+"page":"flashpointbeyond(2022)/flashpointbeyond(2022)_5.html"
+},
+{
+"name":"Flashpoint Beyond (2022) 6",
+"summary":"THE CLOCKWORK KILLER, CHAPTER SIX: THE TH13TEEN CLUB
+
+The fate of the Flashpoint Earth hangs in the balance as Thomas must make the ultimate choice! What will happen to this fractured reality and what does it mean for the DC Universe at large?",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/S96ZrYJ2SvRo-Io6QhF0UWvboefToqcVV7YwO5rJxZOMoQFbmPbTmghnbyIFA3_69sg8-1qtxc7lWL2X--EqbtXFPY37BKqeuErFVTt3KJshTYgPjNWYfhSD24cCNKp5tCDUmZSgSQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"flashpointbeyond(2022)/flashpointbeyond(2022)_6.html"
+}
+":"Fantastic Four (2022) @1",
+"summary":"THE LAST TOWN ON THE LEFT
+
+“WHATEVER HAPPENED TO THE FANTASTIC FOUR?” It’s the start of a new era for the Fantastic Four…and they’re already in a ton of trouble. Something has gone terribly wrong in New York, and the Thing and Alicia are traveling across America to escape it! But when they stop in a small town for the night and wake up the morning before they arrived, they find themselves caught in a time loop that’s been going on since before they were born… That’s been going on since before they were born… That’s been going on since before they were born… ",
+"date":"November 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ZaJIXRlbvyoGiMMcdrPrWw3IwL3uw5EEOti17VzhxHlWWd4udGTpKNP_upc7Ze38uixe3cC_Cr7z72rltCbC8BmX9cCFFbA-aibYKftx_aTl_-UfRtnum7pNkp0tvGBdieN30l_jzw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2022)/1.html"
+},
+{
+"name":"Fantastic Four (2022) @2",
+"summary":"THE NIGHT OF DOOM
+
+Reed and Sue are on the run from—well, a lot of things, actually! Things are not going great for the Fantastic Four. But they find themselves in even more trouble when they stop in a small town with a terrible secret! That terrible secret is revealed literally on the second page of this issue, and Reed and Sue spend the rest of the issue trying to survive it, but stop reading here if you don't want it spoiled… Yep, it's Reed and Sue versus a town full of killer Doombots.",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Q2me4czXv52r8Ag5kK_fC8BlNOrwunjfjmakPkl7K8s3Q2puK8sZYgrRHMqHC3E9JGmwIkch4SgLP6pura9nZxqHhAq2K1IcSM-j--O5cMNsC2f-P463G-n4YFTih3oV5NijHJYvNQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2022)/fantasticfour(2022)_2.html"
+},
+{
+"name":"Fantastic Four (2022) @3",
+"summary":"A SHOPTASTIC DAY 
+
+The Human Torch is alone in New York, trying to survive in a city that hates and fears—well, mostly him specifically. There’s just one thing for Johnny to do: Adopt an all-new secret identity and take an all-new job nobody else wants! But when things at work heat up, Johnny discovers that while you can forget the past, that doesn’t mean it’ll stay buried…and has to decide if there’re certain things that the Human Torch can’t let himself do! Also! In this issue, Johnny Storm fights a tornado!",
+"date":"January 4, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XcYFMAi0KNvEXF7zBI-9LhBOcfH7P_NhqX4TlPuYG5_BCciKqpNu7JO11ChXwV01j5ADd-wBXguLW8uzjvNudGEdypuEomxImvzP1NfNuO_LKcxwxN8GpaSDTbW8AfOhBuuXqk_B6A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2022)/fantasticfour(2022)_3.html"
+},
+{
+"name":"Fantastic Four (2022) @4",
+"summary":"THE BAXTER INITIATIVE
+
+No more four-shadowing: What REALLY happened back in New York is finally revealed! But it’s still affecting matters here in the present, where Ben and Alicia’s lives hang in the balance…and it’ll take more than a reunion to save them. Plus: alien invaders from another galaxy! The four are finally back together… Hope they survive the experience!",
+"date":"February 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OByV_wGIJMWMUJ6NvB5sEMmVJVVfo4kIjS-DhNz_YRUfAYeIy2-DbTwBUtFJbE5fvpnoilquzFk-eenpO5_uzQwtWmFGmSRzN3lBYl9Ye1d84DIjTb7LQCXJdJpy5J9u1ksa4abyKg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2022)/fantasticfour(2022)_4.html"
+},
+{
+"name":"Fantastic Four (2022) @5",
+"summary":"UP TO SCRATCH
+
+The Fantastic Four are reunited and all is well…until their convoy is interrupted by NICK SCRATCH and SALEM’S SEVEN! It’s an all-out magical BATTLE for SURVIVAL right there on the highway, and the Fantastic Four 100% fail to win it. That’s right! This solicit isn’t going the way you thought it would! As the truth of what happened is puzzled out, Reed, Sue, Ben, Johnny and Alicia all realize that something more sinister has taken place, and their only hope of undoing it is an impromptu voyage into the unknown…",
+"date":"March 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-hoPp6rkpmiEfxlmUMI-ijca840Rf6qHxTzXNni6UuZ1hYG-TZO6uD6XjbVv1iNOxxrnNEh1hoS4Q3BOJzbsQLy8vFSQMunZch7yUWxRvC-8VZ-FaOobMRHwHnicBPROgLwSOvcwQg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2022)/fantasticfour(2022)_5.html"
+}[[[
+{
+"name":"Fantastic Four (2018) 44",
+"summary":"THE RECKONING WAR HEATS UP IN THIS OVERSIZED ISSUE! 'The End of Everything That Ever Was or Ever Will Be' This is the final battle of the Reckoning War. At the Apex of the All Reality, the fate of the Marvel Universe will be decided. And no matter who wins, nothing will ever be the same again. This is not hyperbole. This is happening. There will be consequences. If you care about the Fantastic Four, their extended family and the rest of the Marvel U...you will not want to miss this. Starring Reed, Sue, Ben, Johnny, Nick Fury, Victor Von Doom, Norrin Radd, Uatu and Jennifer Walters.",
+"date":"June 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/uZKbQ0us5O8N6Gz6cuEIyXTYfJnXJWr_CmT9e0v7PJCmtbxr08f2Oc2VE5_ELCOaird54Ha6eJEZE77rRsQ9S0KO5Svfzby2HfEtmUR6G5zQMmrx8dzD2-56uOZvSigKCJ6HUHe1WQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2018)/fantasticfour(2018)_44.html"
+},
+{
+"name":"Fantastic Four (2018) 45",
+"summary":"THE FINAL WATCH;
+THE RECKONING WAR: EPILOGUE - 'OPEN YOUR EYES'! Following the explosive events of the Reckoning War, the Marvel Universe has changed. We told you this was important. To see where all the pieces have fallen and what lies ahead, you're going to want to read this one, Marvelite. The future awaits!",
+"date":"July 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-nTCWzyb00BSYDV1vFqDlydkx2iYEfF-Ku3vUjZzQK7uoDQjNahRd0ZbK7RX7yJw5VGEq9fCeeBaQCRlcyzgLjob_7nBcodywuiuVuw1Sg2_-9DrxylsAenBkA3fC3uu7JDD7xC3=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2018)/fantasticfour(2018)_45.html"
+},
+{
+"name":"Fantastic Four (2018) 46",
+"summary":"FAMILY FIRST
+
+Not a dream. Not a hoax. This is real. Thanks to the knowledge of the Watchers, the lost daughter of Nathaniel Richards has been found. It's time to finally meet the mysterious sister of Reed Richards. But is it time to welcome her into the family? It's a day of amazing adventures both in her world, and in the world of the Fantastic Four. Guest-starring Namor, King of Atlantis.",
+"date":"August 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/mgQSkKMBsvn44kEGtqSplyvADIYeFPDuEMg-wCR5pE6opKfmj-tu4YKBu44rq7O5b7_TiA0E4q0IK2nJtnVcyN13gBUIefElONWZGJz4Gz3EETpkIW_jBD2flABFp27OpRyQyQEtRg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2018)/fantasticfour(2018)_46.html"
+},
+{
+"name":"Fantastic Four (2018) 47",
+"summary":"THE TAKING OF BAXTER 1-2-3-4, PART ONE: JUDGEMENT TIMES FOUR
+
+The Taking of Baxter 1-2-3-4 begins now! With judgment looming over the Marvel Universe, Reed Richards has locked himself in his Think Tank in search of answers. But with the fate of humanity on the line, what happens when OUBLIETTE MIDAS sets her sights on the Baxter Building? As the Fantastic Four falls before the Exterminatrix’s death traps, only one hero remains standing—but if you thought Oubliette was dangerous, it’s nothing compared to what the Invisible Woman is capable of. Get ready for Die Hard in the Baxter Building, as we’ve only got one thing left to say: Yippie-ki-yay, Marvel Universe.",
+"date":"September 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7Baum8yQZJxySxk9iMlf9IC_5gtSLveT3OVKC1iISP6UOXRgaSy8O2XOG4pd0Z3X26oE1fqROt5mlAl__COBbV4jpxe-m5f4ofrzTxt0V0jK338MPNvD-49mxXzUIyk9Kidggxt8yA=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"fantasticfour(2018)/fantasticfour(2018)_47.html"
+},
+{
+"name":"Fantastic Four (2018) 48",
+"summary":"THE TAKING OF BAXTER 1-2-3-4, PART TWO: INVISIBLE WOMEN
+
+Trapped alone inside the Baxter Building with no backup in sight, the Invisible Woman battles her way up 35 flights of death traps to stop the mad science of OUBLIETTE MIDAS! But with the clock running out on the Celestial's judgment, can Sue save her husband, Reed, from becoming the latest cog in the Exterminatrix's interdimensional war machine? Can the Thing and the Human Torch free themselves from Oubliette's twisted schemes, or will the hijacked Baxter Building prove to be the FF's ultimate undoing? It's Judgment Times Four, as the Fantastic Four don't plan to go down without a fight!",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/X2tMDBxTSECJYVcyeNsYjn84f6w3fv6Ea1BvbBFcU8R4VwG3SwWAKldVvtX7Ic3Ma9N4kREXfV8DF2b7hwD4n2Lle6tnQVL0I_6K_C5vWHJcN-Ljw6ZHQNsczQa8-hmJZigHem5Q3w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fantasticfour(2018)/fantasticfour(2018)_48.html"
+}
 {{
 "name":"Fables (2006) 151",
 "summary":"Just in time for the 20th anniversary of its launch, the acclaimed blockbuster that defined an era of Vertigo returns with an all-new 12-issue story, “The Black Forest”—a tale that picks up right where Fables #150 left off, providing a new entry point into the world of Fabletown! The dust has barely settled from the climactic battle between Totenkinder and Cinderella—and everything is far from happily ever after. A legendary new adversary has arrived, and he plans to get even with Geppetto for the mess that has been made of Manhattan. But it’s a new day…and with it, a new Jack in the Green has arrived in the Black Forest. And within the emergency room of a New York hospital…a Fable long thought dead returns!",
@@ -239,6 +477,117 @@ This is it… This is Gus’s absolute last, last chance to find a place to fit 
 "tag":"",
 "img":"https://2.bp.blogspot.com/K8b5XFxvD2AJEMOEFE94eEQAktLyyQ9_F72Bp6OiF4Ojv_ofT6IrpYIo0W_6XmK_rFr5-hsJ0xhcBDvH1tx9eIXe0Qu_SD0nN9Q7JnnlJ_YtLWQnfxq2oKBwAOHNymrz8cp18J7E5g=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
 "page":"clobberintime(2023)/clobberintime(2023)_1.html"
+}{
+"name":"Cosmic Ghost Rider (2023) @1",
+"summary":"DUEL IDENTITY, PART ONE / COSMIC GHOST STORIES
+
+VENGEANCE REAWAKENED! In a far-flung corner of deep space, Frank Castle has eked out a quiet existence, his days as Cosmic Ghost Rider finally behind him. But across the universe, a vicious bounty hunter is leaving a trail of bodies in his wake and his name is… Cosmic Ghost Rider?! When Frank’s peaceful existence is shattered, he must suit up once more and face his most savage enemy yet—himself! Be there for the start of a sprawling space adventure with shocking twists and turns in the saga of Cosmic Ghost Rider!",
+"date":"March 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/O8FgaGeUb7QQIux5r5_tj7zvr5QUqAIASJU_Qau_ud-hhZQkaT6YbL0LU98cdDyAjgg5hAkk-0M2vrq47kKoeprhdrnBC-v-84ZuCbes-1R1O0mhEaGg2WsYuq3n--hcmOTSB96Q4w=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"cosmicghostrider(2023)/cosmicghostrider(2023)_1.html"
+}
+{
+"name":"Dark Knights of Steel (2021) @1",
+"summary":"An entire medieval world will be forever changed when a spaceship crash-lands from a doomed planet. Monarchs will die, kingdoms will rise, and what seemed the end of the world for many…was only the beginning! An epic high-fantasy story set in a DC Universe where nothing is what it seems… From worldwide bestselling writer Tom Taylor (DCeased, Superman: Son of Kal-El) and acclaimed artist Yasmine Putri comes a generational tale of good and evil within a brand-new DCU!",
+"date":"November 2, 2021",
+"tag":"",
+"img":"https://2.bp.blogspot.com/y9mZ3meTyZ0oezKTJw3kd3CUWe_CsLCOFEa3YQzjeGkfvTzlW3RuplIfIuqYdBblI48Lb-xcsfq1-XJoxt6jL2P7VtsDAc2Z3FWN8jaNjpXXwuK6uZPai8Kxhrvkjho0AVSrqBZxlhs=s1600",
+"page":"darkknightsofsteel(2021)/darkknightsofsteel(2021)_1.html"
+},
+{
+"name":"Dark Knights of Steel (2021) @7",
+"summary":"With three kingdoms on the brink of war, Batman is in hiding, recovering from an attack and a shocking betrayal. But Batman finds he’s not the only unfortunate soul to be taken in by his surprise rescuers-strange, magical youngsters have been given sanctuary alongside the bastard prince, Bruce Wayne. Will these teen outcasts change everything Batman believes in? Or will they perish at the hands of a demon?",
+"date":"June 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/xXruToVFg7vLAiPYO3hel7qwR1BKmW779o_cQuylDPo3r6rPPLIsYXnxsSs6BeGpYYJgVny9iIAMZIlpobSMjDUIN4qb9sYUP-fcEcHqh3zl2ss_LUyIa1PbeJ9yXjKxTUNZGhZLTQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"darkknightsofsteel(2021)/darkknightsofsteel(2021)_7.html"
+},
+{
+"name":"Dark Knights of Steel (2021) @8",
+"summary":"WAR OF THE THREE KINGDOMS
+
+The battle between the Three Kingdoms has begun in brutal fashion, and to call the opening salvo anything less than shocking is an understatement! Can the Trinity stop further bloodshed? Or has all-out war truly begun?",
+"date":"November 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/MOVvv8IyYbiLhkuJb62iZWULgUEuN1I12vkBe4FvKsS8QqYV1XUdpnGm8aSWxXSOp5pwiSzmNC-s29E5ZhUhFb2Rk7l7wcxqL12ehYksHzrwB1TXezSs7_8yMwvQzulTl14ByQVP_Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"darkknightsofsteel(2021)/darkknightsofsteel(2021)_8.html"
+},
+{
+"name":"Dark Knights of Steel (2021) @9",
+"summary":"WAR
+
+THE BESTSELLING SERIES CONTINUES! The opening battle for the Three Kingdoms takes a deadly and dramatic turn as heroes return...enemies are revealed...and dark secrets spill out like blood on the battlefield!",
+"date":"January 3, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jaelEwkpVQ8l685rujRRug2avtUExbkftc_sGpkw4JaALLiSknPjMjhOR4R_V-qxByFz908AfcT_dGt8Do7LeHrYSH885amddFQL-0t4w34gxVDiqasbZ9TuTgC64IBKgfxjmSCnZQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"darkknightsofsteel(2021)/darkknightsofsteel(2021)_9.html"
+},
+{
+"name":"Dark Knights of Steel (2021) @10",
+"summary":"THE GREEN MAN
+
+The true enemy of the Three Kingdoms has been revealed…but is the battle already lost? Or has the war only just begun? The endgame for season one begins!",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ihc7gaM1y6bc7_fAgoSws4FSuB39s9hmaDsg4og9Gt9lznXafdKZJBiqYdrXujHRuk-vyrIfuBJje5tUpDu0WGMw9KaH9_WHwmblJ2Tk9k2tUuPKxrgXpzPSgyHu-TZTp2opJuqi_Q=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"darkknightsofsteel(2021)/darkknightsofsteel(2021)_10.html"
+}
+]{
+"name":"DCeased - War of the Undead Gods (2022) @1",
+"summary":"What began as a battle for Earth has become a war for the galaxy as the epic final chapter in the massive DCeased franchise is here! The emergence of a reborn, undead Darkseid in DCeased: Dead Planet sets the stage for the most devastating conflict yet for Batman, Superman, and Wonder Woman! As the Anti-Life Equation spreads into the cosmos, the survivors of Earth prepare for the coming apocalypse and realize their only hope could lie in the most powerful surviving hero from the first DCeased series... The bestselling creative team of Tom Taylor and Trevor Hairsine return for their third and final installment in War of the Undead Gods!",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/zn96iwJHiJvbqxeeD9jGZcK2tCstI2T6zllwUgRIRR2yoWQOn1_CWsKDMS36E9-zSj9xhzqQGAQcLpVq6Bd-JM1BvXaifPg9igGQ1Z3yvkAP4_OlnvC4j9ny9a6iJJbb8gXAc4wung=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"dceasedwaroftheundeadgods(2022)/dceasedwaroftheundeadgods(2022)_1.html"
+},
+{
+"name":"DCeased - War of the Undead Gods (2022) @2",
+"summary":"The undead Darkseid begins his assault on the galaxy…attacking Korugar first! Could the fate of the planet depend on the Yellow Lantern Corps teaming up with a Green Lantern? Also, what horrors do Big Barda and Mister Miracle find on New Genesis?",
+"date":"September 20, 2022",
+"tag":"Batman Damian Wayne (DCEASED),Big Barda (DCEASED),Black Racer (DCEASED),Brainiac (DCEASED),Darkseid (DCEASED),Green Lantern Guy Gardner (DCEASED),Green Lantern Kyle Rayner (DCEASED),Green Lantern Soranik Natu (DCEASED),Lois Lane (DCEASED),Mister Miracle (DCEASED),Orion (DCEASED),Supergirl (DCEASED),Superman Jon Kent (DCEASED),Superman (DCEASED),Yellow Lantern Thaal Sinestro (DCEASED),Yellow Lantern Arkillo (DCEASED),Yellow Lantern Karu-Sil (DCEASED),Yellow Lantern Tekik (DCEASED),Yellow Lantern Maash (DCEASED),Yellow Lantern Slushh (DCEASED),Yellow Lantern Low (DCEASED),Yellow Lantern Darkseid (DCEASED),",
+"img":"https://2.bp.blogspot.com/4DbA_vyx7mStlrdoULweaRGwJffhuMr9WWBg4lJ2kJ1WXiTTNSr-XXi_9mBKQBLmosHNjKzIhYjt_vnro8V0_fgjx6SBx3TKVJy26qa3_PlRKZdCmXlqXmBmrix66dMMGXv5r-Bj=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"dceasedwaroftheundeadgods(2022)/dceasedwaroftheundeadgods(2022)_2.html"
+},
+{
+"name":"DCeased - War of the Undead Gods (2022) @3",
+"summary":"THE BLOCKBUSTER FINAL ARC IN THE SERIES CONTINUES! As a warrior princess is mourned on Themyscira, an old god comes to warn of the threat of the New Gods. Meanwhile across the stars, Adam Strange fights the unthinkable and the Main Man himself, Lobo, tears his way into DCeased. New battle lines are drawn as the anti-living spread across the universe!",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/GVHhb2eGZKYuKB0wqBlmmJgsiy2HtlLJPbsO7x6WU9emyq2uOzbdaMuD7QcefcMAVISxwxhigqnOOpbHVs4q7eX0F5VsfSH7fLx-mHvx8QvVMDJVEshZc3uyTTdBY1qW7leubPACxg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dceasedwaroftheundeadgods(2022)/dceasedwaroftheundeadgods(2022)_3.html"
+},
+{
+"name":"DCeased - War of the Undead Gods (2022) @4",
+"summary":"Nothing is what the heroes of Earth thought it was. The shocking truth is finally revealed and the fate of all of existence hangs in the balance. Lobo joins the fight, but will the main man help or hinder the greatest heroes in the universe as they gather to fight the galactic armada of the undead?",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/1b7whE9KQ0kKubAxrpOS95_T2f25HddjSuTL0OufDHHyN_m6Bq58K6JrewX4MAlsBV_tix3wRow9RAh1YuP7CwDKHi3dWTSFiIthcRhNQcOQs01gvmj5bDmX8gUnbx5wwl_YPvnVxw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dceasedwaroftheundeadgods(2022)/4.html"
+},
+{
+"name":"DCeased - War of the Undead Gods (2022) @5",
+"summary":"A greater chaotic force enters the battle, and in so doing threatens reality itself. As more heroes fall, and whole galaxies are lost, the most powerful forces across the cosmos must stop watching from the sidelines and finally act",
+"date":"December 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/80ByvGS7zghIxcqrbtMUSooZwnh1owKxMU0NeUafMLREkGvMHc88s_awz6VHXAfJ4fDMnX7jYqfW6QPboBbdLvmg2BogQclNhF3QXV4N2Y6_CUZUr-V5pOkr5zA3gTPpNmfLfrUB4g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dceasedwaroftheundeadgods(2022)/dceasedwaroftheundeadgods(2022)_5.html"
+},
+{
+"name":"DCeased - War of the Undead Gods (2022) @6",
+"summary":"The galactic war has reached Earth-2 and the battle to save the last bastion of hope! With an unstoppable army of infected New Gods, Yellow Lanterns, and more…does humanity have any hope of survival?",
+"date":"February 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/kRIOLbfPmSLKR62smYBa4TSBu5Mw4hkRfUj_C_C9kPGjHRNXrhazwr8WPrBfY0IV0iee4cvHX1FBfVYj7MpNnUvqHMI7oVwtUxczsvSCW2huL56uCcE5srun3MrTlUZcTz2iC23HRw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dceasedwaroftheundeadgods(2022)/dceasedwaroftheundeadgods(2022)_6.html"
+},
+{
+"name":"DCeased - War of the Undead Gods (2022) @7",
+"summary":"Some of the most powerful entities in existence are now slaves to the Anti-Life. Undead Darkseid’s forces have spread the virus across whole galaxies. Even Kryptonians and the Flashes may be too slow in the race to cure worlds before everything is overwhelmed. The final stand for the universe begins.",
+"date":"March 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5TQ9PnDFvu3tzrS17jHMEyZ0TFZVJwC-eeCxzLfm5KQrCyW1smQ2wEFJfh_dU_zuIZnOm8D8KP7KtWE8ensYLza7MmbQ0ysIRulBcimagYamulISc7ToWQ2-utty7ooI7jJtzsxNcQ=s1600?rhlupa=MzUuMjAyLjMwLjEzNA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"dceasedwaroftheundeadgods(2022)/dceasedwaroftheundeadgods(2022)_7.html"
 }
 "name":"Catwoman - Lonely City (2021) 4",
 "summary":"BOOK FOUR: THE UNDERWORLD
