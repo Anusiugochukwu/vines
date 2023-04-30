@@ -1,4 +1,1161 @@
+[{
+"name":"Alien (2021) 1",
+"summary":"THE ICONIC CINEMATIC TERROR MAKES ITS MARVEL DEBUT! Gabriel Cruz gave his life to Weyland-Yutani--In the case of an alien attack he barely survived, almost literally! Recently retired, Cruz is trying to patch things up with his abandoned son with the help of his friend, a Bishop-model android, but his re-entry into civilian life is not going smoothly…and his encounters with the deadly Xenomorph are far from over. Phillip Kennedy Johnson and Salvador Larroca team up to tell an all-new tale of the titan of horror and science fiction that has scared audiences for decades. No one is safe. No one is innocent. And no one can hear you scream.",
+"date":"March 24, 2021",
+"tag":"",
+"img":"https://2.bp.blogspot.com/fDoO328inZHjkcYWCgCqSBPFstb92qU_kzM6ld8lhIBesG_8Q9qCkGW9LEkARJL5oHRRSMc1-IOSrnh7Qh87CrXFWuDrzGRxfAbr8qUmazitm-heZ-lt8JvQdxL-kK1_Mvz6PJyhWCs=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2021)/alien(2021)_1.html"
+},
+{
+"name":"Alien (2021) 12",
+"summary":"THE END OF PARADISE! Jane and her people have been imprisoned with a group of facehuggers! Jane has one last chance to escape, but will her disease be her doom?",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/W4ngny3ONJTdNkzfKB3aiBgaYo9dgBFPGxWUCM3wxgtT5Th0nDNpzplTQJ8UwieNWhAdvesQvDYuyMzEXi_tTDRLVU_nEF3VJBSpD97yEMCUHBNZ9UE_BSLtr_uhEJd-aJK0t4ykqA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2021)/alien(2021)_12.html"
+}
 [
+{
+"name":"Alien (2022) @1",
+"summary":"Icarus, Part 1 of 6
+
+PHILLIP KENNEDY JOHNSON AND JULIUS OHTA LAUNCH A NEW ALIEN EPIC! MAN, MACHINE, AND THE MOST TERRIFYING CREATURE IN THE UNIVERSE…IT’S AN EXPRESS ELEVATOR TO HELL, AND YOU’RE GONNA WANT TO BE ON IT! A small colony of synths have settled in secret on a backwater moon. When a company of United System soldiers come to them for help retrieving biotechnology on a hostile planet that could be the key to saving humanity, the synths must decide whether the prospect of peace between man and machine is worth the risk of betrayal.",
+"date":"September 14, 2022",
+"tag":"Alien Warrior (ALIENS VS. PREDATOR), Ovomorph (Egg) (ALIENS VS. PREDATOR),",
+"img":"https://2.bp.blogspot.com/ZyiG3rF0MSD7VenepVrh4cZ-4f7o_MRBpJcegUybtO2zlIwLRAglEHsNkHeAEytnpZqjbNJUH4LOl8lzg8vtkzU-9o9qZF7dm-O5yLOvC2jZmg3m_mgVsq84JHzZSYqnhCKMoHpd3A=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2022)/alien(2022)_1.html"
+},
+{
+"name":"Alien (2022) @2",
+"summary":"NOTHING ORGANIC EVER TANGLED WITH US AND WALKED AWAY. 'Steel Team,' the legendary, unkillable Synthetic Special Operations team, has been reactivated. Sent to an abandoned Weyland-Yutani outpost to recover a project that now could save millions, Steal Team is the United Systems' only hope as they navigate the hellscape that the once-idyllic Tobler-9 has become. Since its mysterious downfall years earlier, Tobler-9 is considered one of the most hostile environments in the known universe, a place where nothing organic could possibly have survived…could it?",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Jh1OlL3xJiXzP0n53ixELwzXz7vUJdOO29rHToy4w1Ol8ZCe2-ralkrHjZ6f8Cp5W8OLwrJnUPfpsYeoqCAR8EwCxNRQGJocAPg-WJGivVg0JeU9ikV8PyBMaks2WfCyx1-FjmN7Aw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2022)/alien(2022)_2.html"
+},
+{
+"name":"Alien (2022) @3",
+"summary":"ICARUS, PART 3 OF 6
+
+THE DEVIL YOU KNOW… While searching the Xenomorph-infested Tobler-9 for an alien sample that can save humanity, “Steel Team,” the mythical Synthetic Special Operations team, has made a shocking discovery: a colony of humans who have managed to survive there for decades. With only their mutual mistrust in common, the humans and synths strike an uneasy bargain: the alien sample in exchange for Steel Team’s help in clearing a subterranean Xenomorph nest. But while the humans have had to sacrifice some of their humanity to survive, Steel Team learns that the ICARUS alien strain has taken on some disturbingly HUMAN tendencies…",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Lh4GbjQh87BZkbvVMyA-lz-ABgtBJjcbWe1g9XvvrSV_DyF8hSdUtTAqRETq4NKs3A9XLlZ89mr4osIBXssOg99PAe_yGC9S-Fq9fPCS-9IVoevS0FWHk1Y_Vva47ni80Gvbj2FtuQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2022)/alien(2022)_3.html"
+},
+{
+"name":"Alien (2022) @4",
+"summary":"ICARUS, PART 4 OF 6
+
+BETRAYAL IS THE HEART OF EVERY END! Steel Team’s human allies have led them into an ambush, leaving them for dead in the nest of a vicious Xenomorph Queen. As Steel Team suffers their first casualties, Eli’s trust in Freyja is tested like never before. Meanwhile, the humans suffer the consequences of their betrayal as a new kind of monster awakens inside one of their own.",
+"date":"December 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ArRnOHTTYUCyU8slcA58SdffEwiP7NCEVb1wtq4IUpW2_6W5xEw2TAy3tv1co95doh08aTyNpj_x6cnR9AQc1taujBg069qhCeRIlw77Tdt_gwkp48Ln9zoSAFyG5VuiQybWGs5baw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2022)/alien(2022)_4.html"
+},
+{
+"name":"Alien (2022) @5",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/okUBaaHTFRobYbexSy1wdTSbgM-RbUvrZROQBfjGFBIMnhwUpwKyOZLETJHkLoPZHIXbobCfudnXfV9CYCk68v8zqnxEeYqRWfmrxB_hFakS_IS9HmaMUEF4Y_WDGK_0dRVc1jY6pg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2022)/alien(2022)_5.html"
+},
+{
+"name":"Alien (2022) @6",
+"summary":"ICARUS, PART 6 OF 6
+
+DEATH IS INEVITABLE! Steel Team is in fragments. Scores of innocent humans are dead after surviving years on an irradiated rock. A new kind of Xenomorph is emerging…hunting…killing. It’s all built to this. Is this the end – or beginning – of a new horror?",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5kaJy9ChH2jt5AoVmIPsRYqMfKhhRjKtvR7kst3u-cO6nzJPaUhImFulmtU1VtWywDJvHxo4X9XCpw7vK3AYFMvpJCEtJFQcT2lYQmohmF4au0xrbOS_-82pj5xORdINtJCfpKed6A=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alien(2022)/alien(2022)_6.html"
+}
+[
+{
+"name":"All-Out Avengers (2022) 1",
+"summary":"INTRODUCING: THE ALL-NEW AVENGERS SERIES THAT STARTS IN THE MIDDLE OF THE EXPLOSIVE ACTION AND RACES TO A SHOCKING CLIMAX! An alien attack. A missing piece of wormhole tech. A city warped, its citizens transformed into hideous creatures loyal to an Empress from the far side of the universe. And a certain Captain Marvel, looking to her fellow Avengers with murderous intent… Plunge into the action and take a deep breath because you will not be allowed up for air as a thrilling new series kicks off in the strongest, strangest way possible.",
+"date":"September 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XJ803x0A3R2TtaQrmJIhLn8YSgh5SO9DV6FG8UhuSMfdenaODXrt55xlE9bILcggHTFfu4PYwKOJayapMjxfuVqqveeprLANLYV0Mzfs5MNL22sMTSCqNgSP8DQ_PSpMXKstgbB7=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"alloutavengers(2022)/alloutavengers(2022)_1.html"
+},
+{
+"name":"All-Out Avengers (2022) 2",
+"summary":"The Avengers are on their knees, in chains and at the mercy of Doctor Doom. Their only hope lies in the one man with the strength, honor and sheer decency to possibly stand against the oncoming darkness: the hero the world knows as…Doctor Doom? Plunge into the action from page one and hold on for dear life, gentle reader — this tale doesn’t let up for a moment!",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/f7tXR4BCKPbzhR5hB2Yax8QPB2Ee6RAl1h8y4Ty6pZeWimsk_aNNs3YkjvuKvKnHLQiWVf1of6g75qDUAMxhat4rJpIBiqr9GAS87MVb6sNdfLgqQv_t-R1LfqumC8l9GjtmAMN2rw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alloutavengers(2022)/alloutavengers(2022)_2.html"
+},
+{
+"name":"All-Out Avengers (2022) 3",
+"summary":"Hallelujah, it's raining skulls—Red Skulls, that is! With an unending swarm of Red Skull LMDs on the loose, the Avengers have one last chance to turn the tide before they're completely overwhelmed—even if that means teaming up with the original Red Skull to do it. Dive right in, dear reader, and get swept away by the action!",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/GdRcNjQmsBOvQpEzIQqw7xNpzPxaWj-yhbI-aDqYkG9lHlRcuKCWbkTmOIjnTbeDY8rstZN5VvMeqG5QUzV1A-Ggud1zrSxs64_JvTfdgtjp6hlnldzAjPIlh8oknb5EnbaH7A36Rg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alloutavengers(2022)/alloutavengers(2022)_3.html"
+},
+{
+"name":"All-Out Avengers (2022) 4",
+"summary":"THE ACTION DOESN'T STOP FROM PAGE ONE! Trapped on an alien world and surrounded by bloodthirsty hunters, Black Widow, Captain Marvel, Spider-Woman and Hawkeye have only hours before their last chance to get home disappears forever. But as a new enemy watches from the shadows, it becomes clear that they were stranded here for a reason. They just have to figure out what it is before they are killed...",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/m12Cgo6Nt4PcI4A__QDdLXpuy7BnuhL-GCxxpq-IoZKnMVrhlbyaDQ_1q1ZRtnQMtfN4l5mRk5rgLmV1hgIEtqHrq5K7odGqilFn-s2dDrOPp4Xfy06hnCKsIMRCW79Wl9XWCk_YqQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alloutavengers(2022)/alloutavengers(2022)_4.html"
+},
+{
+"name":"All-Out Avengers (2022) 5",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KoTyGbJqAsuEJziQXVnLTshyd8iMYqM8etLyl4sIRiVBoXD-y0-Da_fDQU5FmrCahK0lSQMaEi5w2gN_unPg27Wu2cP9hHb_RHvvZUAYisQFE7O4NmheylL1SAvSKBAxcAAAi56jWQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"alloutavengers(2022)/alloutavengers(2022)_5.html"
+}
+{
+"name":"Ant-Man (2022) 1",
+"summary":"ALONE AGAINST THE ANT-AGONSITS
+
+Flash back to the early days of Hank Pym's career as the astonishing Ant-Man! It's date night for Hank and his girlfriend Janet Van Dyne, but nobody told that to Ant-Man's enemies! Watch as Hank's ant-agonists band together to finally take down the scientific adventurer! But will anyone come to his rescue? And who is the mysterious stranger who stalks him? Join Al Ewing (IMMORTAL HULK) and Tom Reilly (THE THING) as they explore the history of every hero (past, present and future!) called Ant-Man!",
+"date":"July 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/k_BE7O2Mfl39-54cCITjZN0mn9TFPC-UQ-v3pmdJTxrQxYDwuuej9QusF6qiqObKunYHzWoK6652nbe53M3wI6vEYgiD07aZTNhCpw3tvy4tpQXyxo-4VEiRYuHGUgVdfwZJAi4TGA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"antman(2022)/antman(2022)_1.html"
+},
+{
+"name":"Ant-Man (2022) 2",
+"summary":"IMPOSTER SYNDROME
+
+Jumping forward in time…the Marvel Universe has been infiltrated by shape-shifting Skrulls posing as allies. Little does anyone know that a SECRET INVASION is about to explode! But what does that have to do with this era's Ant-Man, Eric O'Grady?! Eric must retrieve important data from Scott Lang's helmet… The only problem is Scott Lang is dead! But what's a little grave robbing to someone who's irredeemable? The journey through Ant-Man's history continues!",
+"date":"August 31, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/F67dYJud1PGboc-6zeEd3r1XOowB5vxtOmmvwURCPEubhW9OOWKJNGCK3rhENpXAzu3R28FTth8aIU1sl5Bt41jHzXWlIOiPhTOBj7NO0Btm44Ez0tXzD3orURnoYEkBc-XZAFrjCA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"antman(2022)/antman(2022)_2.html"
+},
+{
+"name":"Ant-Man (2022) 3",
+"summary":"THE ELECTRIC ANT
+
+In the present, the current Ant-Man, Scott Lang, has been tasked by the Avengers with a very important mission: Guard the prison holding Ultron! But the evil Black Ant/Eric O’Grady has other ideas that may spell doom for humanity… Don’t miss this epic journey through Ant-Man’s history!",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/BOQegWxEJf6TOZhzHMCFN3HiwVMwT6XW00WJOg7TJJdWNtAuMHsaUBVZ--G8p4tCpkXbCTIepdVrY8Jy3lUxy1OE_pxN_ZuFNhbk4bnZLShzWKCiw-nq9tLLMmpEOdEA7mQaR58ITA=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"antman(2022)/antman(2022)_3.html"
+},
+{
+"name":"Ant-Man (2022) 4",
+"summary":"ANT-MAN FOREVER
+
+Who is the mysterious Ant-Man of the future who the past Ant-Men keep bumping into? Find out here as the Ant-Man of 2549 recruits Hank Pym, Eric O’Grady and Scott Lang to take on a godlike Ultron! Don’t miss this epic anniversary finale as the Ant-Man of past, present and future come together to save the world!",
+"date":"October 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/DupXcHphZ-H68G85fa-mf4vlk7SPALmHP5QPEi61EIRBhOBbOtuMIv9tQZ_bOOaHoN8eAm4CCMU00hHhHTkaRnngAYL3gGjsXyZiq4jedDmNWmrAXgagK4E8u0mh6a7ZumT05fmTWg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"antman(2022)/antman(2022)_4.html"
+}
+[
+{
+"name":"Aquaman - Andromeda (2022) 1",
+"summary":"Deep in the Pacific Ocean, at the farthest possible distance from any land, sits Point Nemo: the spaceship graveyard. Since the dawn of the space race, the nations of the world have sent their crafts there on splashdown, to sink beneath the silent seas. But there is something…else at Point Nemo. A structure never made by man. And that structure seems to be…waking up. The crew of the experimental submarine Andromeda, powered by a mysterious black-hole drive, have been chosen to investigate this mystery. But they aren’t the only ones pursuing it. Anything of value beneath the ocean is of value to the master pirate Black Manta…and anything that attracts Black Manta attracts Arthur Curry, his lifelong foe, the Aquaman! But heaven help them all when the doors of the mystery at Point Nemo swing wide to admit them in… Bringing a bracing cosmic-horror sensibility to the world of Aquaman, rising superstars Ram V (Venom, The Swamp Thing) and Christian Ward (Thor, Invisible Kingdom) team up to put Arthur Curry through an exercise in psychological terror that could break the will of even a king!",
+"date":"June 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ZpmQRNQlp3S7RjAF-jQjVjrqUt679bMKfLSNhZ_vOeDkHnLGuDxoxgiQddHG19ohrc7L5XPVgRJnkTtc9E3eS4N5KYww-7BMEf7MxzVCX8zHG_Kn56pc5GiZ3i9bUHyW2BU1kbu45g=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamanandromeda(2022)/aquamanandromeda(2022)_1.html"
+},
+{
+"name":"Aquaman - Andromeda (2022) 2",
+"summary":"BOOK TWO;
+When an underwater explosion rocks the crew of the Andromeda, Aquaman comes to their rescue, but the damage has already been done. The explosion has damaged the ship’s core and unleashed a sickness that will threaten everyone on board. But as tensions flare, Black Manta makes his move—it’s information he’s after, but what do ancient aliens have to do with Atlantis?",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/JwDbdEe3qElAAX_EFMY5i0As_uslVK-3X7ZWYgCcgkgbWODbd9njcNubZbR0ig9Ve2gF2rbrFKWTbezVvrvtMFpc9i_wXUhHD7DzXeaSm1K2AangLDL87JBYwqnEEQi6taxEvOMWJA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamanandromeda(2022)/aquamanandromeda(2022)_2.html"
+},
+{
+"name":"Aquaman - Andromeda (2022) 3",
+"summary":"BOOK THREE
+
+What ties does the mysterious craft have to the city of Atlantis? Its true purpose has infected most of the Andromeda, but an even greater threat has descended upon the crew: Black Manta has taken possession of the craft. If Aquaman is to defeat him, he’ll have to stare down his greatest fears. Can Aquaman wrest control over the craft before the weapons systems aboard the Andromeda wipe them all from the ocean floor?",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4Y72Knu6Gv1YdOiZaibWxynSPgDLJPbTEKRcWM5-4toagVswqTCXcOQX2y866DD8986KLKKi1mAVFft9k-wwAdY0ipY-sYN_w6dSJ9VLLq495N_z2eeLj6v3qWj0THEp7VLyPiHcPQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"aquamanandromeda(2022)/aquamanandromeda(2022)_3.html"
+}[
+{
+"name":"Aquaman & The Flash - Voidsong (2022) 1",
+"summary":"They descend suddenly from the stars, in monumental ships like floating cathedrals. They are touched by a dark and terrible force from beyond our reality, silent but for the one note they emit that freezes all motion. Their mission: to drain the Earth of all its kinetic energy and leave it a lifeless husk. They never expected anyone could escape their song-but the Flash was in the Speed Force when they struck, and Aquaman was in the deepest ravine far below the ocean’s floor. These heroes have little in common. They’ve rarely even fought side by side without their fellow Justice League members. Now they must find a way to work together against impossible odds to save the world and the people they love.",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/aYwwaa36IgwICtyQ4NA7XaIKBctd5pLdFllRIf2G3DXnoH3ARn2pUifkc1W3Pr6sxbriOxRcDBF2XySTrkF4kB3lF9wmlnOEqumXHCFiiYEYSMRZGjqIvbh0BSMtRe32OIfAzhfPZA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamantheflashvoidsong(2022)/aquamantheflashvoidsong(2022)_1.html"
+},
+{
+"name":"Aquaman & The Flash - Voidsong (2022) 2",
+"summary":"BOOK TWO: ANTI-HYME OF SECRET TRUTHS
+
+The true purpose of the Voidsong is revealed! The end of the world was just the beginning! With the Voidsong’s influence spreading deep into the fabric of reality, Aquaman and the Flash are the only heroes left standing. The apocalyptic circumstances seem to have finally forged a true partnership between these two disparate heroes, which raises a glimmer of hope. But as they head beneath the waves to do battle with the entity behind the song, what closely guarded secret will shatter the trust they’d formed?",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/z34RRtDbeX1ZFK6N2kElqxZ5DOPfVZgZ7ZlvptHmD_gNxqHEOTo0_0Wnpg3kfFVM_gWDkscR9ldFdppGzFOZSRfN89t_c-015NTu5uye8-1AwIIiMqv7f00Z7ark3Jt1oo1bqr8F5w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamantheflashvoidsong(2022)/aquamantheflashvoidsong(2022)_2.html"
+},
+{
+"name":"Aquaman & The Flash - Voidsong (2022) 3",
+"summary":"BOOK THREE: ELEGY FOR SPEEDY AND STORM
+
+THE WORLD-SHATTERING CONCLUSION! Their friendship is fractured. The Earth is crumbling under their feet. How can the Flash and Aquaman possibly face the overwhelming threat of the Voidsong’s full power? It’s a star-bound showdown for the ages—with the entire DC Universe in the balance—as super-gods and aliens collide!",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/O0E_G1cvw3YfhMWAKnrTugKW4HkDY-rs0eO2MQb1Aft5OVmpLPDh1AfWPB3kg02j59bI85xsWiqeCsVD4RsVLkTt_Fm6JHrm7Pa1GSLCQe2BV8y6xFQuC0aOwpdOrCCjECHLz1jhnQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamantheflashvoidsong(2022)/aquamantheflashvoidsong(2022)_3.html"
+}[
+{
+"name":"Aquamen (2022) 4",
+"summary":"As the Atlantean sleeper agents awaken all over the globe, their message is clear…Atlantis remembers! How long have these sleeper agents been out in the world? More importantly, how long has Arthur been aware of their existence? The answer to that question may just end his partnership with Jackson as well as his marriage to Mera!",
+"date":"May 24 2022",
+"tag":"aquaman, blackmanta,",
+"img":"https://2.bp.blogspot.com/uzXQjCa7MPjvRd6e6hzJ4Pztonk4_4JUlr1WDRDdZaPl6ExP9OoEOYG7CsA12gWMRh5ipiJEgjD1z5PVlu7VzWSMCbcwD0XycAmKLN1ekmqkfL2kQ9oNI3GNPJNQYtJJu8MIaqLKHhs=s1600",
+"page":"aquamen(2022)/aquamen(2022)_4.html"
+},
+{
+"name":"Aquamen (2022) 5",
+"summary":"Our heroes race to construct a new deactivation spire as the Atlantean sleeper agents continue to awaken worldwide. Can the Aquamen Family hold them off long enough for construction to be completed? Not if the Scavenger has anything to say about it!",
+"date":"June 29, 2022",
+"tag":"aquaman, blackmanta,",
+"img":"https://2.bp.blogspot.com/9RdBROh-2ZyuXhbSMPGdlvyqYEr-uh4dUNVYhCIAuAyWTr1Kg1OGL7nvvVLuJCtaNb9tQ1zQvynygBKiqlvIEzhKZ1Q35mTl8DpB_UAfa4_un2H-AQNYw8bKvUKEUenVZOAk4Rboaw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamen(2022)/aquamen(2022)_5.html"
+},
+{
+"name":"Aquamen (2022) 6",
+"summary":"MOMENTS OF SILENCE;
+After hearing about Arthur’s death, Mera and the others must each find a way to come to terms with their loss and move forward. In his time of grief, Jackson finds comfort from the last person he ever expected…his father!",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/qYQdbLa9S09BfNXiDqQ-la1JXaxBAS5XdRmYI0aEo4iFk9Vzzuzzfs8rFvxrgfhQrmLP3d1THnKKrmyTcySpQM7-bNG8TdJzFszRmcOJ7yfEHab3EvrXe7XvUiznauXUy4hwRSn9zA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"aquamen(2022)/aquamen(2022)_6.html"
+}[
+{
+"name":"Avengers (2018) @56",
+"summary":"JANE FOSTER TAKES THE SPOTLIGHT! She once famously wielded Mjolnir as Thor, Goddess of Thunder. Today, she guards the worlds of the living and the dead as the winged Valkyrie. Now, those two versions of the same mighty hero somehow find themselves face-to-face, in a desperate bid to save the soul of Jane Foster.",
+"date":"May 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7544_HVy012k71BkL91PdpiFNq2aOQZP8Qn5sOQd1o0FuM4-KcxVgT1igvxClj0e0Qvo7P7VRtzaGUx9Nr8dzFQRvw5dYJH7B-dPjioXVudRwNluCQKLJxQVLeJCas-nqEpz0lBpR3U=s1600",
+"page":"avengers(2018)/avengers(2018)_56.html"
+},
+{
+"name":"Avengers (2018) @57",
+"summary":"MEET HISTORY'S MIGHTIEST HEROES! The Avengers are lost in time, and if they're going to stop Mephisto's grand plan, they'll need help from some of history's greatest heroes, whose stories have never been told. Like the mystical man of war, Sgt. Szardos, Soldier Supreme of World War II, and his squadron of supernatural grunts, the Secret Invaders.",
+"date":"June 29, 2022",
+"tag":"thor, ghostrider,",
+"img":"https://2.bp.blogspot.com/8e53I3onNq4BUhGF5ZrfMnIq0thRFQjdXm_6GJtEBumjKl149jIOAB7PUifVdr6LCDfxoSmsYtxgZ-azoYwN3m7ZW5QDliKYyifdb8zPcV65dfmVwEjXxomudOBO0NkiPBF3EfuwvA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_57.html"
+},
+{
+"name":"Avengers (2018) @58",
+"summary":"HISTORY'S MIGHTIEST HEROES, PART TWO: THE WAY OF THE GHOST
+
+THE AVENGERS' QUEST THROUGH TIME CONTINUES! Japan, the Edo Period. They say he walks by night, wielding a blade forged by hellfire. And where he wanders, the penance flows, like fountains of blood. He is the fabled Ghost Ronin, the Samurai of Vengeance. And alongside the Avengers, he will make his final stand against the lightning swords of the devil himself.",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RcWnwCF5Ou1_AjzOfqkUTeccojMhhFD5Vam6861NrfilmPo1nmuTMmrThMAbMQyojFQrEE25HWLYd9o33WNyEvwe9TuPCPAEK0CWO5PbG7ETuBbGWJa5BUToLa9Z7ywiKjhKkhU8cQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_58.html"
+},
+{
+"name":"Avengers (2018) @59",
+"summary":"HISTORY'S MIGHTIEST HEROES, PART THREE: DEATH RIDES THE SKY RAILS
+
+THE LEGEND OF RENO PHOENIX AND THE STARBRAND KID! The Avengers’ journey through time brings them to the Old West, where they cross paths with a couple of History’s Mightiest Heroes, whose six-guns are loaded with the greatest powers of the heavens. But is that enough to force a showdown with the forces of Mephisto? Or will the Avengers be lost in time forever?",
+"date":"August 10, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dfAGXMoQYt8FLBzs1DdDLrIWhfAqR0X1_nYHRoltGx3FgqcCCuWKjxMV8PM-efDHtUkRVDyjnMslfCpgiWTgw1Gh5HQ2YBfsXQDuO7zDEjUAOC3xSzclAZ8qha3Doj7JXMDSptzyCA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_59.html"
+},
+{
+"name":"Avengers (2018) @60",
+"summary":"THE HIGHER ROOFTOP
+
+The Avengers’ ace archer is back! As Judgment Day looms, Hawkeye is called upon to justify his existence. As a benchmark, Hawkeye must prove that he brings at least as much joy and usefulness to the world as a randomly chosen mailbox, which, admittedly, is a pretty high bar.",
+"date":"September 21, 2022",
+"tag":"Black Widow,Crossfire,Hawkeye,Luke Cage,Progenitor,",
+"img":"https://2.bp.blogspot.com/I9KSGV0m5IRtx_r5vi3voMwQxUr5Km0UL2HdRPXd7YUMmC7RVYsUJ_8GZ8z8t3gSA9f47wdx-CUmd1aEbMg71Xim6danTpPaj1oGRkB99B3Jk-3JOuCcvUc3Oe9JFZ0OZKcs2Va3Aw=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"avengers(2018)/avengers(2018)_60.html"
+},
+{
+"name":"Avengers (2018) @61",
+"summary":"HISTORY'S MIGHTIEST HEROES, PART FOUR: THE DAY OF THE MAYFLY
+
+HISTORY'S MIGHTIEST UNTOLD SECRETS! If the Avengers hope to survive being lost in time, they'll need the help of some of history's greatest heroes, from the Thor of the Viking Age to the T. Rex Starbrand at the dawn of time, plus all the forgotten Avengers of bygone eras whose stories can finally be told.",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9gK8Smihan95kD2H4MgNxJc950uiR5DQQLWiJ-BWK6hyTPsp_lXdOB7Vq3Jee03hSKVWP6P5EOhALXDT-ebujONA0TXVETnFNOMxJXr22-HWUfs6UkgpFtpgLkPB_V1LCP5vpiUaSA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_61.html"
+},
+{
+"name":"Avengers (2018) @62",
+"summary":"HISTORY'S MIGHTIEST HEROES, CONCLUSION: THE MAN WHO KEEPS IT WEIRD 
+
+The Avengers' epic quest through the darkest and weirdest corners of time comes to an end with an issue that focuses on the prehistoric forefather of all things dark and weird in Marvel history: Earth's very first Sorcerer Supreme. Prepare to see all of history through the eyes of Agamotto.",
+"date":"November 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/nME9SLLt4b7BUOnzeSwgjaYQHolmkn57PELkxlaed35PuZx_UX-5Uqx6etopRl3W_sSZ61-WnzwVCCdVeZj5chxN9PI4d08602a5gVPCyI4bCKwdIYZ_Qe_2iTCvIu7sJHvpDA-DfA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_62.html"
+},
+{
+"name":"Avengers (2018) @63",
+"summary":"AVENGERS ASSEMBLE, PART TWO: THE BATTLE OF ONE MILLION BC
+
+THE BATTLE OF 1,000,000 BC! The Avengers stand face-to-face with their prehistoric counterparts, the Avengers of 1,000,000 BC! But if the two groups cannot work together, they have no hope of defeating Doom Supreme and his marauding band of Multiversal Masters of Evil, who have come to erase all of Marvel history as we know it.
+
+CONTINUED FROM AVENGERS ASSEMBLE: ALPHA #1 / CONTINUED IN AVENGERS FOREVER #12",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/keKLRmT1E8evsiEWAl9WDT3ICpSxiU1lMOR-GkZEs5huJponMoXV1xxiXmrV6YJ6_RCtdIOtBbwR95-7E9uIfExrdyjmIy_s-Gu7baF0sP_DG5OS0audzXoTbYVLdHGoqUq1XzmNpw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_63.html"
+},
+{
+"name":"Avengers (2018) @64",
+"summary":"AVENGERS ASSEMBLE, PART FOUR: THE WAR FOR THE DAWN
+
+The Avengers wage their final bloody showdown with the Multiversal Masters of Evil for the fate of prehistoric Earth and the entire Marvel Age of Heroes. Not everyone will survive. Meanwhile, Tony Stark must face his greatest enemy: his own father, the Iron Inquisitor.
+
+CONTINUED FROM AVENGERS FOREVER #12 / CONTINUED IN AVENGERS FOREVER #13",
+"date":"January 4, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/aYgQ01L0OWOj3cn4rkCgOK5G9zw1t3dStZ0aDXyWiXOYPB19-J-Ij7epKSJeo5RW-x0ePjIv3PdyV0LqKHTyitgfJKFsh_FPotpB_tmJTQF-PkQCrcJTuGsJ4PJW_EAdpEMIM92_eA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_64.html"
+},
+{
+"name":"Avengers (2018) @65",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4IfwXCAcaVWIcssnDHlI2yNsXi7nrxQgUM4NexYKmHTtZS6puZgqeXQkIBgcTi88enb2h2JwYoQr_lPf9N_S7NgcqKhRwXiWS_8c6ilBNpU9OhbCD2ltfDnXmuIBnhmokwtX3k5RsQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_65.html"
+},
+{
+"name":"Avengers (2018) @66",
+"summary":"AVENGERS ASSEMBLE, PART EIGHT: THE FINAL ASSEMBLAGE
+
+In the dark heart of all that is, the battle to save the entire Multiverse is raging, featuring a cast of Avengers that staggers the imagination. Surely no foe from any universe would dare stand against such a force? Mephisto dares, as the full extent of his plan finally comes into shocking focus.
+
+CONTINUED FROM AVENGERS: FOREVER #14 / CONTINUED IN AVENGERS: FOREVER #15 | FINAL ISSUE",
+"date":"March 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/u-LnDZdedG2vkULi_iWEXDJZ-h0Na21h4mWtGN_Q4twZZ1cUJQMJu6pRn3gssa6IaucikhpeivFoyxepyABE0vrSczSDkK_U9OuHXI0abJlt1tk0GM3p0Y2x1Ddv-X5gNgdyScsRrA=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengers(2018)/avengers(2018)_66.html"
+}
+][
+{
+"name":"Avengers Beyond (2023) @1",
+"summary":"Someone has been manipulating the Avengers for the past several months, altering the very fabric of reality in an attempt to prepare the planet for a threat that could destroy everything. Here, now, this unseen individual is to be dragged, kicking and screaming, from the shadows and into the light—and is revealed as the Beyonder! Something big is coming to the Marvel Universe…",
+"date":"March 29, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AMWts8BH3NeK_k4LOwjFBMhhgYfBEBi4NH4KEgbXYA21CaoGXa6F7f_hEJOWHetO1xSH0kOpoKURKSGJzF9PoWJJhl82KE7rAsmIlFxj1Ngjyuj4BuOGD5A=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"avengersbeyond(2023)/avengersbeyond(2023)_1.html"
+}
+][
+{
+"name":"Avengers Forever (2021) @6",
+"summary":"INTRODUCING THE INVINCIBLE VIBRANIUM MAN! On an alternate Earth where Wakanda has been crushed from existence and where the Black Panther is a forgotten legend, one man known as T’Challa will forge a new legacy for himself and perhaps even hope for a planet caught in the grips of the god-slaughtering King Killmonger.",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/y3aODVYZ4DUwWScGILW0zKK4aR2fLwdxmBaaGsWLLq8sZgXNQARbsjj1CZGwweJkRMXaCuy6CgSgp22nk8HRs06lqJO1MAD-sCwSd04HSYOHGoWqDV8UcM9olIOycU9A3rNI3muTNg=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"avengersforever(2021)/avengersforever(2021)_6.html"
+},
+{
+"name":"Avengers Forever (2021) @7",
+"summary":"ESCAPE FROM THE PRISON OF STEVES! Steve Rogers is a mild-mannered ninety-pound guy from New York, who wakes up one morning in a prison cell, no idea how he got there. Even weirder is that the guy in the cell next to him…is also named Steve Rogers. Why is there a secret prison filled with misfit Steves, none of whom have ever heard of a Super-Soldier Serum? And what sort of dark and mysterious version of themselves will they have to unleash in order to escape?",
+"date":"July 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/xtbsoJqwCZM7ZazGzqVRXaaOjzR_HkyEXM1UL99acr0wxQV8EXgaF4nINDlfN1uFVsGow0KRs4rRwpj1GzRvbvz5LsXNDj_878Dc8BOucWorKQik6HfZpjlorIooNIjfXBoOO8lB1w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_7.html"
+},
+{
+"name":"Avengers Forever (2021) @8",
+"summary":"THE PILLARS, PART THREE: THE FISTS OF THE UNWORTHY
+
+THE FISTS OF THE UNWORTHY THOR! Meet the most broken Thor in the Multiverse. One who watched Asgard burn, watched Midgard be defiled and was helpless to stop it, as he's a Thor who cannot lift his own hammer. In desperation, Thor will turn to another of the Earth's great powers, becoming a pupil of the Thunderer of mystical K'un-Lun, the guardian of the immortal Iron Fist.",
+"date":"August 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/scG0qyZY3v5ulUg0crYx_k2tMTtMyuWUDsPxWs5G0Q7iAhVjS-gsoQoZ_GrcZJQHmJViHS1B_fRGIXS6PQDrG9FHW6A8WGggPq4BeqR6gA1r5uff0gFqz4uHND-gu_dduzI71kgDZQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_8.html"
+},
+{
+"name":"Avengers Forever (2021) @9",
+"summary":"THE PILLARS, PART FOUR: SEMPER CAROL 
+
+CALL IN THE CORPS! Earths lay in ruin all across the Multiverse. Avengers are assembling from every corner of creation as never before, knowing that the war of all wars is looming. And when there’s war, you know it’s time to call in the Corps. The most hard-hitting special ops squadron of elite high fliers and photon-armed commandos ever called to service. The Carol Corps.",
+"date":"September 21, 2022",
+"tag":"Captain Marvel,Carol Danvers,Ghost Rider (Robbie Reyes),",
+"img":"https://2.bp.blogspot.com/IDDuQ04smnsvhmy92SZK9Pfc9P73my-cfdvca4FaId_-DnP5VBwWh26HzFsTfieOggeU3SNsf28HnJv0x_dM26lkCLtdJIKmgVm3zUImrCcT6hzY_j9VN_8KXJ8OUuk3s_s7R9b-Sw=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"avengersforever(2021)/avengersforever(2021)_9.html"
+},
+{
+"name":"Avengers Forever (2021) @10",
+"summary":"THE PILLARS, PART FIVE: STARK REPAIR
+
+ANT IN A BOTTLE! The pillars are in place. The most important Avengers from throughout the Multiverse have been assembled. All but one. A Tony Stark is needed. But the only one who's available is a man the size of an ant who comes with a very large problem.",
+"date":"November 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/gkwG-_GDq2fGKwWF-NAE3d5NEHs4ybfnGWDxfSA7iLBNBCbNS6m4us_DCvQmORuv2lGj34RqXM-AtA89r4NkTfjx765NSagSVY4lQ03iFoF7y4CnB4zWc17PlshzUxR7UW9E3i-RjQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_10.html"
+},
+{
+"name":"Avengers Forever (2021) @11",
+"summary":"THE PILLARS, CONCLUSION: LAST RIDE
+
+The greatest collection of Avengers ever seen has been assembled from across the Multiverse, representing each of the core pillars of the group's infinite incarnations. But for one pivotal figure, there are no other variants to be found anywhere in creation. Robbie Reyes is a Ghost Rider unlike any other. And now at last, his ultimate form must be unleashed. Now rises the All-Rider.",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/PA8RlfF6nIpuaf3rAqu3SZ-3WXiH7JP_6cvOSB8h__DsTSzSft_uibZaI9VAunKba5Me_-zqwRdH8PHThUI35x7XeE6H2iqf8uGMi7Z28vADsVl8lxz8W4CX-1aGiNzC-I4OA5jBjQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_11.html"
+},
+{
+"name":"Avengers Forever (2021) @12",
+"summary":"AVENGERS ASSEMBLE, PART THREE: THE SIEGE OF INFINITY TOWER
+
+The all Steve Rogers Howling Commandos. The interstellar air force that is the Carol Corps. The Star Panther. The God of Fists. The Invincible Ant-Man, Tony Stark. Together, they are the greatest army of Avengers ever assembled. But will they be enough to protect the Avengers Tower at Infinity’s End? Because Mephisto has come to claim that tower’s secrets, and he’s brought an army of his own.
+
+CONTINUED FROM THE AVENGERS #63 / CONTINUED IN THE AVENGERS #64",
+"date":"December 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/cjL-e52hjHE6c40TdBC0EICmpl4yYKM5AEZkq9HFVfknuCN1rz4R6A0mzsP-h8m2umbmD-cFNk5iZPgRXMhtA9WEc03cw_P4Ls6aKieyUqg2yUlKCNb0K9pyoDUxaIZnqyQWMz35ag=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_12.html"
+},
+{
+"name":"Avengers Forever (2021) @13",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/lqqrKHqMKdxlj_wkJAsb-Gmh48FmEPGd4GbjhABrfdNXDrQKMDXISsQM1fQaDngNlOw33Vo9ULZNxAUbrmP2W7ODoOaOzkFDK1Er6kFnFS2VjkA-x1PVokSqaur1MwTikwzlla9dEw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_13.html"
+},
+{
+"name":"Avengers Forever (2021) @14",
+"summary":"AVENGERS ASSEMBLE, PART SEVEN: THE BATTLE FOR THE ALL AND THE ALWAYS
+
+The mightiest heroes of the Multiverse. The protectors of the prehistoric Earth. And the mainstay Avengers of the present-day Marvel Universe. At last, they all stand together in one place, united against a common foe. What enemy could dare stand against the greatest force ever assembled? Here comes Doom the Living Planet with the answer.
+
+CONTINUED FROM THE AVENGERS #65 / CONTINUED IN THE AVENGERS #66",
+"date":"February 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2BRT53A7DJYOu32ExsXjG4FWMdxwht-gNXZPrTx8aCJrlpAveofvKZ0ap2I6Aj86P2uQ4pxwgJtio5tmKjaMXGeacKkqs6RPCHRe0FCU-lT-KZ02jDo0_p9ANArI3MIJy7g5wMl6Bg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_14.html"
+},
+{
+"name":"Avengers Forever (2021) @15",
+"summary":"AVENGERS ASSEMBLE, PART NINE: THE RISE OF THE OMNI-AVENGERS
+
+The greatest battle in the history of the Multiverse is raging, featuring Avengers from throughout time and space, countless different versions of Captain America and Iron Man and the God of Thunder. Yet somehow, it all comes down to one Starbrand and one Ghost Rider, who unfortunately are the only Avengers whose powers don’t seem to be working.
+
+CONTINUED FROM THE AVENGERS #66 | FINAL ISSUE",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/FNo-ghaAryN9OumuYzgOFuHyB1lVcAOZIxCyA_ZzraGcWy7r8B2_C5DmSajVqv-RD91saUyeXpfUJTEKkb_5QuWDfya_lSUD66q_N78pqIq4_u23UFs9yJ0h1gS_qI_IraHG-coxtw=s1600?rhlupa=MTA0LjE1NC4xOTYuMjI1&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"avengersforever(2021)/avengersforever(2021)_15.html"
+}[
+{
+"name":"Batgirls (2021) @7",
+"summary":"With the Batgirls’ damaged reputation still on the line and repairs on the Clock Tower well under way, Babs just might have finally found the key to their redemption. Meanwhile, serial killer the Hill Ripper is still on the loose! The girls receive their first major break in the case from an unlikely source-unfortunately for them, the main suspect is among the most enigmatic and dangerous villains in all of Gotham!",
+"date":"June 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/AiRepxkUgUVG0ucZez18leHqYGLBHR7l_3IzsyQMJlWjNFxuSbGKX5p_DNUXsr-X5a19KGIxwXMfOeI-rI99yOvy6GQpyjaKZHriQT8rWWKsUEGI9nXpP0bt9a7nhSX93Jl3fS5ODA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_7.html"
+},
+{
+"name":"Batgirls (2021) @8",
+"summary":"The Batgirls break into the Iceberg Lounge in order to rescue Seer, who’s held hostage by the Saints! Nightwing and Oracle get dressed up and go undercover to help the Batgirls, while also making the mission a date night! But why would they help Seer, the very person who’s been hacking into their network and harassing them? Read here to find out!",
+"date":"July 12, 2021",
+"tag":"",
+"img":"https://2.bp.blogspot.com/yQfvq6q6nGmVtc3GRCzXhq8KweC5Fcrxts8bEwZu2BRTzQN4rhqQSrAZnNEC-mVeZqIeo0PP8eGlUswcjuHFnHqOwuIiuDJIMfvjLxkt5S5Kim398aZZYrpgCOqewndkT53YocEzsg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_8.html"
+},
+{
+"name":"Batgirls (2021) @9",
+"summary":"BAT GIRL SUMMER
+
+After what happened with Seer, there’s no time to waste for the Batgirls as they go Batgirling back into detective mode! And this new murder hits even closer to home—literally! As Steph, Cass, and Babs are racing to put the clues together about who might be the Hill Ripper, they get an unexpected visit. Who doesn’t love a killer fight scene? Yet with all this murder going on, Steph still manages to get her flirt on!",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/J_7d2ZaTG5x0NUDHn1B48DvivHOrVR_PKGyuMs40Mpibum6Ee6rrYDmmYZv-4JZDDWgEVV1qnryG4Rfh9Jdjklw7dt4lRu3mtQwTfiWbM7e1suIxdt9nPxTRygFwrpv6-EFimtPPuw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_9.html"
+},
+{
+"name":"Batgirls (2021) @10",
+"summary":"BAT GIRL SUMMER, PART 2
+
+Steph has a…date? With an actual boy? Well, this calls for a celebration…or a trip to the zoo! The Batgirls and Steph’s dreamy love interest are in for a day of monkey business, but all that monkeying around ends when they’ve got henchmen on their tails! Meanwhile, Babs is one step closer to tracking down the Hill Ripper—too bad all it took was yet another homicide.",
+"date":"September 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Hz5Hb7d-h4UPgFTtldVKugF03xBvm1sTxMSTH4VvHQsXbpxhcNar0oecFpjo0PeFcG9UR7EVNtPFiu-YCM00Q2P6zhQgWOJ9D_c6KL-SsuXxGtI0yHNG4YmkANeDwuI2gwK558FH-A=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_10.html"
+},
+{
+"name":"Batgirls (2021) @11",
+"summary":"BAT GIRL SUMMER, PART 3
+
+The Batgirls get help from none other than Gotham Academy's very own Maps Mizoguchi and her brother Kyle to help decipher a clue they found that could help reveal who the killer behind all the Hill murders is, which leads them straight into…the city zoo…",
+"date":"October 11, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XvMSWFlklH84pJ5K1n0HqUe1S7w-TbMqLQL2DevlFavtmb9ekHY_K7kZxv0hWsQ9NYyTkDxtE5ljAsTdvO590fwiPyXX9BQm8AO7SnjeIFxaJIdgDW5GfNu9F2LG-iUSOouvjOCs=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_11.html"
+},
+{
+"name":"Batgirls (2021) @12",
+"summary":"BAT GIRL SUMMER, CONCLUSION
+
+Boy, do the Batgirls have some tea for you! Literally. Cass and Steph go down a rabbit hole of madness when they’re invited to Mad Hatter’s tea party. But with the death of yet another Hill resident looming on their shoulders, they’re one step closer to finding the Hill Ripper.",
+"date":"November 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rGjfRpmaRASVWHiQObC1vCl5hClFFMA6Q_w0QcFRii0lwwTAq1knNeeJPLFzpjHeIQMSHj5RFLGV0nasBNqctbEnxkefji_HqFV7PeFpWtqDkC8O0RtE1Ye6USu2Ff0ehHgCuswY6g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/12.html"
+},
+{
+"name":"Batgirls (2021) 2022 Annual",
+"summary":"VICE VERSA, PART 1 OF 2
+
+It’s a freaky Friday when the Batgirls wake up inside each other’s bodies! That can’t be possible, right? It’s only stuff you see in the movies? Except Oracle has seen this happen before and the only person who may have the antidote to swap their bodies back…is Batman! And to make matters worse, Lady Shiva is here confronting her daughter about something…and it’s up to Steph to put on her best Cass to get through it!",
+"date":"November 29, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/LFUvfnwZKM3NRm8hnMMUxYGCHdlq_Jzqbcx_aLUUCOXAvF3AdFB-xJXu5oMSg0KKdJSRF4G4aJhA64znpy2gcmFtCnHfhCdtGYxGVRaZVYW20IsaBkPJmppqBG4JwCIwNSDPVclwfQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_2022annual.html"
+},
+{
+"name":"Batgirls (2021) @13",
+"summary":"VICE VERSA, PART 2
+
+Batgirls Steph and Cass were taken off guard when they were captured by their own parents while magically swapped inside each other's body in the 2022 Annual, and now it's time for them to take the power back and do their own confronting! But sometimes it's easier to kick butt than it is to talk about feelings, especially when those feelings hit close to home. Lady Shiva and Cluemaster seem to want to make amends with their daughters, but if the girls know anything, it's that nothing is ever what it seems!",
+"date":"December 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/VBeGS0bJuGKtqqevjD8U7Gi5ZwNOyopjEc4qz-czs-1LWBmpqk-U5U0QONgF1UjjPLIJG6CowfsA28pEenqlzInBfRFzEva44ne267aG_8miOXS2ph2v4z_9WYNNXS-sPjunU6XnjA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_13.html"
+},
+{
+"name":"Batgirls (2021) @14",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8aO2X_FHdHPOcM6OFCqMRujDMx7DZPwJ774tOrDHgyTr5xm2EGnjBA5gOlDSM9qcawPiMB16fOJvO8psMrzW7Fo8sz6IYvefJjv7UI4Lr2V3nEVVmkfcAM6fBh3qqTAmKR8wwESIaQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_14.html"
+},
+{
+"name":"Batgirls (2021) @15",
+"summary":"DEAD WRONG
+
+There’s nothing like some father-daughter bonding! Unless you’re Stephanie Brown, and you thought your father was dead…until he kidnapped you! At least your BFF Cassandra Cain’s determined to find you. It’s a deadly adventure for Cass, but nothing can stop her from risking it all to save Steph—unless it’s death itself…",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/v_SxyxAEMDp-9LR0SoOUa7HkUAyJWcjpNA7ZrvB8wMQVgdIrqy0RBqQga6i2Vozv9MfXo7D8Sb8DZHJPaDanqL6esZKiLem9iCQFvqIz2Qkq6onWp4ih0eqdDtPap5ygd-ZMcumtbA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_15.html"
+},
+{
+"name":"Batgirls (2021) @16",
+"summary":"EVERYONE'S MAD HERE
+
+The Batgirls fall down a rabbit hole of mischief and wonder in their journey to find out who sent Cluemaster to kidnap his own daughter, Steph. But first, there’s a bottle that says “Drink me,” and it should be perfectly safe to drink, right? Even if it looks like it’s been laced with Langstrom serum?",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/F8f0umvu5eDs2mbWQEJMVDViailb-mrXz3LJo94wkss-FQ0ZejruzmpDvV-IJpCPiI1AUI6Ox-efjazRRQ9VP-biTknNFSdsqVpAHjf48wKjRy9rUtIZ16-2C-oRLKz3cNbQI8jUMw=s1600?rhlupa=MzQuMTM1LjE3OS4yMjQ=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"batgirls(2021)/batgirls(2021)_16.html"
+}
+][
+{
+"name":"Batman (2016) @1",
+"summary":"'I AM GOTHAM' Chapter One, No one has ever stopped the Caped Crusader. Not The Joker. Not Two-Face. Not even the entire Justice League. But how does Batman confront a new hero who wants to save the city from the Dark Knight?",
+"date":"June 15, 2016",
+"tag":"-batman,",
+"img":"https://2.bp.blogspot.com/5xIwXgG9FynI5GJxFD6Yx-iqYFvwACnMhPeJRHNNihx7CVZL-viqM8zbx1NXS1V5MU1mUzmlI3KO=s1600",
+"page":"batman(2016)/batman(2016)_1.html"
+},
+{
+"name":"Batman (2016) @125",
+"summary":"Superstar writer Chip Zdarsky joins legendary artist Jorge Jimenez to define a new era in Batman! Bruce Wayne is at a turning point, haunted by dreams of a dark future, while Gotham City billionaires are being gruesomely murdered. With the discovery of an archenemy's involvement and a tragedy unfolding, the Dark Knight's nightmares are just beginning. And in the backup, there's chaos in Gotham as the underworld fights over one of its crown jewels…and Selina Kyle is caught in the middle. Can she stop the bloodshed and maybe even make a little money in the process?",
+"date":"July 5, 2022",
+"tag":"-batman,",
+"img":"https://2.bp.blogspot.com/we5AcVWwMDwDESruqvvHNMb31OIFBZln-tgWS48x88cbq-f7d17IPkmqJVokN1TGWOHqjAYNaWn3peroGh0zeMRXdcKbl5KmLMTeqr48YDg0-w28PH6AzarUVhWrnuYttdWVaNtlQA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_125.html"
+},
+{
+"name":"Batman (2016) @126",
+"summary":"FAILSAFE, PART TWO / TWO BIRDS, ONE THRONE, PART TWO
+
+Batman has battled all manner of criminals, monsters, and super-villains, but nothing could have prepared him for what’s coming with Failsafe, an unstoppable foe that can outfight and outthink the Dark Knight—but could a dark connection to Batman’s past be the answer? In the backup, Catwoman is piecing together the lineage of one of Gotham’s most notorious criminal families...and it’s not for the faint of heart!",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7TOSu4Ww0uciCys0Z0Zn1IxPwGshagkcJHAgvebLzLOPT1REV6Fjiz_6E1Ip7u0YDjZGy4eHQY7pa2HuTL6n44ra8GHNEE0JHpbS03xrkE6gBDaXtmeUuUKQS9GOQWjVXWJ3RsT_Bg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_126.html"
+},
+{
+"name":"Batman (2016) @127",
+"summary":"FAILSAFE, PART THREE / TWO BIRDS, ONE THRONE, FINALE
+
+With brutal efficiency, Failsafe hunts the Dark Knight, leaving a trail of injured heroes! Batman retreats to the manor as he prepares for a final assault…will the last few surprises he has in store be enough? And in the backup, Catwoman reaches a shocking conclusion in her search!",
+"date":"September 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Dl2UbuOoiCND8uU8X0sr4UH9m2kFjdMNVSiKYCzAYE346Ass9O_WSVu_YteLK61Nup6P9ZH1hByNY-9KdG-d1zjqDB2E2LAlDmHpbswInsnNVijFt9XTGJ__QvQavni0xdS3PQ609w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_127.html"
+},
+{
+"name":"Batman (2016) @128",
+"summary":"FAILSAFE, PART FOUR / I AM A GUN, PART ONE
+
+Failsafe has taken his family, his allies, and now his city...Broken and beaten, Batman retreats to the last place on Earth he can hide...but nothing can truly hide from Failsafe! In the backup...Batman has prepared his mind for anything, or so he thought. We go back to his early days and a chilling case that led to...Failsafe!",
+"date":"October 4, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9VJ-2KuaHd-ENK59AzXLfFgQY_CLqvtNrt3HCbtVq0Xf7YTwnDmJ-I4NNjYIPBttSCBywCEhH2eYQ4sMvuR2feMEoA_tb_SxBEsOFoL7NCZmfYktosNuTufrY1us_5qEm57m4ByKrw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_128.html"
+},
+{
+"name":"Batman (2016) @129",
+"summary":"FAILSAFE, PART FIVE / I AM A GUN, PART TWO
+
+Failsafe has countered every move Batman and the Justice League have attempted. Is the Dark Knight out of options on...Earth? The bestselling Failsafe arc continues! In the backup, we travel back to the early years of the Dark Knight Detective, revisiting his most psychedelic/mind-breaking period and the dawn of his backup protection system...ZUR-EN-ARRH!",
+"date":"November 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EF22ABQL-pYbhMg8lrrF_-na2eHME0wEf_QcwxqRW1EANf0FHYHLRN-jdr5k39DBl2hp6tEcHCBa9qaXyvvBsVmB-yTJkiuU92f4P4sRrm9Q6KJ5FkeawxloxSSwY4x4XVXJk64q4A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_129.html"
+},
+{
+"name":"Batman (2016) @130",
+"summary":"FAILSAFE, FINALE / I AM A GUN, FINALE
+
+The final chapter in the Failsafe arc reaches its brutal and stunning conclusion! Batman has one desperate, final option...will he walk away from it? The answer will shock you! The early days of the Dark Knight and his relationship with Zur-En-Arrh continues!",
+"date":"December 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rElprU1D-LxfR7FWWMIuonMmWyQG529YJPjsje81OIMD2MT3wMJWmWrzd6UbiDNukl7vIKHk9-q_R52gHzrAD_0Plx3yLBbmUB8Dkng8fCXhzgOKfMBdipiZUkeFLD_K1q_F7tGtuQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_130.html"
+},
+{
+"name":"Batman (2016) @131",
+"summary":"THE BAT-MAN OF GOTHAM, PART ONE / THE TOY BOX, PART 1
+
+Gotham City has never been darker or deadlier. And after Failsafe, there is no Batman to save it. Can the fractured ghost that roams the streets survive? Whatever happened to the man known as…Bruce Wayne?",
+"date":"January 3, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rZ2HambqR4s3BAdkEMuBk9IzwAf0xH-574newSAOQuqt-96R2NRgRYnesQaV9U8h2jUP79uG0aY8zWt7UobJW_a-ziGjjRiua7pR8vKSdogSSUnNcqvX8OY1qTmtVUUFIhHMEZYlfw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_131.html"
+},
+{
+"name":"Batman (2016) @132",
+"summary":"THE BAT-MAN OF GOTHAM, PART TWO / THE TOY BOX, PART 2
+
+The mean streets of Gotham City have gotten meaner as the likes of Harvey Dent and Killer Croc roam free, brutalizing the population. Where is Batman and why hasn’t he responded to the cries of a city in peril?! Can Bruce Wayne find the answers before the mysterious Red Mask captures him? And in the backup story, Tim Drake's hunt for Batman continues. Will Metropolis's newest Superman, Jon Kent, be able to help the Boy Wonder with this Multiversal mystery, or will they both run afoul of an overpowered Toyman?!",
+"date":"February 7, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/gmR2L6SyL0_atQgK7EUEpUut6rtuB541RV6TXRT_6PWeqkBxjxdnSSrgHbkcQWRRWVVNZZlRqqqZOkdVvvbbh_AIK3cKKmRSisJpRCJKZVFyxC707lViy4tqt89a5cRRH0cl-tosOQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_132.html"
+},
+{
+"name":"Batman (2016) @133",
+"summary":"THE BAT-MAN OF GOTHAM, PART THREE / THE TOY BOX, PART 3
+
+Everyone goes insane eventually. And then they belong to the terrifying Red Mask! But Gotham City has a new savior. He strikes from the shadows, exhumes the dead, and is known only as…the Batman. And in our backup story, Tim Drake’s search for Batman continues as he and Superman, Jon Kent, team up to stop the terror of the Toyman!",
+"date":"March 7, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8D_7ZpHrriXS4VXsq9cY26sNdxyCZ0nM-HRyvy63bYeu2B3njhCLRt8yQ5G5m33NVnIbZup4cBNGuKn0byUIyJt-mw59J_hdYxbsfMUErWxfW2Y2PAncSLHT8_DVFjL3w2KWcCWQCg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batman(2016)/batman(2016)_133.html"
+}
+]{
+"name":"Batman '89 (2021) 6",
+"summary":"It’s a battle between former friends for the heart of Gotham as Batman faces down Harvey Dent. Can Bruce save his friend before he goes too far, and what does this mean for the future of Gotham City?",
+"date":"July 5, 2022",
+"tag":"batman, ",
+"img":"https://2.bp.blogspot.com/w2ElHdPYX9D7sVnTfs6BsBlxNVRzrckDA3WCDHoedwVTMp68Vx2gUbspsADt4EtBHf0koYUnCnPcPgFvOiIyCJ5Bi84-fifR4UuLhLl8nfTeK1nvQRDwgEidelgcteIA1dmnLf-CiA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batman89(2021)/batman89(2021)_6.html"
+}{
+"name":"Batman Beyond - Neo-Year (2022) 4",
+"summary":"The Sword of Gotham strikes! Neo-gotham gave Terry McGinnis a chance to leave-he was warned a Batman could not live in this new city. Terry refused and now he’ll have to live with the consequences: a fight for his life with Neo-Gotham’s unstoppable soldier, the Sword of Gotham. Tonight Batman Beyond falls.",
+"date":"July 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/nj6vOEKjzX8CMgXOv-NcyomaoyB_D0DushHPJ8QRtNymPivvUBztUhhOds0qRWrLeDinaD10Es9eW7FtTUkAPpFHlS1Z_6io5SlLjDDSdaTyWaQNUIZuAJ7X2nAhynLHS8OIfd1y-w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondneoyear(2022)/batmanbeyondneoyear(2022)_4.html"
+},
+{
+"name":"Batman Beyond - Neo-Year (2022) 5",
+"summary":"CHAPTER 5: GOTHAM'S KNIGHT
+
+YOU CAN NEVER GO HOME AGAIN! Neo-Gotham and its Sword have compromised and gravely injured officer Beam Boonma. To save her life, Terry McGinnis will bring her to what remains of the Batcave, begging one of his newest foes, Gestalt, to help him. Terry has one last chance to save Neo-Gotham from itself. He’ll have to take everything he’s learned in this year without Bruce and redefine the legend of Batman once and for all.",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5QCUhEXS2dFvS1K6l6BgFQc2Bue4aEdMeK0lX5ri8eNshMynDAfhKWzAQbgR_p-b4iMykLlQ5DLLGgfQPp6_x7HVwdxXzJl-iTRUmhI8P-Ys-lJLNWvaVlrJGED9vPxcNWnMoQq2Vg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondneoyear(2022)/batmanbeyondneoyear(2022)_5.html"
+},
+{
+"name":"Batman Beyond - Neo-Year (2022) 6",
+"summary":"THE END OF TOMORROW! The Neo-Year is drawing toward its epic conclusion: Terry McGinnis has spent the last year waging his war on the artificial intelligence that conquered Neo-Gotham. In this issue he'll have to put together everything he's learned, refine his own myth as Batman, and bring down Donovan Lumos, Neo-Gotham's A.I., and the Sword of Gotham. Terry McGinnis flies the night sky in a new Batman Beyond suit. Everything about the Batman Beyond mythos changes here.",
+"date":"September 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/FQ64YLHmIPH32HomxPOc9FohUf_qgRUb-Sv6aivq78LQP5aX6s1yryCGaINtII4EvYB2p9r1CiHtX82--jgwGxDagX4ukpOapTy5Bd0mpLiuFUZ6kuXdKeespaHYWYeaSBMXwqXjVg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondneoyear(2022)/batmanbeyondneoyear(2022)_6.html"
+}{
+"name":"Batman - Beyond The White Knight (2022) @3",
+"summary":"The future of Gotham is coming to destroy its past! Batman…murderer? After discovering Bruce Wayne facilitated the murder of his father, Terry goes on the hunt, ready to unleash as Batman Beyond. The clock is ticking for Bruce in more ways than one after Harley Quinn’s daughter goes missing. And if she takes after her father, the fate of the city is in her hands! Can the former Batman find and stop her before the police do?",
+"date":"May 24, 2022",
+"tag":"Batman,",
+"img":"https://2.bp.blogspot.com/ZamcNgpQdy_TZ2dzviBuGrKRUlE-SPuQH_-LrVRwqzFkg-AvQgmRWEYEml9zXxqLO1GLukW7nSfMsdaZqFDmvNT_AhliQt6gIqe3q8qRIdhE2keRhGBD_2s5QwG0t_x9c48S0t9HQA=s1600",
+"page":"batmanbeyondthewhiteknight(2022)/batmanbeyondthewhiteknight(2022)_3.html"
+},
+{
+"name":"Batman - Beyond the White Knight (2022) @4",
+"summary":"The hunt continues as Bruce Wayne searches for the most dangerous offspring in Neo-Gotham, the daughter of The Joker! Little does he know the new Batman is right behind him, waiting for just the right moment to strike and put an end to the older generation of heroes in the city. All seems to be going according to plan for Derek Powers, as his true intentions are revealed. Plus, Ace the Bat-Hound joins the story!",
+"date":"June 28, 2022",
+"tag":"Batman,",
+"img":"https://2.bp.blogspot.com/QbxVtRnkPo9Pm22NvZbaJwZqWUntXFbSu_1gvu-N0sLao3LhEM4HhPeS88YYvWRtdsEJAbYfWovs6hQpYxdDRCK8XRW3MHCZvHsXdSTSqVAWuhRxYTZK8pitaYVbirZ5VI6CxrUWuw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondthewhiteknight(2022)/batmanbeyondthewhiteknight(2022)_4.html"
+},
+{
+"name":"Batman - Beyond The White Knight (2022) @5",
+"summary":"BOOK FIVE
+
+Gotham’s most wanted, Jackie Quinzel, has been spotted at Wayne Industries! Now it’s up to the former vigilante Bruce Wayne and his new sidekick, The Joker, to break her out. But Derek Powers is always one step ahead, with tech ready to combat any tricks they may have up their sleeves. Is the dynamic duo doomed? Or will a dark knight in future-tech armor come to their rescue?",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Rt9aybWpu1UdbScFrh63V_75EUpaDdI9FSJPimX9r9SW6f4zHRjE0TuVJtgrewK8gV99kqzMKJD9SDTnuUe5NbytEbsp4wuFyeb275E4X7oRXyH7umsDkM8EZckXwu8CfxeubIOrTw=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"batmanbeyondthewhiteknight(2022)/batmanbeyondthewhiteknight(2022)_5.html"
+},
+{
+"name":"Batman - Beyond The White Knight (2022) @6",
+"summary":"BOOK SIX
+
+After years of rivalry, it's the showdown you've been waiting for...Jason Todd versus Dick Grayson! Who's the best Robin? Find out this issue! Plus, with the help of an unexpected new ally, Bruce Wayne aims to take Derek Powers down for good. But will the malevolent millionaire's newfound powers prove to be too much for the former Batman?",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5-sCDgBY0Ap_mGyFTiSK_YUPOzANegx8D5VrFNHSL4GB-7DLNzIVWMURTQoJfVyw8WKcVzHfRL6rejVAva8zcGrxueLJqhX7fxdJMbBCBm6wglnmCNlt3UMrgxawuIeIG3z5ybpOcw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondthewhiteknight(2022)/batmanbeyondthewhiteknight(2022)_6.html"
+},
+{
+"name":"Batman - Beyond The White Knight (2022) @7",
+"summary":"BOOK SEVEN
+
+After a freak accident, Derek Powers has been transformed into the super-villain Blight! With his metahuman abilities, he’s more powerful than ever and it’s only a matter of time before Gotham becomes his forever. The Wayne family’s reign is over unless the heir to the name, Bruce, and his found family of heroes can figure out a way to take Powers down. Find out what’s next for Neo-Gotham in this thrilling penultimate issue!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/nHIaIMeMFb8hZUqL6g4Hjcbksj8Ovubxs_w8lxRNNVRDz1D2O9RlPZs1GYDqE_ZyNQLv6D6gsgzX_wyEGJdJsP1lNBvIBQhFNt7RdyKxN4Fejwn1_vs7jp1p1DZfDdtPhIy3VCX4Vw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondthewhiteknight(2022)/batmanbeyondthewhiteknight(2022)_7.html"
+},
+{
+"name":"Batman - Beyond The White Knight (2022) @8",
+"summary":"BOOK EIGHT
+
+It all ends here! With the future of Gotham City at stake, Bruce Wayne leads an attack on the Wayne-Powers building to take down Blight and his minions once and for all. And with the new Batman, the Robins, and GCPD’s Barbara Gordon at his side, anything seems possible. But not all endings will be happy: Bruce is still an escaped felon, and the FBI is hot on his tail. Could this be the end of Batman? Not if the mysterious Agent Prince has anything to say about it!",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7xRvjMCEPobAtCKqjhyX4BFp1TQ9RwDDOVWtHEk7sSlKuh9YQ939K5nXj7gDutdVhAnJs6mdW5je8GArkKULt3jR2RdADGajZ5nu8idlAUetri2kxqdI__Zd-rt8GMC-fjumL1y63Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanbeyondthewhiteknight(2022)/batmanbeyondthewhiteknight(2022)_8.html"
+}{
+"name":"Batman/Catwoman (2020) 12",
+"summary":"Wedding bells are finally ringing for Batman and Catwoman! As our story concludes, the lovers prepare to take the next steps in their lives together by trading everlasting vows. The Bat/Cat wedding is here, and knowing Bruce and Selina, it’ll be anything but conventional. You won’t want to miss this final chapter of Tom King’s Batman epic!",
+"date":"June 28, 2022",
+"tag":"romance, batman, catwoman, superman,",
+"img":"https://2.bp.blogspot.com/vK42xxVF8cN03y6AO4lxM1wc7ZquLoVdpakt0RXkUjQlhxHBbNLTpO68hI4wKy8-8VIPYIYRcmbk5lS2gbRU4K6OPHsibckE_bdYDAGxabtpHvwLYXNoXfxL35gk1429CULD1EnEWg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmancatwoman(2020)/batmancatwoman(2020)_12.html"
+}{
+"name":"Batman - Fortress (2022) 1",
+"summary":"When an unknown alien ship enters Earth’s atmosphere, disrupting global power and communications and plunging the planet into chaos, the world is left wondering…where is Superman when he is needed most? In the mysterious absence of the Last Son of Krypton, Batman must rally the rest of the Justice League to counter the alien threat…but first, he must quell a crime wave on the blacked-out streets of Gotham!",
+"date":"May 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KWPAR3uT0P9IDwM-OMuW24Wd14LgIlB2n1x-PF3PTV-nWSuU0YC6tRmsM5HWge_yfi2rI5kZr_SNSqrQIAn8-3Rxfhms-yazbTnLHlaTpLkIXsSeN6azC0pWsuN5P63z1hMZHz8x2A=s1600",
+"page":"batmanfortress(2022)/batmanfortress(2022)_1.html"
+},
+{
+"name":"Batman - Fortress (2022) 2",
+"summary":"Batman and the Justice League are working desperately to save innocent lives after the arrival of a mysterious alien ship that has destabilized the entire planet. After all attempts to communicate with the unknown invaders fail, they’re left with no alternative but to fight! But can even the combined might of the Justice League and all the world’s militaries repel such an overwhelmingly superior force?",
+"date":"June 28, 2022",
+"tag":"batman, wonderwoman, flash, cyborg, alfred,",
+"img":"https://2.bp.blogspot.com/bFXKOm60S8GkBC2ycSp42viNBhNdms--4LFCoD2iNG4VjgMN-o1nOPAoPaLScDwZknn6r9asCf0ivfULUQTYsWnCxufaVRgZMFmy6MDMg-Wzkak9goCzpYSf5Je2aw7WRFXHZorbGw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanfortress(2022)/batmanfortress(2022)_2.html"
+},
+{
+"name":"Batman - Fortress (2022) 3",
+"summary":"Time is running out after a disastrous first encounter with the invading alien force, and Batman is forced to change his tactics and team up with the last person on Earth he could have expected. The mystery deepens around the absent Man of Steel, as the alien motives become more clear… Could there be secrets to his disappearance at the Fortress of Solitude?",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/1biaerhXFoijziTA6LhqJcuE1DbMZeWsxNli3GB5NqydLLwuoWePWN09CgJy56bo_6XV5dQJna2OQqmhfsEDlnJDkT0UahAZJp4NeCbPv40zMgxJ8hkMjn7q8sUXDlIWQh6cLZixXA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanfortress(2022)/batmanfortress(2022)_3.html"
+},
+{
+"name":"Batman - Fortress (2022) 4",
+"summary":"With the fate of Earth on the line, desperate times call for desperate measures…and the team-up of Batman and Lex Luthor is the definition of desperate! With the world hanging in the balance, can this bizarre dynamic duo locate the Fortress of Solitude before the alien invaders do?",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/GVozz8Ntup236rZYQ10UOGVn0U5evuDgrzUO0lxMakpMK1-5oGjaMSAHQvIZvNpNenqqUBYzwODgxLNbvs2458g5laXs6JPGRc2VIj_pOW-B57r0OyBr4PoHenKxr0IO6jZ-56ENGw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanfortress(2022)/batmanfortress(2022)_4.html"
+},
+{
+"name":"Batman - Fortress (2022) 5",
+"summary":"With the fate of the world hanging in the balance, Batman and Lex Luthor must assemble a team with the skill set to break into the Fortress of Solitude…With a worldwide blackout and the Justice League neutralized, what motley crew will this dysfunctional dynamic duo assemble?",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7ONalzP1sNa2jmcnY1tbswSndBOwnuyt7IP92_BOBvHVuOAlygJk5ptskhw2orFn1XjEKd-Cey3AbQ13cFSAAy9dEQiI5h26c-Xq06ae1zriCufHPfdQJPanSewrY_nFiGoodplGpw=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"batmanfortress(2022)/batmanfortress(2022)_5.html"
+},
+{
+"name":"Batman - Fortress (2022) 6",
+"summary":"Having finally located the Fortress of Solitude, Batman and his hastily assembled allies quickly discover that it is as deadly as it is awe-inspiring. With an alien force holding the world hostage while the heroes hunt for Superman, can the Dark Knight find a weapon to repel the invaders? Or will his ragtag team succumb to dysfunction and betrayal before they can save the world?",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5e--M5736Ftvtf8r7e6IIlE-5X5EK4gqQmOPE5X8JD5fW3-A9YFYGz8NbpdaOxN4OjmUEUHBforAdsT1Cl-lEbrC3tT67TX0S0G-u8j7ds4qNtOtzNk7E0F85gc2t-1_hQJrFhlNcg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanfortress(2022)/batmanfortress(2022)_6.html"
+},
+{
+"name":"Batman - Fortress (2022) 7",
+"summary":"Batman and his team of unlikely allies have penetrated the defenses of the Fortress of Solitude and uncovered the shocking answer that has haunted the Dark Knight from the very beginning—where is Superman? You will not be prepared for the revelation!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RNs274pPjyFCDltrUYTzkMJglW5i_cLnMI4-blBNZU4tEU-q7-uN100gPIkfUSd1FOn7kSuibrAfI53p4DhBmq2GpUB2yZF7J5tt3awpaCQhK4lx0aDffSd0FWF0VEuJjh-TTI5msQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanfortress(2022)/7.html"
+},
+{
+"name":"Batman - Fortress (2022) 8",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/N62auwvdKqlpypETivUV0WB75Z3WQ0VDqUWRima5U3Gl4hey8wohOvX9rZVZjaQoGAuAUfmgl9vT5IDTxH3Z59hgVCY_BZzZOGqu451d-amDhXCA_jJCyEoef6qvzLFmRyqPygCKNg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanfortress(2022)/batmanfortress(2022)_8.html"
+}{
+"name":"Batman - Gotham Knights - Gilded City (2022) 1",
+"summary":"LIMITED EDITIONS
+
+A mysterious virus has infected Gotham City--turning its victims into rabid, yellow-irised maniacs driven to looting, theft, and bursts of anger. Batman and his Gotham Knights struggle to keep this strange virus contained while investigating its origins. But this is not the first time this unusual illness has overtaken the city. Take a trip to Gotham in the mid-1800s and meet the city's first masked vigilante--the mysterious hero known only as the Runaway--as they, too, find themselves mired in the mystery of this infection! This thrilling and horrific tale, split between modern-day Gotham and the Gotham of 1847, leads directly into the upcoming video game Gotham Knights!
+
+Each issue will also offer a code for readers to redeem in the Gotham Knights game for an exclusive item. For issue 1, readers will receive a code for an exclusive skin variant for the Batcycle! Readers who redeem the codes for all 6 issues will receive a special 7th item!",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/mnrudJMVJJaC4KMCgj9HXD2VN92Mz3k8IGxFFQuFQNwvFTr01TF5yWgR6LOa0Skwpq5FFrxGgw_C-DOJT5JcwwzzAOelD_Z2ufgMnY3kW8uw1ll3pqVClW-yJkKaI_fQrBaSeyC5=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmangothamknightsglidedcity(2022)/batmangothamknightsglidedcity(2022)_1.html"
+},
+{
+"name":"Batman - Gotham Knights - Gilded City (2022) 2",
+"summary":"BACK TO LIFE
+
+More than a century in Gotham’s past, the mysterious hero known as the Runaway investigates a rash of disappearances targeting the city’s working class. In the present, it’s Batman versus Nightwing! The Dark Knight’s further research into the volatile Golden Iris Virus leads him to Blüdhaven, and his former partner isn’t happy to see him.",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/igvu5g0O6gfykE8iQTcar-Ry43Ho8d6NK46b079o_74LxG8xqQ2-s_7c_4JY9_2MSkCPKk6Rq0MJfi772kxwDpZ_fA5R_-N18zmIzokGlLXY4WQw-hywgVQlxlzMwnYJ9nDP3A2OVQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmangothamknightsglidedcity(2022)/2.html"
+},
+{
+"name":"Batman - Gotham Knights - Gilded City (2022) 3",
+"summary":"TRUE NATURES
+
+In the Gotham City of the 1800s, Runaway has awoken in the subterranean laboratory of the Court of Owls! But when a new, rather savage ally enters the fray, Runaway is faced with a centuries-old mystery. Meanwhile, in the present, Nightwing and Robin are thrown for a loop when they face off against crazed victims of the Golden Iris Virus…in an abandoned amusement park!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/HAcUzSFSgvbMDgZyv7_yIcFJTIQwL522xCyMKUhsvsxwgwREFM3PLMY4qXEkfINFdl5MuuL8ZmMoqcerWBJE4bG9HFd-2YJbqukgg2A4f86sXxO_FiH4Oz2P7kNqjfVn5OV_EKMK9g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmangothamknightsglidedcity(2022)/batmangothamknightsglidedcity(2022)_3.html"
+},
+{
+"name":"Batman - Gotham Knights - Gilded City (2022) 4",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Y8h6wy5pWPWPon9d-1FTGc-qI80gaIviLlwmhXlJNyyVUz8u_bAsPXDQhx-CDoYFMTEqUtmT_XHLKgQLfBPRDBjo__eJFXG3qYGsalq-hBlD5Dv8eiWxqG_jA7j1Rr_CgjDUH9-BDg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmangothamknightsglidedcity(2022)/batmangothamknightsglidedcity(2022)_4.html"
+},
+{
+"name":"Batman - Gotham Knights - Gilded City (2022) @5",
+"summary":"MYSTERIES  & MASKS
+
+Infected with the Golden Iris Virus, Red Hood’s innermost desires have bubbled to the surface, and he is overcome by one thing: the desire for revenge against Batman! Elsewhen, in the Gotham of the 1800s, the Runaway and Vandal Savage continue their investigation into the mysterious illness overtaking the city. Join us for this penultimate chapter in the prequel to the action-packed game Gotham Knights. Each issue will also offer a code for readers to redeem in the Gotham Knights game for an exclusive item. For issue #5, readers will receive a code for an exclusive skin variant for Gilded Age Bo Staff! Readers who redeem the codes for all six issues will receive a special seventh item! (Terms apply. See the FAQs at dc.com for details.)",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/cj_ganJ_xqg7_4LgZvMBUqVe1RIMadXiGpi9vASzSDzPQEcYVMZ9r1SPMlAwf3VmZi-lbEF0C00O8JIvyoNjHxw2ESjZ24RluoZQdVbNNFlnmJCRYan_vJWyNZbd17vss_vBmkkjXQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmangothamknightsglidedcity(2022)/batmangothamknightsglidedcity(2022)_5.html"
+},
+{
+"name":"Batman - Gotham Knights - Gilded City (2022) @6",
+"summary":"GOLD CRUSH
+
+You’ve seen the Gotham of the past and present as it is ravaged by the Golden Iris Virus, menaced by villains across time, and protected by its respective heroes. Now, in this final pulse-pounding issue, see this story that has spanned centuries come to a close, and bear witness to the events that lead to the hit game! Each issue will also offer a code for readers to redeem in the Gotham Knights game for an exclusive item. For issue #6, readers will receive a code for an exclusive Signal Colorway! (Red Hood Signal Colorway shown, also available for Batgirl, Nightwing, and Robin). Readers who redeem the codes for all six issues will receive a special seventh item! *Terms apply. See the FAQs on dc.com for details.",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/LvCkDdYvTIUsiuhm_v0NGj9GLgg5ajf6Byktm1Yb-QLn0mXLy2Q6h0JWGDe-1z9kSaScfQ9eyrZ3EHuoiwsbLWifuw5_1flCs98wu2mrWlEdVc2oX1VWGer7c4vDrBbvpwef2Q-8rw=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"batmangothamknightsglidedcity(2022)/batmangothamknightsglidedcity(2022)_6.html"
+}[
+{
+"name":"Batman Incorporated (2022) @1",
+"summary":"NO MORE TEACHERS, PART 1
+
+From the pages of Batman comes an all-new, all-exciting adventure for Ghost-Maker and his Batman Incorporated team! The team's trust issues and detective skills are immediately put to the test when someone from Ghost-Maker and Batman's recent past is brutally murdered…Is this an isolated event, sending a message to the two? Or is this the start of something darker and more sinister? (Hint—it's sinister and dark!)
+
+The all-star creative team of Ed Brisson and John Timms chart a new future for Batman Incorporated in this exciting new ongoing series, loaded with adventure, excitement, and amazing new members and villains!",
+"date":"October 11, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/1oZBfB6BvI97iOoULWH5jk55o8fmSbp985fTFrf4wTI3JJvHcuE0zYHWwMs3wfJxTCKtaFv9QNQx8ZhQ60j1RggBSJHIaa5qumzyoj7c6soQ1uctZu1LPDqtuuqxStndt4hIQjVwmg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanincorporated(2022)/batmanincorporated(2022)_1.html"
+},
+{
+"name":"Batman Incorporated (2022) @2",
+"summary":"NO MORE TEACHERS, PART 2
+
+The pulse-pounding second chapter to NO MORE TEACHERS continues as Batman Inc. continue to investigate the death of Ghost-Maker and Batman's mentors. Each new lead only begs more questions and threatens to unearth a shocking secret buried deep in Ghost-Maker's past. A secret that refuses to die.",
+"date":"November 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/H9i4JgaGHJAUc-ZIot4_VUqah0BVYp9S2IyETcDjE-O3bxPNpxdJrhI966VoTGU80EIjhrsOiZwobzKCFebxenRI_-qNb5IeN9uCUDf4JBxvhbe9MCsWaYU1p6eIefehEa3qexE8VQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanincorporated(2022)/2.html"
+},
+{
+"name":"Batman Incorporated (2022) @3",
+"summary":"NO MORE TEACHERS, PART 3
+
+The senses-shattering third chapter of 'No More Teachers' continues as the Batman Incorporated team find themselves at war with...a rival Bat-group? And Ghost-Maker is about to come face-to-face with his greatest failure and his deadliest enemy--the mysterious PHANTOM-ONE!",
+"date":"December 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EoF6RdNijJKf7dXRDMTYe74q41LiSjTl3gh8T6-YaTGIt8ThtBFHT7MhZUEqqQqWotvve9EOwW5ROrznA8wejGDMPtEyTnh6ZyX29W9RDGVsycgRtCOQ5FUZv8ilW2sHMEf16pY7ug=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanincorporated(2022)/batmanincorporated(2022)_3.html"
+},
+{
+"name":"Batman Incorporated (2022) @4",
+"summary":"NO MORE TEACHERS, PART 4
+
+Batman Inc. have been defeated. Ghost-Maker is on his own and finds himself in the crosshairs of a friend turned foe as more secrets are exposed and Phantom-One's plans are finally revealed! Has Ghost-Maker been outmaneuvered...has student truly become master? You won't want to miss the thrilling penultimate issue of No More Teachers.",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/DTa42rOfJEPCdQseaY3rk-Em2UkS7NAUyOeTTWAMJrBq11BGPffgv1ZhecYY0yRm0vxeA6nUBKll91Q2UbhGCt6DADJ7l7M9OIDGj3L4b4cZtrAkpJFw5gOi-O_bnIsJm7XdCXN1GA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanincorporated(2022)/batmanincorporated(2022)_4.html"
+},
+{
+"name":"Batman Incorporated (2022) @5",
+"summary":"NO MORE TEACHERS, CONCLUSION
+
+The explosive conclusion to “No More Teachers”! Batman Inc.’s allegiances are split as Ghost-Maker and his former sidekick, Phantom-One, duel to the death. It’s winner take all! Will the fate of Batman Incorporated rest in the hands of…Clownhunter?!",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/luZR2-E88KJGUKqF3x2b6yutxIb1ZNgNm82COl5lhMbJAm8JeUUFYtdTTB02VSfjdYO4rZKoQXe3iYVuG2SiwnlMaQMB1DbnHYn_JYDnjh4JNaM3lX3lkD2qnqDKUfVqnjJGcOa7_w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanincorporated(2022)/batmanincorporated(2022)_5.html"
+},
+{
+"name":"Batman Incorporated (2022) @6",
+"summary":"THIS LITTLE PIGGY, PART 1
+
+Someone has stolen from Professor Pyg, and he’s ready to burn down Gotham to get his property back. Everyone is a suspect, and everyone will pay. With Batman gone, Batman Incorporated must return to Gotham before the city is nothing more than ashes.",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Mr4HfrZ3soiz22sgJtn9z4unzc-l39NSLeGIduYEg2VcDwD-YBxyHmKHYDCWsuv2ys1ZqBfmtvgrlsNYaKjNyUtT3x-5mkBfhF9R5B9A3VeJFWZ720gyX-fxYBHcgJPDC8AFfxbeBg=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"batmanincorporated(2022)/batmanincorporated(2022)_6.html"
+}
+][
+{
+"name":"Batman - Killing Time (2022) 4",
+"summary":"The bodies are beginning to pile up as the hunt for Catwoman and the Riddler intensifies...and they finally meet face to face with their shocking buyer! Batman and the mysterious Help join forces in what will go down as one of the more memorable team-ups!",
+"date":"June 7, 2022",
+"tag":"batman, catwoman,",
+"img":"https://2.bp.blogspot.com/dz6pZ4WByPQYmhrNCxEoOj5METdnnpkjXRPZ4uwl7C1j9FBaL1H9HBowgHNNpCTrOVpxmBvsAs8pBKwfCXtpHfsiqdyulCTlJusAoAi0PlhTIiCNB3fcH6xcyLNDg_uw9lD9-Bj3Iw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmankillingtime(2022)/batmankillingtime(2022)_4.html"
+},
+{
+"name":"Batman - Killing Time (2022) 5",
+"summary":"The heist of the century has gone so far sideways that an all-out and very bloody gang war is imminent, with Batman, Riddler, and Catwoman caught in the crossfire. What is the mysterious object that so many are willing to murder so many for, and how does it connect to Bruce Wayne? As we reach the climax of this thrilling series, the clock strikes its deadly hour-the time for killing is here!",
+"date":"July 5, 2022",
+"tag":"batman, catwoman,",
+"img":"https://2.bp.blogspot.com/l23xY7PaBmh2Tv5e8dVm3oJhLfEWYzK4Cv7TSmsrAdZLD_bXqqgAWfcNdkLev36XymyzwRXuqzv9HPeF6jrizxJY4h6Q5jPexh5sDdn50UKeWLKoHPbtMuigSAkAnmlPu_gBqCHEeQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmankillingtime(2022)/batmankillingtime(2022)_5.html"
+},
+{
+"name":"Batman - Killing Time (2022) 6",
+"summary":"CONCLUSION: TIME;
+All hell breaks lose as a gang war in Gotham erupts over the mysterious artifact stolen by Catwoman and the Riddler! Blood will be shed, lives be lost, and a shocking ending will leave your head spinning!",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_FNLNk1wegGCj_R3BrGOkwRoyppzrqP1A9HLgWivSXMER8nR3AFGWClpTE3fPrtj1G0g34u8vNuKRJLGauWra0Q2jO8M1k0Zw48ygkNI4ZDnl4878IT7HNF1BNtoyzSbWhm_HrQDrg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmankillingtime(2022)/batmankillingtime(2022)_6.html"
+}[
+{
+"name":"Batman - Knightwatch (2022) 1",
+"summary":"A CLOUD OF BATS / BLACK ICE
+
+After a massive breakout at Arkham Asylum, Batman and his team are on a mission to bring all the escapees back. First on the list is Clayface! Using social media, Batgirl taps into an informal network to track the villain throughout the city. This inspires Penny-One to create a more organized network of informants and spies called Knightwatch!",
+"date":"September 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/en_Sb0cIBXchlHAloayXEFDBVSdp7vWGxl8NqRy3qnwUJ3OAFDLuWyNSPVaZQcA9SzEuSXd26h5OmXCoGheKzYRkknJcOi8R6cH-ZxrVBwwTcr1M3jcTWTdU9711HTQKpLheHb-j9w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanknightwatch(2022)/batmanknightwatch(2022)_1.html"
+},
+{
+"name":"Batman - Knightwatch (2022) 2",
+"summary":"THE PENGUIN HERO
+
+When Penguin saves people from a mugging, Batman is certain he's up to no good.",
+"date":"October 4, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/g1gHBqzqBwuS5_c3fD0Kuf-iDwImlzOqTgxIcLbHGy_jocl0qlUD-G_4AVR4PKe82QMZfDxxQ_DZrmWaw2e7Z6syArf-4vAbEBOfwxXNXe50-HwZWLw_ocPbF-V9AZMF95TFXCj71Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanknightwatch(2022)/batmanknightwatch(2022)_2.html"
+},
+{
+"name":"Batman - Knightwatch (2022) 3",
+"summary":"MONSTER
+
+Mad Hatter has hats from Penguin, Riddler, Clock King, and Scarecrow, but his collection isn’t complete without the “Bat Hat,” a.k.a. Batman’s cowl.",
+"date":"November 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/m4-zD5OiwnceijHXEXRkbmkfLBIsu5qMwmiXmmfq8YUh3aydYNR49cDPZ42xBYop5haM_hDNpU3q32iJGEBrI3xUHKW6fVSR-n63HZKm-BlBIRtIRr02ZYTQgGVKhgCwSgz_hXVQoQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanknightwatch(2022)/batmanknightwatch(2022)_3.html"
+},
+{
+"name":"Batman - Knightwatch (2022) 4",
+"summary":"FIGHT NIGHT / THE FEAR FACTORY
+Firefly exacts revenge on the people who ruined his movie career and put him in jail by setting buildings on fire across the city. Batman has to figure out who is on Firefly’s list to predict where he will strike next.",
+"date":"December 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8vmUq6rQvDiBpm9DrekBXMrvCH4xyC5cYiDK5dMZut7b50M2Q77JS6lMnjc7I9d4E-iRBdkZevqN5hF6WmYVJsYH2NMOA_lyM9QdXuTO4HV2b8Ijfx-98F63bptX5q4RO8sv_u5QJg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanknightwatch(2022)/batmanknightwatch(2022)_4.html"
+},
+{
+"name":"Batman - Knightwatch (2022) 5",
+"summary":"HARLEY'S HYENAS / INVASION OF THE OW-LMEN
+
+The kids of Knightwatch talk about what would be Batman's ultimate adventure and how they want to make a comic book to tell the story!",
+"date":"January 3, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/iJPo3wkzNM9KLqZCoOeLCakFbK0z_OBWZkOmZWyTwNnoYsEQrIUkc9UOJzj7cBIieSG_SvVxVgiEJUWWODqoTkYiOSeXF-c_rInlfLK-tb8wy_Bx1qX68UG2ovNnrJbwbKV21DN_AA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanknightwatch(2022)/batmanknightwatch(2022)_5.html"
+}[
+{
+"name":"Batman - One Dark Knight (2021) 3",
+"summary":"PART THREE: CAN'T KEEP RUNNING AWAY;
+From the sewers under Gotham to the roiling waters of the harbor, Batman's march toward Blackgate Prison is nearing its end…but far from being a passive prisoner, E.M.P. has his own mission to fulfill—and there's no way he's letting the Dark Knight stop him from carrying it out!",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XRB2kOd-Ps3yjAShikx_i8piv3D8j0K4dzuc56jLsRIdOexXDP2W2kQN5HaiR9tnw2h6x-V85NmQ49BQg80qiIH3SoNP228kC4oKX8cRVS9dV9g2rr_Y5PiV8KU-s5lHy6NEW2qtQw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanonedarkknight(2021)/batmanonedarkknight(2021)_3.html"
+}
+][
+{
+"name":"Batman/Superman - World’s Finest (2022) @4",
+"summary":"As Robin and Supergirl race to retrieve the secrets of the Devil Nezha from ancient China, Batman and Superman get more than they bargained for in the present! To save humanity from the fires of the demon, the World’s Finest must go toe-to-toe with the protector of Sector 2814...Hal Jordan.",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/a29CVj_QsEI8X1s3u9OUNPRPhC8fB3hPmc2r6LaqaCjPuZ3LTFgbGpwp_Y_U629oPlEbbP3vKv0SMHM5Kl0kHz1oJxj8XqgiY5SU7lO6M280NvMNDD1O1ipBf24RAv_O-7jxFngb_A=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_4.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @5",
+"summary":"THE DEVIL NEZHA, CHAPTER FIVE: SACRIFICE PLAY
+
+THE FIRST ARC OF WORLD'S FINEST CONCLUDES WITH A SHOCKING FORESHADOWING OF DCU EVENTS TO COME! The sinister machinations of the devil Nezha have run ragged the Man of Steel and the Dark Knight ever since he made his first terrifying debut in Detective Comics #1050…but what secrets does this villain hold for the future of the DCU? Clues abound for the next big DCU series in this climactic final chapter to the first arc of World’s Finest!",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/m_DFoOUP7xdeu7uM-cUvVPZElJ6PqgqQ04Q3gxuKAM5WVnhEPtmsLM03sLpUUa21ChoIB2rryg4ZXE0wt9y9qORZJm_xvMg3MCDNkyzySRt1RUzBe3Efr4_EBw3Y-nVyXTksOviMww=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_5.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @6",
+"summary":"THE FLYING GRAYSON
+
+THE FLYING GRAYSON FLIES THROUGH TIME! The Dark Knight and the Man of Steel might have been victorious in their battle against the dreaded Devil Nezha (but were they, though? More on that to come, kids…) but there’s one thing they forgot in all the madness…Dick! Robin the Boy Wonder is lost in time like some kind of chrono-Home Alone…and to find him, Batman and Superman will need to get creative!",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Phh90vCemeUQIDwLZkbebGVXkabqcQUS1htBOFoED_peKsHP7Zz2-aRYDGp4zVwqtbdTMEXSSoCE4ufOA3zsXc2KYyJFcn8whCGyXE7bg43ev1mHweHpXJ1Y6KaEiGZg_wvgDX-q1g=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_6.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @7",
+"summary":"STRANGE VISITOR, CHAPTER ONE: RECKLESS YOUTH
+
+BRAND-NEW STORY ARC! The untold story of Superman's short-lived sidekick is at last revealed, but what secret connection to one of DC's most timeless tales does this story foreshadow? Only time will tell (that's a clue, folks). The next epic arc in the World's Finest saga begins here! INTRODUCING: BOY THUNDER!",
+"date":"September 20, 2022",
+"tag":"Angela Chen,Aqualad,Asher Sikela,Batman,Gayle Sikela,Jack Ryder,Kelex,Key,Kid Flash,Kim-Da,Krypto,Robin (Dick Grayson),Shauna Taylor,Speedy,Superman,Vicki Vale,Wonder Girl (Donna Troy),",
+"img":"https://2.bp.blogspot.com/oBxNoQNxq-jPA8nuC4xA54hQpn8bnsLnE3u1CGebFG0Zfscn9-EFgBp24WFqRxpxugdXL0s-BIAfIibn1FfzA2-MR4-TWZZ_gM2aX3hFWb2xkQBDTRJMpLcGhvs_Y2ExQYyBDM0r=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_7.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @8",
+"summary":"STRANGE VISITOR, CHAPTER TWO: TEAM SPIRIT
+
+'RECKLESS YOUTH' continues as Superman and Batman struggle to mentor the new Boy Thunder! The Key has drawn the World's Finest team into an impossible dilemma unlike any they've ever faced when the entire city of Metropolis goes into a deadly lockdown!",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-vP0uDO-UQ4D8E9MQHmOu_Ul3gRx9R3v6wqSR6Wt1MXJhxmcIcREDo8ozwuP6BZNFyHouZGLd-vVLGeH1Xn27qexr98PUHxx0zTamQd9-ju-WLpS8uOZyUH2ywf0bOT4LhuwkcxyHQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_8.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @9",
+"summary":"STRANGE VISITOR, CHAPTER THREE: FEARS OF A CLOWN 
+
+Batman and Superman are on a quest to train the mysterious new hero Boy Thunder... but what's that in the dark? A faint noise...sounds like a laugh? Uh-oh. The Joker is here and he's got his own plans for a super-powered sidekick! Someone hide all the crowbars, quick!",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OFc6LNYFxK7NqA9XHUKdlEa9KUjfoCYnttLPfa64vE98c9Q5sxyz7W29AVIp8OBR5aKLIw3N9ZMWyWXSmid2GZAaExgygboyzOSCq6xJvP5WU0cdcKRi9o4IyyC6_aiYoDIUuymHeQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_9.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @10",
+"summary":"STRANGE VISITOR, CHAPTER FOUR: SECRET PASSAGES
+
+The deadly duo of The Joker and the Key have twisted the increasingly powerful Boy Thunder into a walking time bomb of destructive power! Batman and Superman's quest to guide young David toward the light takes an unexpected turn when the Teen Titans learn of the dark secret he's been hiding from the World's Finest! The Titans issue their ultimatum--tell Superman and Batman, or they will!",
+"date":"December 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5pQpOyce8Jf6jUyFE76d-mRXW4T3CNHZKpyOV14ol3uE7nIpcXxhr1dN3PI2qEbijAVDXtLntQiuzS-WUAMQaVBPfysOPUuQdwbBQWRZJRRAlZa84_UUS4VgD7uN226GH9E1HBvaxA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_10.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @11",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/JiukBVEEhBCHHo8OYYjKjWA9LtmgcSV8yNfK8Wqj3ct5cl22coFEltsrMp0aZHjhPeinua_PdxIGSrFH79ZqCiU0VJTaVIoP61k-QUoggOGZC0iDUc3Z4y86LmFAn8PZ26Yawhu88A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_11.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @12",
+"summary":"SCREAM OF THE CHAOS MONKEY
+
+The secret behind the Supergirl-Robin feud, revealed! On a day not too long ago, a meeting between the Boy Wonder and the Girl of Steel began sweetly, became awkward, and ended so catastrophically, horrifically, jaw-droppingly, car-crashingly disastrously that, among the Superman and Batman families, it is now enshrined as the world’s finest example of How Not to Team Up!",
+"date":"February 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/VVcDPs9wqQfrfEJvr_Hl1N3tm9Sxoml5FS9F5T6tr6U9D4EOXA0apED7eVyhdlAZq4sqZvl34DWxCkW0vVb5s5gjQjlxgngB4Nvc5iq8YejlnYiF_N3Juz_MTtZqrqyKjiL4fOr-vQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_12.html"
+},
+{
+"name":"Batman/Superman - World’s Finest (2022) @13",
+"summary":"ELEMENTARY, CHAPTER ONE: THE FACTS OF THE CASE
+
+WHERE IN THE WORLD IS METAMORPHO? In the pages of World's Finest, Batman, Robin, and Superman have traversed some of the DCU's most iconic locations and teamed up with the likes of the Teen Titans, Doom Patrol, and Supergirl, but none of that will prepare them as they must go across the globe in search of Rex Mason, a.k.a. Metamorpho, the Element Man! The World’s Finest Strangest Adventure begins here!",
+"date":"March 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AMWts8BnrARwvZm3BykIxRu8X2ZKtL2uhIrpqIrHsq9db7YfvFJEbU3rC5Seqlw0JxE2d3Zso8Ab0lFmryd3NgcqiBpXgTXk-XTjLU4CKNNN20FQ-QLJ5qI=s1600?rhlupa=MzQuMzAuMTk4LjI1MQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"batmansupermanworldsfinest(2022)/batmansupermanworldsfinest(2022)_13.html"
+}
+][
+{
+"name":"Batman - The Adventures Continue Season Three (2023) @1",
+"summary":"MUSCLE OUT
+
+Alan Burnett and Paul Dini return once more to the world of Batman: The Animated Series! Someone is targeting the Muscle now that he’s locked up in Blackgate Penitentiary. With his deep ties to the criminal underbelly of Gotham, the worst villains are calling for his head before he turns them over to the police! Batman will need to protect him, but can even the Dark Knight figure out where the next attack will come from?",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EVCvslUQq-oEgMw4ilhUPe5zpNyV39--l5ZWj3AGvdG-vFqOlp4Qso0m49h9rxqDuzKNJ0VVDpUrcpn6jNZhLGwEeI9u9XedeyU_lfobVwFrUKb5hC1JeJ4T8wuIfHFEvCRHjzt1Wg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheadventurescontinueseasonthree(2023)/batmantheadventurescontinueseasonthree(2023)_1.html"
+},
+{
+"name":"Batman - The Adventures Continue Season Three (2023) @2",
+"summary":"OLD FLAMES
+
+Bruce Wayne and Harley Quinn don’t have much in common, except for Cassie Kendall. Beautiful and whip-smart, she nearly changed the course of Bruce’s life when she was his high school sweetheart, and shortly thereafter became Harley’s college fling. Now, after a long time away from Gotham, Cassie has returned and immediately has her sights set back on Bruce. But when Harley learns of Cassie’s return, she is all too happy (and manic, and unpredictable) to reconnect with her old college girlfriend. As Bruce’s and Harley’s paths cross, it becomes clear that all is not as it seems with Cassie Kendall…",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/78Fnsya3vuLCYtlIdlP6S7m3s55o4BXEQYlIeUaD7voa5tuBCh4_JxMlWS1SojJEotGo9uyy9Zm6kKUKnl2ZPzAISr6rNcCUUi8TeBcHMxHrTjuEufjKZorzAcFlH_koOHWYC-meFA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheadventurescontinueseasonthree(2023)/batmantheadventurescontinueseasonthree(2023)_2.html"
+},
+{
+"name":"Batman - The Adventures Continue Season Three (2023) @3",
+"summary":"CRACK-UP! PART ONE
+
+The Joker’s right-hand man, Straightman, isn’t quite feeling himself lately. He keeps experiencing moments…flashbacks…of a life he doesn’t remember. After a recent run-in with the Clown Prince and his stoic enforcer, Batman starts to unravel the man’s past, but it lands him smack dab in the crosshairs of Amanda Waller and Task Force X!",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/r61imEY7hLBlHC9GRx42FFE0A_lBz2G_jRFNxDWkvwmstN-xBzPQopVCY4WTYB4USAV7R9jb-G7WNyVQRlXRyees6_FOl_B1ZyiHisCitDUnXUV0OrwIlxzpnGkFwg6ZOLmvdvOjgg=s1600?rhlupa=MzQuMTM1LjE3OS4yMjQ=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"batmantheadventurescontinueseasonthree(2023)/batmantheadventurescontinueseasonthree(2023)_3.html"
+}
+]
+
+"name":"Adventures of Superman - Jon Kent (2023) @1",
+"summary":"COUNTDOWN TO INJUSTICE, CHAPTER ONE: INTO THE MULTIVERSE
+
+ANOTHER SUPERMAN HAS FALLEN. Across the Multiverse, Kal-Els are being murdered. Val-Zod, the Superman of Earth-2, believes only one man can help stop the killing—Kal-El's son, Jon Kent! Jon will have to step across dimensions and face the killer of the Kal- Els, the monstrous Ultraman, the man who kidnapped and tortured him for years. And Val-Zod is not acting alone in trying to save the Supermen. Who is the mysterious woman alongside him? And what is her shocking connection to the Super-Family?",
+"date":"March 7, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/oX36wYKUoG5-MKx6WIKeR7UV10DOmYMljQ8AXD65lIfM3CBOmHper61PTPPtMfzskFXvkfsLyXeS4wCOOFq2f3RhfPWr9xuMKn56QVcvbFle-KWz_3h8zElMtpOG6fH8VqMs7ITqYw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"adventuresofsupermanjonkent(2023)/adventuresofsupermanjonkent(2023)_1.html"
+}
 {
 "name":"Action Comics (2016) @1043",
 "summary":"The next chapter of the Warworld Saga begins! Following the first victory by Superman and the Phaelosians, the Warworld Rebellion has begun. But Mongul has become more merciless than ever, cracking down on his enemies with unspeakable cruelty. With Superman’s people suffering and his options dwindling, his thoughts turn to the mythical necropolis that supposedly lies at the heart of Warworld. Superman’s epic space adventure continues in this new arc! Then, in “Myth of the Mongul,” journey back to the origin of the first Mongul in history…and uncover deadly secrets that could spell certain doom for Superman and his revolution!",
