@@ -1,5 +1,251 @@
 [[
-{{{{{[[{{[
+{{{{{{{
+"name":"Miles Morales - Spider-Man (2022) 1",
+"summary":"TRIAL BY SPIDER, PART ONE
+
+SPIDER-MAN faces the strongest super-powered foes and most dangerous gauntlets the Multiverse can throw his way, and every time MILES MORALES falls, he rises again—stronger than before. Until now. There are some punches you don’t get up from and a new villain isn’t pulling a single one as they threaten everyone and everything Miles loves. Between school, home, his love life and battling super-charged and upgraded villains night and day—Miles is reaching his breaking point. And when this new foe is finished, Spider-Man’s world will be changed forever. Guest-starring MAC GARGAN, A.K.A. THE SCORPION! Don’t miss the next Marvel masterpiece from writer Cody Ziglar (AMAZING SPIDER-MAN, SPIDER-PUNK) and artist Federico Vicentini (AMAZING SPIDER-MAN, WOLVERINE)!",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jma1eP8cN2mm1uIRg4NaUlX0sVCqKv9VzbliVMHi8maUDiEKKS2tXFrS6hFEKRj6w7cIiwgi8mEiW2yGbgKXXtTX_jssTf6gY4bL7oTKvKdk1y1oy9LB95dQrR5xcGnoNRMeX1Xdyg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2022)/milesmoralesspiderman(2022)_1.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2022) 2",
+"summary":"TRIAL BY SPIDER, PART TWO
+
+SPIDEY VS. THE SCORPION’S STING! MILES MORALES’ world is spinning out of control! A mysterious new threat is rising and coming at SPIDER-MAN hard, and if Spidey doesn’t fight back with everything he’s got—he could LOSE everything. What does this new villain have to do with MISTY KNIGHT’s investigation and a slew of upgraded foes, like THE SCORPION, terrorizing NYC? This battle is going to change Spidey’s life forever—someone’s not walking away from this one!",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/f08PscXKf5N_BaXAXDy73OvPJqmdCQl7B7kCbLNSPNzZJgik5lYWun2mAj5CN6e7hzcc2A4g4IuKyb0u1Oxavh8Eo7-zUeRG46MBzH-kCVbYTQ21ybXi-tAh4TG14XCbeEeSjizq1w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2022)/milesmoralesspiderman(2022)_2.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2022) 3",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/531vI7TH9r8RP0AOqzyJtVUz7h_mgb07GICDu31ErhQY_CDDpcgGno3goGkSt5j9CMjZYnWzK1o8xuzeQ0MPaIUYWRqKVbr8h90cLU845Ss9qmnSQVe_RljPqPAdyxWMbbtEy7VXRg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2022)/milesmoralesspiderman(2022)_3.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2022) @4",
+"summary":"TRIAL BY SPIDER, PART FOUR
+
+Can MILES MORALES save everyone when he can’t even save himself?! RABBLE’s all-out assault has left SPIDER-MAN reeling, and he’s about to spin his last web. Miles can’t take much more…but Rabble’s just getting started.",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3Br0NswrTbLxMg52tWf1hFv3hpLe-iUGWehoyYOWh2-fgql9cLkvyOiMAoTEHpK0Hp6fDXGfBYhSk_voG964b0fswaBuGA9O11Shcz8fUyRN65-LrNkVEBQX-7Ok87Z5BAweMZqX6g=s1600?rhlupa=MTA0LjE1NC4xOTYuMjI1&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2022)/milesmoralesspiderman(2022)_4.html"
+}{{
+"name":"Miles Morales - Spider-Man (2018) 38",
+"summary":"NEXT STOP...THE EMPIRE OF THE SPIDER! MILES and SHIFT’s hunt through the Multiverse lands them...back in Brooklyn?! It’s NOT the home they know, but the EMPIRE OF THE SPIDER! A timeline where Miles’ clone SELIM is victorious, and the only thing standing in the evil Spider-Man’s way is a rebellion led by General GANKE and a very grown-up and extremely badass Capitán BILLIE!",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/BW_ozCEEs_YJ0oAdbRgycZKyFFbrhczb3xmJnEImz3aDGvJz5vdf4l5soeuj2sFP8lxjcujMq2l2XkY720kdnlgAPfIAfKpyWYB4AKw8o7KON7K-HW6V8NSBxmiHMOVMCvEzuh1kcw=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"milesmoralesspiderman(2018)/milesmoralesspiderman(2018)_38.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2018) 39",
+"summary":"MILES and SHIFT'S hunt through the Multiverse has landed them back in New York City, but it's not the NYC they know - it's THE EMPIRE OF THE SPIDER! And evil Miles clone, SELIM, has crowned himself emperor! To defeat the oppressive regime, Miles will need the help of rebel leaders GENERAL GANKE LEE and CAPITÁN BILLIE MORALES, who has grown up in a world without her brother and where SPIDER-MAN represents only pain and suffering. And if Miles fell to Selim, what does that mean for the fate of PETER PARKER?!",
+"date":"June 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/TVebjGIhl-hBH2VqLmXPCSxtSO0SMZVHEyN_MMP-f4hvjlOmKHfFwRVi39sokMWSXa1g2HU8BeDru-wPiKCQBGKJIzUIqoE3MiGxiYMGn5mHGKKVIqkO3GOnbB2_V19pi_W9VeOHrg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2018)/milesmoralesspiderman(2018)_39.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2018) 40",
+"summary":"EMPIRE OF THE SPIDER, PART III
+
+EMPEROR SELIM'S ENDGAME! Miles' hunt through the spider-verse finally leads him to his long lost Uncle Aaron—the PROWLER! But Aaron's a captive of Selim, Miles' evil spider-clone, and if Miles wants to rescue his uncle, he'll have to bring down Selim's entire empire to do it! What does Selim want from Aaron, and is Miles willing to sacrifice everything—including his new allies—to save his family?",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OdXbJ9qEE7mto4j0rd2QktihcAd3f6OlS_tbhcQIm-GMPjxbmNRmsk42UFfPxxpoL4SBbgjSFi6RRRlqcHPFYcHtw3z0fWfLagUCvt33PTcLoatkT4PFiZwoUbdAeCnT_rG2pi2Gsw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2018)/milesmoralesspiderman(2018)_40.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2018) 41",
+"summary":"SELIM’S EMPIRE STRIKES BACK! The full might of the EMPIRE OF THE SPIDER bears down on Miles Morales’ small band of resistance fighters. For Miles, their one chance for victory will only come at a great cost—but is SPIDER-MAN prepared to pay it? And what does the future hold for BILLIE MORALES?!",
+"date":"24 August, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/LB7c7r0XfE3R6L1Q0qFmbKv3RjA7VFAgp4d5Iy92GigzR16cc_r12UI9qvesuaO6kuD7ujfj6wHzAjUbN9mnXuKJAYa5BFAzKoaohC-2buX__N3X_-Htf8Y0lkvBpKs58CBCmxAxkQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"milesmoralesspiderman(2018)/milesmoralesspiderman(2018)_41.html"
+},
+{
+"name":"Miles Morales - Spider-Man (2018) 42",
+"summary":"BOOK OF FATE
+
+MILES MORALES' ICONIC 42ND ISSUE! As the number of the spider that bit him and the winning lottery number for Brooklyn Visions Academy, the number 42 means a lot in Miles Morales' world, and Saladin Ahmed celebrates this landmark issue with an oversized spectacular alongside amazing MILES MORALES: SPIDER-MAN artists! MILES MORALES has been through it lately—time for a little R&R now, right? Not when there's good that needs doing, and when something dark and insidious rears its ugly head on the streets of NYC, SPIDER-MAN is the only hope to end it. But Miles will need help, from his friends, his family and the most unexpected allies, if he dares to even stand a chance this time!",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RCxLe2CF5Ng0vUScKC2WbN80CifLI_yLTmpiAyetdLLeyja66mS7RcdoKq6Ru-fjgEd7-7jISGHdI5ou1EWOUuNnlEh2sWHnrEVChHIBG0ePZaXnYVcROKOQYOk9tlmhQjPrLCwsvQ=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"milesmoralesspiderman(2018)/milesmoralesspiderman(2018)_42.html"
+}
+"name":"Mighty Thor (2015) 1",
+"summary":"THUNDER IN HER VEINS
+
+When DR. JANE FOSTER lifts the mystic hammer Mjolnir, she is transformed into the Goddess of Thunder, THE MIGHTY THOR! Her enemies are many, as Asgard descends further into chaos and war threatens to spread throughout the Ten Realms. Yet her greatest battle will be against a far more personal foe: the cancer that is killing her mortal form.",
+"date":"November 18, 2015",
+"tag":"All-Mother, Captain Marvel, Christine Sohn, Cul Borson, Dario Agger, Doctor Strange, Heimdall, Iron Man, King Laufey, King Ulik, Loki Laufeyson, Malekith, Milkmane, Scumtongue, Thor (Jane Foster), Vision, Volstagg,",
+"img":"https://2.bp.blogspot.com/yJu8z34wRrK2WvEoXg7_opu-o7pTP5m7V94SWYC5k5ruvoBapYXvqNtxh1m59vHA262cD6TDq-8U=s1600",
+"page":"mightythor(2015)/mightythor(2015)_1.html"
+},
+{
+"name":"Mighty Thor (2015) 2",
+"summary":"THE WAR OF THE ELVES
+
+The return of Loki! But for Thor, will he be friend or foe?",
+"date":"December 16, 2015",
+"tag":"Cul Borson, Enchantress, Heimdall, King Laufey, Loki Laufeyson, Malekith, Thor (Jane Foster),",
+"img":"https://2.bp.blogspot.com/csx8wC4aHu8-J0j1qzJhcDYVycPqM_8sIK8hOF8p60A8U1DERpFhdeEcjH36rtywVmAgsDVbBBuk=s1600",
+"page":"mightythor(2015)/mightythor(2015)_2.html"
+},
+{
+"name":"Mighty Thor (2015) 3",
+"summary":"THE SAGA OF THOR AND LOKI
+
+Loki insists he just wants to talk, but Thor knows him better than that! Will this conversation end in peace, or thunder? Meanwhile, Malekith and his Dark Council continue to fan the flames of the War of Realms!",
+"date":"January 13, 2016",
+"tag":"",
+"img":"https://2.bp.blogspot.com/fQ1fRovh0d30kI8NZ7sMraC1BTwVgc8wask7lLxw04xrR12UrMO5k74BmfW708BC78djeYwryx9L=s1600",
+"page":"mightythor(2015)/mightythor(2015)_3.html"
+},
+{
+"name":"Mighty Thor (2015) 4",
+"summary":"THE TRIAL OF THE ALL-MOTHER
+
+The path of the All-Mother and Asgard is torn apart by civil war, with Thor caught in the middle. Plus...the wedding of Malekith?",
+"date":"February 17, 2016",
+"tag":"",
+"img":"https://2.bp.blogspot.com/vzPHBSSMDWyYjFLEZ-4gHwJ7PwJH1JDsDGw3LulShUedzqRiBlodYQ6piajfV8_Pk-_zw5z3x_aB=s1600",
+"page":"mightythor(2015)/mightythor(2015)_4.html"
+},
+{
+"name":"Mighty Thor (2015) 5",
+"summary":"THE CIVIL WAR OF THE GODS
+
+Thor vs Odin. The biggest, meanest, bloodiest Thor/Odin showdown ever. And in the war for Asgard...there will be casualties.",
+"date":"March 9, 2016",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-Hbl78SM2qco/VuaOFdwPvNI/AAAAAAAAIu8/ZSJubSvWpT0MliWjrXPy9XAQKoj5WdfjwCCo/s0-Ic42/RCO001.jpg",
+"page":"mightythor(2015)/mightythor(2015)_5.html"
+}
+"name":"Midnight Suns (2022) 1",
+"summary":"PART 1: RISE OF THE SUNS
+
+RISE OF THE MIDNIGHT SUNS! A dark prophesy and apocalyptic new villains with horrifying powers the likes of which Earth has never faced before ordains a team of MIDNIGHT SUNS to rise and tear @#$% up: MAGIK, WOLVERINE, BLADE, SPIRIT RIDER & NICO MINORU. But what does this new threat have to do with the Sorcerer Supreme's past? And why is STRANGE ACADEMY student ZOE LAVEAU number one on the Suns' list?",
+"date":"September 14, 2022",
+"tag":"Agatha Harkness, Blade, Clea Strange, Dessy, Doctor Doom, Doctor Voodoo, Howie, Iric Brorson, Magik, Nico Minoru, Shaylee Moonpeddle, Spirit Rider, Wolverine, Wong, Zelma Stanton, Zoe Laveau,",
+"img":"https://2.bp.blogspot.com/d1qsU67RR78IoLLI3V1Bqwpmgk0PQNgxL2zTOmYLrLJYwPdH_ySYEuophRB_y6RsoS0dih7kaXH7vioPKrdnL-r1q_D4TIdcGoKvfqmxvcH_YuYzEH7qm-NA5FmgZDsGND4BRQSsdA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"midnightsuns(2022)/midnightsuns(2022)_1.html"
+},
+{
+"name":"Midnight Suns (2022) 2",
+"summary":"PART 2: PROPHET OF DOOM
+
+THE MIDNIGHT SUNS…ARE DOOMED! The new team of MIDNIGHT SUNS—MAGIK, WOLVERINE, BLADE, SPIRIT RIDER, AND NICO MINORU—face their first brutal test when DOCTOR DOOM lays siege to STRANGE ACADEMY! What is Doom after?! And an even bigger threat awaits IF they survive—a threat tied to the Sorcerer Supreme and one only the Midnight Suns have the power to overcome.",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6J5qzVTy0PGZJEhvCuFiB6jK0hS73oW-bT8eMJkaw0MVuSJzWDX2JSwkYj-eqKhoxQ5gKVshWdag2lwaq9Zil_i7Z5xoLYPl2PUOSIpUZX9cepnppbchinFL6lZi0ZL98hDS2b8XXw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"midnightsuns(2022)/midnightsuns(2022)_2.html"
+},
+{
+"name":"Midnight Suns (2022) 3",
+"summary":"PART 3: LOST IN THE DARK
+
+Beware the Vapors of Valtorr! The MIDNIGHT SUNS brave the darkest and most horrifying journey imaginable to secure aid from one of the most ancient and dangerous beings in all of existence. What terrible secret from the past is AGATHA HARKNESS hiding? And what does the truth mean for ZOE LAVEAU's future?!",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/qec82MRlWCWoenHL_5QqoJEGvwHGjj8Rai_PDdIY73_JYPo_m226MdJ08cjXLQZjHfp8vynTuO9YSTMs6TLYj_aIdvFIgyfrTfYrb1ECzygRup2vKd6Z8SbIhX5eVRTR465HKfbRlg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"midnightsuns(2022)/midnightsuns(2022)_3.html"
+},
+{
+"name":"Midnight Suns (2022) 4",
+"summary":"FORGED BY FATE! The apocalypse is finally here, and ZOE LAVEAU’s at the center of it all. AGATHA HARKNESS will sacrifice everything, including herself, to stop it. What does Zoe dare risk? There’s a terrible secret at the heart of Zoe’s vision, a secret that threatens to change the Marvel Universe forever. Meanwhile, the MIDNIGHT SUNS race across all of time and space to get back in this fight…with a little help from the mysterious new powers granted by their magic-forged extradimensional armor! But if they return, who will be friend and who will be foe?!",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Jks_YCJ8dlk2eHvkiUhWU5Ccz3u3HxVU6Vllh-pklZjKmY_TxKQX9QG9HKKezpdNC2wtzjjr9_F32uvi0KgMQDP_DgqcZFsN-YlPj0DrG9FlqOrQFx12oUlcyjGAizjOh5MsZj0uYA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"midnightsuns(2022)/midnightsuns(2022)_4.html"
+},
+{
+"name":"Midnight Suns (2022) 5",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8nh28J--LWY5eHg-H-SQtHzO4LmoNBEQpBEPLf5M0kfKXAXVHGiUnzEj1g4tsjea4eVxpitEQ8LCzJZ1HnutsOp23O5hk2HaRoiLJdloh_JnNjUxkTmZRUiVXkNMPYas6GAe-zZpPw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"midnightsuns(2022)/midnightsuns(2022)_5.html"
+}[[{{[[{{
+"name":"Mech Strike - Monster Hunters (2022) 1",
+"summary":"In AVENGERS: MECH STRIKE, the Avengers donned new mech armor to battle an unprecedented threat. Now a trio of the world's most notorious super villains, assembled by Doctor Doom, have used the Eye of the Kraken to give themselves a mystical - and monstrous! - upgrade. In order to defeat their foes, the Avengers must undergo a similar transformation - and become MONSTER HUNTERS! But will the heroes be consumed by their dark new powers? Featuring classic Avengers characters and some surprising new additions to the team, all outfitted in their very own mech armor!",
+"date":"June 29, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ovYkeSrAknn6HSWh2urorepwBBIL9pQfPrNS6Wo2PkdxowXyoWGbrFdFA6zUCOBsFWprHbzN4VZNlCVG8GckcnvNJCy0sT1fxAX7s8NStDkz83WCj1lTDmd4JnUb5RbB_lm5mNOISVg=s1600?rhlupa=MTAyLjIzLjk2LjEy&rnvuka=TW96aWxsYS81LjAgKExpbnV4OyBVOyBBbmRyb2lkIDk7IFRFQ05PIEtCN2ogQnVpbGQvUFBSMS4xODA2MTAuMDExOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzkxLjAuNDQ3Mi44OCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBPUFIvNjAuMC4yMjU0LjU5NDA1",
+"page":"mechstrikemonsterhunters(2022)/mechstrikemonsterhunters(2022)_1.html"
+},
+{
+"name":"Mech Strike - Monster Hunters (2022) 2",
+"summary":"THESE AVENGERS...THESE MONSTERS!
+
+The armored Avengers and their deadliest enemies have all been monsterized by the mystical Eye of the Kraken. As the Avengers contend with their strange new powers, they seek out some unlikely allies: Rocket, Groot and Ghost-Spider! But will even these new additions to the team be enough to defeat Doctor Doom and his ever-expanding monster army?",
+"date":"August 3, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_jYWfJ1qWO5MI2UZ8WZwIpwhnaXg-5iBdRmDLp4AGkrGTtu4N1IWHmEme0NZ9HHgsUq_b-nkwbqND-nwEywL1nq0GC-lQr5flw1v1gq6J_EVHzvPoascJr07--P6R0VBlgIKv_YACQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"mechstrikemonsterhunters(2022)/mechstrikemonsterhunters(2022)_2.html"
+},
+{
+"name":"Mech Strike - Monster Hunters (2022) 3",
+"summary":"RELEASE THE KRAKEN!
+
+It’s monstrous mayhem when Loki unleashes the legendary Kraken upon the armored Avengers! And even if they manage to survive, the heroes still have to deal with Dr. Doom, Venom…and the monsterized version of one of Marvel’s biggest and baddest villains! You won’t believe the final-page reveal!",
+"date":"August 31, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Kp3uyTq2KahVn7YqRXVqt60ona7-DPrn-kcsLskP8OW_ghuziqdMVL8awB3lYTE7D483JeBJmS1hovZNyTFh722HKemT_GxBdMONdzk84WuttwryGhtlLyAvBHP0GPoFZEhokr_i5g=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"mechstrikemonsterhunters(2022)/mechstrikemonsterhunters(2022)_3.html"
+},
+{
+"name":"Mech Strike - Monster Hunters (2022) 4",
+"summary":"DESTORY ALL MONSTERS
+
+As if monsterized versions of Venom, Green Goblin and Loki weren’t enough, Dr. Doom unleashes his latest monstrous creation upon the armored Avengers! It’s a no holds barred battle in Latveria—and by the end of this issue, only one will be left standing! But who will it be?!",
+"date":"September 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Cbz4uqeDKqWXTP7wPuxFkOvDyJhNysuz1RlZu1rvvrTfB6wE5odVzK5MGP-kA54yQ1cB75yVzqUvVfNnZGzpIpbzZZjtJ16AgsnuQb6SfjhDzxel_azeuL9-reDBy_D4UsLPv3OJwQ=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"mechstrikemonsterhunters(2022)/mechstrikemonsterhunters(2022)_4.html"
+},
+{
+"name":"Mech Strike - Monster Hunters (2022) 5",
+"summary":"WHERE MONSTERS DWELL
+
+Doctor Doom has evolved into his final, most monstrous form yet! The Avengers will need an army of allies to face this threat—but will even that be enough to take down giant-size Doom?! It’s armored action on a massive scale for this explosive finale!",
+"date":"October 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/sty5s9zvopZyDgvNvlgGVWJj9KtQjVmuAFZL6diYIByUBj0I793W8v1Q2U8u01JA8v21Mc3IXR1OH69JVrbgrubxebOpyADoEz50WJfEZZiRPQExsh2VUa8K7jMsMXKqSl2Sn77o4g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"mechstrikemonsterhunters(2022)/mechstrikemonsterhunters(2022)_5.html"
+}
+"name":"Magnificent Ms. Marvel (2019) 1",
+"summary":"DESTINED, PART 1
+
+MS. MARVEL IS BACK! But it’s not business as usual in Jersey City. Aliens are wreaking havoc in Kamala’s corner of the world, and they seem weirdly interested in Ms. Marvel…and her family. Eisner Award–winner Saladin Ahmed (BLACK BOLT, EXILES) and rising star Minkyu Jung (Batgirl, Nightwing) take the reigns of one of Marvel’s most beloved new characters! You won’t want to miss this shocking start of a new era!",
+"date":"March 13, 2019",
+"tag":"",
+"img":"https://2.bp.blogspot.com/vfnQDkxsV_E63muIlMOF6PQL0BD4aHM6rBvOXlGDQcroF_vhBIlmputLcNfcOGaubWS3-IQOAuR3slBT2_GqcctnKkuMRMvkeKe0xNdN7m2IqWzVGPTANpr3dgD40PIz5MENJAV7xO0=s1600",
+"page":"magnificentmsmarvel(2019)/magnificentmsmarvel(2019)_1.html"
+}
+{
+"name":"Maestro - World War M (2022) 4",
+"summary":"A gigantic enemy has Maestro running for cover as he scrambles for a way to win this fight. But as the changing tides sow discord amongst his enemies, the answer may be right in front of him — as long as no one interferes… It’s all leading to next month’s epic finale!",
+"date":"June 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2XQ7bsZK3qMEQfDZYlCFyczfq3T4nA2dfh1gxBmEIBoEXWq0O5vihUtczUBYIPdIXvDvRNNlEWR_zXP30RaJPuTXuvm-tFa5wq2PSEmJ2HAi_UHzWc2pH_91WsH-Cm6qapSY-SaANw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"maestroworldwarm(2022)/maestroworldwarm(2022)_4.html"
+},
+{
+"name":"Maestro - World War M (2022) 5",
+"summary":"When you can live forever, what does it mean to live? In this shocking series finale, Maestro finds himself partnered with an old enemy against even older allies to determine once and for all the true ruler of Dystopia. But opportunism depends on knowing how your opponents think, and someone's failed to account for a few tricks…",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/DsAyH3o8YUvv50CT8UGx33d4FTLEAL1phNTdJlRG5AyQZXqz-0O23lr5aU8b-IN0XS_rdtlbMd3RQ80-Qh3xhwX1PwvbNs17M3dwm_L8HIDvDcXigPJRFX99VsEDQxnAdcA9VfZjbw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"maestroworldwarm(2022)/maestroworldwarm(2022)_5.html"
+}
 {
 "name":"Looney Tunes (1994) @1",
 "summary":"LOONEY TUNES is an anthology of fresh stories starring the classic Warner Bros. animated characters in their uniquely zany world. Includes stories with Bugs Bunny, Daffy Duck, Marvin the Martian, Wile E. Coyote, the Road Runner, Sylvester and Sylvester, Jr",
