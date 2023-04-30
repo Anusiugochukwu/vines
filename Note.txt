@@ -1,5 +1,384 @@
 [[
-{{[{{{{{{{
+{{{{{[[{{[
+{
+"name":"Looney Tunes (1994) @1",
+"summary":"LOONEY TUNES is an anthology of fresh stories starring the classic Warner Bros. animated characters in their uniquely zany world. Includes stories with Bugs Bunny, Daffy Duck, Marvin the Martian, Wile E. Coyote, the Road Runner, Sylvester and Sylvester, Jr",
+"date":"March 3, 1994",
+"tag":"-bugsbunny,-daffyduck,-elmerfudd,-foghornleghorn,-tweety,-wilecoyote,-yosemitesam,-sylvesterjunior,-sylvestercat,-tasmaniandevil,-marvinmartian,-porkypig,-pepelepew,-roadrunner,-speedygonzales,",
+"img":"https://2.bp.blogspot.com/l83o-jWPqiro-gbwv5k0OP7m4sduZpot80WEZ5UCwwUGgWEAMYeblCaVWzstkUgX22FsyjefCsjc=s1600",
+"page":"looneytunes(1994)/looneytunes(1994)_1.html"
+},
+{
+"name":"Looney Tunes (1994) @265",
+"summary":"PORK CHOP / THE B WORD BLUES / IRON CHUMP;
+Ham-Fisted Karate is open for business, and Porky Pig has gathered a classroom full of students eager to learn the peaceful art of self-defense—in a bully-free zone, of course! Will the group be outmatched when a rival karate school of fearsome fighters crashes their class?",
+"date":"March 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4foPWZR7O_UckdRdJD49NrtGH0xcGR639Matrad14XIbpmW_ArXRJ_Skh92a6g54Za-RQUPO40R-gkC-gyyiuJEv-qvXE3cQjplRsj2tLDZu_HEG5AriRwY4W6yQJCyfTQ4thKhIGZA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"looneytunes(1994)/looneytunes(1994)_265.html"
+},
+{
+"name":"Looney Tunes (1994) @267",
+"summary":"HOUSEBOUND AND GAGGED / WHEN ANIMALS ATTACH! / PREMIUM BLEND BUNNY;
+It was bad enough when Foghorn Leghorn came down with a bad case of (what else?) chicken pox. But now the farmyard is quarantined, and Foghorn’s “cooped” up for a week with his archrival, the Barnyard Dawg. With nowhere to go and nothing to do, an ever-escalating war of pranks and practical jokes begins. How long will it take before the situation blows up out of all proportion?",
+"date":"July 19, 2022",
+"tag":"-barnyarddawg,-eggheadjr,-missprissy,-yosemitesam,-foghornleghorn,-bugsbunny,",
+"img":"https://2.bp.blogspot.com/FIhAOcZU9uTTemJWROAY8tMWy9HuJutGU2OYuMN8DAhHVHhYo4oZBZh6QStzu5g8Fbo2xaIBFQl0xSbRpE5tAL7lAUcadDJnX5X9Xlkpl5ifqoOAjQerOEPu4WAQxmLUAy_XahgpWw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"looneytunes(1994)/looneytunes(1994)_267.html"
+},
+{
+"name":"Looney Tunes (1994) @268",
+"summary":"SUCCOTASH CITY / THE GRATE ESCAPE / WATCH THE BIRDIE
+
+When her beloved bird appears to have flown the coop, a mysterious lady seeks out some help...and none other than Duck Twacy is on the case! His search across every side street and darkened alley all points to one likely suspect...the recently escaped criminal Pussycat Puss. Will Twacy find his bird? Or will it be lights out for this cooked duck?",
+"date":"September 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/cHxzyp_AyZ9ypZaqbJjYMRixhtq_Tn9TvHTGLyuCH_Vlm86Z-JplDolvI750abt7ZPEr00EQXikAQumGButCO9A2yzkK01EbsiTygT80u8HA1-TuAXRF9g_ZzGrHpVzYcialqlKV=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"looneytunes(1994)/looneytunes(1994)_268.html"
+},
+{
+"name":"Looney Tunes (1994) @269",
+"summary":"SO SMART IT HURTS 
+
+It’s time to award the recipient of the Noble Prize, and only the brightest and smartest are in attendance. But when Bugs misplaces the name of the award’s recipient, he announces that it’s up to the nominees to decide the winner amongst themselves. Who will rise to the top to become the smartest and brightest of them all?",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6HCNOaYFy5FMRzyRcIm9ku-1fOzcn-jQ84N-OVVKqlKFkPAFZ5U9xTZwkGLgmaU9JiZ3alQEvlqeiOPi0oHGyFAVjyGnoZw_-T8AmLrq14IWyzF0Co1mHyv4JSMgQW-DGB3Izt31pA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"looneytunes(1994)/looneytunes(1994)_269.html"
+},
+{
+"name":"Looney Tunes (1994) @270",
+"summary":"TRANSPORT AUTHORITY / LET IT SNOWMAN / ZIP DRIVE
+
+Too slow to ever catch the Roadrunner, Coyote is looking for any edge to help him out. So when ACME offers him a sample product—a teleporter—he leaps at the chance to try it out. Will this be just the thing Coyote needs to finally get one step ahead of the Roadrunner?",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ydW937Oz8iZkgUMTJxfkCFbAwgM6CEjbeKbUxsHi6Pa0ftncOYi638cTjLHis4yWQtoIM4A9B-WsuJhla781cUQ8lxkVUvM9PE1B3kT8y10e4PblfVlN-9tANQtYRxNFlC7eJm0iEw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"looneytunes(1994)/looneytunes(1994)_270.html"
+},
+{
+"name":"Looney Tunes (1994) @271",
+"summary":"WHAT'S NEW, PUDDY TAT? / A STICKY SPOT / THE WOOLEN FILL-IN
+
+A new four-legged pal joins the fray when Granny agrees to take care of a friend's large dog while they are away for a week! But will this gentle giant feel quite so welcome when he finds himself stuck in the middle of Sylvester and Tweety's ongoing tricks?",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/X7kZgmrKgbqBHb5Q9vQGa0DvH_mOPIKQ1H4kCx8ShfdCIOAhQawCEajNH-pDRk3KyoVzPBbB9WznX56D844Czilsbs9ylmr57ajjRpmRv5GU7pEE2ZjO7N0q0T9df8wTnU-dg40vXw=s1600?rhlupa=MzQuMTM1LjE3OS4yMjQ=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"looneytunes(1994)/looneytunes(1994)_271.html"
+}
+"name":"Knights of X (2022) 2",
+"summary":"THE QUEST REVEALED! Betsy Braddock has assembled her Knights of X! Their mission: to save Otherworld from Merlyn and his powerful henchmen...by finding the holy grail of mutantkind. But Otherworld is vast, and innumerable armies stand in their way. When Merlyn targets the Crooked Market, a safe haven for mutantkind, the Knights must split up. Will Captain Britain find the grail? Will Gambit lead the others into a deadly trap? Death looms over the Knights — in more ways than one.",
+"date":"June 01, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/M4w-TJ_u-6CQlZKTYWTO7fIvvEOmShje71dyOQ9_RMPLuR1t-abCPKYDkut4f-uxSmM-Qy5cBGJvLV_JsZUBdRNBY_FJmgxKy-CSjY9npfhs7BbBTuhPJkRUOjqrV1j_66UMUGyc=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"knightofx(2022)/knightofx(2022)_2.html"
+},
+{
+"name":"Knights of X (2022) 3",
+"summary":"THE FALL OF THE KNIGHTS OF X! Gambit and his team gain a momentary victory over the Furies in Crooked Market, but as the group is hit by another wave of attacks by Merlyn's army, Rachel Summer's connection with Captain Britain is severed before she can call in reinforcements. In Sevalith, the Captain and her team face off against blood thirsty vampires as they seek out a lethal potential ally. Their quest required ten knights to begin, but no one said anything about the end. A knight dies here - and the hateful quest goes on.",
+"date":"June 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jYRGiENaTDbI_MTV0WdZcD2oIdZS-mstm6tgtgwTfbJbpT8f0LfH7qmDRlSxjYbt7wdYjxtFWCBBoCO2N54ZHofYydFN4gKHura9pYYhi5x7Jkp_y-zXv24b7_uA9-trhQ0ipciNIw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"knightofx(2022)/knightofx(2022)_3.html"
+},
+{
+"name":"Knights of X (2022) 4",
+"summary":"PART FOUR: THE SEAT OF THE SELF;
+BRAVE THROUGH THE DARKNESS! With Arthur and his army on their heels, all but one of the Knights of X have made it to Mercator—the province void of light. But all isn't what it seems. Will Betsy and her team be able to overcome the darkness and find the Siege Perilous?",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dCOso1czHK5KMyXK5JaGHcsrluAcEzSxraxSIncb9qPiNIgqOh-PvEChRa6crdubAlBr_ZheY559zAedBS0QAXXHZOms59a7VWWqGESQd2LdS3Zzz8oa4pYm_IN-fL44TkJzE4XYaQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"knightofx(2022)/knightofx(2022)_4.html"
+},
+{
+"name":"Knights of X (2022) 5",
+"summary":"PART FIVE: FORT KRAKOA
+
+THY CUP RUNNETH OVER! Merlyn has finally tipped into full-blown madness: He’s sent his Furies on a campaign across the realm to burn everything in sight, and only those who swear fealty to the mad king will be spared. But there is still hope! A bargain between a powerful new ally and the Knights of X may just secure the Siege Perilous and the future of Avalon. Elsewhere, Saturnyne forges an alliance with a former enemy. But trust is a fickle thing. Will these new allegiances bring triumph or ruin for the mutants of Otherworld?
+
+FINAL ISSUE",
+"date":"August 31, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Cd8IkvOf-lYgeqcU9VhOf3l9xAtZF8Ddzrg6D8hTrAiY4Ugw2HKBx6ThmuFb_23u3BzZhywCX3ka0FU6FEJyzJcA9gfRryTXSghlswFDys1almXFzgOHrFDHTlVBrMeSR2YYumCTCA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"knightofx(2022)/knightofx(2022)_5.html"
+}
+"name":"King Conan (2021) 5",
+"summary":"THE TERRIBLE TRIUMPH OF THOTH-AMON! For years, THOTH-AMON has attacked CONAN from afar…now, at last, they stand face-to-face on this cursed isle to enter into what may be their FINAL BATTLE! Will the showdown for the ages truly end the reign of Conan and his heirs? And — a glimpse into the never-before-revealed past of the Stygian wizard — from the boy worshipping Set to the sorcerer who will strike fear into the Hyborian Age with the utterance of the name THOTH-AMON!",
+"date":"June 1, 2022",
+"tag":"-thothamon,-conan,",
+"img":"https://2.bp.blogspot.com/fAz37HL4q0-qDJITU7vr9aCM7Eao0ao1rgfyLSzXTKMCtkuNAmhEhCt6SxjAtx5uJIQOEsghPsMUiwvfKdKy_ti0GD-9T3Ud8rykgxxqrpwwwsy_m78FJpYUbRCM7yElXKddFuPk=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"kingconan(2021)/kingconan(2021)_5.html"
+},
+{
+"name":"King Conan (2021) 6",
+"summary":"THE FATE OF THE CROWN, THE ISLAND AND THE BARBARIAN KING! CONAN makes his Last Stand! THOTH-AMON shows his true colors! The fate and fortunes of Aquilonia and the Hyborian Age turn! Don’t miss the poignant, powerful and unbelievable chapter that closes out this saga of KING CONAN!",
+"date":"July 6, 2022",
+"tag":"-thothamon,-conan,",
+"img":"https://2.bp.blogspot.com/M2yEpRijVaK0wVCBAdAhkDPClrrh6xyjFNrqHrWblhVKe9RU66bkAQ7g69nK1KV51hTRL3WA1St841WGU0U0NYb9Cj5n3gGiunN8AzgdKAuxbq_2vs_de_C9KUD_NIhTGED6_9Ybyg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"kingconan(2021)/kingconan(2021)_6.html"
+}
+{
+"name":"Justice Society of America (2022) 1",
+"summary":"THE NEW GOLDEN AGE, CHAPTER ONE: LEGENDS DIE TOGETHER TOO
+
+A long-lost hero from the JSA crashes into our era with a grave warning...but it’s too late. A mysterious and malevolent enemy has invaded the entire history of the JSA, and an all-new team must come together to defeat it. But what deadly secret does this messenger from beyond keep? Where are they from? And why is all of this happening now? Only the Time Masters know…",
+"date":"November 29, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AL9nZEXDBe_IzG02ZnzdLybQZskf1ejhP8hKeM84uvjV9Uuj74U4_IM5qECPGWUxnkPsbvtjUmS1U-uP9bKnUM_4sLGKuZ9lcbfkjnKKBvAbIVqu8bI18Qg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"justicesocietyofamerica(2022)/justicesocietyofamerica(2022)_1.html"
+},
+{
+"name":"Justice Society of America (2022) 2",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jXpmMqUNEOj9HdZwiY8bQGCrzuNX1p9MorWLKqp7hPIysM7GbSY1sDfQc_P_VKebOJj7JNoB8baeKgjy1B425YZ__l-XT8E3FaN7Nc1ON5Z39k76XE-8YxhoSKdzDotT2YrmFiHaiA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"justicesocietyofamerica(2022)/justicesocietyofamerica(2022)_2.html"
+},
+{
+"name":"Justice Society of America (2022) @3",
+"summary":"THE NEW GOLDEN AGE, CHAPTER THREE: WARTIME
+
+Huntress's journey to save the Justice Society of America lands her smack dab in the middle of the 1940s at the birth of the team! Can Huntress and the present-day JSA work together long enough to figure out how to stop the strike on the '40s team?!",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/V36J8PUNwwN8eksbKmE4nlaqHfwoSs41VX6c8kdCf98hzgBZgOhjvFA38evbaQDOeFjoYUUZHA1iPbwPgQ19b64aXt0Sl8rtYwqDxYGQstz8v3tndFpuLBgXTPeH8oSIiCepsRm3Ng=s1600?rhlupa=MzQuMTM1LjE3OS4yMjQ=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"justicesocietyofamerica(2022)/justicesocietyofamerica(2022)_3.html"
+}
+{
+"name":"Justice League vs. The Legion of Super-Heroes (2022) 4",
+"summary":"THE GOLD LANTERN SAGA, PART FOUR
+
+Now it’s the Legion of Super-Heroes’ turn to get stuck in a time they don’t belong in: the 21st century. Time for the greatest heroes of the future to see the reality of their heroes of the past. All this is happening because the Great Darkness is coming, and even as the truth behind it is about to be revealed, it may be too late to stop all from becoming nothing. It’s the heroes of two eras in ways you’ve never seen them before!",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EdHfjOPu6na1ZtxgqTLkLKOwHTLUsH0JgwSHj4NXswg4aaKX7xDLI6o534yPTSkimM1SLIXhEZLSz4Guik0esyMsBPZ0Hg3LIAxs7LBwOkauHBllZboXk8nVR2bz_nmwLbjqzQvMSg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"justiceleaguevsthelegionofsuperheroes(2022)/justiceleaguevsthelegionofsuperheroes(2022)_4.html"
+},
+{
+"name":"Justice League vs. The Legion of Super-Heroes (2022) 5",
+"summary":"THE GOLD LANTERN SAGA, PART FIVE
+
+With the reveal of who is behind the great darkness that is tearing the galaxy apart, the Justice League and the Legion of Super-Heroes are at odds over how to handle the incomprehensible evil that has brought them together. This time-spanning epic stars all your favorite superheroes from two different time periods! Batman! Saturn Girl! Superman! Brainiac 5! Naomi!...and dozens more race into battle to save the galaxy from being pulled apart! But at what cost? Will everyone survive this?",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/15IzHb0fqOptkZgr0exGXYCKxACVVyNqQuQAaJdmGIEkMmoPYhxPKOE3MgUjm40NcRYSjTUF9rAO5-_Ux1aRex24ym26w0kYobikQwnkmUS2xGxNOQfTHv4hOARUms5VCRq3VbdonA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"justiceleaguevsthelegionofsuperheroes(2022)/justiceleaguevsthelegionofsuperheroes(2022)_5.html"
+},
+{
+"name":"Justice League vs. The Legion of Super-Heroes (2022) 6",
+"summary":"THE GOLD LANTERN SAGA, PART SIX
+
+THE BLOCKBUSTER SHOCKING CONCLUSION TO THE GOLD LANTERN SAGA. Which legendary DC villain is behind this great darkness that is about to destroy all the ages of heroes all at once? Find out right here: all this AND the future of the Legion of Super-Heroes is revealed!",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3hve0mny2URLG8cdmHm0UC6_MR5c5tMEm-i0IMQxQKQ3lyfYLHT_VYpzFE5FVOYqD4nSNRXjERz6W60tXF2fjovXVsi8wxzQ5VF2ZpEgXHdNRajJYXxplDNB68RQ_ASJaysqxBXzNg=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"justiceleaguevsthelegionofsuperheroes(2022)/justiceleaguevsthelegionofsuperheroes(2022)_6.html"
+}
+"name":"Justice League Dark (2018) 1",
+"summary":"From the pages of JUSTICE LEAGUE: NO JUSTICE! Earth’s magic once belonged to them. Now they want the magic back. But who exactly are they? It’s up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League. Plus, what awful things are coming through the Tree of Wonder? Dark days ahead...",
+"date":"July 25, 2018",
+"tag":"",
+"img":"https://2.bp.blogspot.com/sdhGYWIzQviTZZg7PunupEQpqVpg2rUxmcjvIbRmcKAOLwLiWNqaeeBSKG_dQFeUKkammfQpKJcANk5Ve2hJFj2XSwD2uj1nh3Y7CPjIFvyyZu7gm_9JbBU72hw0YzXLN3Ib0wTabw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"justiceleaguedark(2018)/justiceleaguedark(2018)_1.html"
+},
+{
+"name":"Justice League Dark (2018) 2",
+"summary":"Plagued by a rash of otherworldly resurrections, the new JLD team begins scouring the shadowy corners of the DCU looking for leads. Turns out, this latest mystery ties back to the Tree of Wonder, last seen laying down roots in JUSTICE LEAGUE: NO JUSTICE—and it bears poisoned fruit to boot. The Tree serves as a doorway from the Realm of Magic to our world, and the Upside Down Man is just the first of many all-powerful mystic entities looking for a new haunt. It’s gonna take a major twist of fate for our heroes to get out of this one…",
+"date":"August 22, 2018",
+"tag":"",
+"img":"https://2.bp.blogspot.com/J_opjDGGyCSO6aFS827wNrJsh-bfdCa00pxneEJtk8rI0kqEeTu80RTdLj112LA4b79iPMdwDNRKIIWPeBrkB0csnxoxTRVjy4zpsp7ASyehyOVfveQMtRlsynQNjD3JgMnYPqYq3Q=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"justiceleaguedark(2018)/justiceleaguedark(2018)_2.html"
+}
+"name":"John Stewart - The Emerald Knight (2022) 1",
+"summary":"GEMINAE LUX
+
+John Stewart has been trapped in the dark sectors for months with the rest of his Green Lantern comrades. With the power of the Godstorm at his disposal, John’s using everything he can to take down Esak, the mad New God, and bring his fellow Corpsmen home. John will need to become something new to win the war against Esak: he’ll need to become the Emerald Knight!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/LVnKOahE7GlMmdTrDTt0-kVQB6fof5Ah2J3uNyWhrMNX5ICtgruhpAjRe_jA-x1vQAcMKxq1fciZvw_dxCuRsfCFou18W0nyIMGM-QFpZ2Q36Zvw6cIdY7lJMX8GtQu3WGkpF4qN-A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"johnstewarttheemeraldknight(2022)/johnstewarttheemeraldknight(2022)_1.html"
+}
+"name":"Joe Fixit (2023) @1",
+"summary":"PETER DAVID RETURNS TO JOE FIXIT! Peter David’s tour de force through some of his greatest Hulk hits continues with a return to JOE FIXIT! Gone are the ripped-up shorts of the Hulk of yore—this enforcer prefers the slick suave of a striped suit, and the Hulk has traded in “monster” for “mobster” as he lends his strength to the Las Vegas casino scene. Of course, the Kingpin has his own ideas about who the toughest guy in town is, and it’s up to Spider-Man to keep the two of them from destroying Sin City!",
+"date":"January 4, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Z4So6ziwdI2GDZ09zvjkXSh2ObatB71OdoMyOP7NvXkFn924GXeQut54BVDqCvnkQffpy9rlOfcuzlaWEp7_MhOKsjnAEkVEfP4TWO5HrcgTKbaqpO9nMhTqbf8twxJYH39DzEPuWA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"joefixit(2023)/joefixit(2023)_1.html"
+},
+{
+"name":"Joe Fixit (2023) @2",
+"summary":"Peter David's return to one of his most iconic Hulk stories continues! Everyone wants to know who the mysterious Joe Fixit really is, and Spider-Man is on the case (complete with location-appropriate disguises)! Kingpin wants Las Vegas’s toughest enforcer working for him instead of the competition, and he’s prepared to make Joe Fixit an offer he can’t refuse. But Spider-Man is certain that’s still Bruce Banner under that grizzled gray exterior, and he’s not ready to let Bruce go down a path he won’t be able to come back from.",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/LHaylrDNHwm9Opyws_YFcHABJXZ9gmt00Txe8GMEhB2fviOibdClZ5WXbKod6WoJoqbc-VVsCbbZ8F2ziNtbi8O4SZ9OZizTDQat97AJDc0_qs-XX2xxHMoRXevmprvdjTfWYWZPZg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"joefixit(2023)/joefixit(2023)_2.html"
+},
+{
+"name":"Joe Fixit (2023) @3",
+"summary":"Peter David’s mastery of all the different layers of Hulk are in full force as Bruce Banner takes on…himself! It’s Joe Fixit versus the Hulk versus Bruce Banner with Spider-Man trying to keep it all from imploding!",
+"date":"March 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AMWts8CKfUi3WYsVZr24aMtEhSuH9Px9vhlnkBUoHRl4FNYcGqjbDg0w-kSILHK7wlkWxF3lbTiceaknWcTamzopYL4Hfpyr4FOgGrlOOQ6NIW9BgxrdBRk=s1600?rhlupa=MzUuMjAyLjMwLjEzNA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"joefixit(2023)/joefixit(2023)_3.html"
+}[{{{{{{{{{{{
+"name":"Jane Foster & the Mighty Thor (2022) 1",
+"summary":"When Mjolnir comes crashing through Jane Foster's apartment window, she fears the worst has happened to Thor. As Asgard's greatest enemies - including Hela, Ulik the Troll and Enchantress - mount an assault on the Golden Realm, Jane must find Thor and save Asgard - even if that means she must once again risk her life to become Thor herself!",
+"date":"June 8, 2022",
+"tag":"-algrimthestrong,-thor,-betaraybill,-captainamerica,-enchantress,-hela,-mrhorse,-odinborson,-rosalindsolomon,-runa,-sif,-tonystark,-tyrodinson,-ulik,-valkyriejane,",
+"img":"https://2.bp.blogspot.com/0XZIGgKL5swqgzPGog9iW1rO5iaoI1kO0HnroNkSxn3ugNnJj0rVn3xXhPkI-bnrwMb-DG0q38jqeOtXv4POb9oqHFOjXuyGNOeMK-flerPoj-SYq_Z-FHIhmqi8TE6Rf8JVTJ6VkA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"janefosterthemightythor(2022)/janefosterthemightythor(2022)_1.html"
+},
+{
+"name":"Jane Foster & the Mighty Thor (2022) 2",
+"summary":"When Jane and Odin find a clue steeped in unknown magic, they turn to Doctor Voodoo for help finding Thor – and learn of an interdimensional threat that will require more than Thor’s strength to combat. Meanwhile, Rúna cuts a Midgardian vacation short to help the warriors of Asgard hold off their enemies’ assault on the Golden Realm. But why do their enemies seem to know something Sif doesn’t?",
+"date":"July 6, 2022",
+"tag":"-algrimthestrong,-thor,-betaraybill,-docvoodoo,-enchantress,-hildegarde,-mrhorse,-nidhogg,-odinborson,-ratatoskr,-sym,-sif,-thorjane,-ulik,-valkyriejane,-valkyrieruna,",
+"img":"https://2.bp.blogspot.com/-Wy7FcuS958ZjOWjQqGtIgapIHG-atLwGf98GedO6bmAvUwN4uAZVT0-YnPstQnAYOX8K11Mg7lu_4cXsnKDYwW9kEDC9LUx08GNdyl_tJ8eH_QVBgXqEusWXjtxDyJuH8_F9tkMiQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"janefosterthemightythor(2022)/janefosterthemightythor(2022)_2.html"
+},
+{
+"name":"Jane Foster & the Mighty Thor (2022) 3",
+"summary":"PART THREE OF FIVE
+
+JANE VS. S'YM OF LIMBO FOR THE FATE OF ASGARD! The battle against the Dark Elves and their allies rages on in Asgard, and the warriors of the Golden City are losing—badly. Rūna the Valkyrie has managed to stave off total defeat, but Asgard desperately needs Thor. Can Jane find clues to the Thunder God's whereabouts in Limbo—or will she lose herself to S'ym's dark magics? ",
+"date":"August 10, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/s7rmIh6iHuVjFNafnMBOzmgssAqcqFOFdKMCAVrTX27lhV0pdrGl_Xqn1ryddZUToZMmxJsD1A1U1LqPIwBZkoViyaPKnHPxo3CtGhgiC4yBFqdtNogSbpkB2pNZAo4npsUR5636cg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"janefosterthemightythor(2022)/janefosterthemightythor(2022)_3.html"
+},
+{
+"name":"Jane Foster & the Mighty Thor (2022) 4",
+"summary":"PART FOUR OF FIVE
+
+Asgard's defenses have been breached, its warriors battered and still more legions are unleashed against them! The chaos and destruction seem to be fueling some great, dark power…but to what end? Before she can find what lurks in the shadows and save the Golden Realm, Jane Foster must first save Thor!",
+"date":"September 21, 2022",
+"tag":"Algrim the Strong,Ares,Beta Ray Bill,Brün,Enchantress,Göndul,Hlökk,S'ym,Sif the All-Seeing,Thor (Jane Foster),Thor Odinson,Thori,Tyr Odinson,Valkyrie,",
+"img":"https://2.bp.blogspot.com/qnXfMwpgtcDFE6ZStcljDU0Uraq6wt4puIB4oFsFE1UFPtRy4fbgA7IpQGfBqdpzkQWl7ZEbX7RH6CTR11gleP9j6oBikidJIW7NzJc9hzf34dDFWxs5LoXRAY1p50Q9Tl6sykFY3g=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"janefosterthemightythor(2022)/janefosterthemightythor(2022)_4.html"
+},
+{
+"name":"Jane Foster & the Mighty Thor (2022) 5",
+"summary":"PART FIVE OF FIVE
+
+Everything comes to a head in this brilliant and brutal conclusion to Torunn Grønbekk and Michael Dowling’s Jane Foster epic! The puppet master who has been leading all of Asgard’s enemies from the shadows will be revealed…as will the dark secrets of Rúna’s past. With Asgard torn asunder, will Jane and Thor arrive in time to save the Golden Realm from certain destruction? ",
+"date":"October 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/n4tGG8QSJGVKXE2j7QjI8h8kDZFKcme346ki7l-1FBFwSWQQjTr1GUutUzCZEqKcUKPVbnuQNqUBgMb9Ts2vgu6HRIaHv_eBQ9Ph760KTfK8JK6F-8WDvxTaY2GawQm1d1FLH5dXTQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"janefosterthemightythor(2022)/janefosterthemightythor(2022)_5.html"
+}
+"name":"Iron Man (2020) 20",
+"summary":"TONY STARK POPS THE QUESTION! With Korvac, the Power Cosmic and a nasty morphine addiction now behind him, a freshly humanized Tony Stark has returned from rehab to the world hoping to show folks that’s he’s okay, highly functional and ready to re-engage. So of course it’s time for him to face off against an angry hyper-intelligent gorilla. When the public unveiling of a new Stark Supercomputer goes awry and the machine’s hairy 400-lb chess opponent decides to break loose in the city, it all leaves Tony feeling a little anxious. Can Patsy Walker provide any shelter in this new storm, or does it just mean more clouds are gathering?",
+"date":"June 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/lhGmXuX0UioSj4Joj1hZZsg0yd_469rbSREedz1ne9RnXqgnYiLdHnSXFTCu0arXjf-Sk5DlTfSYTRuDrWyriofD_vJkczPTO12wgq7YzJYa6Z3ZTx_iqP332HMaFZcChLgiUMynhg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironman(2020)/ironman(2020)_20.html"
+},
+{
+"name":"Iron Man (2020) 21",
+"summary":"I DON'T KNOW... MAYBE IT WAS UTAH
+
+After his battle with a super-intelligent gorilla in New York City, Tony Stark hops a flight back to California to get away for a bit. But it turns out that a mile-high hijacker is also on board looking to steal a briefcase full of gold bullion. After the thief escapes at 30,000 feet, Tony dons his Iron Man armor and flies after him…only to become ensnared in one of the crook's booby traps in the remote southwestern wilderness. His armor's flight systems now malfunctioning, Tony has to hunt down this expert survivalist who's carrying a mint of precious metals in the middle of nowhere…and survive the experience. Is his technological prowess any match for another man's elemental mastery of the wild? It's Iron Man versus Nature, introducing a new villain…SWITCHBACK!",
+"date":"July 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/zoBLnHHlQMJQf-9fsEyibGVN75PW6A3Q469f87ERVPm0_mg22KXnvZyq3wSrTCIaCpPWmbfTq5Zu0DzRdmBfZRRYAHqhVW3_E89YKnI7RjglJWVpjJkGMAd2lpM9AQMWBv2PGhJsDA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironman(2020)/ironman(2020)_21.html"
+},
+{
+"name":"Iron Man (2020) 22",
+"summary":"UNKNOWN VARIABLES
+
+Tony Stark has worked hard to pull himself up by his iron bootstraps, and after a few detours, he finally tracks down his old friend and employee Vic Martinelli…only to find he's arrived too late and Vic's been murdered. Before a guilt-ridden Tony can get a bead on why, he's attacked by Vic's assailant…THE TITANIUM MAN. In the battle, he learns the sinister plot goes deeper. The Titanium Man is working for those even more mysterious, and Vic was killed because he'd gotten possession of THE MANDARIN'S RINGS. Tony flies overseas to Asia and headlong into a cloak of conspiracy, hell-bent on tracking down the rings of his most fearsome adversary, desperate to stop them from falling into the wrong hands. But at what cost? What is Tony Stark willing to sacrifice in order to stop the Mandarin's power returning, wielded by the hands of a new—and possibly unsuspecting—acolyte? Iron Man is about to go hard. He's about to buddy up with criminals. And he's about to go…stealth.",
+"date":"August 3, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Ov_b4yrbka3KvcxE-pjjnKLq9vS6NuAA4pheEEUG3x9Am12Nm30rjdauXacBXzEgL07MkfdgZxkLWsckdQRaKBgxhDhNf83_OfndvlN3kCYxc4B9wFOseVRNPiYV4-QnL0xkasYK7w=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironman(2020)/ironman(2020)_22.html"
+},
+{
+"name":"Iron Man (2020) 23",
+"summary":"BUY THE FOUR
+
+Operating in stealth mode with Jim Rhodes, Iron Man has landed in Macau and immersed himself in SOURCE CONTROL—the worst black market of stolen and illegal technology—all in order to organize a backroom buy of THE MANDARIN'S RINGS. It's going to require Tony Stark-level capital and strategy, but SPYMASTER may have a different buyer—and a wicked double cross—at the ready in order to pull the rug out from under Iron Man's boots. It seems someone else is willing to pay top dollar for those rings and is ready to pull them out of Iron Man's dead hands if they have to…THE COBALT MAN.",
+"date":"September 14, 2022",
+"tag":"Cobalt Man, Iron Man, Spymaster, War Machine,",
+"img":"https://2.bp.blogspot.com/KJ2F4Zm8QF8FZ-3RwAC4QbCR2WX7EuaZpPznSrqV9klOjPqUYyl-krSzSlVHxCJYamoMA6z1KW8vHDu-19j1D7iLFe6G4aDVxGaLvoV8vlkeU7jg4ECnBzry6ELbIZikWCwjyJq2Xw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironman(2020)/ironman(2020)_23.html"
+},
+{
+"name":"Iron Man (2020) 24",
+"summary":"SAVE THE LAST DANCE FOR ME
+
+Tony Stark has all but bankrupted himself buying up every dangerous piece of tech he's chased down on the black market network, dismantling it from the inside. As he and Rhodey lock it all up and plan their next steps, Tony and Riri Williams argue over what to do with the most powerful weapon they've recovered…the Mandarin's rings.",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Mw0cXQqFQ4QhBLWC5X8ze-eIzfkzLUqMBElX0RTt8rL6ctJqcImrL-aUjzFfncMV_N8sK0CBh4P95LDuD5JQf0BHs1dXTPGwZnXqIi4IOK0Rt8atHsIq7lFkW_IML4ONQa8dXAR8vA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ironman(2020)/ironman(2020)_24.html"
+},
+{
+"name":"Iron Man (2020) 25",
+"summary":"A HERO AND A FRIEND / DADDY'S BOYS / BATTLE BEHIND THE BAMBOO CURTAIN! / THINGS TO COME 
+
+AN OVERSIZED CELEBRATION OF THE GOLDEN AVENGER’S 650th ISSUE! It’s IRON MAN DAY in New York City, but not everyone is ready to celebrate the ongoing legacy of Tony Stark—least of all him. But a sudden crisis will once again test Tony’s heroism and challenge his commitment to the role he has assumed for himself. Must there be an Iron Man? Christopher Cantwell concludes his thought-provoking and powerful run as writer, as illustrated by Angel Unzueta. PLUS! Murewa Ayodele and Dotun Akande tell a tale of Iron Man’s quest to locate Thor amid the frozen wastelands of Niffleheim. Kurt Busiek and Ben Dewey pair up to provide an all-new vintage Iron Man adventure from the distant past featuring Madame Masque and the Radioactive Man! And get a special glimpse of what’s coming up next for the Armored Avenger!",
+"date":"November 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4RsO257zfmlHK2ivQDQetS1F2Hkz0v-ANhp9yYvk-EAnz0ld4geuPJ38uGMfXKKMLspgMdcyXQCQ9JcVhiIdetIsjK78T16nT-fzSNyllOJuwNy7LWfQQn2mhzZdmGvXVe2rpLfoOw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ironman(2020)/25.html"
+}
+]
+"name":"Iron Fist (2022) 4",
+"summary":"The mysterious new IRON FIST’S past comes calling! It’s a race against the clock to stop an untimely resurrection…but first he’ll have to fight his way past two IMMORTAL WEAPONS: FAT COBRA and the BRIDE OF NINE SPIDERS!",
+"date":"June 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rZ1K25YSwqSeefpOVSrl70fJmfC76rAhsW0eFcfcULYYorydYPpBzgfEX1lM1Lz2NSBtsLYYUfVZR3oK2ULGr2Odzkdmhijpk3YxJTkzJM2erzGqaSjeK8MTjlDPbCsOb8avGw0X9Q=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironfist(2022)/ironfist(2022)_4.html"
+},
+{
+"name":"Iron Fist (2022) 5",
+"summary":"The seal has been broken! As a dark god's power begins to rise, LIN LIE faces an impossible choice! Will the power of the IRON FIST finally accept him…and even if it does, will it be enough?",
+"date":"August 31, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/TnMFtDDLM-GbS1o3SA7sMt-zhpQb29V1_-dyXZYVZA6W5jBf0Rde1OE4BePrTgM6cZ49rHC8hnfnqZWkrdv8t9j5VYfiauovby_esRkU01TnGRS_QLVVa20WLagjd1bmfhDKpeZT8g=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironfist(2022)/ironfist(2022)_5.html"
+}
+"name":"Iron Cat (2022) 1",
+"summary":"The Iron Cat armor made its first appearance in BLACK CAT #11 but both Black Cat and Iron Man thought that was the last they would see of it. If Felicia is surprised to see the armor again, you can imagine how furious Tony is. There's someone new in the Iron Cat armor and they have a plan that will put them in the crosshairs of all the heroes of the Marvel Universe. Both Iron Man and Black Cat's secrets and mistakes are going to come back to haunt them and it's going to get ROUGH! Don't miss this fantastic new miniseries!",
+"date":"June 29, 2022",
+"tag":"-ironman,",
+"img":"https://2.bp.blogspot.com/sfVBptz-nw_g2_Gm34QaKpIhZANB_nWynveI701VTjui5hU9puoohPQU62ribyueLcULWhAEVUS9S6unybilPL0oayJQlP4cXP99s4VUeOawIhBB2MQ1N1r1fLa3DYjDH7HZodPRfhU=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironcat(2022)/ironcat(2022)_1.html"
+},
+{
+"name":"Iron Cat (2022) 2",
+"summary":"THE CAT'S OUT OF THE BAG! Iron Cat has it out for Felicia Hardy, the Black Cat, and will stop at nothing to tear Felicia down. Meanwhile, all hell has broken loose at Stark Unlimited after Iron Cat broke in to steal the armor. Iron Man and Black Cat join forces to stop their mutual enemy! This is one team-up you do NOT want to miss!",
+"date":"July 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hcolKldZWd5qnYAQ-ZCuvBxZa3N25W7j71K26BjzViYd3JneoMrXb4UysYXL0k8VrIzqMucAjocozzwrk0GLpMdL81SBi1aY2LP6tn6I_BfzMfbJiJsI68p0geSlYIrcZqFW0BXxLA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironcat(2022)/ironcat(2022)_2.html"
+},
+{
+"name":"Iron Cat (2022) 3",
+"summary":"IRON CAT vs. IRON CAT?! Tony Stark and Felicia Hardy aren’t going to let the mysterious wearer of the Iron Cat armor have all the fun. Nope, Tony has done his own spin on the Iron Cat armor, and Felicia may like some of his innovations.",
+"date":"August 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4xNgyflVo876c9IlPtmpljqfGkSCNAJwPM8hr0m-Kb6k6ndwYHOYSItwWr0riFMiTJY-INfow2_eCwISpbSWnr_kfI5ZOxw1r1cZNDXKNRA-VdJqHACednfo8SbLaXkAoPtD0fOFLQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ironcat(2022)/ironcat(2022)_3.html"
+},
+{
+"name":"Iron Cat (2022) 4",
+"summary":"MADAME MENACE STRIKES! Iron Cat's vendetta against Felicia Hardy has produced some deadly consequences. Tony Stark's old nemesis, the sinister A.I. known as Madame Menace, has been unleashed!",
+"date":"September 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/F0A4UWZdiF-EwfL8VLoixkUDk_Q2NZwwjZSZC3jVBmsbhe9zSSmiVC8OVhHVoJ-X8ILWFnu6E3IKqd_Qek09RT1gnPWcSkn2nqq06ae6W4ygCDQB-WrFG9BYMFHZz698N9JT5MdNlA=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"ironcat(2022)/ironcat(2022)_4.html"
+},
+{
+"name":"Iron Cat (2022) 5",
+"summary":"Tony Stark's legacy is being set on fire by Sunset Bain. She's corrupted all of his armor and everything he's built since his very first weapon. And it's all Black Cat's fault. Now, Iron Man and Felicia Hardy (in her own Iron Cat armor) are fighting for their lives against the Hulkbuster armor and every other Iron Man armor in existence. This is not going to go well.",
+"date":"October 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/oVIkC9fuwzO5BdlRFmeD2Gdn3S8CjUH4XAIj5rQ_tQFlfqW0dpl6xCKn5xNCX6FIsZj591ubKpOrdE7WNXldxcj0-_s8LRQbFTm2fSSFIqdczb5L9iwb1u_FllXx8KpR7nwwa_4xIg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ironcat(2022)/ironcat(2022)_5.html"
+}
 "name":"Icon vs. Hardware (2023) @1",
 "summary":"Two titans of the Milestone Universe clash — and in the process, set in motion a chain of events leading to a story bigger than you could ever imagine! When Hardware discovers a long-suppressed time machine hidden in a government warehouse, his obsession with righting the wrongs of the past — those of both American history and his own tragic family — will unravel the fabric of time for the Milestone Universe. But while there are many problems with Hardware’s plan, there’s one big one: wherever he goes in America’s last two centuries, Icon is there, having lived through it! And a man as powerful as Icon knows the profound danger of the forces Curtis Metcalf is unleashing…and he’ll do whatever it takes to put the genie back in the bottle! Icon Vs Hardware is the official kickoff of Act One of Milestone’s WORLDS COLLIDE event—and if you think you know what that phrase means, you’d better not get overconfident! This is the ideal jumping-on point for those who’ve sat out the story of Dakota so far, because this ride is headed somewhere unexpected!",
 "date":"February 14, 2023",
