@@ -1,3 +1,200 @@
+[
+{
+"name":"GCPD - The Blue Wall (2022) @1",
+"summary":"BOOK I: THE SHOT NOT TAKEN
+
+Still relatively early in her tenure as GCPD commissioner, Renee Montoya sets out to rebuild her department and restore public faith in the historically troubled PD during some of the worst conditions it's ever seen. But Renee can't do it alone—in order for her plan to work, everyone from the topmost officials all the way down to the most fresh-faced new officers must contend with the harsh realities of being a symbol of law and order in a city of super-powered saviors and superhuman lawlessness. DC is proud to present GCPD: The Blue Wall by the stellar team of Academy Award-winning writer John Ridley and artist Stefano Raffaele. This six-part miniseries is a thought-provoking and riveting story of everyday people trying to do good in the midst of a flawed system. No one said protecting a city like Gotham would be easy.",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/gU9L2ZItVBaTeH-VVLPfPJqf8cjDZZNZOeUnVaO7yuUAq-UPch9hZU06ion1pQ1gmq5BDPKGK7XMA0xYNQSeUlnHTYZ97yMfMc_q2l5K_XU64JWbFbmiFCvdPiPFf5QpvdSd8n_g2w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gcpdthebluewall(2022)/gcpdthebluewall(2022)_1.html"
+},
+{
+"name":"GCPD - The Blue Wall (2022) @2",
+"summary":"BOOK II: I MAY NOT GET THERE WITH YOU 
+
+GCPD Commissioner Renee Montoya makes an unpleasant discovery about one of her newest recruits that spirals out further and further, making upholding the law in a city like Gotham even harder than it usually is. Meanwhile Officer Wells tries to give stability and security to his parolees…but things seem destined not to work out for the heavily burdened parole officer.",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/SkmA4ggp9vv86eT1R5IDPtQDlhL3RP7OCD7jdfA0e7qonPdNa94NJogtaT_cBuMFpmwfdHaAIIfQvbPBy6zjhd7aDHV7J9SChAuraX-jOybSbA38-2Q5t7q4_Gc1QqiY2HfnIdCTFw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gcpdthebluewall(2022)/2.html"
+},
+{
+"name":"GCPD - The Blue Wall (2022) @3",
+"summary":"BOOK III: THE NATURE OF FORGIVENESS
+
+A high-profile criminal operation is foiled by the GCPD, and in the eyes of Commissioner Renee Montoya, there's only one suspect worth investigating: the murderous gangster known as Two-Face. But every report appears to show that Harvey is back on the straight and narrow. Is the duplicitous former villain once again leading a double life? Or are ghosts from Renee's past influencing her objective judgment?",
+"date":"December 20, 2022",
+"tag":"Renee Montoya, Eric Wells, Two-Face,",
+"img":"https://2.bp.blogspot.com/C0rhWrjmM5kSOuc5_zqgISsAAXLK52fc9TQD7k3QU14vB0CJH61w4ry1afTP-cFJs5ULfuRr5P_r7AH7aJ9JI3J741IUzp9qWpcH2_2eDxlJ2oYFNrrczCnzdZ_TgtpsBYHv696cHw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gcpdthebluewall(2022)/gcpdthebluewall(2022)_3.html"
+},
+{
+"name":"GCPD - The Blue Wall (2022) @4",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XClXet9seWds9CLfWVSr0l7bPM8TbUuDyJb2gJWjR6mXEE-nAGMcBQEY2_kBnhTFTYlFE93kuzrW5R9PWcen9eVNIfFQyO2qnM-sDVGKGcH3Lo5WJbQvoCag7Fz5YVGJ7LtnRhDODg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gcpdthebluewall(2022)/gcpdthebluewall(2022)_4.html"
+},
+{
+"name":"GCPD - The Blue Wall (2022) @5",
+"summary":"BOOK V: A CONSTANT RISK OF FIRE
+
+Life has a way of slipping through our fingers when we least expect it to. It’s happened to GCPD Commissioner Renee Montoya before, and despite everything she’s fought for, it’s happened again. A domino has been tipped, and Renee is about to go through her most harrowing test yet.",
+"date":"February 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EUdxURLBnjFYbDNiomUbP9q6v63SEASZMNRHnuLELlFXRRCZUsnSFjz-ElXTHS4CpB4zCbd2JlbeK-4cbgC0dsubU8bfYetetN_WpjyRBrqIdC4UoFs74Y1tnGY9EBCuJZtQYiU5KA=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gcpdthebluewall(2022)/gcpdthebluewall(2022)_5.html"
+},
+{
+"name":"GCPD - The Blue Wall (2022) @6",
+"summary":"BOOK VI: I, ABOVE ALL ELSE
+
+With Gotham City in a state of panic over the recent murders and the GCPD buckling under the weight of the department's connection to the crimes, can Police Commissioner Renee Montoya restore peace without crossing the line herself? What price is she willing to pay in order to do what is right?",
+"date":"March 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/wZiYk1f0244smTc_pMBugrLbYhsahu_CmCBn7lkKnCffYPVH2NAqRXcnlrLYcEgX4FmfiAwZ_MFhyopwmaQUB6n8C6ceupS_WMna_twHZEIFrNt0GwW8f-ClmQGHZNRuU6Dsq3DBww=s1600?rhlupa=MTA0LjE1NC4xOTYuMjI1&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"gcpdthebluewall(2022)/gcpdthebluewall(2022)_6.html"
+}{
+"name":"Genis-Vell - Captain Marvel (2022) 1",
+"summary":"PETER DAVID RETURNS TO GENIS-VELL, SON OF THE ORIGINAL CAPTAIN MARVEL! Both now back in the land of the living, Genis-Vell and Rick Jones are about to come crashing back into each other! Witness Genis-Vell, Captain Marvel return to the pages of his very own series written by legendary scribe Peter David, drawn by artist Juanan Ramírez! Can Rick Jones save Genis—and himself—before they both fade out of existence? Is Rick's ex-wife, Marlo, the key? Find out when Peter David returns to take Genis-Vell to all-new heights!",
+"date":"July 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EsdYDTDx5mdb0N_na1xJQNGO7FZKg570HLfKFAfzRgPM-PXDbrDJIyJaOfXU0LsZ9lTKqpauYPWUnt8wQ4sGqDExqwnrm_wkaNHq_hDfbMBglgS3ehdEjHJTm3W9PfoMPDrobTuvOw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"genisvellcaptainmarvel(2022)/genisvellcaptainmarvel(2022)_1.html"
+},
+{
+"name":"Genis-Vell - Captain Marvel (2022) 2",
+"summary":"IN THE EYE OF A TITAN! The clock is ticking as Rick must find Genis before they both blink out of existence! Wait…who's that big face on the cover? Find out who else is searching for Genis and what DEATH has to do with it!",
+"date":"August 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pAtv3Onxz6RGyzPJkU7T0Fx4e77lsODrHx1tnbYXFT647F1Naff2YJNcUp5qUsNMx0lHWywZMDEheiHzjqkKupaMrGPB0pEQEqasy3mCpqeh0-fcNkhjT2ZvaR3Kflohi_LV7z-1jg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"genisvellcaptainmarvel(2022)/genisvellcaptainmarvel(2022)_2.html"
+},
+{
+"name":"Genis-Vell - Captain Marvel (2022) 3",
+"summary":"FAMILY MATTERS! Genis-Vell and Rick Jones are a mess when they’re apart. Can Phyla-Vell fix this dysfunctional adventure? Or are Rick and Genis’ fates already decided?",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RmGtftQixd4R2Jo9TxJr-lHRgqdNcIM_uDTzon9YphosjzmuwCC-6bSz7zdyGx2aT9tI6JJu_mWTL7gWH46Ktx7FjSQNdvE3cfMnJCYTx2OR7Y6KK2i__4Q-ENTIllr3vr-7MskxvQ=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"genisvellcaptainmarvel(2022)/genisvellcaptainmarvel(2022)_3.html"
+},
+{
+"name":"Genis-Vell - Captain Marvel (2022) 4",
+"summary":"SHARING SPACE! A bond once forged between GENIS-VELL and RICK JONES forms again! Can the [legal said we can’t use this adjective in conjunction with duo] duo work together to build a new future together? Or is DEATH once again right around the corner for them both?",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Uif4VdH-fUjR-U5GlpvRZaYuZbTiBW5q9lLpslCMJKJlCBoQ515A7sXP39PndYWVQH65caiBRcAr9tPnwagBZ6plcNBMzWiRtoi4tPLpNJAzJ3Ta9tA5nvqQOCVin0633L9QQqQlmw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"genisvellcaptainmarvel(2022)/genisvellcaptainmarvel(2022)_4.html"
+},
+{
+"name":"Genis-Vell - Captain Marvel (2022) 5",
+"summary":"TILL DEATH DO US PART! Genis-Vell and Rick Jones have been through a lot together—can they survive a final face-to-face with Death? You won’t expect how this one ends!",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/C2X0UJnSliBvX_ZJkexruVHUIjPd81vZ-ky_ZLeJy5wlQmFBOKX_vAeQxQJAvmSlcjl0mdGHuLGo__NQX-rSczuWSqbeSqq43dKEMn2b_eyK5vb97Pe76z3RpzgiJUzFqPyayvcZMg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"genisvellcaptainmarvel(2022)/genisvellcaptainmarvel(2022)_5.html"
+}
+]
+[
+{
+"name":"Ghost Rider (2022) @3",
+"summary":"Johnny Blaze needs to know the truth behind what happened to him in Hayden Falls. But not only does he have an FBI agent tailing him, there are supernatural forces at work that want to see him off the road again, including a nightmarish trucker who stains the roads with burned rubber and roadkill.",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/cACrKnBc_QQRc0JkO0eOGqvfHw3x7_NzEBM7RIcSy6ILhn3MIW_oA9HKcVSHBz2FrYXUZ88CIqlQvCJUMC5pre7nWQey9wSTFDKG4hd1y5aze4BnUmwo0AcKgiqSSk3_dyYlwpSpFA=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"ghostrider(2022)/ghostrider(2022)_3.html"
+},
+{
+"name":"Ghost Rider (2022) @4",
+"summary":"They are all small towns. The kinds of places you’d never stop at except to get gas. Cars are abandoned. The houses and shops empty, the people seemingly vanished. Where did they go? The park might offer some clues. Among the peanut shells and abandoned stuffed animals, you can almost hear the music of the midway, the laughter — and the screams. Here is a blood-soaked flyer advertising a circus...of crime? Johnny Blaze is on their trail, just as Talia Warroad and the FBI close in on him, as a larger supernatural conspiracy begins to reveal itself.",
+"date":"July 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/61wQwVKjJe29NAChNQl9W_bq_YwCkwkLbmCSh-6CjPM26u2gSXq2QWX8a9sTecdFXFLyMpxBeGxc9eeC6Dg30pdh3mgZv_ZZRlbb5h4tZAh3QyeiMgVhJVFbU26b7VZKrFOJqzWJYA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_4.html"
+},
+{
+"name":"Ghost Rider (2022) @5",
+"summary":"HELL'S BACKBONE
+
+DEATH RALLY! New alliances and old betrayals come into play when a mysterious invitation goes out, drawing Johnny Blaze to the world's largest motorcycle rally, featuring a race Johnny might not want to win...but can't lose. Featuring guest stars from across the Marvel Universe!",
+"date":"August 3, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/lttFbwqxKcnsaGTHORakjw14PsMjq95yqwB0DeRmT-iXCl9svilURR_TZ0oYs9Vcj0NApUaOTY3KrhoOcReQVYgJQ7bP2zXMqweeqLR0o2crrzdIdLLno007i_DKvAnxRxLPFBf8Sg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_5.html"
+},
+{
+"name":"Ghost Rider (2022) @6",
+"summary":"THE EXORCISM OF JOHNNY BLAZE
+
+There's somebody else out there who knows what it means to suffer—to feel sickened by the pain and suffering they've inflicted on the world—and his name is Logan. After the motorcycle rally at Hell's Backbone, Wolverine and Johnny Blaze are brought together, but will they race forward as enemies or allies in the war against the shadow country?",
+"date":"September 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XJ2kvx-bxhndpXFHoJsh215ZdE4WkWWFwdDzwupCcsu8wn7_Z-btVcXD8Ucf1Ag4n7Z9NdIvwkjVyVFQ2IBMFJaCcNYvQHB_9Dy_oAg3N69jn2dWE6QI8PcAbKs6F88Q2ZOIjIIoxA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_6.html"
+},
+{
+"name":"Ghost Rider (2022) @7",
+"summary":"SHADOW HUNTERS
+
+There’s a new splinter group within the F.B.I. that is charged with quelling the rise in supernatural activity in the country, and it’s helmed by Agent Talia Warroad, who aims to enlist the dangerous power of the drifter named Johnny Blaze!",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3za3X_hhFUMVToo2JllxP_76hksD77_hyjzyiuYxAbfUQKG22AB0uQ4eNskgZuHQmtDd8EqcrRH0o2cCbjRgdbjW2G1qZ0pKjCeBCFMnOKeMczMQT3DNnH8Su4C4PuOyvwffRucJnw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_7.html"
+},
+{
+"name":"Ghost Rider (2022) @8",
+"summary":"SKELETON CREW
+
+Johnny Blaze and Talia Warroad—working together?! As part of a splinter unit within the F.B.I., they will map out the shadow highways that crisscross the country, uncovering the larger design of an underworld conspiracy!",
+"date":"November 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0k3d9DOnFn5iWS1tcJzwa5xAoUFWZctbz5NKXW4Hrp0Doe1gDeLhkqKr0KH5TQ2cHRZdt8NqAE0NIFPvxLjGZnXqusUKWaxnou7jpYxnCeeFqZYfkj_PsO2bDWMpWhCEvsT1PGGAXA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_8.html"
+},
+{
+"name":"Ghost Rider (2022) @9",
+"summary":"SLAUGHTERHOUSE
+
+THE CREATURE KNOWN AS EXHAUST! Johnny Blaze has finally been exorcized of his demonic tumor, but it lives on as something new and sentient, a dark mirror of both him and his bike…a creature known as EXHAUST. As Johnny and Talia Warroad head toward Chicago—a city known for the blood of its slaughterhouses, a city they believe is central to the Shadow Country conspiracy—they’ll be pursued by Exhaust and the dark forces he manifests.",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0OBIgnV3qVzmdZWc-_OkIuajQJvYYToYYnH3LQsQ0W3rk0c3eRaseBW_iRYOlxFX6rVRmls3s5K2yvC1td2-giwMYIeeeWet5Or9ZV-G16-G7n0c7chiOjLgXOGuUtEJm-57q2j4lg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_9.html"
+},
+{
+"name":"Ghost Rider (2022) @10",
+"summary":"AMERICAN NIGHTMARE
+
+In the blood-soaked tunnels beneath Chicago, and upon the horned altar of Hell’s Backbone, the final fights of The Shadow Country arc will come to a startling conclusion. Blackheart, Exhaust, Zeb and his magicians, Talia Warroad, and the Ghost Rider himself will all crash together—and not everyone is making it out alive. In the aftermath of these battles, a new chapter will begin. Featuring new allies, new threats, and the return of some familiar faces…",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6tKaaU-E9U4Yco1tqK_9w_3IcAAy8bn8Js-C1VlGemzeSpemsXwv3zsZOe-SX0hjd26EPQlmrlRKu00PYZ-wyvAepFFqqgI5S8cMAVLqNTyl2eMqR_IFbT5FkXR3bxatKnwHbTpk=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_10.html"
+},
+{
+"name":"Ghost Rider (2022) @11",
+"summary":"NOWHERE MAN
+
+HELLFIRE AND DANNY KETCH! The F.B.I. has cast out Johnny Blaze and Talia Warroad, maybe because they’re too destructive and unmanageable…or maybe because there is some corruption present that reaches inside the very institution meant to protect us. As Johnny and Talia head down to Savannah to investigate a necropolis, there are hints of old friends and new foes on the horizon. A new chapter of horror is beginning for the Ghost Rider, and Danny Ketch is roaring up to speed in the rearview mirror. ",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7JFf2JD_fzU93PEvgsnEdF2IIUzP9Y3xbaVRIs2nSoUX-_mVSVW0hXn0HN3u0vW1kldN9H3owjMMr1XiD3C1g2hl2FcwB_d-64rjO9b5Cx1uyl2yMdd7hrRYyzTzA_G6AKazOAY-bA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_11.html"
+},
+{
+"name":"Ghost Rider (2022) @12",
+"summary":"NEEROPOLIS
+
+BLOOD BROTHERS! Danny Ketch is back—as this new, highway-melting chapter of Ghost Rider kicks into gear—so get ready for one HELL of a reunion. Both he and Johnny have changed significantly, and they’ll hardly recognize one another as their paths converge to war! ",
+"date":"March 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5mWm6GZhsj182FWCFcrP82fHyts492_zXswibAOfEA5NE6zuyLorjdsTdWor-8HhzkZom3dNf7Ds5Rb3vgQJgs7Fb4rZlqmy5BKaI_GXjwmbdPm3FSWTYAvyurdPIReVu557XkUm4A=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"ghostrider(2022)/ghostrider(2022)_12.html"
+}
+]
 {
 "name":"Gambit (2022) 1",
 "summary":"GEM
