@@ -1,4 +1,329 @@
-[{
+[{[[[[{{{[
+{
+"name":"Betsy Braddock - Captain Britain (2023) @1",
+"summary":"RETURNS HOME, HAVING CHANGED.
+
+THE CAPTAIN COMES HOME! And she’s got a whole new mission! With Otherworld settled, Braddock Manor restored, and her brother Captain Avalon at her side, you’d think things look pretty good for Betsy Braddock. Only it turns out, good ole Britain doesn’t want her back. No one wants a mutant menace carrying the shield of Captain Britain, and Betsy’s made more than a few enemies along her way. Quest-less and country-less, Betsy must define a role for herself. A fresh take on a beloved character, don’t miss the latest Tini Howard extravaganza and fan-favorite artist Vasco Georgiev’s Marvel debut!",
+"date":"February 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OgG8hc860HvuIVwVS3PwH1hpHK4t8Uiq6XmyGROARWWVl2-_9RsWfvaMuX0nlCitHuf4Tc1Gc8lI1s1tFY-pGgCRBW04vW1cPLD_15aDWHAoM78PSyqYQ46oD3zK7lapFYVRm2P9ZA=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"betsybraddockcaptainbritain(2023)/betsybraddockcaptainbritain(2023)_1.html"
+},
+{
+"name":"Betsy Braddock - Captain Britain (2023) @2",
+"summary":"TWO CAPTAINS, ONE COUNTRY
+
+TWO CAPTAINS—ONE COUNTRY—AND ONE HELL OF A FIGHT! Britain has a new champion—but don’t be mistaken, she’s been here for years. Morgan Le Fay is back for vengeance, and Captain Britain is first on her list! But where one captain fails, another may suffice…and Peggy Carter’s got a right hook that would inspire the devil herself. Magical machinations and feral fisticuffs abound in Tini Howard and Vasco Georgiev’s continuing epic!",
+"date":"March 29, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/IWMm4CEvf6YvBgek6F2pbttpZkHrkMKV18hHib3lROi-IAGO5JxSd8FpJYMD0QHe5altnncbrHc2fjzAYt868j8qSVo1U47DEMxWUb04akDpS10spEAIRoyVLe2jUzMIr8a8vDlW3Q=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"betsybraddockcaptainbritain(2023)/betsybraddockcaptainbritain(2023)_2.html"
+}
+"name":"Ben Reilly - Spider-Man (2022) 5",
+"summary":"BEN must take on the entire RAVENCROFT INSTITUTE FOR THE CRIMINALLY INSANE! But must he face them all alone? Or will an unlikely ally step in? This is one finale you won’t want to miss!",
+"date":"June 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/HHKjq7WMeNRllwJD8eLq9SS8w9daGApHwa2cKFANSzBXrIH8DrtVfG8ee1KRLBebrFhlzxrMliVzVJS9S0AoCaaSC_XA5HEM_3gHmRi0IP_VFi-QIrwWZhHqZVYXYcWpSvPfYhsrLg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"benreillyspiderman(2022)/benreillyspiderman(2022)_5.html"
+}
+"name":"Batman - White Knight Presents - Red Hood (2022) 1",
+"summary":"BOOK ONE
+
+“Bruce Wayne is Batman.” Four words that saved Jason’s life and destroyed his future forever. Banished by his mentor and damaged by The Joker, the former Robin is left to become something different, something stronger, a relentless force for justice in the city…Red Hood! With nobody to answer to, he walks the dangerous line between hero and villain. That is until he meets Gan, a local girl from East Backport who needs his help to save her neighborhood from a super-criminal terrorizing its citizens. And she’s willing to fight alongside him, whatever it takes!",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/u5XKv442IhqMXApa-DJAiEoZfqodUbcrdcMqykLph1CPe-PiQmXrijGeF05bWxPO-1K3M2P7DqtJfMtnQ4xCEoJF87CIBxQWRlAzPgNCvU7MITE2EG8tOLxvyJ-TlEs8hFB4jFFS4A=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanwhiteknightpresentsredhood(2022)/batmanwhiteknightpresentsredhood(2022)_1.html"
+},
+{
+"name":"Batman - White Knight Presents - Red Hood (2022) 2",
+"summary":"BOOK TWO
+
+After being reluctantly recruited to bring justice to the East Backport neighborhood of Gotham, Jason Todd is back in the hero business! With an all-too-eager sidekick, Gan, by his side, he’s on the road to becoming one of the good guys again. And after all the damage Bruce Wayne did to his childhood, he’s hell-bent on creating the ultimate Robin, no matter the cost. But when the new dynamic duo’s first challenger comes calling, will they be up to the task? Shriek is ready to turn up the stereo and blow our heroes away!",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/UFqs7xMXaS5urKVk_Cb7XF8ZSzudnKpfc6Jx_5ujJsKsnyix2HlzyYOQtvHnZn7hffsjnJesRExUGcZPrq4X9PnPCAdrfVQqkhsi6Kkd9V3apwmy8ElYGuzHRMItfQwv4-FjLSg3uw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanwhiteknightpresentsredhood(2022)/batmanwhiteknightpresentsredhood(2022)_2.html"
+}
+"name":"Batman - Wayne Family Adventures (2021) Chapter 1",
+"summary":"Moving In",
+"date":"September 8, 2021",
+"tag":"",
+"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY5DYnLey1ZkygMHHAjmbIH7uaRIcM2oP6aid1ju0AKG41TW0kf5duFoIlSJC1exmPwltOJUxP0M5RgsPVt7op5pxAby6G4hfpruwH-hVuiKuAs4pRGM4HBSoAY9ZDBQXQijaDWA1P3NkaxoOLrqkedwlBdyh98U8Ee_4iHEMNTwD_ASyNygsruAv0/s1600/bwfa_img.jpg",
+"page":"batmanwaynefamilyadventures(2021)/batmanwaynefamilyadventures(2021)_1.html"
+}
+{
+"name":"Batman vs. Robin (2022) @1",
+"summary":"CHAPTER ONE: REUNION
+
+Spinning out of the occasions of both Batman / Superman: World’s Finest and Shadow War, father and son will do battle in one of many single most earth-shattering tales ever told!  Deep in the heart of Lazarus Island, the demonic legacy of the al Ghul family line has at last been freed, and the Devil Nezha is out for blood. To reclaim his total domination over planet Earth, Nezha has supercharged magic—anyone who dares use it is overcome by a demonic evil that supercharges their abilities to dangerous, unpredictable, and in some cases deadly levels! With Damian in Nezha's clutches and Bruce haunted by the return of an old friend, the Dark Knight and the Boy Wonder are pitted against one another in the battle of the century! Legendary writer Mark Waid helms the next epic saga in Batman history, while superstar artist Mahmud Asrar makes his triumphant return to DC!",
+"date":"September 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9vwyiMnPboouSXNE6Upp8TiWQlbO8uJD94-nSYTZWWM5UPTpMjHRqwUKNnyEiMUPRHVpHdskjylIRMWt-_32hwRG3N5pQ1jx4rnnaymW6kCPCnSJ4EVZu09Pz1Do5tZ4YozyuqFuWw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanvsrobin(2022)/batmanvsrobin(2022)_1.html"
+},
+{
+"name":"Batman vs. Robin (2022) @2",
+"summary":"CHAPTER TWO: BEWITCHED
+
+HOUSE OF SECRETS…HOUSE OF DEATH. In the wake of Damian Wayne's devastating attack on the Batcave, Bruce and Alfred are on the run and running out of time! Magic users across the planet are experiencing dangerous and deadly power flares, and Batman must solve this mystery before his friends and allies are turned to ash. To crack this case, the Dark Knight is going to need the help of one of the greatest masters of the magic arts on the planet…Zatanna! What awaits our ragtag group of heroes in the House of Secrets? Can Damian break free of Nezha's possession spell before he murders his own father? All this and more in the explosive second chapter of Batman vs. Robin!",
+"date":"October 11, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/G4cbmhhX2etpxPygJjjudNknE3tiy4p9M-KVTf0HU8mEe_TJhid_9IsvuVdZp-bLiJOmkGxMNUi1mD30QLW_CLPeEIkpuWvjtsLMol-smXYkCHA_U6gZ4xBnFSOmQ3hqAtG27Adj=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanvsrobin(2022)/batmanvsrobin(2022)_2.html"
+},
+{
+"name":"Batman vs. Robin (2022) @3",
+"summary":"CHAPTER THREE: THE ISLAND
+
+Batman has been on a breakneck journey throughout the DC Universe, from Wayne Manor to the House of Secrets and back again...but where there are clues there is a trail, and the world’s greatest detective has followed this particular trail back to where he and Superman began this journey: Lazarus Island. With an entire island and army at Damian Wayne’s disposal, does Batman stand a chance? We’ll give you a hint: NO!",
+"date":"November 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/obV8BmutcGAOkQ3ILkV04dRfJPK_HpTw0fnoUsR8KpfvuDm4gIULPzyRmWsUL6HEDsJXsiC2Z8cI9l3GEdUTnKyPmWXdceFgsuwp7CGNL_Hhmv6MN_pp0mHGYfYrhcIZiBbu3GJw6A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanvsrobin(2022)/batmanvsrobin(2022)_3.html"
+},
+{
+"name":"Batman vs. Robin (2022) @4",
+"summary":"CHAPTER FOUR: THE SACRIFICE
+
+As the final battle erupts between Batman and Robin at the heart of Lazarus Island, a strange tremor rocks the combatants to their senses…This isn't an island at all—it's a volcano! With the Devil Nezha pulling the strings and unbelievable transformative power about to explode out into the world, our heroes have no choice but to do the unthinkable—fall back! A battle between father and son goes global as the Earth enters into the Lazarus Planet…",
+"date":"December 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/wi0Bw6ob0TzcsxGdU3qO-Z-vk5aHOHN29JP1wZ10HpF_Lubgdbu3KHJndT865cbFLu2-vkpJzOs--g_PLt_CUeJ8drTRVH0bNzgcghTf0xNrNpCBMvWavHX3iWqWT4ypggvxKlfn_g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanvsrobin(2022)/batmanvsrobin(2022)_4.html"
+},
+{
+"name":"Batman vs. Robin (2022) @5",
+"summary":"CHAPTER FIVE: FINALE
+
+WILL FATHER AND SON RECONCILE...OR RUMBLE? The Lazarus Volcano has left its impact on planet Earth, but the fallout from Bruce and Damian Wayne’s war is far from over. It’s been a long road from the initial tensions that drove a wedge between father and son in the pages of Teen Titans, but is the hatchet at last ready to be buried? A bold new chapter in the lives of Batman and Robin begins in this epic final issue!",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/M_Rc_KWoWJj5sZWKqGmtv2-lXT_fXh80wkTHLaOgLwKFuPsDf2n5wK8uyQFldPtQqDqPASRbZL-8KA7MUrrCuSvcq3njSKzsQAlz_ktJ6GDggVzZC9nGIQVJ7X7gTm4CCq1iCAZoyA=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanvsrobin(2022)/batmanvsrobin(2022)_5.html"
+}
+
+{
+"name":"Batman - Urban Legends (2021) 16",
+"summary":"Batman and Zatanna stand up against the curse they’ve been facing throughout their whole relationship! Ace and his Super-Pet compatriots make their last stand. Will the new Birds of Prey crumble because of their lack of trust in each other? And we go back in time for a Batman and Alfred team-up story where Alfred’s taking the lead on the action!",
+"date":"June 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Alh0lbPk4XELcXIE8YcFYfBchTp0-1CPIHhU-P0rfsKcr7YdPxxexRH8AjfSoMR6oPSiLaB6znR50i-01KKLcBsHb5g7_5ccXWuKyi66cdFMzl3ZiGIXbB_t8wVLzgxPvcVHPrBChw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_16.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 17",
+"summary":"COLD SHOULDERS / THE SEA BEYOND / STATECRAFT / ON HIS WORST NIGHT
+
+A blockbuster issue! Batman teams up with the Flash, Aquaman, and Black Adam in three spectacular stories in this special issue of Batman: Urban Legends, celebrating the Dark Knight's monumental year on the silver screen! Also features a Bat-villain-centric bonus story. Brought to you by four stellar creative teams. Perfect for old fans and new readers alike!",
+"date":"July 12, 2022",
+"tag":"-batman,",
+"img":"https://2.bp.blogspot.com/K_22cdeOkdZMEnqP1LfJVKMrvzO1XevFtXjnkYgoPEwA95uh7zJexLQ_R_-WcLAmPawGvqEGgdClZd2I2CmvJNKCqFH-4vVHvrFR2Tz2NO03blUc6-ApzTGAi9C7fLUHVfPXG8LQdQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_17.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 18",
+"summary":"SIGNAL AND THE OUTSIDERS, PART 1 / BLOOD IN & BLOOD OUT / THE PENNYWORTH FILES, CHAPTER ONE: THE FALL OF THE SCALES / NIGHT TERRORS / BELLE  BEAU
+
+A STRING OF NEW SAGAS BEGINS! Tini Howard and Blake Howard pen an epic Batman story! Batman and the Outsiders have to save the Signal from burning out! A new mystery begins, starring Alfred Pennyworth before his passing, from all-star creator Chris Burnham! And in a story from Batman’s past, the Dark Knight must team up with Etrigan the Demon to stop the Reincarnators!",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_7BmOpWz5ZFWF_pzVXGVzTB3_kGEpx1gq9-Ai6CznYfbq79Y_qmiK9Gj2ZHRJHQkSu7QQJ24W5Tcu-IAHT0Z8Gix3dVer71pB0gJtBbhBy11I2whK26Jo5DItCacbgJOnA0MUiAA5A=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_18.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 19",
+"summary":"SIGNAL AND THE OUTSIDERS, PART 2 / BTINY HANDS IN THE DARK / CALL IT / THE PENNYWORTH FILES, CHAPTER ONE: ON THE HOOK / LEATHER BOUND
+
+The Outsiders find the villain who has captured Duke Thomas’s mother. Alfred’s star turn as an investigator continues. A new murderer is plaguing the streets of Gotham City and Batman thinks it’s…a child? And we see inside the mind of Two-Face as we never have before. All included in this epic new issue of Batman: Urban Legends!",
+"date":"September 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/XZQtEpXRVEtjR_Vj4KK3sUk6EWID3z7HJC_imtO2FaHZ87cb66li69qq-e9FYgbSOVnk547pRl9G5fHzKEMHkpJ81m3qyFM_UNbN5N0TutrFcDN1-K3U0FH68fwyFhScoFxpAx626A=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_19.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 20",
+"summary":"CASTLE ARKHAM: ON HAUNTED WINGS / THE PENNYWORTH FILES, CHAPTER THREE: OUT OF THE FRYING PAN / MY SON / THE MURDER CLUB
+
+Jim Zub and Max Dunbar take us to the world of Batman, monster hunter! What is the Murder Club and how are they going to rock Batman's world forever in the start of a four-part epic by Joey Esposito and Sergio Acuña? Chris Burnham's epic Alfred saga draws to a close! And Nadia Shammas and Jahnoy Lindsay craft a deadly parenting short story starring Batman and Talia al Ghul battling for the soul of their son, Damian.",
+"date":"October 11, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0bnBHKwaSiHqJ8g34bmuBBly0wgMX8tQstc6RsEBUztZMImAHCIDlXBoIdSPgWRhJopo98tbtMZymhw94f4n3EHs7q7O8a8hXwb3u86Ik1XMxIHUdZ-3pKQmenzS-DJP1-2BtCD8=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_20.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 21",
+"summary":"THE WHEELMAN OF GOTHAM / SURVIVOR'S GUILT / ARKHAM ACADEMY, PART 1 OF 3 / THE MURDER CLUB, PART 2 OF 4
+
+This month's issue brings you the Dynamic Duo pushing the Batmobile to its absolute limits. The Murder Club has thrown Batman's life into chaos--how will Robin, Alfred and Nightwing keep him together? Arkham Academy opens its doors to its first-ever class of students related to Gotham's greatest villains--will they make the grade? And we see Renee Montoya's last days as a detective before she became Gotham City's newest commissioner.",
+"date":"November 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/B9nvnOkEYcRlywN-HHNQH1VoHcoj1d-PfyU1O8CG4fLAJnO5zU_fa5I2fotiQwAc59JsJqcBwfO00GU1vL2vJ7XMdmHDKJVz61ducwv0EqapGoIeuqDyZUCRYAv6nqJTeMyU8_v6ig=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_21.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 22",
+"summary":"THE DIRECTOR, hPART 1 OF 2 / UTILITY / ARKHAM ACADEMY, PART 2 OF 3 / THE MURDER CLUB, PART 3 OF 4 
+
+All-star creator Jamal Campbell begins a two-part Nightwing story featuring new villain the Director, who films crime scenes. The Murder Club and the Court of Owls create a mystery too deep for Batman to solve as the Bat-Family crumbles. Arkham Academy gets a guest instructor who doesn't care whether the students live or die. And in a story set in Gotham's past, Anarky empowers the citizens of Gotham City with Batman's tools.",
+"date":"December 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Sf_AM9uRvEXyK0owWSlfPRErbo1C4VudL_-yoAHvOF8iJKzdL_2yHSF6acCfUNyaLa3mAtJIX3_HMSP-W0SSQPaA1R5siVbgxVyYOKujfqwFi22LDRiJlEVSHH7FL6yNkufptzFHVA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_22.html"
+},
+{
+"name":"Batman - Urban Legends (2021) 23",
+"summary":"THE DIRECTOR, PART 2 OF 2 / HOT PURSUIT / ARKHAM ACADEMY, PART 3 OF 3 / THE MURDER CLUB, PART 4 OF 4
+
+The final issue of the landmark anthology series is here! Jamal Campbell’s epic Nightwing two-parter draws to a close. Batman has to defeat the Time Commander to get the Waynes back to their time. The first graduating class of Arkham Academy decides their fate and future course! And in a flashback story to the beginning of Dick Grayson’s tenure as Robin, he has to save Batman’s life.
+
+FINAL ISSUE",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RDRfKtNisRlQRwa2_j0yLy1UDiW5Ra4jM9n-QDZ6cU7l8fjFlQw3515t9LKzKI6HK3bSovKStH6dxphdStnPpGpLQd8fZibALyVxGQYZnwdDOCWYmslSKe9lsMMDZsV9Tb43mF2ilw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanurbanlegends(2021)/batmanurbanlegends(2021)_23.html"
+}
+]
+{
+"name":"Batman - The Knight (2022) 6",
+"summary":"Bruce Wayne’s difficult journey to become Batman continues as he travels to Northern Canada seeking a mastery of weapons and marksmanship from a legendary hunter. Bruce’s companion, however, will reveal a lethal secret that could jeopardize the entire mission...",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/o_VaNse_6KDV1Br2Cq5SieRbhEVP8au0PClUvxc6k4m4YJAzN12OoJvB9sKlkobSzGz7w0ZVrMEy8hmmdgLXZyAhCZ0VYOEdMCRBgvjP26GNpHHMk32CgtmVb3f5J8W54CkxtXOZ0g=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheknight(2022)/batmantheknight(2022)_6.html"
+},
+{
+"name":"Batman - The Knight (2022) 7",
+"summary":"PART 7
+
+Magic is in the air as Bruce Wayne travels to New York City to study under the legendary John Zatara and his daughter, Zatanna. But there’s dark magic loose in the Big Apple, and Bruce’s path toward becoming Batman must cross it. Will a man who is training his body and mind to combat crime be ready for a spiritual threat?",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/DkzUfvRrfTx3f78qIWBKaZePeC5Fz6RrNsoVDoXsUoJ9b3LF0Yy4WWdVQRQnHv9ivVEsbzyukj_hNg_NrJ1Tcq-MxmIz8a55NgP65ennUqw58M_TA7KC3NHuKatsio-XUvpO0t54yg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheknight(2022)/batmantheknight(2022)_7.html"
+},
+{
+"name":"Batman - The Knight (2022) 8",
+"summary":"PART 8
+
+Bruce Wayne’s journey to become the Dark Knight has taken him around the globe several times, but his training is nearly complete. His trials, however, haven’t gone unnoticed: someone has been watching him…hunting him! The final test of the Batman begins!",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KgGS2OaLF4D80_iUW5FQTMND6jdUEORr4-LA-SBiEXODBOHjzyX1Ws3KvzEgF8dkV4-nTunXK7WdD8ThgmDwppJdpghfQYr3nAkdtXGq5YBKAy6UWShFr2zG5Zh7sSAURrtsGWrLxA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheknight(2022)/batmantheknight(2022)_8.html"
+},
+{
+"name":"Batman - The Knight (2022) 9",
+"summary":"PART 9
+
+Bruce Wayne has traveled the world learning from the best to be the best. Class time is now over, and the final exam is here! Enter… the Demon’s Head!",
+"date":"September 20, 2022",
+"tag":"Bruce Wayne,Minhkhoa Khan,Ra's al Ghul,Talia al Ghul,",
+"img":"https://2.bp.blogspot.com/DAZd1SytJajKWhgo3IjzXMyvh4RemupzXeOGS0X4geger5hcXueOmLuWANdbAkzxEbPYRqxDoWqSnH3ozLwrhpp4WYgsT9Wd3scKZbZvdTxpY_kbH7ggkuhZr99w8n-TbLTNiicr=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"batmantheknight(2022)/batmantheknight(2022)_9.html"
+},
+{
+"name":"Batman - The Knight (2022) 10",
+"summary":"FINALE
+
+Bruce Wayne's worldwide journey has reached its conclusion--is he ready for the brutal final exam? The acclaimed series comes to a shocking, climactic end as this young Dark Knight will face the ultimate test!",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/CQp1V0EvE6xNbBhe5iBh0KMh7HwicjV1QP72RIw5eR7WzHOt7ZV4lRQz7edtFnK5Y9coo949Ob0RV0uI_eO4PCLQLBtrAOJWRJJmVvrs3vXcvWyw5AV6slbBkvFXTGM-2MjOCvszTw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheknight(2022)/batmantheknight(2022)_10.html"
+}
+]
+{
+"name":"Batman - The Audio Adventures (2022) 1",
+"summary":"Don't touch that dial! Picking up right after the season finale of the award-winning podcast, Batman: The Audio Adventures continues in this new seven-issue miniseries! A string of attacks has plagued Gotham's seedy underbelly, sending criminals into a panic. But it's not Batman who is striking at the heart of the city, it's a group of mysterious assailants on the hunt for an ancient artifact. As Batman hunts down these assassins, he finds clues that keep drawing him to their true goal: the sword of King Scimitar!",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/v7sR_l-fs5Ih1FK88Oc45nXkDVhRyWGTrin4qLVcm1fCfNrqiK2TrE2gmcy1l3CqHb_YrJXMXYmjde1IHWc4c5woOe6nWa0LOQIWT-__b6inIciFVpzxwFghLpDtcG20sy_fHyjFxQ=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"batmantheaudioadventures(2022)/batmantheaudioadventures(2022)_1.html"
+},
+{
+"name":"Batman - The Audio Adventures (2022) 2",
+"summary":"INTERLUDE: DO I DARE EAT A LEECH?
+
+Batman must venture into the sewers as he hunts for the fabled sword of King Scimitar. But he quickly finds a devolving Killer Croc who won't let the caped crusader steal his child! But all Batman sees is...a doll? Meanwhile, Robin gets kidnapped while trailing Scarecrow. Looks like both heroes need a good doctor, but the only one to be found is a little...strange. All this and more in the next installment of your favorite audio compendium!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/yKeBzHLrTjFicPTEor-f35umz8eHQ_VUPPc1JZaYo8XJYExsbn3ZJ_ryI-1BPRj3aAGVsuFzcBWzLyDM2qiL3kw6jlj962olzL74kS8an-FZhnNzBw7v6T_k_aj0XNE54yghrswnpA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheaudioadventures(2022)/2.html"
+},
+{
+"name":"Batman - The Audio Adventures (2022) 3",
+"summary":"INTERLUDE: DO I DARE EAT A LEECH?
+
+Batman must venture into the sewers as he hunts for the fabled sword of King Scimitar. But he quickly finds a devolving Killer Croc who won't let the caped crusader steal his child! But all Batman sees is...a doll? Meanwhile, Robin gets kidnapped while trailing Scarecrow. Looks like both heroes need a good doctor, but the only one to be found is a little...strange. All this and more in the next installment of your favorite audio compendium!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ugq3t-kU5g84pcnuYM5rWIlTT1r7S-ZIG-9PYeGkmSWkVKkmfoR_jFLA4mnjWHTMkg9-Y3ccgOiliH5d9flcO-cOMqdNP2v8avxJbDXQDJ5XxNX7eRdH2na_28j35QfR0gY_pYDtqA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheaudioadventures(2022)/batmantheaudioadventures(2022)_3.html"
+},
+{
+"name":"Batman - The Audio Adventures (2022) 4",
+"summary":"INTERLUDE: THIS IS THE WAY THE WORLD RENDS
+
+It's a chase through the sewers of Gotham as Batman races to catch Killer Croc, still delusional, and the mighty sword of King Scimitar! Can the Dark Knight retrieve the fabled blade, or will Croc make his escape into the city's underworld? Meanwhile, Robin is interrogated by the villainous Penguin!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/VrlX0NcUeiT5dXhHcBxrTFnbaRbehjS3h3NI91EoHbeqNA-nPijXQtupARbj3JrM6CFKTx-5FpdeWJOU-0lrhe6ErsfW5bCgBPEvuZpJVLkxCQcuhNcwOJiX06QxtqeCRd3bvvsHMQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmantheaudioadventures(2022)/batmantheaudioadventures(2022)_4.html"
+}[
+{
+"name":"Batman & The Joker - The Deadly Duo (2022) @1",
+"summary":"CHAPTER ONE: THE ENEMY OF MY ENEMY
+
+The Joker will go to any lengths to get Harley Quinn back after she is abducted by a strange culprit. But who? Mysterious, Joker-like monsters are stalking the streets of Gotham, collecting severed heads. But why? Jim Gordon is missing, and after receiving a package containing a bloody piece of Gotham’s commissioner, Batman knows he must be willing to do anything to save him. But how? When The Joker proposes an uneasy alliance with Batman, the answers to those questions begin to become clear— and they will shake Gotham City and the Bat-Family to their core. This meticulously crafted tale of the Dark Knight’s deadliest team-up will introduce you to a grim and gritty Gotham that only Marc Silvestri could bring you.",
+"date":"November 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RrfOSVnTpnReBvix8r9H-pWWEQv1tfzmEAoonLbqrIUSYBsTVhFi9KZPdiiaZWN28PyH84shgKGrbMlVWtK7CO_N4wCJFdF1d5jc7Xu_J999DLZVg4Fvu8Ji7-t6adUYuBFougZcMA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanthejokerthedeadlyduo(2022)/batmanthejokerthedeadlyduo(2022)_1.html"
+},
+{
+"name":"Batman & The Joker - The Deadly Duo (2022) @2",
+"summary":"CHAPTER TWO: TEETH
+
+Batman has joined forces with his archnemesis, and things are already off to a rocky start. But time is of the essence as another piece of Commissioner Gordon is delivered to the Gotham City PD. Will Batman be able to work fast enough to save his dear friend, or whatever is left of him?",
+"date":"December 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9duZ1W2nESyOERl_anMNsrrFke2RTYtkkJB_Pqe-ukRFCmDyJQ1GLtvfTk3DiRcwy6P2Iq97NM15EKhbFaPhiloCr4dFBgn9r2PIES7gMcfggSDAdy8VibX-DZwdvNW73IWZtRtjmg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanthejokerthedeadlyduo(2022)/batmanthejokerthedeadlyduo(2022)_2.html"
+},
+{
+"name":"Batman & The Joker - The Deadly Duo (2022) @3",
+"summary":"The Dark Knight and the Clown Prince of Crime's alliance started off shaky, but now it seems to have shattered entirely. Batman has imprisoned The Joker in the Batcave, desperate to find answers about both the disappearance of Jim Gordon and the strange, genetically modified humanoid monsters gathering severed heads across Gotham. But when one of these monsters' tissue samples comes to life, Batman comes face-to-face with a creature even the World's Greatest Detective doesn't fully understand, and he may have no choice but to resume his partnership with his greatest enemy.",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/IXF_VbxGfdYr1gjCWzqwOZyzw6gBWgbx67vPQ5HbFU-mOsVp1KU4H7YWTwsK4yRqSHg5zT5y4KvT0fmzmKWonOVdLjBF3paKfJdNUJ49yEzKBhZAy34MX7Z96j9HvTd2K09LJk1eJA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanthejokerthedeadlyduo(2022)/batmanthejokerthedeadlyduo(2022)_3.html"
+},
+{
+"name":"Batman & The Joker - The Deadly Duo (2022) @4",
+"summary":"CHAPTER FOUR: BULLET
+
+TRAINing day! Batman and The Joker’s ability to function as a team is put to the biggest test yet as they are dropped out of the sky and into a moving train! Will their alliance hold together, even if the speeding locomotive does not? Meanwhile, the Dark Knight has enlisted the help of Nightwing and Catwoman to help with his investigation, but with more pieces of Gordon being shipped to GCPD headquarters, by the time they find any clues, will there even be enough of the commissioner left to save?",
+"date":"February 7, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/bmpmVv61vwK5xlxmJna5SqP5yaLO5DMlqBY7WScIorrlORBwfRN-FF6a2Z8LPUhlvVm-Rtxmherwd06NvvL8un0eSkx3CnmdCH31jIqMPF1mkhajX5mvsNITQYUT8jj0aBYzWjspEQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanthejokerthedeadlyduo(2022)/batmanthejokerthedeadlyduo(2022)_4.html"
+},
+{
+"name":"Batman & The Joker - The Deadly Duo (2022) @5",
+"summary":"CHAPTER FIVE: THE WEDDING
+
+When the Deadly Duo’s investigation brings them into the catacombs under Gotham, Batman and The Joker’s adventure becomes a trip into hell. If you thought this series had already shown you its horrors, get ready for a descent into the heart of darkness as Batman and The Joker’s true enemy is revealed.",
+"date":"March 7, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/sd3DKHFoOQ33eS6vdYr2iNmI2OGPmB1cESPm3cqtFWVPO_jE29j2yR6NPin8T-IBEvED-m246tlETXnw_TFEgcxtWrrPoys0BeQy30JxN9czRWox8zCBhgOTIumLgMbT6sX5WJryPQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"batmanthejokerthedeadlyduo(2022)/batmanthejokerthedeadlyduo(2022)_5.html"
+}
+]
+
+
+
+
 "name":"Alien (2021) 1",
 "summary":"THE ICONIC CINEMATIC TERROR MAKES ITS MARVEL DEBUT! Gabriel Cruz gave his life to Weyland-Yutani--In the case of an alien attack he barely survived, almost literally! Recently retired, Cruz is trying to patch things up with his abandoned son with the help of his friend, a Bishop-model android, but his re-entry into civilian life is not going smoothly…and his encounters with the deadly Xenomorph are far from over. Phillip Kennedy Johnson and Salvador Larroca team up to tell an all-new tale of the titan of horror and science fiction that has scared audiences for decades. No one is safe. No one is innocent. And no one can hear you scream.",
 "date":"March 24, 2021",
