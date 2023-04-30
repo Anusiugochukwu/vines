@@ -1,4 +1,487 @@
-[
+[[
+{{[{{{{{{{
+"name":"Icon vs. Hardware (2023) @1",
+"summary":"Two titans of the Milestone Universe clash — and in the process, set in motion a chain of events leading to a story bigger than you could ever imagine! When Hardware discovers a long-suppressed time machine hidden in a government warehouse, his obsession with righting the wrongs of the past — those of both American history and his own tragic family — will unravel the fabric of time for the Milestone Universe. But while there are many problems with Hardware’s plan, there’s one big one: wherever he goes in America’s last two centuries, Icon is there, having lived through it! And a man as powerful as Icon knows the profound danger of the forces Curtis Metcalf is unleashing…and he’ll do whatever it takes to put the genie back in the bottle! Icon Vs Hardware is the official kickoff of Act One of Milestone’s WORLDS COLLIDE event—and if you think you know what that phrase means, you’d better not get overconfident! This is the ideal jumping-on point for those who’ve sat out the story of Dakota so far, because this ride is headed somewhere unexpected!",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/y8sbdjq26NQCIDFoFr7WUGaIHn1nUlIZ3llstrSy_YR44Ii_pu-sq12cI9uYVU_OApcWm3RoZkt_DTKLFNd0Zh50K6VO9IiDjMI6Qj-3DtECNS-WA8qkFRzg8ELtBsBEuGY5yKDiTg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iconvshardware(2023)/iconvshardware(2023)_1.json"
+}
+"name":"I Am Iron Man (2023) @1",
+"summary":"CHAPTER ONE: HERO
+
+Beneath the red and gold armor is a hopeless romantic, a genius inventor, a war hero, a billionaire, an Avenger, a person, TONY STARK. Dynamic Duo Murewa Ayodele and Dotun Akande (MOON KNIGHT: BLACK, WHITE & BLOOD, IRON MAN #25 and AVENGERS UNLIMITED) unite again to journey through the rich history of IRON MAN—telling stories never seen before that are set in iconic eras of ol’ Shellhead. No better way to celebrate Iron Man’s 60TH ANNIVERSARY than getting to watch him be the Earth’s mightiest hero who we love so much. Kaiju battles under the sea, alien invasions in the desert, a rescue mission in outer space, all that and more are to be expected in this new series—ideal for readers new to Iron Man and longstanding fans of the Golden Avenger.",
+"date":"March 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6758OchHOhgiApzgxSHZrLgSopEeIOo2E3yfJbfs6tp6c8l9ty9dlAnqH49mMP4zPCmwDr5aJC7WUSSJZExzQ9Gu6-OfoamnZ5Ii-WCaIVxUxndl7ewlDwOGejFnmLUChF5FAMgQ9A=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iamironman(2023)/iamironman(2023)_1.html"
+}
+"name":"I Am Batman (2021) @10",
+"summary":"How do you stop a killer who feels nothing: no pain, no emotion a killer who believes their actions only make the world a better, more beautiful place by exposing the literal and figurative ugliness of the rich and powerful? The more important question for Batman as he squares off with Manray…what if he can’t stop him?",
+"date":"June 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Yod4EnNDU2lVnTrji-wRbw15kHmA8XCeMiAxm2yykccgis09R9opgKcpAHFmRGxIH39jTtaqXMFlkEuLI5dkaeRPBwxYMhz57Mk_p8u3C1UWkybOgFALieGNnHWJfsCuNoaYoQUEcA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_10.html"
+},
+{
+"name":"I Am Batman (2021) @11",
+"summary":"SHE GOT NEXT!, PART 1; Following the stunning conclusion of the previous issue, Jace Fox and his “task force” are upended! Taking Manray into custody could be a deadly prospect for Chubb and Whitaker…and what secrets does this mass murderer hold?",
+"date":"July 12, 2022",
+"tag":"-batmanfox,-adrianachubb,-carmichael,-keenan,-manray,-question,-rafaelvillanueva,-whitaker,-vol,-tiffanyfox,-tanyafox,-tamarafox,",
+"img":"https://2.bp.blogspot.com/WH7p4w_rEc7hmeqtCCy30lQQr3LWwdEuvn5Gd-mqLeOGVN7cKFekbFYYMTNNe2P01S3GFVfC3rf22rBQucdm-HBZQV3HqR1CyxfIj4wiRUC2179LuWyElLNmajViP4RaZGjp6juskw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_11.html"
+},
+{
+"name":"I Am Batman (2021) @12",
+"summary":"THE RIGHT QUESTION
+
+DC’s most inscrutable hero arrives in New York City to task Jace Fox’s Batman with helping them solve a mystery of the past. At the same time, Tiffany Fox continues on her path to see who could be New York—and DC’s—hero of the future.",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-BXzJevoKu8NA-XfKLv5LO6aZWzdXWy7Vluiv5wWAlb00bXZFkmesC45H3TRvaVcpd6FuDjjiffGF_9o7kTmRjh0nXCB64EDzFnZkUS6-GamBV3yEwhtz7RE0PX5E55zX9qz32JZfg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_12.html"
+},
+{
+"name":"I Am Batman (2021) @13",
+"summary":"THE RIGHT QUESTION, PART 2
+
+Batman and the Question’s investigation into Anarky’s murder puts them directly in the crosshairs of a rogue police unit set up to deal with the “radical” activist, and which is willing to kill to keep their secrets. At the same time, as she watches a friend being lured back into a life of crime, sitting on the sidelines is no longer an option for Tiffany Fox.",
+"date":"September 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Bk0O4jfKOfOo2oqDiSRtNzAggm7Ijn1FshIwLGV04HnmPzg_6sHRhDYvYaXCf2WYQxG2fd3iTT8XG4h1S8J8te6FPKIVqo8vkMaIT7XDMWf3LyuyC_Yj0iA-5kjAvEy4fdOFOKw0ag=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_13.html"
+},
+{
+"name":"I Am Batman (2021) @14",
+"summary":"THE RIGHT QUESTION, FINALE
+
+The mystery of a pair of brutal murders is solved, a hero is born, and a mantle is passed. The conclusion of the intense “She Got Next” saga will reverberate from New York all the way back to Gotham City as it sets up the next chapters for both Jace Fox and Renee Montoya.",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/g2V8tK3VVo492qS6kP_YUFXO9nK2PjXG3MedZkrQE688tdRNmFvHRbJdsvbA8ybNJbutTobTJE-omyRENu1LvNLCk_oHM7dVgBe0HPu2dTrdMoMzSQmQPU28jhi44fEVAOXYIszC2g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_14.html"
+},
+{
+"name":"I Am Batman (2021) @15",
+"summary":"DARK CRISIS OF THE SOUL
+
+A Dark Crisis tie-in issue! When Jon Kent first asked Jace Fox to join the new Justice League, the answer was a firm no. But as Deathstroke and the Legion of Doom hunt the heroes of the DCU Jace learns the hard way that there are some fights from which Batman cannot run, and the only thing he has to fear…is fear itself!",
+"date":"November 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OPpZLw9a9dU7Gqc35pEE2kpGoaH8QTYN3UVJVkOYxirbpBPk07umj-uY5X4G0sX4WnimNZL8kvL8BGeDC7QOnYarHunsMKiCXYVj-ZB9mf-GTjx3umLQUvquUqjlyhJlZUzm85JENQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_15.html"
+},
+{
+"name":"I Am Batman (2021) @16",
+"summary":"MOTHERLESS CHILD, PART 1
+
+Though the Fox family has always excelled at keeping secrets from one another, a seemingly random act of violence sets them on a collision course with a painful truth with which there may be no reconciliation.",
+"date":"December 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9axX8ZmcMYf65dsykP-sRCj7eMzNHQktIpRnVgL1937vfQgUTgET7iPBHpHKWcjRc5ZCZk3bpUJ8IpVrTCi7Rfk3tqguMjlvMDeu7bShhWtZPYgyl3Rve7bc8Adccocmq0uVmWnsVw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_16.html"
+},
+{
+"name":"I Am Batman (2021) @17",
+"summary":"MOTHERLESS CHILD, PART 2
+
+Following the shattering revelations of the previous issue, Jace must set aside his renewed bitterness toward his father and go save his mother. But Jace doesn’t go it alone. Ready or not, Tiff steps up as New York’s newest hero.",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Wb6j4cT1G7B022tVKVXcMpK_i1IHMWk5XeW5gOjU4XfLCUYi8rbpVFJ-_LV_HKGF0IrRr28pMimNTfkhWqZdCzW8Qv6AaGDRlABatPcnLNoFcmZgh34fKucmBE-S67-EExTSLw-k2Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_17.html"
+},
+{
+"name":"I Am Batman (2021) @18",
+"summary":"MOTHERLESS CHILD, PART 3
+
+Jace Fox is on the most urgent mission of his tenure as Batman: to save the life of his mother. At war with the domestic terror group called the Moral Authority, Jace fights a relentless battle alongside his sister Tiffany and a new hero who bridges DC’s past, present, and future as I Am Batman comes to a spectacular and emotional close.
+
+FINAL ISSUE",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/fmMBSKdNxyfZ7aWeZBS-H_uDKBQJAVr6jiWY_Q5_yhNR3P1QO74efzNj36t1ioqxu8alck859RfNDsiCpPkSA8XUHuwND9upLJb9F6-H1YLmYQFq8FJjp3_SSailwCYV_cHfPF8ZMw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"iambatman(2021)/iambatman(2021)_18.html"
+}
+"name":"Hulk (2021) @7",
+"summary":"'BANNER OF WAR' PART THREE! In the third installment of the epic crossover between the HULK and THOR series, Iron Man interrupts a pivotal moment of Hulk and Thor’s battle to settle a score. Equipped with new “Celestial Hulkbuster” armor of his own design, Tony is convinced that he can ensure Thor’s victory and Hulk’s capture. But sometimes what you don’t know really can hurt you…",
+"date":"May 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_wzKjhT7ESs5-38AAFBSJjZ9_oJwPKPFM8RUTgc8fxS-yqzGYrIz_knH41BwMaeA0foFdRcxmrGaxchMvYOWE5wPAJxz3_DKP6xTkcMRYS2v0BI7q6bxwK5gLLfx8_Te6-I4Gua4HfE=s1600",
+"page":"hulk(2021)/hulk(2021)_7.html"
+},
+{
+"name":"Hulk (2021) @8",
+"summary":"BANNER OF WAR, FINALE
+
+The time for victory has come! In the final installment of the epic crossover between the HULK and THOR series, Marvel's two heaviest hitters expend their rage on one final, brutal brawl that will answer once and for all which of these heroes is the strongest. But in a fight between gods, monsters and men, what becomes of the victor? The loser? And who really has the authority to decide? Revelations about Hulk's past and choices Thor makes about the future will shake the Marvel Universe to its very core!",
+"date":"August 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/wGHurqcewcfE8tg5BezFA9IjdiiFE2ctc8zDr_GbTuQY2hfKuY6C032grWrtLWA8N3yOhryz0CWwCFva2kS6O65rUFeMR897uAKF1OMxb6FRWSN5CeWLnPcRhiajfEt9IaY6fqfn=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"hulk(2021)/hulk(2021)_8.html"
+},
+{
+"name":"Hulk (2021) @9",
+"summary":"HULK PLANET, PART ONE
+
+HULK PLANET! Thoroughly shaken by his battle with Thor and Titan's impact on his friends, Bruce Banner decides that his best company is himself—and only himself. As he sets Starship Hulk on a far away course, he begins to reckon with what it means to be healthy—and encounters an alternative to isolation he'd never thought to dream of. But this alternative begs the question—who exactly is Monolith?",
+"date":"October 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6IW9-8Nt7Apah_FaOvgP0jbLGVxxjNBEw4PXPlX3iHqayccI6I4q9_CR9PBa6DAxZ-InqCtIxMjcAiNpEux0aWZFSIM2kZ9-oboHkgGlJOZm4W7LTDq6DfoF-Eny8M46LS2SvUkiFA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"hulk(2021)/hulk(2021)_9.html"
+},
+{
+"name":"Hulk (2021) @11",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9xioKq-ATMDEPIDOW5GmOvv3BtpXrkmn2vJSEkGRMVYE7OButpWIwcXF1_p4dr_UkSz2iHc_aL8htIeo14AwFXYBq7T0AolOjsEkUl4czOCyYhv_poK6vzMb5e2oRdYsVZWVVnsFFg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"hulk(2021)/hulk(2021)_11.html"
+},
+{
+"name":"Hulk (2021) @12",
+"summary":"HULK PLANET, PART FOUR
+
+TITAN IS COMING… Bruce Banner has finally found paradise. Revered as a god and with no fear of hurting everyone around him, for the first time in a long, long time…things are looking pretty good for the Hulk. But as with everything else, Bruce Banner should have known that he can never know peace for long. And Titan, the darkest part of him, refuses to remain caged like an animal… ",
+"date":"February 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3J8lFaWpHyPf5Hn5d6xRztoie5DJbAYTAEzQMU7XY0mPHIdotdB8Rqm9dHwx_lrzKHvKbiFdADU8Wws3If4ngt5JUs19m-xK7vMRYeZnwxZVLxhuK7IVzIq8mjKK-2RqdvM5zQgw6A=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"hulk(2021)/hulk(2021)_12.html"
+},
+{
+"name":"Hulk (2021) @13",
+"summary":"HULK PLANET, PART FIVE
+
+After so much time suppressed deep within the Hulk’s mind, Titan has emerged. And he’s looking for a fight. And as Bruce unravels the true source—the true identity—of Titan, he knows destruction is the only option. So the Mind Palace must come down. But Bruce will need the help of some trusted friends to do it.",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/fflmDVCxVnUFzPEER9Ex8Fkj9V-hE4pxtcu3ydMwG3_jjPKdN0WHIY98i02mNSv6BYIFsazyiaXzGP6PLpdGN4ESJlNm8r5PpuQvqaEro1kuD1xEKz65EJPFmL7NF3G2h92-wNJ3aA=s1600?rhlupa=MzUuMjAyLjMwLjEzNA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"hulk(2021)/hulk(2021)_13.html"
+}
+"name":"Hellcat (2023) @1",
+"summary":"SHE'S NOT THERE
+
+Leaping from the pages of Christopher Cantwell's IRON MAN run, Hellcat is back! Patsy is back on the west coast, living in a demon house haunted by the ghost of her mother! When someone close to Patsy’s inner circle is murdered, Hellcat becomes the prime suspect! Now Patsy must prove her innocence and evade both the police and the supernatural Sleepwalkers. To add to the perils she faces, her demonic ex Daimon Hellstrom shows up and that’s never a good thing. A supernatural, superhero murder mystery!",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/UqSFIfEpWyc4YG0hZir2nfguY48AfOhWEQJ8F9X2aymNpSnUtkghRzSN-tndWDKnMyFV7D4r2nqNBxdU9EqLnVbPXvvf25Z81zPyy7kNnjGTbFF9YI6NCjpfIDeWetVdaMTzjqZCKA=s1600?rhlupa=MzQuMTIxLjEyNy4yNDk=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"hellcat(2023)/hellcat(2023)_1.html"
+}
+"name":"Harley Quinn - The Animated Series - Legion of Bats! (2022) @1",
+"summary":"CHOOSE YOUR FIGHTERS
+
+When last we checked in with Harley Quinn, she ate, she banged, and she killed—but now it's time for something a little different. Fresh out of the events of Harley Quinn: The Animated Series season 3, Harley has found herself a part of a highly unlikely team—the Bat-Family! Meanwhile, Poison Ivy has found herself prepping for her new job—leader of the Legion of Doom! But while Harley and Ivy adjust to their respective new roles, a ghost from Ivy's past enters the fray and threatens the relationship between everyone's favorite clown/plant couple!",
+"date":"October 4, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Kir7koY3oyltmPfKehak4eb6IgZ6wgVFqy09NdBbAVxVhH22vVKkBN-BeRnQTao--XQryWUyH7jsz1hg2_ULkLpATcSlWrQuJcHxy1U_lXvPEjhU5yAUAF6za9QmFiWSKvfmmmge6Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinntheanimatedserieslegionofbats(2022)/harleyquinntheanimatedserieslegionofbats(2022)_1.html"
+},
+{
+"name":"Harley Quinn - The Animated Series - Legion of Bats! (2022) @2",
+"summary":"While out shopping for new outfits at the New Gotham Mall, Harley and Ivy stumble across a possible recruit…but are they recruiting for good or for bad? And what loser(s) would dare to show up and ruin their shopping extravaganza? A very pissed-off Clock King and a butthurt Riddler. Meanwhile, Nightwing and Batgirl follow up on a lead that sends Harley reeling…as many villains’ plans come to light. Everyone is out to tear our girls apart!",
+"date":"November 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KbKIoN7iQAuiB9tdFnpnm4lkln9x3p2UkzmwIU_UVupqNRbaE_dOY2bvPxiL0U4Inr44I_8GbiRK210jPF9rrhRNWYoh73zrhWEnGiMibeNCVqriatYM3ynGxZJXctlxdd9s1koP9g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinntheanimatedserieslegionofbats(2022)/harleyquinntheanimatedserieslegionofbats(2022)_2.html"
+},
+{
+"name":"Harley Quinn - The Animated Series - Legion of Bats! (2022) @3",
+"summary":"Harley Quinn and Poison Ivy, a.k.a. Harlivy, a.k.a. the DCU's most favoritest couple. They're inseparable, right? Right? Well, maybe not. While Ivy focuses on prepping for her new job with the Legion of Doom and Harley dives mallet-first into her role as a member of the Bat-Family, the DCU's most favoritest couple find themselves stretched thin. But are they at their breaking point?",
+"date":"December 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/oPypq_jGT_WGL460ZqvrdXozGVzemrYOMMEwirY_p6w4yOELTtT4T80NVl6uBCGn6HKx5IpW0Q5anOGwT5IYhldJII1NanDp2rEeaxPrDh3moeYG8sZkpu8PjESJ43jaJV19NI5Z5Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinntheanimatedserieslegionofbats(2022)/harleyquinntheanimatedserieslegionofbats(2022)_3.html"
+},
+{
+"name":"Harley Quinn - The Animated Series - Legion of Bats! (2022) @4",
+"summary":"As Ivy becomes increasingly engrossed in her new job, and increasingly tempted by an old flame who has re-entered her life, Harley finds herself assisting Batgirl on an important mission that goes horribly awry. Meanwhile, Clayface and King Shark have been pursuing Harley, confused about their old friend's new allegiances.",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/JK_vp8qzOR3dqFLS0OXFU3P2xchYfk0ZciLkgjWPClWYBqT0WWHUskKCd_Bfii0QWojgClVeADcvFX1gKopx5Hbzk0LlglSI5zPJKc4y5FMMsEccr8bBrd2Pscl_DkKfoeNys41rPg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinntheanimatedserieslegionofbats(2022)/harleyquinntheanimatedserieslegionofbats(2022)_4.html"
+},
+{
+"name":"Harley Quinn - The Animated Series - Legion of Bats! (2022) @5",
+"summary":"BAT-HARL
+
+The Bat-Fam, Black Mask, and Lady Marabunta finally face off, while Ivy, Knockout, Bella, Livewire, and Nightfall break Porcelain out of Blackgate Penitentiary! Meanwhile, Harley visits an incarcerated Bruce Wayne for an unscheduled therapy-and-venting session. How much longer will Harlivy keep their secrets from each other before it's too late?",
+"date":"February 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dkfrq73ZvScLgaiOTO_PLQjyMMLrpDXSMMwaeMH5kP_VmtRnzxbKAhx_3XEcSbzJboBZkH09cHGxDEXGrimkuQzbrzNPUyEPWKbQisDFQXAp3_tHvZ7kMl7l610v9uZec27ugDSl1w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinntheanimatedserieslegionofbats(2022)/harleyquinntheanimatedserieslegionofbats(2022)_5.html"
+},
+{
+"name":"Harley Quinn - The Animated Series - Legion of Bats! (2022) @6",
+"summary":"Harley and Ivy's relationship has been stress-tested in nearly every way over the course of this series, and now, as their adventure comes to a close, we are left with one question: Is their love strong enough to withstand these trials and tribulations? Check out this fanshmabulous finale to find out!",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/prLv82zQ9knrauZN__p5q5rmT46EjHjja1Hf35WCIbgA7w1Zyk-n9snKshyMYd-PFUb8pCpVK9rhmkfB-uUb0elgMNjkeGyFSVVpNz5HI5p7R_Gp4XFL6_LJA0Qi8XwndOE5mu5fwA=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinntheanimatedserieslegionofbats(2022)/harleyquinntheanimatedserieslegionofbats(2022)_6.html"
+}
+"name":"Harley Quinn (2021) 15",
+"summary":"They really tried to throw me in prison for somethin’ I didn’t do! I mean, this time I didn’t do anything. In the past, I did things. Lots of things...But that’s not the point. The point is, I’m innocent! It’s a frame job, I tell ya! The only way out of this is to catch the real culprit, and for that I need Batwoman. Seriously, who doesn’t need Batwoman? Skintight suit, mucho muscles, and that hair! Anyways, Batwoman’s in this one, and we might finally reveal Verdict’s true identity! Will the mystery be solved in time to save my good name? DUN DUN DUN!",
+"date":"May 24, 2022",
+"tag":"harley,",
+"img":"https://2.bp.blogspot.com/5gRd7zvGlUq2j46-81UU-zjjPL06dl5TLZ9PqaRQM19kB0EAe50HYMgjlFlLK6DQhOapXi6xDQDSZ_gAkNHHTIOzLAcBQEe2F4GCVMapaJZJBPq78X4bgpggrpER6CLIsoVaBbgtbQ=s1600",
+"page":"harleyquinn(2021)/harleyquinn(2021)_15.html"
+},
+{
+"name":"Harley Quinn (2021) 16",
+"summary":"You know how the whole villain origin story is usually about the “one bad day” that changed everything? I think it’s Tuesday most of the time. But what if it’s, like, a lot of bad days, and some of them were even caused by me, Harley Quinn? Well, that would be a recipe for one pretty bad villain, right? The secret origin story of a brutal new villain, Verdict, is revealed here! Though I guess it won’t be very secret once we reveal it, huh?",
+"date":"June 28, 2022",
+"tag":"harley, batman,",
+"img":"https://2.bp.blogspot.com/TnbLPEVwCIcrwPkEiYNnatSHR5ZQY1kXMM6kUEgLHsssYkzMXg7pD5lFvKKNBGS6M63u4Euh9J2cXA_1Bgs1OW0OnnQIYykPA2G-3YeC6mpqqMg21pkXP70_vCF0V-AJFDs1t1ThOA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_16.html"
+},
+{
+"name":"Harley Quinn (2021) 17",
+"summary":"THE VERDICT, PART 5
+
+It’s the moment we’ve been building toward for months! The rumble in the jungle! But actually in Gotham, because we’re not in the jungle. It’s the throwdown showdown between me, your hyper-verbal, semi-reformed former villain, and Verdict, the violent vigilante vowing to have vengeance on…well, everybody! Can I clear my name after being locked up for a crime I didn’t commit?",
+"date":"July 26, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/mQncMO-pZXqLuMwmq7nX9kVo-No_AbQrdGgeWLmeDMC95W_OpJmAqD6hD1jDTjfKiSPnNa6OqiEeRTaZy08grnXWtCwZPObVkFvrZ4ufSJn5fg9OMyVHXimqkMCaMlDNkVdNNPbAvA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_17.html"
+},
+{
+"name":"Harley Quinn (2021) 18",
+"summary":"TASK FORCE XX, PART 1
+
+One small step for the Gotham villains, one giant leap for clown-kind! That’s right…this fashionably vocal clown is headed to space. Turns out there’s some old experiment left in the JLA moon base, and Luke Fox has put together a team of former villains to help clean up the mess. Sendin’ a buncha villains to the moon…? What could go right? Join me, Killer Frost, Bronze Tiger, Solomon Grundy, and more as we learn to moonwalk and put the X in Task Force XX!",
+"date":"August 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/JLKKqcdrh09jG9JVh1_-7bBxDWGe-mDhxG3Wi8JtTLq6rdvmECqlvdnMExKVXL0ORvV-tB1hbLZfVpLkAMgUW5CDW6Ae3EYdLJBaa5TF79_kMl9D2MQ3a78vuHvd7atSpu71Bwujow=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_18.html"
+},
+{
+"name":"Harley Quinn (2021) 19",
+"summary":"TASK FORCE XX, CHAPTER 2
+
+Clown’s log, stardate 2022. Our mission is going perfectly, as long as you ignore that missile that the U.S. military launched at our spacecraft; the mysterious, unknown creature running wild on the JLA moon base; and Solomon Grundy losing his lunch all over Bronze Tiger. So, other than all that…things are great! So, hey, this Harley Quinn event sure is rocketing forward! Space puns, dead ahead!",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hAKj91cd0JIOUIwUBQvQbxbO5T4H432lDmbDUXYziFAZR6-e1gxlzgZWSMnACmteJKd5hlTuiBOZVojBcUHyjV0P3usGxpz_KhAwdu13aajJkc5Ga5i-WV72a_qs5k12u4DNDwVvcA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_19.html"
+},
+{
+"name":"Harley Quinn (2021) 20",
+"summary":"TASK FORCE XX, CHAPTER 3
+
+I went to the moon to eat cheese and fight aliens…and I’m all outta cheese. Actually, there wasn’t any cheese. I think that’s a myth…but aliens, hooo boy, do we have aliens! Horace Reginald Giger would be proud! What? No…I’m positive that’s what “H.R.” stands for. Anyway, this alien-monster-thing might not get a chance to devour Task Force XX, because we’re probably gonna kill each other first. What’d you expect, sendin’ a buncha angry villains to space without any cheese? I warned ya! The Harley Quinn and Task Force XX space event you’ve always needed continues here. Cheese not included.",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ZYRzEaSZFvZ8CArII_1_zBnpUwKXUycJTsrYOxfG-B6VELXlTRDC7cFdwmRW4yKT8iimJX5LzO5x75hX4of3Q8nwmmqTYfNOT3N9HtA3EgPcJUrVgErXRBMfMj_MJmKePqTFlo1bLw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_20.html"
+},
+{
+"name":"Harley Quinn (2021) 21",
+"summary":"TASK FORCE XX, CHAPTER 4
+
+Nuke it from orbit…is what we shoulda done to this whole entire moon. Who needs a moon anyway? I blame Luke Fox for sending a team of villains into space to fight a horrific alien monster in the first place. Obviously, that was just never going to work out well. Has Luke ever seen a sci-fi movie? And now you’re expectin’ me to save Earth with just my super-awesome-mallet-of-alien-skull-crashing-madness™? Okay, you asked for it…",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/amiT9Nsp2lIcou4kmPNNQgjOnnAYvUlfpeDprsu3HaEnmMP8K8lgOS4EF4QBWTA6DzqUwBk95PRGwWRBcEkMW_gljd_IOTrum0hmKADhNjRB5cMiJrnBW_7YCfGSVEo46TMWgw5qig=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_21.html"
+},
+{
+"name":"Harley Quinn (2021) - 2022 Annual",
+"summary":"TASK FORCE XX, CHAPTER 5 / WHAT HAPPENS IN VEGAS...
+
+Do you know what ol’ Grandma Quinzel used to say? Live long and fight alien monsters to save Earth! She was full of wisdom like that. And only Task Force XX can save our little blue marble from suffering a full-scale alien takeover! Not all of us are going to survive, but at least we’ll look really good dying thanks to Luke Fox providin’ some new gear. Tune in for the final installment of Harley Quinn’s Task Force XX Space Extravaganza, plus the start of a new status quo for Harley Quinn!",
+"date":"August 30, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/MHxk1WwHzXBo2eQfz3w8CdxHIuYwYUbcXKz7Qrpqa8pDVwCUsmP0ICQZrtSIDJ3uI8gAFK_80gqbWemsXqSNDORCstC7RuiFydXpKA_aOqMZNXSFD3uTd0nt7aC_bW3hW-0jGVc_Aw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_2022annual.html"
+},
+{
+"name":"Harley Quinn (2021) 22",
+"summary":"WHO KILLED HARLEY QUINN?, CHAPTER 1
+
+The Quinn is dead! Long live the Quinn! I get killed in this one…for real! Dead. Deceased. Former. Late. Pushing up daisies. Somebody needs to solve my murder, and since I don’t see Sherlock Holmes or Hercule Poirot around, I guess that’ll have to be me. Though, since I’m dead…there are certain hurdles to overcome. The Harley-est, wildest arc starts right here…get ready for murder, Multiversal mischief, and more guest appearances, with Stephanie Phillips and new Harley Quinn artist Matteo Lolli!
+
+CONTINUED FROM HARLEY QUINN 2022 ANNUAL.",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RDizHOA17IL-qT8u1YqKlaQRdbOBi5ge2aYlEINw3HG4Jpa4Ix0YW8zdjB3YBJWGOEcotXMLtl5ccdJLQq4iNDsUnR2_cYmKJNi9emUClAAWfEDn3aZoAmI2C7IxFw3CBEqbUWwWQg=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"harleyquinn(2021)/harleyquinn(2021)_22.html"
+},
+{
+"name":"Harley Quinn (2021) 23",
+"summary":"WHO KILLED HARLEY QUINN? CHAPTER 2
+
+Y'know, bein' dead is just like ridin' a bike. There's a big white light, and then Prince shows up and offers you a chance to host a house party in the clouds with Marilyn Monroe and Abraham Lincoln. Then suddenly you're brought back to life in a pit of goopy green snot, and you have to find the person who was rude enough to shoot and kill you. To make things even better…turns out that comin' back to life could have some serious unintended consequences!",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8O7oaaF6vaIqnZ-uone0DxzurVZY8--9EMoqMeUVcr9gdKBy2OnX49BajjV9j_ZJPmHrTMNJ8SnUfJv8UA0LzomdGQoWKFktfRxuOwKfIR2JaWdBQ_59DFjTZlHHMW4HEsKlwfmYRQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_23.html"
+},
+{
+"name":"Harley Quinn (2021) 24",
+"summary":"WHO KILLED HARLEY QUINN? CHAPTER 3
+
+Like the old Russian proverb says, if you wanna catch a killer, kidnap a different killer and force them to walk you through their process until you eventually find the person who murdered you in cold blood on your newly renovated Gotham ferry...point is, I’m makin’ Victor Zsasz help with my murder mystery and this Sherlock and reluctant Watson are about to blow the doors wide open on some universe-alterin’ shenanigans. Plus, Bud and Lou get belly rubs, I lose my deposit on a fog machine I rented, and my killer is revealed!",
+"date":"November 22, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/TgxCrrdVeJVKmieFyd1rBWUTCKlKV6jRvZupmm21pi9Triuk4pKgs5Y28I_i13YvreGvdDGDJ86U2Cy3CyQsmQBvggNE0TbEgHcdXkgLK7VgBBdn3pBo7WBgL2DutE3-UDUtX613ew=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/24.html"
+},
+{
+"name":"Harley Quinn (2021) 25",
+"summary":"WHO KILLED HARLEY QUINN? CHAPTER 4
+
+There can be only one Harley Quinn…or, ya know, maybe like 100? The Multiverse is a strange place. Old Lady Harley, Harley Who Laughs, Harley who joined a bowling league in Indiana for the free chicken wings…we've got the whole gang together and we're ready to put the fun in this Multiversal murder mystery, and maybe also cause more murder with a side of mayhem. Join the team for an epic 25th issue of Harley Quinn!",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/aaS5VSw-RuTLxK7UHAFSVI0YVECe6SyyodgsgQ58Zu4H0NrfyW4KezLXF3NdXBVF7zKCrLEqQGrVaDvlwIv3zqZipDlkw2wmSvEyRmQcs-dJTF4q59yp3lp8qIe4YlSa_DJVTdKvVA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_25.html"
+},
+{
+"name":"Harley Quinn (2021) @26",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rEQ3mPLrqalYR4cs-U3fwASD4yaA1m8d-8IlzaRqwS_grRu5a7CCmiNXReDeeiFcZkYG5hKIPxlFAtuwIdSxEvyLKFaya4TvtniLbqEm5usYsnQkldDuKkAFblg4_d6zExMYkIY8kw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_26.html"
+},
+{
+"name":"Harley Quinn (2021) @27",
+"summary":"WHO KILLED HARLEY QUINN? CHAPTER 6
+
+This is it, folks...we have to drop the Multiversal counterbalance serum at the center of the photon disruption before the imminent collapse of the entire Multiverse...JUST KIDDING. But could you imagine if that was how this story ended? Noooo thanks. We're gonna save the world the ol- fashioned way—with a large undead zombie, 50-80 Harleys from other universes, Kevin, and POISON IVY!",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OnL52NQJIywrYlhJXuRh0JzBA5N84Sg0EiYcuSay5-XxUnYNqQVAbxTkxtB_ar-BYNflISrhnIyTpf_dVIaIbcgZ-RNpTZQYLWUZ7l3rYa7-deDpxvEVJYAcIfsaCI0dn9U_G7VImw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_27.html"
+},
+{
+"name":"Harley Quinn (2021) @28",
+"summary":"GIRL IN A CRISIS, PART 1 / LOVELY ANGEL HARLEY QUINN
+
+Ever have one of those days where ya just can't catch a break? A day where you're really trying not to get into trouble while your girlfriend is out of town, but then some jerk attacks you at brunch, you get arrested for some teensy-weensy property damage, and you're sentenced to community service? Why, I tell you, it's enough to make a gal start seein' cartoon fishies every which way and such! Also featuring a very special in-continuity dream of Harley Quinn starring, you guessed it, moi, in the role of a lifetime—the magical-girl-clown protector of Gotham City!",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/nfge3td2nVCj7lvrwhwJWDe_jus9gGvNkP0svN7kRTXTLXnn1AbLzD6CLb0QWkw7l9YcwuUZwvPIqQ7YB7hPX7N1EUOLCtkG-9gFTguB2l41dKXanewvopynUJ5r3OgUb_1eTUJbaw=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"harleyquinn(2021)/harleyquinn(2021)_28.html"
+}
+{
+"name":"Hardware - Season One 5",
+"summary":"Out of the frying pan and into the fire! Curtis Metcalf returns to Dakota with a bounty on his head and Reprise is looking to collect! But what chance does Hardware have against a man who can make an army of himself at a moment’s notice?",
+"date":"May 3 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/SFqgPdcw6TP4y41ESRpc3clCKSbeKQj31n376tkXJDljhj8OnbyOxcAglvAMPlrtcLexX0PG2XIlOT4t7UiojRKwpYMlPpIceAmaOImziBaVDHj9EfvDgVmHH-kwACWwwLPzv3OWdQ=s1600",
+"page":"hardwareseasonone(2021)/hardwareseasonone(2021)_5.html"
+},
+{
+"name":"Hardware - Season One 6",
+"summary":"",
+"date":"May 31 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-StoR-XeTHiGV06kLqPphH7L4RdDkFQiNk_-Nqji4FkniAjiTX26_Oq9pT-2OHEAEwHhIWF6SilsOkMggBUJW9OBjbpMQHHRPIOcRJVJO4wQlyFPztBbR5u-rUbO5Jwp1CF0_k1l=s1600?rhlupa=MTgzLjgwLjIxNC4xMzE=&rnvuka=TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMi4wLjUwMDUuNjEgU2FmYXJpLzUzNy4zNg",
+"page":"hardwareseasonone(2021)/hardwareseasonone(2021)_6.html"
+}
+]
+"name":"Gotham City - Year One (2022) @1",
+"summary":"CHAPTER ONE
+
+There once was a shining city on the water, a home for families, hope, and prosperity. It was Gotham and it was glorious. The story of its fall from grace, the legend that would birth the Bat, has remained untold for 80 years. That's about to change. Superstar creators Tom King and Phil Hester team up for the first time to tell the definitive origin of Gotham City: how it became the cesspool of violence and corruption it is today, and how it harbored and then unleashed the sin that led to the rise of the Dark Knight. Two generations before Batman, private investigator Slam Bradley gets tangled in the 'kidnapping of the century' as the infant Wayne heir disappears in the night…and so begins a brutal, hard-boiled, epic tale of a man living on the edge and a city about to burn.",
+"date":"October 4, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/FDqJog7Y0vYn7arwKP06weSWb265n18htX7NGHtm2jCkWZd6w-7Qzgal0kNu7JQJkvP-53We6j3UynRutiVVG00MAAdFx1FSJJfoW0AGR4OlqjPkf8Oj0o-a0r3wgcOV3kWg4UktSA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gothamcityyearone(2022)/gothamcityyearone(2022)_1.html"
+},
+{
+"name":"Gotham City - Year One (2022) @2",
+"summary":"CHAPTER TWO
+
+The bloody, bare-knuckled crime series continues! A bruised and battered Slam Bradley find himself embroiled in a shocking case as the infant heiress to the Wayne fortune has been kidnapped! But as with all things in Gotham City, nothing is what it seems…Can he solve the case in time to save a young life and secure the Wayne legacy or will the secrets of Gotham bury them all?",
+"date":"November 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0zm6vEKks449MGndIse2if5r9PaszpV9CZ5VqSreaKKQHEpGTERyRbwGB9vaSEB9mQE9gIKzj6c4Hc8pHqSh8PXbGCqG6MFPSM-yvU72oFLHXVhjP_1rlipzObL66Pdd0TYcYNLGgA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gothamcityyearone(2022)/gothamcityyearone(2022)_2.html"
+},
+{
+"name":"Gotham City - Year One (2022) @4",
+"summary":"CHAPTER FOUR
+
+The new crime-noir classic rolls on! Slam Bradley's search for the Wayne heiress takes a tragic, deadly turn and the simmering pot that is Gotham City is about to boil over! As the world falls apart around him, Slam must decide between justice and revenge—a choice that will echo down the generations and redefine both Gotham and Batman!",
+"date":"January 3, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6PBRgSyfVofMQpnKQF6Via3VBYBTEJM8Y3FOjqlfdnHJlo-M92L_zZQ19alJf2uEs5Wf9JKYXwjCZ1mYNXGsq46EmXzQoOX6L-Bi_v5RYUWhVlAlZlcQqC2TC5qMRX4-NAKaoMl-rw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gothamcityyearone(2022)/gothamcityyearone(2022)_4.html"
+},
+{
+"name":"Gotham City - Year One (2022) @5",
+"summary":"CHAPTER FIVE
+
+Beaten, bruised, and betrayed, Slam Bradley should have never gotten involved with the Waynes. With a tragic turn of events and a city on the edge of burning, can this hard-boiled private detective close an impossible case?",
+"date":"February 7, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2BFbvyxAmPihserF59TsWiVTS_7a-BDDXpOjGqVsIK0ABlP-DcNjTKBt70dXsUj5lM_gci5XEehk8HRntbqUkrb5F16xjm9KImEUVDtj-zxergtMVTL3I7thcyRtR-oFo2IQkiloHA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"gothamcityyearone(2022)/gothamcityyearone(2022)_5.html"
+},
+{
+"name":"Gotham City - Year One (2022) @6",
+"summary":"CHAPTER SIX
+
+The brutal, bloody conclusion to the year's most acclaimed title is here. Slam Bradley has never feared walking the hard path alone, but even his courage will be tested by the shocking turn of events that will take Gotham City down a dark, violent path.",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dImGIpkThWVGGAmakJmWmYbl78Ltpxx98PKILflu1mjlF4VCFzuYgzNEg0Ve4GDkHS4x6AVh2YcBy4Jav-x2XBv_x-bTYgRftzEUxWJ7R_QvEhsrrxrjAMQ5rpQxnIuCTBaE_mPajg=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"gothamcityyearone(2022)/gothamcityyearone(2022)_6.html"
+}{
+"name":"Hallows Eve (2023) @1",
+"summary":"THERE'S ONE IN EVERY DECK
+
+Spinning out of AMAZING SPIDER-MAN, Hallows’ Eve gets her own series! Janine Godby’s world has been blown up several times in her life, but this time. she has a bag of super-powered masks and a chip on her shoulder. She’s on the run from the police, but there’s someone else after her too. Don’t miss this breakout character break even bigger!",
+"date":"March 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hCpOLXz3cU9cSLZhsni1jMEOJNRFULp5Wmg5WgaKVMXOxd9GuuKG27uPohObzoVVCdMXEgmXwxjxJTMS4B3Pe-WI-OkoEfwVBo5gPps78J4WhyzV7vrJsVoPL9tiO91MaF2Y2EoJIQ=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"hallowseve(2023)/hallowseve(2023)_1.html"
+}
+
+
+"name":"Gold Goblin (2022) @1",
+"summary":"IT’S NOT EASY BEING…GOLD? Norman Osborn’s sins may have been cleansed, but his memories weren’t and he’s done plenty of horrific things to remember. Norman’s worked hard to avoid all things “Goblin” and to stay on the straight and narrow. Consequences in AMAZING SPIDER-MAN pushed him to try super-heroing, and he liked it. But when the media dub him the Gold Goblin, he has to start wondering—can he ever get away from the Goblin inside?",
+"date":"November 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2MzoxjXM6HJI7uH6KfS8E1IWWyi2_NLE7Fwg2zh6pkxhYf2TZWFLa7jH65Y_XAvAwIJDOK5kALkDhNs1fQFf7E9SwOz6GFw3l7H5x408C1GpoQNAPnvXgnFL_Ud-W1DvV-pARqzg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"goldgoblin(2022)/1.html"
+},
+{
+"name":"Gold Goblin (2022) @2",
+"summary":"BEING A HERO ISN’T FOR EVERYONE… Norman Osborn faced Chasm in DARK WEB #1 and has to face another terrifying opponent in this issue! Norman’s only been a super hero for a few days…but his tenure might be quite short!",
+"date":"December 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/S4DBgtEGcyzpZx-I1xRc9gn-Ukg963aOZnQlo1Cai4rO9IH8v-rFOYc7WN-Sfwy7lGjD6qZDQ0BU3tRgBEdZMuko3QPQenV80Ocn2BvUs6BCqIoyL9YDs2snTzM-FLlrwYzy1B6KGA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"goldgoblin(2022)/goldgoblin(2022)_2.html"
+},
+{
+"name":"Gold Goblin (2022) @3",
+"summary":"As if fighting Chasm wasn’t enough, Norman Osborn now finds himself face-to-face with his own sins. That’s right, Queen Goblin is back, and you should be scared.
+
+DARK WEB TIE-IN",
+"date":"January 4, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/6Yhkw4HdAgzDaydss_4n-qjZwxIa4DMTFyQQSPBtNt8Ct9fftXZmqgqxnJ2SvfOYfv60JNF0l3X1RV6qHHroFNafNgouWal3l8Hbi1cpfJG2BEvJoOqi3e3aojaQns2qCgy1qJhwIg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"goldgoblin(2022)/goldgoblin(2022)_3.html"
+},
+{
+"name":"Gold Goblin (2022) @4",
+"summary":"Norman was handed his first losses throughout DARK WEB, but he’s not about to make it a habit. His first target? Jack O’Lantern. But is Norman still in someone else’s crosshairs? Will this new zeal lead him down the dark path that we all know he’s headed toward? You better believe it.",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/wzinNHCNyPyaByLo5FF99Bz6o4GXgjYYkm5TBhe8u31FBqjpZSk_a8KHwQhAsKU1zy37rYLk31Q2XWXOp9wViHXJTD5-b01xYTX5KyJ3PPbZLGCS23VxwWaFiJsdy7sbTluZe97mbw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"goldgoblin(2022)/goldgoblin(2022)_4.html"
+},
+{
+"name":"Gold Goblin (2022) @5",
+"summary":"Norman’s big play as a super hero is here. Can he STAY a hero? Is his return to the Green Goblin inevitable?",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Bu5XBBDadc2YL_sznhnx8nG3cxT0hHc3VbJ1fTFPWVPkoBZY4MrfbUbF6Usm1YkBmAwIdoyO9acRWs5NsIDyUOxuj_2spF3DH0ZOuZiYMFTsGyXzPCvjz1pJ4ia_fbt6fGl-YumTIA=s1600?rhlupa=MzQuMTIxLjEyNy4yNDk=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"goldgoblin(2022)/goldgoblin(2022)_5.html"
+}
+]
 {
 "name":"GCPD - The Blue Wall (2022) @1",
 "summary":"BOOK I: THE SHOT NOT TAKEN
