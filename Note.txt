@@ -1,5 +1,106 @@
 [[
-{{{{{{{
+{{{{{{
+"name":"Moon Girl and Devil Dinosaur (2022)",
+"summary":"Being a preteen super hero is hard. Doing it when your parents finally know about it is even harder. Good thing Lunella Lafayette (A.K.A. Moon Girl, Inhuman super-genius) has a plan to keep heroing. To provide herself with the perfect alibi, she organizes a roller derby team of other Inhuman kids. It’s just supposed to be an excuse to get out of the apartment with all her super-hero gear in tow, but it turns out to be kind of…fun? But nothing is simple when you’re a super hero, and one of the kids on the team might just be more sinister than they appear.",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_RIfdrjJ6DExBa0m6PflYDQ_2smYThRHxcvJjZyamuWpxwbfbUjPNDw6LKbiGaGm4s1_2e0B2wdj03IVvNuv4wycyoN0-MbiEaApLcLpruCZTSDXIG0fh6sBiLwxPy30MlzkuXgOdQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"moongirlanddevildinosaur(2022)/moongirlanddevildinosaur(2022)_1.html"
+},
+{
+"name":"Moon Girl and Devil Dinosaur (2022) 2",
+"summary":"Now that Lunella knows her roller derby teammate tween influencer OMG Olivia is actually a Kree in disguise hoping to control all the Inhumans on Earth, she knows just what to do. She has to stop Olivia before she hurts anyone, especially the rest of the Inhuman kids on the derby team. But sometimes having friends as a super hero just means there are more people to worry about…especially when Olivia’s brainwashing nanobots take over Devil Dinosaur!",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/FLLhK3MY5w8324KF7MWrFuOkzfN1hZ2of84whuB9tDxSdiCyKqy1WSrrP3CDB37OovRebKrobp-WNW-9UwxoandxabrSqaNPiOzJXzky1HBCK3XOhUAzBFA1m2chcJZEz_n_RKR0FA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"moongirlanddevildinosaur(2022)/moongirlanddevildinosaur(2022)_2.html"
+},
+{
+"name":"Moon Girl and Devil Dinosaur (2022) @3",
+"summary":"DEVIL HAS LOST HIS MIND! OMG! Olivia’s Sparkle Bots are spreading her mind control all across the Lower East Side – and she’s controlling Devil Dinosaur too! Lunella needs a way to cure her best dino sidekick and keep the other roller-derby kids safe from the brainwashing. But as her lunar mind-swap with Devil Dinosaur approaches, she might just be running out of time before the Sparkle Bots get her too.",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rneX5dPtrPZuryncUXaNu954-9UaQUhw_dJgkI94yrPSlmw-7oAsM-pAGUjjvYmyfrNwWc0PzhxAq06pLgYhq0zk6huS9RBFccK4MCCWOxwEKxaQZyp65jgVcxiBocG5qcI3QketTA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"moongirlanddevildinosaur(2022)/moongirlanddevildinosaur(2022)_3.html"
+},
+{
+"name":"Moon Girl and Devil Dinosaur (2022) @4",
+"summary":"OMG Olivia got one of Lunella’s friends… Will Lunella be next? The Lower East Side is crawling with Olivia’s mind-controlled minions, including one of Lunella’s teammates! Even super-genius Moon Girl might not be able to tackle this many problems on her own… But can she risk asking her roller derby friends for help?",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/BNUrMIbrBrJrFHvDLHKNQyNByFnJqi1a8Hd6gfOgcEFSa7m_GOpkycLkSzvXLb2fOZiTeFun6K8cUaStx6uR1L4saFOeWZkx4lObBd4EKbXKEsBOhk4cAbbV5mhf5wRczqZUdVDkGQ=s1600?rhlupa=MTA0LjE1NC4xOTYuMjI1&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"moongirlanddevildinosaur(2022)/moongirlanddevildinosaur(2022)_4.html"
+}
+
+"name":"Monica Rambeau - Photon (2022) 1",
+"summary":"HIGHER. FURTHER. FASTER. Universal powerhouse MONICA RAMBEAU stars in her very own all-new adventure! The hero known as PHOTON has been charged with making a very special, very cosmic delivery—should be light work (get it?) for Monica…if family drama doesn’t hold her back!",
+"date":"December 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2Lf9bTBh6kK6vxHJSi8ZsvrO9u7optM0DS-4YPlikhmHVGx81TYBhW_wH8FCiNRefzw8nx7K64_AmKpFRXR0WircucgYVhsTk3dAwKCJDMbvHIuBDTAt79U3RO7bNdssTHVcmdRdwA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"monicarambeauphoton(2022)/monicarambeauphoton(2022)_1.html"
+},
+{
+"name":"Monica Rambeau - Photon (2022) 2",
+"summary":"GOING ABOVE AND BEYOND! Have you ever had one of those days where everything is going wrong? Like you’ve somehow been sucked across the infinite cosmos into the wrong corner of fragmented space-time? And you run into someone from your past you really can’t stand? Like, say, someone from…beyond? If so, maybe you’ll have some good advice for Monica. (She’ll take what she can get.)",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jbzt4BZ5n2nbf7FAHYTrNrw0q17YTG7LGFs3bKDAIVK2IihNhJzXq_PZYiAbGSo5bU0B0ARRgdl5T80sp26BDWjypU38s05fMsY99020T6X8zg6YVRXTq0LUfTSSSpyLfEuMTQ4q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"monicarambeauphoton(2022)/monicarambeauphoton(2022)_2.html"
+},
+{
+"name":"Monica Rambeau - Photon (2022) @4",
+"summary":"With nowhere left to turn and the universe crumbling around her, Monica must look to an unexpected source to find answers—or life as she knows it will be gone forever! And as the journey continues, so do the revelations about Monica’s past…for better or for worse.",
+"date":"March 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/xftaMHJkLm6_5WfMQJlES-QSGii4JeVJAJs95F6c13ioex-6qBXwecVVx47ZRladdOHCFge44MDegsR7CAlkxLAblJfhY9SvEcG8qQdCs-TDK-ySxte36RuwYMsod-pr2MRyuxSaGA=s1600?rhlupa=MzUuMjAyLjMwLjEzNA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"monicarambeauphoton(2022)/monicarambeauphoton(2022)_4.html"
+}
+]{{{{{
+"name":"Miracleman - The Silver Age (2022) @1",
+"summary":"THE SECRET ORIGIN OF YOUNG MIRACLEMAN
+
+“THE SILVER AGE” BEGINS AGAIN! After thirty years, Neil Gaiman and Mark Buckingham’s unfinished storyline “The Silver Age” begins again! Young Miracleman—the lost member of the Miracleman Family—is back! His last memories were of a 1963 world of joy and innocence. Now, he's been thrust into the 21st century, where his best friends have become gods and monsters. Remastered with stunning new artwork by Mark Buckingham! Including material originally presented in Miracleman (1985) #23, plus bonus content.",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pe1J7M-4fszlwSJp6rk4iYEjWzajIXyz1Qy4oQ2r6CNS-Mb0ZX94_O1Y2BUpr3h6sKaXW4YPdUvncjCn5vnk9yW-wmEafUIUx45k-_o7ja7GYqDSYfO2NfVtK30k_bkg5SEaGi-jxA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"miraclemanthesilverage(2022)/miraclemanthesilverage(2022)_1.html"
+},
+{
+"name":"Miracleman - The Silver Age (2022) @2",
+"summary":"WHEN TITANS CLASH!
+
+Gaiman and Buckingham’s epic has returned and you won’t believe where the story goes. Miracleman has his old friend back, but Young Miracleman has never felt more alone. Where can a hero from a simpler time call home in this brave new world? Remastered from Miracleman (1985) #24 with stunning new artwork by Mark Buckingham!",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AL9nZEVZ82mzV4XDKicJVaDqHRY2ZP7dNiRctsKO7gzBr9MczYr22t4447hjuo8APXNLKUpc2fPtURgLDsiwMj9YtsMAlXlF9Z6LDigOYJbAlPU7ESt9XSo=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"miraclemanthesilverage(2022)/miraclemanthesilverage(2022)_2.html"
+},
+{
+"name":"Miracleman - The Silver Age (2022) @3",
+"summary":"Neil Gaiman and Mark Buckingham present the first ALL-NEW chapter in "The Silver Age!" High atop the Himalayas, Dicky Dauntless searches to find his place in the Age of Miracles. He'll make new friends and encounter a frightening, familiar face—Johnny Bates! It's Young Miracleman and Kid Miracleman—face-to-face!",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/i05b-JVe9F9xc3ohoivrEoi4BHR-z-vF-SiNHtylbT8y1fymVX74usmwyQmtZLtSLQNLtlRkdgxxPNPoCsB2r88cckp8qRdMKtQ6D2nY4_rHPDpt9vSae9VN36ZhqwMBwKAogHeOKw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"miraclemanthesilverage(2022)/miraclemanthesilverage(2022)_3.html"
+},
+{
+"name":"Miracleman - The Silver Age (2022) @4",
+"summary":"What are the Black Warpsmiths? Young Miracleman’s journey continues, and he finds companions on his quest to learn more about the world and about himself. They may not be the companions that Miracleman would have chosen, but will they be who Young Miracleman needs? Neil Gaiman and Mark Buckingham continue to reinvent not only this world, but all of comics while they’re at it.",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/eai56gtVPB3ZBuacmJXOLlqiYrAjXRrkA5X73n3EAXmJya5YUhi2uExX_UGF2N-tlz_I1FG40pm-nJKOp-VTSAt8PqY-kmAlx-H3_RezbNeTaLaOZvzn1ksHda0taVxeT3-plnG22w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"miraclemanthesilverage(2022)/miraclemanthesilverage(2022)_4.html"
+}
+"name":"Miracleman (2022) 0",
+"summary":"WHISPER IN THE DARK
+
+Forty years ago, Miracleman's modern era began and changed the world of comics as we know it. Now, on the cusp of a new era of Miracleman, we celebrate all things Kimota with a who's who of the best talent in the industry! Plus, Neil Gaiman and Mark Buckingham set up this issue and their return to MIRACLEMAN: THE SILVER AGE!",
+"date":"October 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jjlcCgHTD4hcmxB8aIMwKeo1sSnGJkbPjLD1_iKnaBfnIQ51i447-A38MO6pqYOH6Q3Zm3xDIU_rT-Jo9YjlekzwWcyScTPKoSGFhFk0l_gt6fIq9mGT4xjcuDooneBjM5zsGWjfxQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"miracleman(2022)/miracleman(2022)_0.html"
+}
+]
 "name":"Miles Morales - Spider-Man (2022) 1",
 "summary":"TRIAL BY SPIDER, PART ONE
 
