@@ -1,4 +1,1029 @@
-[
+{[[
+{{
+"name":"Fables (2006) 151",
+"summary":"Just in time for the 20th anniversary of its launch, the acclaimed blockbuster that defined an era of Vertigo returns with an all-new 12-issue story, “The Black Forest”—a tale that picks up right where Fables #150 left off, providing a new entry point into the world of Fabletown! The dust has barely settled from the climactic battle between Totenkinder and Cinderella—and everything is far from happily ever after. A legendary new adversary has arrived, and he plans to get even with Geppetto for the mess that has been made of Manhattan. But it’s a new day…and with it, a new Jack in the Green has arrived in the Black Forest. And within the emergency room of a New York hospital…a Fable long thought dead returns!",
+"date":"May 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/erf-0H8POCia4x1E2k0NQRBHd1h3HyNLnJLw284-cMJNDNMAQEPlZ51L-lM2PAvVV_jSbYkDJYCkfLgJSDIdvpCV_cpxCCQ5kHxVvK6tRD6DzUa_ucqGbd8eA7BiWnAF2prcn_3gyQ=s1600",
+"page":"fables(2006)/fables(2006)_151.html"
+},
+{
+"name":"Fables (2006) 152",
+"summary":"One of the most famous Fables of all might be restored to her former glory, but it’s not going to come without a cost. The benefactor behind her magical resurrection has also come to collect from Geppetto, who we learn has a few strings of his own. Is this godlike being really the one behind the rise of the Empire? And why only now have they returned with a vengeance?",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/AYQbkFfwNd8EnvBiVlr1B8EMr_VK1iY0LPMUWBlnVU_Uxme7s9duk1RqUVOjfGF_T2BCa64NuDhXHAL3TvJZeywQWAJT9OHX9yna12sGShbauNNIFe0nHnX948I6KYsp9tvcCIpJKg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fables(2006)/fables(2006)_152.html"
+},
+{
+"name":"Fables (2006) 153",
+"summary":"THE BLACK FOREST, CHAPTER THREE
+
+“Don’t come back until you’ve had a big adventure!” What’s the worst that could happen? In order to get a bit of work done, Bigby has sent his young ones off into the Black Forest, but to Snow, this only spells danger. How well equipped are her cubs to face down the creatures that lurk within the woods?",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/v6QwxKRmXZnfpp0gMY4fjYy_Z27MXKPw3OZns6IB14M80ObZcluP5-zL6wYUi-z43b1-4W8W2FUB9d1nApEi7VznVDoabIm02Uz7LH4mVhRHdwdujYii1bETgvZbO6TrKIpegO_3PQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fables(2006)/fables(2006)_153.html"
+},
+{
+"name":"Fables (2006) 154",
+"summary":"THE BLACK FOREST, CHAPTER FOUR: TROUBLE
+
+There’s trouble brewing in the Black Forest, and Squire Polly has sent out a rallying cry to all woodland creatures. This is their world. Their land. And they’re not going to fall prey to any sort of invasion. But is Polly even capable of inspiring everyone to action? Meanwhile, Greenjack has partnered up with Mrs. Bear for an adventure of her own!",
+"date":"August 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/S9MW2PaeoldiEMlC0o_iW0-Rumijmm4oUHuJZc-1TwUZlQ7vLyQ77Yox5l8xTByAN3Jzj2GtZX_p4vz_A42P0MX95Uu1du4F59dAhpPthAEhXIa0GyMoLti0AWZNjGrUvV4jIQtNQw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"fables(2006)/fables(2006)_154.html"
+},
+{
+"name":"Fables (2006) 155",
+"summary":"THE BLACK FOREST, CHAPTER FIVE: UNBOXING DAY
+
+Blossom Wolf's adventure takes a dark turn when she comes across a stack of ancient boxes bound up in chains. The voice inside begs to be freed, but will Blossom's curiosity get the better of her? Meanwhile, Greenjack and Mrs. Bear find themselves lost amongst the mundys, determined to find whoever is threatening their woods, but Pan has already caught wind of their arrival.",
+"date":"September 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/xsyL6P4mvDL3jQ4GkILm3AjNCdliEs4M6T9chsm1NVqm8G-CBcte3NuS330-W3v2tTsP9ESxLvkSjycSc2KtklfMO494CO7zsTyFRALnxLDBpTmFMp4Pu-4ofUETmaePS68XyIYIuw=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"fables(2006)/fables(2006)_155.html"
+},
+{
+"name":"Fables (2006) 156",
+"summary":"THE BLACK FOREST, CHAPTER SIX: THE TINKER BELL DILEMMA
+
+Connor Wolf has taken a shine to a wandering hero who has plans to teach Connor all he knows. They'll make daring rescues and slay monsters, but when the pair comes across Old Sam in the Black Forest, Connor discovers that his mentor's sense of adventure has a cruel streak. Plus, a French bistro in New York becomes a dueling ground as Greenjack makes a dramatic entrance to square off against Pan.",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/45tWkTdOsWESTRmOAjZeTSwAwuykpGAIIkTxjC_3AebRQOq8jQCUHBh7wq8Bs_j_TR2QCeSxnTqus81W6mMSxUcg5S8cOWQVsXtlg7207GF2TGkT6CqxZUKLUPLjA1ehXrfwUa8X8g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fables(2006)/fables(2006)_156.html"
+},
+{
+"name":"Fables (2006) 157",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/lLBXXaIZdpFhBXQFhRi1uoL03kBSS-rs8frH7LzJLol1liN1RrryXEbkgzYlayRDab2T8JXqyPZtCBIambA23iTcxqMKOz4PTjmCWq-fKkTFDnR9gtfSWuxug6HRMokqZsTk3UHd0Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"fables(2006)/fables(2006)_157.html"
+}
+{
+"name":"Daredevil (2022) 1",
+"summary":"THE RED FIST SAGE, PART 1 / THE ISLAND
+
+AFTER THE REIGN COMES THE DAWN! In the wake of Wilson Fisk’s violent and visceral last act, it’s a new era for New York and the Man Without Fear! With a groundbreaking creative team returning to usher in an all-new chapter, Matt Murdock has no choice but to leave behind everything he’s ever known, and ELEKTRA is the last vestige of his former life. Everything Matt Murdock thought it meant to be DAREDEVIL is about to change, including the challenges he will have to face in the cowl! ",
+"date":"July 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/VoEmeb0kIJqrepRY4KUsD3veOwsh-8H3bkgNNNGBVBUA5d7LbGxy9oilIckZ3lChE-H7MVTrdnSM60Y6Jbmbw_6Gq8qCg93HvgSRICL3Mx8CZtZJ5Xct0kG9RWBEmJxBwME8byxvOQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_1.html"
+},
+{
+"name":"Daredevil (2022) 2",
+"summary":"THE RED FIST SAGA, PART 2
+
+DAREDEVIL NO. 650! After DEVIL'S REIGN, everything it has ever meant to be DAREDEVIL has changed. Thanks to ELEKTRA and her newfound role as the Woman Without Fear, Daredevil is more ambitious than EVER, with a who's-who of creators from across the fabled character's history (and some can't-miss surprises along the way), this oversized epic kicks the next year of Chip Zdarsky and Marco Checchetto's landmark run on DAREDEVIL off in explosive style!",
+"date":"August 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/sn_f-5DvZ21AEkSuQQ9zhDXDHg4JUJPRJhWPG_o1cQTnfK7yi63sV3f3631jepEgoyh8vyS64WGf-5ngqabWDgV28wN7qSIiv0rIbs08DZuX0Nc47pQhZy4ucX30gIMB-cnx7DxduQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_2.html"
+},
+{
+"name":"Daredevil (2022) 3",
+"summary":"THE RED FIST SAGA, PART 3
+
+DAREDEVIL SAVES THE WORLD! With more ambitious and aggressive goals than ever before, DAREDEVIL has started putting together a team—but not everyone wants to be a part of Matt Murdock and Elektra Natchios' vision of the future. As Matt and Elektra grow increasingly distant from the super hero community and closer to one another, DAREDEVIL will once again be at odds with heroes and villains alike…",
+"date":"September 14, 2022",
+"tag":"Cole North, Daredevil, Daredevil (Elektra Natchios), Foggy Nelson, Luke Cage,",
+"img":"https://2.bp.blogspot.com/4DFjIBSFGAbCjLSMfMzqc6gkjQAzoVpwXDXgoM2mX842a8ift9XxSN8URKR0_9LHPHMUdnyj47EQdoVglU9Cv8I2qK-mtLGDGqDF4ftBfSWbDKJeMnYce3jhb72pmGGaVUFq2H27sA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_3.html"
+},
+{
+"name":"Daredevil (2022) 4",
+"summary":"THE RED FIST SAGA, PART 4
+
+A PERILOUS TREK! For months, Elektra Natchios has been developing a plan to save the world from the violent and ruthless HAND by rebuilding its opposite equal—the FIST. And with the world at large believing he’s dead, Matt Murdock has become her most trusted ally. But Elektra needs more than just an ally—she needs a partner. And in this issue, Matt and Elektra will grow closer than ever before…",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/BGRLs6964c2LeS0qo8PfEVTKnZJOxlpFAh9OD5dTsRYJnWzxh0uXP8GjYWjYSwN3IOpFot4cuiTbjXIzZIdanBDLe8YfJXa4XyJzd5_wLwsJSdMRnGD5hSCjKj--2q7FwniXoDGhCA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_4.html"
+},
+{
+"name":"Daredevil (2022) 5",
+"summary":"THE RED FIST SAGA, PART 5
+
+After the biggest change to befall Matt Murdock in decades in the pages of DAREDEVIL #4, Matt Murdock and Elektra Natchios embark on establishing a new world order, hand in hand.",
+"date":"November 23, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/gz78yxXJQYSg13ut7cp0176R0bby9RwfGiqvzUYDMx4SIaU9xLAlsEd5SWIsXA72qfRYTemYedmB2qxOqF7jpGrom-wZJpX1WOonF00rVXzox9nLVgEfTV8lJPEFIH1I5tS7YOsm0Q=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_5.html"
+},
+{
+"name":"Daredevil (2022) 6",
+"summary":"THE RED FIST SAGA, PART 6
+
+In the most shocking issue of Chip Zdarsky and Marco Checchetto’s landmark DAREDEVIL epic yet, Elektra finds herself at the center of an international incident that threatens to put her, Matt Murdock and everything they hold dear on a collision course with the Avengers—after which, things may never be the same!",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Dhl2iOPwPWHTATkYfrS2NXxb3YDBK7t_jQRhRQ3vM6FIUdtk7Wf_xe0DZCfIA313lTRt_TLhJJMzugu1FQWndgolcYMQ9fotDIVLLCTq0W2NeY36J6SVDYudUgtn__A7Ysckjvr7ZQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_6.html"
+},
+{
+"name":"Daredevil (2022) 7",
+"summary":"THE RED FIST SAGA, PART 7
+ 
+BETRAYAL! As Daredevil, both Elektra and Matt Murdock have made a home for super villains at the new stronghold of the Fist. But not everyone they've welcomed shares their vision for how things should be done. In this issue, that's going to cost them—and put them on a collision course with the rest of the Marvel Universe!",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/idFJ7hpzN56ulqDhejN1R6elwlZjioHZNfiOCLnw7u4O2ARMhB4iAB7b8SknhfeGsfrQ3n_CP9MGMBiiocJJs1cz_5SmMecf8D9TLH5UEQmTKh915sAKmU3pP3S1vKPHyPXAmBGSLA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_7.html"
+},
+{
+"name":"Daredevil (2022) @9",
+"summary":"THE RED FIST SAGA, PART 9
+
+For over three years, Daredevil’s life has been a living hell—between the Stromwyns, the Hand and his time incarcerated and exposed to ReCID. Now all of those dangerous forces are coming together and threatening everything Matt Murdock holds dear!",
+"date":"March 29, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pw/AMWts8DVVCIYwPnWGmufEY_NlQSg-K4hNwTas0u6vE1p_PY4eyxWXxlKdFmcFz1MNxAVwQ0RaKq3ULKPiqOeGch_1db6nWT2IbXKfGSpbTV8bfoE_WyIBbg=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"daredevil(2022)/daredevil(2022)_9.html"
+}
+]
+"name":"Danger Street (2022) @1",
+"summary":"CHAPTER ONE: ATLAS THE GREAT
+
+Joining the Justice League is a goal for any superhero, but what happens when a quest for membership takes a sinister turn? Join Starman, Metamorpho, and Warlord as they look to prove themselves worthy by summoning and defeating Darkseid in battle. Soon they’ll learn that calling upon a New God never ends well, and their world is headed for a crisis as a result! The journey to save the day will be a treacherous one filled with princesses, knights, and all kinds of monsters. Each person the heroes encounter plays a crucial role in this sprawling yet gripping narrative that is a little bit silly, a whole lot dark, and completely cool. Expect the unexpected with a supporting cast featuring Manhunter, Lady Cop, the Green Team, and the Creeper! 
+
+Inspired by the heroes and villains of 1st Issue Special, Tom King and Jorge Fornés (Rorschach) return for an unforgettable maxiseries that reimagines the characters and their stories. A multicharacter, multilayered crime drama starring some of DC’s most obscure creations: no one will see it coming, but everyone will want to see where it goes!",
+"date":"December 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ugLRxwTf6dTaGttyEGhm29xFeqewUp5UU7HwgtKMKoo1LsvYVMlZOG2bpYffRvBmCaxjISmdfOZCnyS_1-tBPtcgk671JjXnKHBi9C8TyxkmuI9Gl-j6WmmDr2Cptjj0bM29eM5FBg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dangerstreet(2022)/dangerstreet(2022)_1.html"
+},
+{
+"name":"Danger Street (2022) @2",
+"summary":"CHAPTER 2: THE GREEN TEAM
+
+After their attempt to join the Justice League goes horrendously wrong, Warlord and Starman are on the run from the law and the forces of the Fourth World! In their wake they have left behind both a murder and the ongoing mystery of Atlas the Great and his connection to the cosmic powers of the DC Universe. But don’t fret, Lady Cop is on the case, and she won’t rest until it’s solved. But little does she know, a malevolent corporation has a connection to it all and they’re willing to kill to keep their secrets safe. After all, nobody messes with the Green Team!",
+"date":"January 10, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7riEAeCeXsTyGHnAcC7ZV5GmyKlVkjvbrl8rCZsHd29AIroqqTJNksITaohP43bNrYFjG4Im965RA9OcM8xGF6rJwVMepN_IvbatzWWLsMjfBnFdML-QnGIzapBWpaQbcMeICqmKtg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dangerstreet(2022)/dangerstreet(2022)_2.html"
+},
+{
+"name":"Danger Street (2022) @3",
+"summary":"CHAPTER THREE: METAMORPHO
+
+The repercussions of Atlas the Great’s death play out worlds away as two old enemies become allies in the fight to save the Multiverse. Meanwhile, Lady Cop continues her search for Good Looks’ killer, the disgraced hero Starman. Little does she know, the fugitive is on his way to the City of Angels to make a deal with the devil. Will his sacrifice be enough to set things right?",
+"date":"February 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ba-8aIbBZB8Xgs8i-F20WhPE9gsSmoIgBfSSuH1eoAm1deaBx1n43DKFlJ0YywaEp9GqlHizOGr_wegZEWFRSIVDAnAA6LB0bFO9h1SZIzGs5SPGKVrbYP7wTWjx5Cwof-MWTFHy6g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"dangerstreet(2022)/dangerstreet(2022)_3.html"
+},
+{
+"name":"Danger Street (2022) @4",
+"summary":"CHAPTER FOUR: LADY COP
+
+The hunt for the murderers continues as Lady Cop prepares herself to take down some superhero suspects. But as the case develops, a true killer, Manhunter, emerges as a faithful servant to the Green Team and their quest for power. Only the Creeper seems to be on to these “innocent” kids and starts to uncover a conspiracy. It all begins with a single question: Who are the Outsiders?",
+"date":"March 14, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/KR463Dva8jCDg782bXEWxRSWPGqiuhdK_V5d7uv-bpq-qeSFWRY0sl7eMUiGf57BdI8XZ14yyWvIT-NM7q1b7DzRJMcdTBlFTPcFvzEhRcZzEWlTN3YpCkfUUwVjfEucxKLAbAImkw=s1600?rhlupa=MzQuMTM1LjE3OS4yMjQ=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"dangerstreet(2022)/dangerstreet(2022)_4.html"
+}["name":"Damage Control (2022) 1",
+"summary":"INTO THE MAILSTROM / ZAPPED AND THE MOTHER OF DIMENSION
+
+FROM THE CREATOR OF TV’S THE GOLDBERGS! Marvel’s Unsung Heroes finally get sung! After the mega-powered battles and Hulk-level catastrophes, Damage Control is always there to clean up the mess and get things back to normal. But Damage Control is much more than just a glorified cleanup crew, and this new series will pull back the curtain and reveal the secret inner workings that were previously only available to people with Clearance Level Eight. And we’ll witness it all through the eyes of Gus: a fresh-faced, eager newcomer to the company who has no idea how chaotic his life is about to become. Adam F. Goldberg (TV’s The Goldbergs) and Hans Rodionoff team up with Will Robson to take you into the secret labyrinth of Damage Control, where it’s totally common to run into familiar faces like Moon Knight! Nightcrawler! She-Hulk! And more! Plus: A second story by DAMAGE CONTROL creator Dwayne McDuffie’s McSpouse, Charlotte Fullerton, as the Damage Control crew must clean up after the Infinity Gauntlet!",
+"date":"24 August, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Tz5kfBsFCcRIABriXHsQaPFL9PVDwYLqqRgB3Lr34vNjF1UhC46sctHYZCzXWpinmGXKBcm7ZDlc-cibI7uStiOOrAbPUBOWTF6QTvRAO6DIC_GhcXsxR_j3qdD6czatOcPNrVuP=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"damagecontrol(2022)/damagecontrol(2022)_1.html"
+},
+{
+"name":"Damage Control (2022) 2",
+"summary":"HONEY, PYM SHRUNK THE KIDS
+
+FROM THE WRITERS OF TV'S THE GOLDBERGS! After he nearly caused a Skrull attack in our last issue, the management at Damage Control has wisely chosen to try and place Gus in a less volatile position. How much harm can Gus do in the Consumer Affairs office, listening to complaints and grievances? Actually, the answer is a lot. When things get out of control, Gus has to call on Ant-Man and the Wasp to try and turn a big problem into a little one in a story we call 'Honey, Pym Shrunk the Kids'! Adam F. Goldberg and Hans Rodionoff tap the keys while the incomparable Will Robson turns words into glorious art as Gus makes a horrible first impression on the Punisher, Ant-Man, the Wasp and more! ",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EFoYk4zl-zf87AzXF0xdHgZy21vaGQPiDzywRVQzjc1bRiPDcDQjDWvxfpRXsZm7zzWgZe44mSv6e8Tk9DL6QxiNiNBczTyY8rZLT4lHE67UTVK97T7xy8vUF8dh1jKjkCDUyU6p7g=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"damagecontrol(2022)/damagecontrol(2022)_2.html"
+},
+{
+"name":"Damage Control (2022) 3",
+"summary":"TRENTONN THE TERRIBLE
+
+After two disastrous days of office mayhem, Head Intern Bart Rozum decides that he has to find Gus a job outside of the Flatiron Building—so he assigns Gus to the Search and Rescue unit. Bart thinks, if Gus is mostly responding to the scenes of superhuman battles after the fact, how much trouble could he really get in to? Unfortunately, on Gus’ first day with Search and Rescue, the unit is summoned to New Jersey to deal with a giant mutated catfish monster who calls himself Trentonn the Terrible. ADAM F. GOLDBERG and HANS RODIONOFF write pithy dialogue while NATHAN STOCKMAN adds his visual wizardry to bring you a tale of Catfish Kaiju, Insurance Fraud and Terrigenesis with special appearances from the Black Tarantula, Hammerhead and the God of Thunder himself…the Mighty Thor! ",
+"date":"November 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/k0sZzMLWO5ciDNy18vw15owueFlVomeSLtAVHB2lv4b2ONGHn1eStuBGeE9QuQx9S5HNVMo6EUiOEmknVTLf8FfEbXZEYS_D5EP2uI-3eoatamK2WSmYR1RLlg80K622fC5BpBB5EQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"damagecontrol(2022)/damagecontrol(2022)_3.html"
+},
+{
+"name":"Damage Control (2022) 4",
+"summary":"BRING ON THE BAD GUS
+
+It’s been a tough first week for Gus at Damage Control. On Monday, he nearly caused a catastrophic Skrull attack. On Tuesday, he smushed a family who had been shrunk by Pym Particles, and on Wednesday, he turned himself into a monstrous guinea pig Kaiju. That’s why Gus has been banished down to research and development to assist Eugene Strausser. But introducing Gus to the one member of the Damage Control team who had a brief stint as a super villain could have dire consequences…Hans Rodionoff and Adam F. Goldberg write Gus into terrible situations and Nathan Stockman brings the bad guys to glorious life in our super villain-packed issue with appalling appearances by Doctor Doom, Green Goblin, Red Skull, Loki, the Wrecking Crew, M.O.D.O.K. and more. ",
+"date":"November 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/zD196FmyOMUlmsK--xBqJ6n_QzGsJ7UeO0cdwNnYPigZFTrDBujIK0z_Bw3hRxOwFRmJxeZek203Fm191fDKDtlW-pUziqfoVnuLxQnQjEugBKnzxjlk7trU2xkBtp1dzxhZW9AN7g=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"damagecontrol(2022)/damagecontrol(2022)_4.html"
+},
+{
+"name":"Damage Control (2022) 5",
+"summary":"THE DEEP END
+
+This is it… This is Gus’s absolute last, last chance to find a place to fit in at Damage Control. Unfortunately, the only remaining department that will have him is the Deep Storage Vault—where he is tasked with cataloging the contents of all the endless rows of crates and containers. Seems like it should be fairly low-risk. However, this is Gus we’re talking about, and before the day is over, there will be a massive morass of mechanical mayhem perpetrated by Machine Man, Jocasta, Sentry 459, TESS-ONE and Sentinels galore! Hans Rodionoff and Adam F. Goldberg continue to churn out hilarious word combinations, and Nathan Stockman serves up visual punchlines that will delight and entertain you as we conclude Gus’ epic journey through Damage Control!",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/FloqVBlWCFC68AscP7ejuawwJpkC3A8xOhQ7nKcAMSs_i9PPV6dvWMMGfOO2isKmGsWRoqmrDftvjblqU8zbMVWdIqUcolst-2IOVLbjrAVyqFDbJtfkrW4B9z0cZkBInRXaIhLeLA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"damagecontrol(2022)/damagecontrol(2022)_5.html"
+}{{
+"name":"Clobberin' Time (2023) @1",
+"summary":"It’s Clobberin’ Time all the time, as Ben Grimm teams up with heroes from across the Marvel Universe for BIG, FIST-POUNDING ACTION! But the stakes have never been higher! In this opening issue, Ben and the Incredible Hulk are stranded on a distant, ancient, alien world, where the duo must protect an ancient people against legions of Deviant hordes and ultimately face the wrath of a Celestial. Luckily, they have four fists between them!",
+"date":"March 29, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/K8b5XFxvD2AJEMOEFE94eEQAktLyyQ9_F72Bp6OiF4Ojv_ofT6IrpYIo0W_6XmK_rFr5-hsJ0xhcBDvH1tx9eIXe0Qu_SD0nN9Q7JnnlJ_YtLWQnfxq2oKBwAOHNymrz8cp18J7E5g=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"clobberintime(2023)/clobberintime(2023)_1.html"
+}
+"name":"Catwoman - Lonely City (2021) 4",
+"summary":"BOOK FOUR: THE UNDERWORLD
+
+ONE OF THE MOST ACCLAIMED BLACK LABEL SERIES EVER REACHES ITS CONCLUSION! All of the sacrifice—all of the broken bodies and shattered relationships—was leading up to this: Selina Kyle standing in front of the Batcave, desperate to know the secrets inside it, secrets once thought to have died with Batman. But you should never open doors you can’t close—if opening them means swinging wide the gates of Hell!",
+"date":"October 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OwXDEzPevnthimHyenpCc_vnRclCmkJzQGqRsEJkxU2zH8PtiStFQEicgfCw8P_wY6J6cC027zBF--9earVJ8y_6sPDG1PlFhFRq0FflNGuqCAAPAw35yl4dP2GKrnf8WVQdIyom6A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"catwomanlonelycity(2021)/catwomanlonelycity(2021)_4.html"
+}[{
+"name":"Catwoman (2018) @44",
+"summary":"Harley Quinn and Catwoman get their gals’ out-of-town trip at the roller derby crashed when some mysterious creep runs them off the road…and then follows them around at the derby! But this is Catwoman and Harley Quinn-you stalk them, and you’ll pay for it…maybe with a limb or two. Meanwhile, there seems to be more than one lurker in the shadows, because Red Claw is on scene looking for the girls too…but you’ll have to pick up the issue to find out why!",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OtWWuORK7Yxbusxij0cr-OAjC3xl9NkYbMjzhBqG5qt1DPlqWkhCLkstKJYyF6qBnLgAIzzaD1Br2IEniTCh_deJ_4ia6UWs5S7DIM86f0t1yq5Dkmeyw_Y7WuRoezuMO_rkLcyCiQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_44.html"
+},
+{
+"name":"Catwoman (2018) @45",
+"summary":"Roman Sionis has been brought to his knees, but enough is enough. Catwoman’s vacation is over and it’s time to get back to work. But Selina has never been Gotham’s only protector, and she’ll have to contend with a well-meaning family of bats…What’s that old saying? The enemy of my enemy…should back off and let me handle it!",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/OIiVNZBxJbXVJ8gPk_fUuIvoebC9RGu2XvLqvz6dfn0CXPoUWwcAReLw6ZSEjiFUFo6mwKAOOFR_-3MuYGfzFNuXlziDTtd2WY8WBNq4yo4CAyeaX-gTm3AsV0ugp7-_2xYojrx4wA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_45.html"
+},
+{
+"name":"Catwoman (2018) @46",
+"summary":"Lines are blurred as Eiko Hasigawa and Catwoman start playing too nice with one another and each lets their guard down—and in a ruthless city like Gotham, you can’t trust anyone but yourself to watch your back. And Catwoman should know better than to let an old flame get into her head again…that’s her job.",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/7etwr-2a7QFko-qRIWTW0gV8zjwUk9A1Kku5i1vS23XdeOSJT8ucg8jM4cTirvVuAspaaB6GJEm3mkHimmqwHMPOC9MiTyki-Pja-wMipePFnhhIct37ppoJ1BmmI1LXw23U4Zh25Q=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_46.html"
+},
+{
+"name":"Catwoman (2018) @47",
+"summary":"Things start to heat up between Valmont and Catwoman when the handsome devil in white shows Catwoman a grand gesture by taking her on a trip out of Gotham. How many high-roller cities can these two cat burglars hit for a score in one night? A crow in white and a bat in black—if only there was a moral gray zone for this one cat.",
+"date":"September 20, 2022",
+"tag":"Catwoman,Dario Tomasso,Duchess,Valmont,",
+"img":"https://2.bp.blogspot.com/UxLX88TUkCpWBOt1BXYPNl6elaxQRQeQa5dSaVpo2jvsBf-XVSqcZNgS1u1TCJVjaYBaTZ2R75odXGAYHQ-4UoVqsgiGczsP-JklczhywbTr0Mclyjtk0Nq6igMFHpjZC8iPDh_O=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"catwoman(2018)/catwoman(2018)_47.html"
+},
+{
+"name":"Catwoman (2018) @48",
+"summary":"FURIOUS HEARTS, PART 1 OF 3
+
+Don’t you just hate it when your current and former lovers meet accidentally? That’s definitely the case here for Catwoman, as Valmont and Batman cross paths! Is Batman jealous or just concerned that Selina is dating an international criminal who is also a murderer? There are some lines you just don’t cross, Cat, and not all attention is good attention.",
+"date":"October 18, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/gzJ9w5nSOLj40kpyDSppS6wWvoMuGKiNj_RQeF0oOiJt1n-FAmM3jntunu_DLzHcD7Fh85hiReIZDw6VGTGthQ5lI_Xqf9SIOWLpSlLzwd7IoogD3ppGYvk6OLSnKaxB7i5IHKaKbg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_48.html"
+},
+{
+"name":"Catwoman (2018) @49",
+"summary":"FURIOUS HEARTS, PART 2 OF 3 
+
+You can take Gotham out of the cat, but you can’t take the cat out of Gotham. With some of Catwoman’s power structures collapsed again, a clan of clowns has invaded Alleytown and Selina must use her power to handle things safely…without bringing more violence and crime into the area she loves and swears to protect. But when that fails, Selina realizes she’s going to have to fight fire with fire once and for all.",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4-OLHL5meh6jikW1exCDvymELfZO5GhSK0u_TOjl86ixISBMYj6wYXOPUWiG0PLnbxyOpk6c85rO86BzyE-EZiMIkyIPATkR9fiRRP4TTUzD9q9E4rrqN4puult7PBD1rMKYBbhaDQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/49.html"
+},
+{
+"name":"Catwoman (2018) @50",
+"summary":"FURIOUS HEARTS, PART 3 OF 3 / PART II: THE AFTERMATH
+
+Punchline and her Royal Flush gang are causing mayhem in Alleytown and things are blowing up—literally!—so Catwoman calls in backup! We all know the cat has nine lives, and the same can be said about her gang! But what's a nine-person heist without a little danger, maybe some…death? And, uh-oh, those handcuffs definitely don't look like the sexy kind, but what's worse is Selina has bigger things to worry about right now: like her ex-lover and current lover in the same room! At least she's criminally good at being bad!",
+"date":"December 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/lsK_tp9eMnReCSMLDEYMVhdXDZMMYxMwGwn3MNNeYeurDvDnU-YTZyJsYWBrUT_69UT0r4msMCl3DVTMqL-XppyKBiHJ_v3ibg8_tryzSrTKxSh9nMsoUcXyM_zOfy6FFaAh2wOJIw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_50.html"
+},
+{
+"name":"Catwoman (2018) @51",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/T-48nltyg9AvBYNB6LMr46OF_rGfrvch56XcWQoY4BrYUE_S2rBbvIWkiilcjzJw3Quc3HCVjsbJFaXo37tBkrSEgzS4zBxn872Tz2CGdLTb_gHm4gOmZSJbP-WqF4_VxmqCjiYXzg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_51.html"
+},
+{
+"name":"Catwoman (2018) @52",
+"summary":"RISE AND REVENGE, PART 2
+
+Looks like cat is the new black in Gotham jail as Selina quickly finds herself clawing her way up as the queen cat behind bars by making friends with all the wrong types (which are of course also exactly her types). Meanwhile, Eiko Hasigawa continues to prowl the Gotham streets as the Catwoman keeping the mob bosses in check, with a little help from…Tomcat.",
+"date":"February 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/YGlHY-wS5E8PtT1k2D8g9qaNW1Vq1Mrq5162Lz-3aRC83n3BHfx1EL1BdGKOHEO-gKqo6DPd6qRR2GrUH8l6bgh8fHANcfgSKvY0ypmy5KeEdgzRFE9OXRkIgqs_619_JzAtBMGTGw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_52.html"
+},
+{
+"name":"Catwoman (2018) @53",
+"summary":"RISE AND REVENGE, PART 3
+
+The Gotham mob bosses suspect that their very own leader, Eiko of the Hasigawa Clan, is betraying their code by putting on a Catwoman suit. Is Gotham big enough for two Catwomen? Catwoman doesn't play well with others, but this cat is gonna need the help of Tomcat to stay out of the mob's crosshairs. Meanwhile, Selina makes a few enemies of her own in jail, especially the inmates her ex Batman put there.",
+"date":"March 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/GpHn1w9vPEp8X7Q4nmOpVHu_Cb5SxsXtCVREOMpc4cHVxpxjIU9B_KZZCd67XmYUHcHAPd5FmtwiZKc_dToF6BXm26ewSDPPE-Sd7Gmm0T0JDcN7n7F4YszuTrQ82_d-AeSrerqf1w=s1600?rhlupa=MTA0LjE1NC4xOTYuMjI1&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"catwoman(2018)/catwoman(2018)_53.html"
+}
+{
+"name":"Carnage (2022) @3",
+"summary":"Years ago, Peter Parker spurned a puddle of black, extraterrestrial goo and inadvertently created one of the deadliest foes he’s ever encountered: VENOM. Years later, Venom’s offspring found a willing host in the form of Cletus Kasady, a dangerous serial killer, and together the two formed an even deadlier being called CARNAGE.But what will become of the Carnage symbiote now, rejected by the only loving host it’s ever known? And, like Venom before it, what new and terrifying creature will emerge on the other side?",
+"date":"June 1, 2022",
+"tag":"Carnage,",
+"img":"https://2.bp.blogspot.com/Cnkx10Dzyao1xOA0XRHgIPdV9tFwQtjomW3zpJatKpog-ZCj82LuHhYK0vn-uT1rpRzI_k9J-vpNGhsyyY0q6l_eAp-Tn4jKNvm4eIRNwzsfVgwnxDkh2HxEtiZyAdQcqcbDMl4Zkg=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"carnage(2022)/carnage(2022)_3.html"
+},
+{
+"name":"Carnage (2022) @4",
+"summary":"SOMETHING WICKED THIS WAY COMES! The CARNAGE symbiote is stronger, more violent and more bloodthirsty than its brain-consuming progenitor, VENOM. In this issue, it PROVES IT!",
+"date":"July 6, 2022",
+"tag":"Carnage,",
+"img":"https://2.bp.blogspot.com/pPa8iMVksyTYOjj1h2r0RBCLPcNwRHnO9S_60PFLPaycvt2LnaZCLcrgJ1SJTdK_dxfnZ4bX-wOXqro4Cpp50KIuFXnCgMORyvKQKk4C6sg9eJ-BYiYvx0hWvNc-6D4It3fo3wusiQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_4.html"
+},
+{
+"name":"Carnage (2022) @5",
+"summary":"A WILD HUNT, PART TWO
+
+CARNAGE CRAVES…ALL! CARNAGE's crusade reaches an unprecedented level of destruction and threatens not just the here and now, but everything that ever was or ever will be. Hydro-Man, Spot, the serial killer known as 'The Artist,' what horrifying puzzle is Carnage trying to put together with these pieces? Who will be its next victim? And will Detective Jon Shayde be able to stop the crimson-clad creature before it's too late?!",
+"date":"August 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/y_xHnS84tBCjaG0MIVhaOsXMgnThKZWKoZVqeMa59BnZx26GF5xzrU1Eyzlgy2LCQGRZ_85Z3meF-k0rykYGDzNi3dSiYz6du0SjxTLv_wgOPymEVdWyPuIepvPMl7vVR7joiSkcaQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_5.html"
+},
+{
+"name":"Carnage (2022) @6",
+"summary":"IN HELL, PART ONE
+
+The Carnage symbiote has a bloodlust unlike any other organism in the Marvel Universe. IN THIS ISSUE, its ruthless and aggressive efforts to quench that bloodlust reach new and never before seen heights. But what in the Hel is Carnage up to, and what will it do to anyone who gets in its way?!",
+"date":"September 21, 2022",
+"tag":"Carnage IV (Symbiote),Hela,Jonathan Shayde,Malekith,",
+"img":"https://2.bp.blogspot.com/I8te07AGWKCCTPB4H0DRzywNSIap_rsju0Jr1n8YUo7GaSyAClaXzNMop2p7XTj6ROrFabXK5Ni7xqPe3ydCon4wwzAVGGBkZSfaTdCfPhG69-XjFHstdKrn8S-Nq778OPpyI_KMtQ=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDpiMDgwOmI2YWE6YTdjOjdiNjM=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"carnage(2022)/carnage(2022)_6.html"
+},
+{
+"name":"Carnage (2022) @7",
+"summary":"IN HELL, PART TWO
+
+With violence and glory on its mind, the Carnage symbiote continues to carve a bloody path through the underworld with the singular goal of reaching MALEKITH THE ACCURSED. But what does Carnage want with the disgraced lord of the Dark Elves, and what does it have to do with Venom and Eddie Brock?",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/h2emnxXZaC9OQ1fz-5v4jejlPcIWK2276C0J2B2LZXqXsWlwB9Jt50EJahAPlakCHQufK1J2euNKKkvPTR0oUVpE3omzTbHBXPjP3U9xG3asxSUUgBjZ_wRbWbQPRslcaDS1yoZzhg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_7.html"
+},
+{
+"name":"Carnage (2022) @8",
+"summary":"THE LONELY HOUSE
+
+The Carnage symbiote traveled to Asgardian Hel with a very specific mission on its mind: reaching Malekith the Accursed! BUT TO WHAT END? What could the symbiote be trying to get out of the fallen lord of the Dark Elves? And what hell will be unleashed on the Marvel Universe in this issue once it succeeds?!",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/BYinm3h2yPii786JRiFCFCiFh_07IuFvompyiEXsFnnX9YhQUMHnbJUX7bjL_nDEZjmVFFasJKMs6FX4P8r9LPqfNEArWRlTflyLWdHllhOVPe3zM6wOI8OD9OKTJ6fKb8LrgS17JQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_8.html"
+},
+{
+"name":"Carnage (2022) @9",
+"summary":"GODMAKER
+
+“FORGED IN BLOOD” begins here! The Carnage symbiote painfully and viciously extracted what it wanted out of Malekith the Accursed—but godhood remains just out of its reach. Wracked with an insatiable lust and longing for power since its communion with Knull, the symbiote is missing only one thing to level untold destruction across the universe: a weapon.",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/xkLhjhkXzmglMefJO6v86Hoj67DeT4KRinWvlmS4jUW5UWBH2IlhZ8yK7PVwUMwg1e9lZwSOqX0xdlYpyoC__5ttA_X2k8QuMiu3i9MMmjGJ8Q6iwAbz1zcexYLay9pALPi_-CSo=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_9.html"
+},
+{
+"name":"Carnage (2022) @10",
+"summary":"GODBREAKER
+
+“FORGED IN BLOOD” Continues! The Carnage symbiote has ambitions of universal destruction and death, the likes of which would make even Knull himself tremble. But unlike the slain King in Black, Carnage has no weapon to inspire fear in the hearts of the living across space. Or—not, until now!",
+"date":"February 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5_7kyjPZqmq1L4twp9K2gMqsXEQ9xdKxYqTGJgp7ZE_6v329LUCM_E7edes4mZ3WYA6OkTt2Hh31gTiqbOMRu3ctoY9PLgT-4S-zCDsRPbXCK4rzJY3lGTiymWwlbTWo_PKbbehsEg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_10.html"
+},
+{
+"name":"Carnage (2022) @11",
+"summary":"CLETUS KASADY IS BACK! Years ago, Peter Parker spurned the Venom symbiote and it created a monster. Last summer, Cletus Kasady spurned the Carnage symbiote similarly, willingly rejecting it in favor of forcing his consciousness into the deadly “Extrembiote” armor. You’ve seen what happened to the Carnage symbiote in the months that followed… Now watch on in horror and discover what happened to Cletus!",
+"date":"March 22, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hMxZQIjKux2QIo3TxTUJktR3ofv7d5JehmfklIfksC_u67kfbCCkz_WqYyCa-bAi9ogUAApZr2ZkaIp7swbrhIlN1kXWgmKj57YxRS6u2y3_y49WO4gZj4F5z77Ky73c3wNmRyx2dw=s1600?rhlupa=MzUuMjAyLjMwLjEzNA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"carnage(2022)/carnage(2022)_11.html"
+}[{{[{[{
+"name":"Captain Marvel (2019) @38",
+"summary":"CAPTAIN MARVEL NO MORE! Carol Danvers is missing! Her disappearance has left the newly sentient BINARY to fill in, but stepping into the shoes of one of Earth’s greatest heroes is no easy feat. As Binary finds herself plunged into a world she barely understands, the questions about exactly who and what Binary is grow deeper. And where IS Captain Marvel anyway?! A brand-new arc starts here as Kelly Thompson’s award-winning epic adventure continues!",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/UzXjC9PpDgO1trW63yz7nHKOofpDX_NRPBQsn52M_EWn2DFqh0DmzHLKXaDrLzrg6JIcGoiWGLdjQdZTeuauH-PT8QbG-KNP_BNQflv5z1fHKXYR3ZZJH-IBbmlwU-tzRCA-VCLDKA=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"captainmarvel(2019)/captainmarvel(2019)_38.html"
+},
+{
+"name":"Captain Marvel (2019) @39",
+"summary":"TRIALS, PART TWO
+
+TRIAL BY MAGIC AND FIRE! Carol's 'crimes' against a powerful foe are coming back to haunt her as Agatha Harkness, helming a tribunal of some of Marvel's most powerful magic-wielders, puts her on trial. But Captain Marvel isn't exactly thrilled to recognize this court's authority, nor does she appreciate being held against her will. Back on Earth, in the midst of a spiraling identity crisis, Binary's skills are put to the test when she must aid Spider-Woman in protecting humans against themselves.",
+"date":"July 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tmtfjIT54vAYIB5f9C8EVQQlF8LYlIn1xAA3BkftdnhVRRG5BAxaokvgoocRGMQyurxccviH5usLheVRXpVmZyz-YdR2K00x9LSNl9fd8_UM0nmNu7GtIwg_XeABwHbujoj1BPWx=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_39.html"
+},
+{
+"name":"Captain Marvel (2019) @40",
+"summary":"TRIALS, PART THREE
+
+THE HAMMER OR THE NAIL? Captain Marvel's magical tribunal doubles down as Carol struggles to break free of her prison using only what she came with—namely, herself. But if Earth's Mightiest Hero can't solve this puzzle, she'll be Captain Marvel no more, which was maybe the master plan all along?",
+"date":"August 17, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/9G9d-q13UDBwd72qWqUFNmkdiDFC8THgzrNefzZFqdh3cxVcMVgbI86jj0jaYBd3JEZSclFZXIfe4WYQ8Uq_OcSuxxDdHV9g5H3wr-eUW-tFLrjGgTphoVn75FGmzSnvmuqgTlro=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_40.html"
+},
+{
+"name":"Captain Marvel (2019) @41",
+"summary":"TRIALS, PART FOUR
+
+HELL HATH NO FURY LIKE A WITCH SCORNED! While Captain Marvel has managed to break free from her magical prison, she hasn’t broken free of Enchantress’s rage and thus finds an even worse problem waiting for her in New York. It’s a problem all too familiar, but with a deadly secret at its heart—one that could destroy Carol if she makes the wrong move. And what about Lauri-Ell vs. Binary? We haven’t forgotten about that!",
+"date":"September 14, 2022",
+"tag":"Accuser, Agatha Harkness, Binary, Captain Marvel, Doctor Voodoo, Ebony, Enchantress, Hazmat, Jessica Drew, Kit Renner, Magik, Satana Hellstrom, Scarlet Witch,",
+"img":"https://2.bp.blogspot.com/s4sr1tMxCatV7odIaVfubcm1bqOgUYl3AYzNMMyZT0Y4w_1pupzWxi227HH0dJ5lnYL59eaIoG5kptH07OfUM-bsPIhUBeiXm5xmcDhV_oyZx1ImB1k5yOvsK1x1RKdBdy-FXO86Eg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_41.html"
+},
+{
+"name":"Captain Marvel (2019) @42",
+"summary":"THE CHEWIE CENTER
+
+JUDGMENT DAY MUST COME FOR US ALL! Though Carol has had more than enough of being judged lately, there’s no escaping THIS Judgment Day as it determines whether Earth lives or dies. But as Carol and Lauri-Ell give their heroic best to prove their worth an…unexpected new player emerges.",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/v_-nQMXT7AiU-sY5O9c3XUJVSZTuRXiWEnvooLJvAndZu57XLElb0e3yPwaWA7dov2oahbDbJdYOE1PClxLevRJfKVSneCx-oi1gW4u7D418o5n9N7IXMY9d0Dkc4Xg7icPIfLKMNg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_42.html"
+},
+{
+"name":"Captain Marvel (2019) @43",
+"summary":"REVENGE OF THE BROOD, PART ONE
+
+HORROR IN THE STARS! Many experiences honed Carol Danvers into the Captain Marvel she is today. Some of them are beautiful stories, and and some of them are horror stories! This is the latter. Join superstar scribe Kelly Thompson and 'Last of the Marvels' artist Sergio Dávila as Carol and some eXciting guest stars come together on a mission in the stars that will change everything for Captain Marvel!",
+"date":"November 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0jbFBmoHQUHnUV6Fpq-zKv8fdcx28PM9PQiuvoKdfKSuVGZGcSl5FDJbiAl8C29Mx1PTMsgji1wERMpejNrU0YMthkvk1dPuHi2k9mIl9qXSxu3RJr-ibgQzpE1S9dm2lUoksXeuog=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_43.html"
+},
+{
+"name":"Captain Marvel (2019) @44",
+"summary":"REVENGE OF THE BROOD, PART TWO
+
+The Uncanny Carol Danvers returns to space—and to the X-Men?! A mysterious degraded message from Rogue has arrived at the same time that Carol’s emergency beacon begins screaming with cries from Binary, and that cannot possibly be a coincidence. Carol assembles a team of allies, including Polaris, Gambit, Wolverine, and Psylocke, bent on rescue, but what they find instead is a dangerous old enemy bent on revenge.",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tWr1ZqZHDrFPgX6j9oxiCTjzPm_osMyak-VzIQ0SNQRV5wQUAkUuOMtLh3Ue5j524G28rvWTOA1Yytavvw1t5_TQjdDQpHckNZnYRh0Tvq5Yt1qCUHS_CoQiGDUkKxnurSYG1TbUfw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_44.html"
+},
+{
+"name":"Captain Marvel (2019) @45",
+"summary":"REVENGE OF THE BROOD, PART THREE
+
+Captain Marvel and her eXcellent allies revel in their big win against the Brood, but all is not quite what it seems… Carol and her friends have miles to go before they sleep. The Brood has always been one of the universe’s most dangerous foes, and one of Carol Danvers’ greatest enemies. And now, under the rule of an Empress Brood gone rogue, with a hive mind bent on revenge, what could possibly stop them?",
+"date":"January 4, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/ZA2nOYv9cdvH1J8V-gwiJ244lGa3CKKCJISHl2jHOA-y7UaQ9qlUgzZAuM0hWjmP6TfJVLKSvIEItIUjEkkCCpW4Dmo5_Y-rE7lGcWLimUofgAcE4S3Od9EZrZtOkCw4j9zggmoLLw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_45.html"
+},
+{
+"name":"Captain Marvel (2019) @46",
+"summary":"REVENGE OF THE BROOD, PART FOUR
+
+Carol Danvers is on an X-press elevator to her own personal hell! And the Brood Empress is determined to ensure the Captain and all of her friends make it to their destination. Rescuing their team and getting out alive has always been the goal, but the odds are more deeply stacked against her team than Carol can even imagine.",
+"date":"February 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/zhBuhhAdNDyUhT4gmGP98_DhdYF1GaNZPvPldD4RBEbyR6Prpr_FF5Troak_9cr3NednyFMtmEBLZXjGYxJwWq5GMhDRfYd48gHmM2jclLd4awc9DZ5ALAgyg7novO3mQ0ElcuEayw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_46.html"
+},
+{
+"name":"Captain Marvel (2019) @47",
+"summary":"REVENGE OF THE BROOD, PART FIVE
+
+Overwhelmed and trapped in the Brood’s backyard, Captain Marvel and her team are forced to sacrifice one of their own. But the Brood let Carol through their clutches once before, and in so doing, created one of their worst enemies. They won’t make that mistake again.",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/EU-Oskc-wtA-d9qAc9zq_NctCTveEW6VwxCpoW-y8MEKDET1l4uhhk2CSU3hThzY05N5PB_GKdq8e2-OHewXgHhPKdvKLBeVcRKYX5asVJaXiBerutBJvwxMGARKBNwNY9guRCyepQ=s1600?rhlupa=MzQuMTIxLjEyNy4yNDk=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"captainmarvel(2019)/captainmarvel(2019)_47.html"
+}
+{
+"name":"Captain Carter (2022) 2",
+"summary":"'WOMAN OUT OF TIME' CONTINUES! Captain Carter is back, and now the whole world knows it! Reeling from her new celebrity status, Peggy teams up with S.T.R.I.K.E. to investigate the sudden resurgence of Hydra, but something doesn’t feel quite right. Can Peggy trust what she’s being told, or is someone trying to use her as a high-profile pawn in a game she doesn’t yet understand?",
+"date":"April 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/1SHh4pSBameNGgcMozyudlrgSRK59zv2l42Drk2ny7lygOTg4N7UaRvgpcBzDgsIZy6gWWrg5xqQL5IvxrpcNp8oADjSTaLMy9XARKvNnUG_vmkp0_7QhNOviTRh-qghUoKM8pVWfg=s1600",
+"page":"captaincarter(2022)/captaincarter(2022)_2.html"
+},
+{
+"name":"Captain Carter (2022) 3",
+"summary":"ENTER IRON MAN! Captain Carter has plenty on her hands already, wrestling with a betrayal from the very organization she thought she could trust. Is Tony Stark here to help? Or will he be just another complication at a time when Peggy’s life is full of them?",
+"date":"May 25, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Qtwn6PTBr4Gn3K27RCgUDnGEe83Mzatf3bEN7UYXnJLWSwm2xFLLMdE3u6aDN9hJ1yCS2ML6iWYCldNhnAN8N0eEEy38A9g5QWOU-a810lj4STcvR69BXAV7GFh5dI_lwX58Lo-1C4w=s1600",
+"page":"captaincarter(2022)/captaincarter(2022)_3.html"
+},
+{
+"name":"Captain Carter (2022) 4",
+"summary":"CAPTAIN CARTER ON THE RUN! Peggy and her dwindling list of allies just became prime targets for a sinister group operating at the highest levels of British society. Before she was Captain Carter, Peggy was Agent Carter…but can she rely on decades-old spy training to keep her alive in the modern world?",
+"date":"July 13, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/YlwrIgVMzriYL745ak3NB_53XWndKhDXKU32PEzB8M45pFDJ8OyWuclidDCmfzL2DNEnm4lMO_m1SALFurUPu6aQLgSuEdMQpSYZjbM9jWqQnmn68eYfxqhIuHCeKHeKWOdyuKwi=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captaincarter(2022)/captaincarter(2022)_4.html"
+},
+{
+"name":"Captain Carter (2022) 5",
+"summary":"THE END OF THE LINE! Captain Carter's powerful enemies are closing in, painting her as dangerous and out of touch with reality. But Peggy's mind has never been clearer—and now that she knows what she's up against, she's going to put an end to it…even if it costs her everything.",
+"date":"August 10, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/AjIOx7L1oia_15ikCtwfRRBPWzndL1Kzpy7zVQqeuRDCHH-CN6UGeN0pZs-4Q-Xwv_iwnI1NQqJt2dR3oNXZAXilqLSUun0mZmTE4tCj0HL_PrIoTAgMMcpQCw_byE6sj8iUTvZueQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captaincarter(2022)/captaincarter(2022)_5.html"
+}
+"name":"Captain America - Symbol of Truth (2022) @2",
+"summary":"After thwarting a train robbery with mysterious ties to the Super-Soldier Serum, Sam Wilson needs information. Unfortunately, the person he needs information from is Deadpool. Who's in prison. In Latveria. No one said picking up the shield again would be easy…",
+"date":"June 29, 2022",
+"tag":"-falcon, -deadpool,",
+"img":"https://2.bp.blogspot.com/bMRUX5Z90z8rWprtlDv1Ww-9EbNKUMcKLdnyCKkeO2E-5ejjzBPbcFje9m4DMub29SxtUB-4jtPtQLurcOno61mXFPLYdWzcfRe5INAa7TFwXHAKiTfb_dG8Qs5m5VWT4XMldexhqA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_2.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @3",
+"summary":"HOMELAND, PART 3
+
+ON TRIAL IN LATVERIA! Sam Wilson's hunt for the source of a vibranium smuggling ring lands him in hot water with the one and only DOCTOR DOOM! Can Captain America escape Latveria with his life? And what dangerous secret has the Falcon, Joaquín Torres, stumbled across in his own hometown? ",
+"date":"July 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/PvPZ6uC-YxbqRK-uDH2V6x30eA4aQo32RyAL8NQbFikg2x7F0p_sUFGoEgj8USUBr7-LGmehStmALvPox1kXtRIn9qjcNn7_WNOPpffcrjR3v1wu4SUhSgsvLKpA3UcfDEQ2DXBrEA=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_3.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @4",
+"summary":"HOMELAND, PART 4
+
+Sam Wilson uncovers a plot that poses an imminent threat to both the U.S. and Wakanda—but Wakanda doesn't want to play ball with Captain America. Faced with an impossible decision, Sam tries to do what's best for both countries. But will his gamble pay off or cost him dearly? And what interest do the elusive White Wolf and his ally Crossbones have in the outcome?",
+"date":"August 24, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/S9ZMVZ0bydc1cMzm6HzqllIqBKx3ETqrOGxvPtSwhHOfGMBSIV5RXJCJ5gxBc7cm18zbkpaFATi1XqjBYEz3AUkQpy8Vmh20RtebwmcMeobioTaD757VUgdaF0sWOOf-L4B--5Beyg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_4.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @5",
+"summary":"HOMELAND, PART 5
+
+It’s a showdown between Captain America and Black Panther, with the fate of two countries on the line! And when the dust settles, who will pay the price for Sam Wilson’s incursion into Wakanda? Meanwhile, Falcon uncovers a piece of evidence that changes the scope of the mission—and exposes the White Wolf’s ultimate motive. ",
+"date":"September 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/jViRBX1Hd84TFYh9HY7e6iWVIRsCtF6xjCkuIvRYF-IrA0F8YhDthRRPQnAn4Yav_YmWVhAdDKZYxOWQJPqrfdc1GvXO6iVttLvYycqQej3dKbrdcc7yONR7DzJ0I9xmLd8DnZN_HA=s1600?rhlupa=MjQwNTo0ODAyOjYwYjc6M2Q2MDo2MWIwOmRmZWU6ZjNhNTozOWNh&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_5.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @6",
+"summary":"PAX MOHANNDA, PART 1
+
+'PAX MOHANNDA' STARTS HERE! Still reeling from his conflict with Wakanda, Sam Wilson is called to the international stage once again to protect a visiting politician from the African nation of Mohannda. But the White Wolf has already put the second stage of his plan into motion, with dire consequences for both Sam's closest friends…and Mohannda. Old allies return and new enemies rise in this thrilling new chapter of CAPTAIN AMERICA: SYMBOL OF TRUTH! ",
+"date":"October 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/szTyLV_iTw6bwORd4cRFl0zAPBYlbyykoO-EHrlIWqL8Sbq8vyunCSzg74vQDFSotYsn_3aryFEY5eLRBP--TraZ_KHENOwfpuhbNXfL-aSxZcfHNTcEYwzVzsOVdER-FmGaNJpGZg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_6.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @7",
+"summary":"PAX MOHANNDA, PART 2 
+
+The White Wolf's latest attack has put Falcon in critical condition and sparked a civil war in Mohannda. When Sam Wilson's role as Captain America prevents him from pursuing his own justice on an international scale, his government contact sets him up with a surprising new partner—an old ally long thought dead. It's the return of IAN ROGERS, A.K.A. NOMAD! But will Ian's return be a blessing or a curse? ",
+"date":"November 30, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/s8dMyZVImrMR-AHnRljE_le1KnPWqqpULINYuH-ltc8Fsa-PhHN8kRngsncf6xCuBMloCVMpnRCmrjqTqAx8d7vRjQUkYEFmuY2p1J2DN1WwKJP4ffZyeLf2wKxMlLg20qwm4Zjy=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_7.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @8",
+"summary":"PAX MOHANNDA, PART 3
+
+As Falcon’s condition worsens, Captain America comes face-to-face with the unintended consequences of his escalating conflict with the White Wolf. Nomad is willing to make the compromises necessary to take down the Black Panther’s errant brother, but can Sam Wilson say the same? And what is Sam’s old sparring partner Nightshade doing in Mohannda, anyway? ",
+"date":"December 28, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/iCk-O-h1VOdhaoAW__XMhj-6n0WvwyKo04GWriaAfqXWJat_2IbA-hTCzkWys2DgqRLiIK_OPJ2JkV7cIn3fg__ktiYzi-lDm7xbdmUGNIsxh7a1LlBy8AgEdENo_8ImQH22hHnEIA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_8.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @9",
+"summary":"PAX MOHANNDA, PART 4
+
+Captain America’s understanding of his conflict with the White Wolf is flipped upside-down when White Wolf unleashes an enemy from Nomad’s past onto Mohannda’s civilians. Sam Wilson’s first priority is now stopping the onslaught from Dimension Z before it’s too late – but at what cost to his allies? ",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/NzJXhvK-kQKedpjJ10KO2V94Aqq3mxnmhsKvRugnNibeF3FQajDP8FZEaTpd1xqhEqyx-O-g_TApIhIcee9VuQkcSC_94byTummQS8i0EHlJQTpFEp3gPmau7hcyb7S25Du7N3lTcQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_9.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @10",
+"summary":"PAX MOHANNDA, PART 5
+
+CAP VS. FALCON! When Falcon arrives in Mohannda, delirious and rampaging from the effects of White Wolf’s chemical attack, it’s up to Captain America to save his friend—or to stop Falcon from hurting anyone else. In this heartbreaking showdown between partners, Sam Wilson must make a choice about who he wants to be—and what he is willing to sacrifice for the mantle of Captain America.",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/yKHuYg8ECQ8y_XGruPARJ9VXLh3kwiW8YwaoBlQJH1wnSFca3nxQdJj7lWbOYF7zfYAzaasVd_aZs24kcxcmNyWUnwg0FjXQTkeZK0dxZ8_Zswiem7xEXnecf89yNlgNS_wYbPrkBA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_10.html"
+},
+{
+"name":"Captain America - Symbol of Truth (2022) @11",
+"summary":"PAX MOHANNDA, PART 6
+
+CAPTAIN AMERICA VS. WHITE WOLF! With Falcon incapacitated, Sam Wilson has vowed to make the White Wolf pay—by any means necessary. White Wolf still has a few tricks up his sleeve, but will they be enough to survive Captain America’s rage?",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/2Jqigo6wGXaIqo-oQyb8CL9-oV1MB5RAWrpmdnf747zPVvpk48JMUHAz8wzcPx2VjCbQ0TGH0mSf7FxPnhOYyq7s1E6u2JOZYFoHFd_4mcqCZ1xkhSsOWLTJ3PjOp0miW4a9jEcFnA=s1600?rhlupa=MTA0LjE1NC4xOTYuMjI1&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasymboloftruth(2022)/captainamericasymboloftruth(2022)_11.html"
+}
+{
+"name":"Captain America - Sentinel of Liberty (2022) @1",
+"summary":"'The shield isn't what you think. It's not your symbol. It's theirs.' The shield is one of the most iconic images in the world. It stands for hope, justice and the protection of the innocent. It also holds a secret, undiscovered until now, that will change the way Steve Rogers views the 20th century…and how he chooses to fight in the 21st. Nothing is what it appears in this game-changing Captain America run by Jackson Lanzing and Collin Kelly (KANG THE CONQUEROR) and Stormbreaker Carmen Carnero (MILES MORALES: SPIDER-MAN, CAPTAIN MARVEL, STAR).",
+"date":"June 15, 2022",
+"tag":"-rogeraubrey,-jamesbarnes,-adolfhitler,-alpine,-baronvonstrucker,-baronzemo,-bucky,-campuscaptainamerica,-captainamerica,-captainamericasam,-captainamericaofharrisburg,-captainamericaofthekickapootribe,-captainamericaoftherailways,-crossbones,-docfaustus,-modok,-peggycarter,-redskull,-supremecommandersteve,-usagent,-wintersoldier,",
+"img":"https://2.bp.blogspot.com/Dpadp2CixCBK0ewdZJnFCK9pNck3AzS41EiHpAEG4uarQKRGGAnfjrDhdnQtmnsDUBF-Wf0v_198issI9aYpy52vcaVXptD0djARfC6QBts-KxAeLM9M0LHyEd2wKWL8gbIxiQfWZg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_1.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @2",
+"summary":"FIND THE KEY. CRACK THE CODE. Steve Rogers follows a trail of coded breadcrumbs to Germany, where an elusive organization is making bold and deadly moves, while Bucky Barnes’ own investigation leads him to the high rollers tables in Madripoor. Thousands of miles apart with no backup, will Steve and Bucky find what they’re looking for, or are they both in over their heads?",
+"date":"July 6, 2022",
+"tag":"-rogeraubrey,-captainamerica,-peggycarter,-jamesbarnes,",
+"img":"https://2.bp.blogspot.com/-Ij5N23PTSaCTAi5-tBqe7YVkdyE47Cz5n3URMxyBKs2l8bd4hU-QjhTXu-xMrfRrJoqb5Jg6lR2_Ycb9W77FkQf0pHspP6x37JK9jSVCxXKmnXLmnbjiNFbK8AJWOK-QDtzRnZJ6Q=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_2.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @3",
+"summary":"Steve Rogers tracks the mysterious organization known only as the Outer Circle to a lab in the heart of a volcano, where the original creator of the shield left behind a dire message. But the Outer Circle isn't going to let the information go without a fight. Who—or what—is the Redacted? And will Steve survive long enough to find out? Meanwhile, Bucky Barnes finds himself in a high-stakes battle with none other than the Dryad herself…Peggy Carter!",
+"date":"August 10, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/mp6rzKmp4HAxtbls97ENLF0Wr_YxUbjd07PVu9snUMbCcph64ormfAjYhF61zcZ2dYcx-0rIWXVUt3nUaWhx6Ku2Tpt6_VYDI3AZuEzcWUo1AI6FLP4ewPpJYnIr0NHn3EcTVlK-fg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_3.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @4",
+"summary":"Steve Rogers returns to New York with more questions than answers about the origin of the shield, only to discover that Bucky knows more about the sinister Outer Circle than Steve realized. And now something is stalking Captain America through the streets of Manhattan, putting everyone who crosses paths with Steve in danger…",
+"date":"September 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/tOX6-PLBjm1Zd_urDqiNl1vtzNlvNaGlQhLgpsAAb_0ncV82MyjxiJb8AUqBqPtMe3LY-6dYHdgkddn1qfuCqLXisd6jN8n0MrI52ZPnqOJjXQw5VWPUi9EzTDZZz8JAWuiHEpeovw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_4.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @5",
+"summary":"The Outer Circle’s most recent defector leads Steve Rogers and Bucky Barnes to the Outer Circle’s headquarters—and to the answers Steve seeks about the origins of his shield. But Bucky already has his answers and is looking for solutions. Will decades of friendship be enough to outmaneuver an enemy who calls himself the Revolution? The world of Captain America is rocked in this can’t-miss issue that will have ramifications for years to come!",
+"date":"October 5, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/aYoQxmo9q7qvLxkuxwwDf9tJwEDFpNtiDWeF70htYn4UUL9W86oT5KPk5ajsm5bv_2N_KfzF7iDrOjdnvCvjLdPuCXQBQk6-jDeQODvdzDjDgM9IsqWk_7yOlTHCd24lg8zlkrq6Qg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_5.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @6",
+"summary":"Captain America has misjudged his place in the battle against the elusive Outer Circle…and it’s about to cost him everything. The Century Game has been turned upside down. And when the dust settles, Steve Rogers’ world will never be the same again.",
+"date":"November 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/pjlM0XFxVUKxewa8FNm0lERcvY_-xJ7b6O53-8hrbzG7n7lMvx8Vf4UmV3Dq4b_0QMOqJ717jEyrHDBwa_XLQKNVh7dtG0y_DKGwyJZr4dBcTJ4RmfwTpfj87whjyCaeRFfxpYPWAw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_6.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @7",
+"summary":"THE INVADER, PART 1: ON A  MONDAY
+
+“THE INVADER” starts here! Just when Captain America is ready to quit his pursuit of the Outer Circle, he receives intel on their next move—and a reminder that Steve Rogers is never without friends. Sharon Carter returns to help Steve assemble his allies for a new mission—but some shadows reach farther than even the world’s best spies can predict.",
+"date":"December 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/YqxQ6vRJudx2FZyQZ7DCApqe_x0GCEcZPVIwv74xQLeOqGVhLgZieLPkawzNC_ZxlVcJH9QTtTa4OBQ-axPHRZEEfW7VnxcW8rWkOLu8ajd4HxI3INiu1jlT_Szub0IVPKv4p83vAA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_7.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @8",
+"summary":"THE INVADER, PART 2: ON A FRIDAY
+
+When Captain America’s allies find themselves scattered across the country with no recollection of how they got there, Steve calls in a favor with the one person he knows can help—mutant telepath Emma Frost! But what Emma finds, chills Steve Rogers to the bone… As Steve and his allies race to save a city under siege by A.I.M., the Outer Circle’s ultimate assassin is revealed: Introducing M.O.D.O.C., the Mental Organism Designed Only for Control!",
+"date":"January 4, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/u9SX8FDi3TdScFsy0pG9sfkUL9X7eARZWYjLZ7ZV3AgHMAef6BOXf0NSfDvpAOds_7xmj6SYcSmV_UEavJXaV_b-ZiXPfZpq7iL7WaHVjFyUQXiMfi8BpKjQhHmiYMtTlVj9oF754A=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_8.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @9",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/c3FouySDmi3IxeaDmfnR7of_qNe_VTkV7a8FBUXuARMODwClKOPVSJi7RhH3vxggZW_GksBQwhj2-1n5oQjFkRfIj7hUO-tYoAKEZo9dEYg1AxE8pr8yPIGwnyh48GVcgqtZEi85Uw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_9.html"
+},
+{
+"name":"Captain America - Sentinel of Liberty (2022) @10",
+"summary":"CAPTURED! Captain America and the new Invaders are caught in the excruciating clutches of M.O.D.O.C., the Mental Organism Designed Only for Control. Can they escape before the Outer Circle completes its takeover of Manhattan—and acquires a weapon that could change the course of history? No matter what, one of them won’t make it out alive…",
+"date":"March 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/veS8z_KXlY_NlKZbJtwgPnfjbH_N160nxB33PoZwz-5FahSmOlbhySQaz8SAPkLnoEDWJApSidbXp2u9IDp4rUcGnEyVeRZb81HFlCpEVxE4MW6RSJvFSMSK2UGxUWiNgC5YTHszMw=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"captainamericasentinelofliberty(2022)/captainamericasentinelofliberty(2022)_10.html"
+}
+
+"name":"Blue Beetle - Graduation Day (2022) @1",
+"summary":"GRADUATION DAY, CHAPTER ONE
+
+Jaime Reyes has a lot to juggle. Whether it's his finals for senior year or a new villain tearing up El Paso, Jaime is always torn between two worlds. But when his worlds come crashing together at his high school graduation, nothing will ever be the same. A message from the Reach bombards Jaime's scarab, Khaji Da, and it starts throwing off his connection to the device. And as if that wasn't enough, Jaime's parents and friends are pressuring him about his next steps in life. But what's hidden here on Earth that's drawing the Reach back? And where did this new Fadeaway Man come from? Can Jaime find balance in his life and rise to become a true hero, or is it curtains for Blue Beetle?",
+"date":"December 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/_SUbIoFeMcpIYamE0QUZ0chFQamcLwmMUf6aW1YyDvWKgNcwC-czgWoZekjTeJNPNOELrK1TQdQ2gJjO0FnBl5byA1xmEO4peCAX8PPEa2W9rci9ubskrPrQJodQFjB0nLUUJQ7Xvg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"bluebeetlegraduationday(2022)/bluebeetlegraduationday(2022)_1.html"
+},
+{
+"name":"Blue Beetle - Graduation Day (2022) @2",
+"summary":"GRADUATION DAY, CHAPTER TWO
+
+Jaime Reyes arrives in beautiful Palmera City for a gap year with his tias working at their restaurant. But Jaime's got another thing on his mind, like who was that mysterious Yellow Beetle, and how are they connected to the Reach message that bombarded his scarab? Can Blue Beetle track down this new scarab, or will this super-heroing bring the full might of the Justice League down on Jaime?",
+"date":"December 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3dRNTW6MkyJWBU03qFOGZeF094kRZNd4f6XpIaMIYcLKkiljFeccek8eXTAoLmzla9SZI7gmWSey3qhlQy-qTFeK1jm1Y8J33XXJuI0_pmPWkt0g45VANF6MqSSCJokTZuExjUGTBg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"bluebeetlegraduationday(2022)/bluebeetlegraduationday(2022)_2.html"
+},
+{
+"name":"Blue Beetle - Graduation Day (2022) @3",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/NP3jX4y0z0DmQMfIFCJ8DYCvy21yp4PEBeypTB2j2-98VC7be2-FScNlG4fjs8BeXDf_d3barD0sUU1SYu7bhdTPDAu-KW6RKnD3DZMhPaE7JYsO6mJF814fGB2o4FOXsiLXHD8pOA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"bluebeetlegraduationday(2022)/bluebeetlegraduationday(2022)_3.html"
+},
+{
+"name":"Blue Beetle - Graduation Day (2022) @4",
+"summary":"GRADUATION DAY, CHAPTER FOUR
+
+Paco and Brenda are visiting Palmera City, but they aren’t alone. Jaime’s new foe, Fadeaway, comes seeking the Blue Beetle’s help! It’s time for a good old-fashioned heist! Their target? Kord Industries!",
+"date":"February 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8pP8k-jrT9qUrUIK2SMXKPLAimI0mD_uqH0cZ4y_i2INbnaE35O2Um8UAz0uFWVi55B9u4FglW1n1c4cNYaee2Dii6yqlSjwPxxMG5Ton6uUeUqut3GMi32aBQS0UdMmZPlGRc27ng=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"bluebeetlegraduationday(2022)/bluebeetlegraduationday(2022)_4.html"
+},
+{
+"name":"Blue Beetle - Graduation Day (2022) @5",
+"summary":"GRADUATION DAY, CHAPTER FIVE
+
+Superman and Batman come looking for Jaime in Palmera City. After weeks of attacks with Blue Beetle directly at the center, the World's Finest can't sit by any longer. They're going to get to the bottom of Jaime's connection to the impending Reach invasion, even if it means putting an end to his life as a hero!",
+"date":"March 28, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/5lIeXEjZdjOX-kRVNmS_pTIJJR9iHibCSH8IfkXOoQzZqRxOf6W313SpqCFjsNsny36wPQcIj9H73WM6c5nshgcUIRiIxF8Zv_EK0uSPd5kj4CQATFmT2BwEqQ1TwRhfhh4jRXVgOw=s1600?rhlupa=MzUuMjIzLjUzLjE3NQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"bluebeetlegraduationday(2022)/bluebeetlegraduationday(2022)_5.html"
+}
+"name":"Blood Syndicate - Season One (2022) 2",
+"summary":"The leader of one of Paris Island’s most powerful gangs needs to add some soldiers to his army...and has his sights set on Wise Son! The heroes might’ve “cleaned up” the streets, but in the shadows there’s utter chaos as rival gangs battle for control. Wise could have a seat at the table, but he’s been out of the game for so long…does he want back in? He came back from Afghanistan a changed man...",
+"date":"June 14, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/rrxPhrmO6xxnBqFc-PJXc71rCDWY64aI6RFozMdRpmxf8DZcWpx6Wl8mAYVHLxVUCUQICEtnsLU5mjhXCfo4SCRjVAmUFBoM_AjmVKBAQMQ1vxNRhmg9_1UYVVdRYtLDPhDZuRm0fw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"bloodsyndicateseasonone(2022)/bloodsyndicateseasonone(2022)_2.html"
+},
+{
+"name":"Blood Syndicate - Season One (2022) 3",
+"summary":"With Wise Son framed for the attack on the Blue Street Syndicate HQ, the Paris Island police are looking for answers…but Wise doesn’t break easily. He’s got secrets to keep—including the story of just what went down in Sadaqah and how he, Tech-9, and Iron Butterfly got their powers!",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Z18xdCgMr7TUMlp0iEa4P0PXPLWNIQSTmnnKz6v89JLeNY1YHh87t4rN-n5CTVRJ6MhqfgPq8dsdx6HCfpPnsA9i5gOt3hEeLsGTF0CipiLXKlwVi9T8_b2xAH1IykM26nOKEzwppw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"bloodsyndicateseasonone(2022)/bloodsyndicateseasonone(2022)_3.html"
+},
+{
+"name":"Blood Syndicate - Season One (2022) 4",
+"summary":"As Holocaust rampages through Dakota, Wise, Tech, and Fade are just trying to survive—but so are Aquamaria, Third Rail, and Brickhouse! When these two groups cross paths, they can tell the balance of power in the city is shifting…if they can avoid killing each other long enough to take that power!",
+"date":"August 9, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/z_EXlJ6mENecV_KuSbLUI26BMikfFdn3NRqalR3Z7mlKfbkvd-AJxxbiowZ4QRI08ga9-hDZElMbrvT0_Lf0MMryo24vavtGAmDk25mmsBkcmpmPNy9yDumPoemACcPLgkVtoa3ZQw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"bloodsyndicateseasonone(2022)/bloodsyndicateseasonone(2022)_4.html"
+},
+{
+"name":"Blood Syndicate - Season One (2022) 5",
+"summary":"Holocaust turns up the heat on Paris Island! How did he come to take control of the city, and what is he going to do next? Learn his origin and his grand plans for the future—and can he be stopped?",
+"date":"September 27, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Ztp0GgVhHx4vvsahUolqwBpij8Mi3seR_jvVJhbbGdmixYgbn3AtLpqxA0pWEtNE49o1egCUnZhCGyHbg4Le-2TObENnArPmF8uIX8POyAJDSH8TJ22aPTP2e-tjFW80zL_VXBblkQ=s1600?rhlupa=MjQwNTo0ODAyOjYwYjU6OTk1MDpmNDI4OjExYzU6YmJlYjoyMWRi&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"bloodsyndicateseasonone(2022)/bloodsyndicateseasonone(2022)_5.html"
+},
+{
+"name":"Blood Syndicate - Season One (2022) 6",
+"summary":"Wise Son and Tech-9 thought they'd left the war back in Sadaqah, but Holocaust has turned Paris Island into a war zone! Icon, Rocket, and Static aren't coming to save the day; can our unlikely heroes save their neighborhood?",
+"date":"November 8, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/hWhT3eS_KhLUJwKowtR9dl-YvJqSrSPCxtQXsfB0MLUT45CCMJMqE2BRQVFqxdGqHfr2Kc9YuARasikA2NhtR2QrpSa8xZz4n88dBy7JpUSOhLoC6XJdUYVTKVaulcQalC8CERrjrQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"bloodsyndicateseasonone(2022)/6.html"
+}
+{
+"name":"Black Adam (2022) @1",
+"summary":"There is no forgiveness for Black Adam. This is the reality Teth-Adam, immortal man of indomitable will, must face when he discovers he has been infected with an incurable plague destroying his immortality. Haunted by the specter of centuries of dark deeds, Black Adam transfers his powers to a worthy successor who will redeem Adam’s legacy and defend their ancestral homeland of Kahndaq, only to subsequently become mystically “handcuffed” to him when Adam’s plague is arrested, giving birth to perhaps the most volatile and dysfunctional super-team in DC history! Powered by stunning art by Rafa Sandoval (Justice League) and breathtaking painted covers by Irvin Rodriguez (Detective Comics), writer Christopher Priest (Deathstroke, Justice League) brings his trademark wit and skill for character deconstruction to an entirely fresh examination of the man you love to hate! Get ready to ride the lightning!",
+"date":"June 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/Y93A5R5vld0x5ExCWOBFDN5F83fMQFF3TfqNFJyWz4sr-5PB9G25RTo6njgCU-qSn6q8c7ZKfLLu2SK_CssnJpSSGucHzeecGtQ5P4n7fPevz0gvlUamYb6Qou8T4uzoD_JPy3pQgQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_1.html"
+},
+{
+"name":"Black Adam (2022) @2",
+"summary":"THEOGONY, BOOK TWO
+
+“I am not a hero, I’m a god.” Who is Black Adam? His power and his very life draining from him, Theo Teth-Adam is confronted by a specter from his past haunting him with the treachery he employed to gain his powers and forcing him to confront an inescapable truth: there is no redemption for Black Adam.",
+"date":"July 19, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/VN3Fpnzvqy2W_TFlOZD85msYqpVE0U5KtJLVgF2HIAHdUEaJfba5xr7RnS37L5It5bbX2qx1ngIPxLp-8Fo6iuGOvynoQ2nZ_JNpPRB8TwaCaI_NwlgXJViXUbe-3p-aOnHUYbPepg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_2.html"
+},
+{
+"name":"Black Adam (2022) @3",
+"summary":"THEOGONY, BOOK THREE: WHOME THE GODS WOULD DESTROY
+
+Black Adam is dead, and the Mesopotamian gods of Akkad are having a field day. Are the gods real or are they merely figments of human imagination? Accepting death but denied redemption, Black Adam becomes an ersatz Gilgamesh as he journeys through Akkadian Hell while Malik, his young descendant, goes to extreme and unethical measures to try and revive him, all the while wondering if he should save the life of one of the greatest evils the world has ever known.",
+"date":"August 16, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/17kX5HAbUxAJ0mrAg7QKFlnIWTPWWTrEbgKehd24MHfCHx1Y7Kj0egASMVqowpYiSowuT9N0Dp6hRL6IGlpf65RF83n-W8yegXg6IbwLDy-2KWgQG3NhORh52AGYWVJRqNRKdQQPpw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_3.html"
+},
+{
+"name":"Black Adam (2022) @4",
+"summary":"THEOGONY, BOOK FOUR: POWER
+
+THERE IS NO REDEMPTION FOR BLACK ADAM. Thousands of years ago, did Black Adam inadvertently create a powerful race who’ve modeled themselves after the Akkadian pantheon of goddesses and gods? Or is he being gaslighted, taunted by illusions, by one of his many enemies? Theo Teth-Adam finds only more questions when he is lured to the Akkadian Hightower and given a cryptic message. Meanwhile, Adam has dispatched Etrigan the Demon, an unlikely ally, to either train his youthful successor or kill him.",
+"date":"September 20, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/dLyHE_dmceiTK7Nvckge3Hl4lGFX4IkoTRICum9Xt8ZWrtZX4fEBTEQQOZ5_hI3apJFrNy9B2WNv4AdeG6U2LNg8Goe_iQk4mUt4hkpZqJr6o5eiMKm8vB9_QEhKSIYVqxYMjwZR=s1600?rhlupa=MjQwNTo0ODAyOjYwOTQ6MjI2MDplZDg3OmI3Y2E6ZjI0MzoxYzM3&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNg",
+"page":"blackadam(2022)/blackadam(2022)_4.html"
+},
+{
+"name":"Black Adam (2022) @5",
+"summary":"THEOGONY, CONCLUSION: 2325
+
+THERE IS NO REDEMPTION FOR BLACK ADAM. Theo Teth-Adam faces off against a furious Bruce Wayne as Black Adam confronts threats ranging from a rising democratic movement in Kahndaq to the Akkad, a new pantheon of gods from outer space who create a new herald to represent them on Earth in Sargon the Sorcerer, and Adam becomes inextricably linked to a young protege who has contracted the same plague that nearly killed Adam.",
+"date":"October 18, 2022",
+"tag":"Black Adam, Batman, Nergal, Sargon the Sorcerer, White Adam,",
+"img":"https://2.bp.blogspot.com/U85yF6PxypXWqzDhizPEDV3IAFFSQNuLnZ_KhqLIGsol5kaFgIueZD13HTEAsAhHOHqw8kWnT3TSLEQz7pnkScV97Rb3B7q7PWaXNxnRN1socHNiRF9cg74eKU8wgzx2GG5fsTIRVw=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_5.html"
+},
+{
+"name":"Black Adam (2022) @6",
+"summary":"AKHET 
+
+BATMAN HAS HAD ENOUGH OF BLACK ADAM. Angered over Bruce Wayne’s financing of a democracy movement in his country, Theo Adam confronts Wayne with his demands, which escalates into an epic, book-length clash between the Dark Knight Detective and the Thunder of Aton.",
+"date":"November 15, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/X43ZTMDsEgOGm2bzceT3DDWSgs5WW1TACg6TekS8OmmHoiLXf4W_l7RLDvvhpvu6tIeUgwd2WaIC0ETKrYpDaCcrG0Q2YBshVFLaWFeBRsRzQ2oGRz5dnPB1oaEx350MLONY83DymA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_6.html"
+},
+{
+"name":"Black Adam (2022) @7",
+"summary":"",
+"date":"February 1, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/903KBV9HuWbiWA6hnO2J5-c-9bLWFomWTLweYvG5YuOeEVfQp5qjC3mziZmvsuhX4BU05pkEDSg_kJECu1CvSepr5ejAIJx-LBggKLCqzgQ1pNVGt1JlFhkwTWGmyj2rh-yROFydAg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_7.html"
+},
+{
+"name":"Black Adam (2022) @8",
+"summary":"EAST OF EGYPT, BOOK ONE: RISE
+
+RISE! A new chapter begins in the 24th century B.C. with Teth-Adam—Egypt's original, cheerful, and noble champion of Shazam—facing his greatest challenge in the person of his former enslaver, now sorcerously enhanced to become Ibac the Invincible! Mighty Adam's heroic defense of Egypt is compromised by the dark secret he harbors. Meanwhile, in the present day, Black Adam saves a crippled jetliner from crashing into the Middle East's most controversial city, sparking unrest at home in Kahndaq!",
+"date":"February 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/D9MzCXZKo6D9A-4SVOJHm0wAo0tr1CA_wg_USORsPD4DpyyUxtON1oQgODSMfehVuzOAkX5-3thdrrY8W4H0BSWC6HRXJ2iI4oApmhft0WXfetpOeEpFTo9lyZEcaM5qhjyi99iJrg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_8.html"
+},
+{
+"name":"Black Adam (2022) @9",
+"summary":"FALL OF THE HOUSE OF ADAM: EAST OF EGYPT BOOK 2
+
+In the 24th century B.C., having proclaimed himself pharaoh, the mighty Adam finds himself surrounded by enemies while discovering that holding the throne is a lot harder than seizing it. Meanwhile, in the present, those same enemies from the Old Kingdom now threaten modern-day Kahndaq as, amid civil unrest, a resurrected Ibac the Invincible conspires with Adam’s political rival.",
+"date":"March 21, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/4xAmXR5v1RECXRp-4EA3RDlXRSu_aH9fUN4uFm6Q4lB8gXDu1jeSuv8cLe2CEQ39PeNRSn-gkoOTpwnltrCuiwVowJPPFUUtNOL_y-krROJmKZN1BZEyO20m2fhmedLbhxjuahcRCA=s1600?rhlupa=MzQuMTM0LjIwMS41OQ&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"blackadam(2022)/blackadam(2022)_9.html"
+}
+
+{
+"name":"Bishop - War College (2023) @1",
+"summary":"POP QUIZ
+
+THE X-MEN LIKE YOU’VE NEVER SEEN THEM BEFORE! Krakoa is an island paradise, and it’s a vulnerable one…but not with Lucas Bishop on the case! Armor, Surge, Cam Long, Aura Charles, Amass—these are his students. Their course objective: Get strong. Defend the island. Keep Mutantkind safe. Their first lesson: HOW TO FAIL. And they’ll do it in spectacular Marvel fashion. What does any of that have to do with an all-Black X-Men team? WHAT EVEN IS THIS BOOK? Guess you’ll have to read it, True Believer. Celebrated TV writer J. Holtham (Cloak and Dagger, Jessica Jones) joins forces with artist Sean Damien Hill for a blockbuster brawl with the fate of all Krakoa at stake!",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/zEfxuBaH9PnubMGj-4PmiohXKpTQj-Qm7BfoPSRptZINecZYvsjF-xrQ_NdkYc1MBjeiKOcGLChMuiAOZZ7c8qHZ1bg2UnkHlI7O22q6iCyqSmN3j0HsRr70sfBS4jLyfWpoLOPI0w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"bishopwarcollege(2023)/bishopwarcollege(2023)_1.json"
+},
+{
+"name":"Bishop - War College (2023) @2",
+"summary":"MOST LIKELY TO SUCCEED
+
+BISHOP FACES OFF AGAINST…THE X-MEN? What’s a Bishop story without time travel? Shunted to a strange future, Lucas discovers familiar faces who will permanently alter his worldview. Meanwhile his students are in danger, and not just of failing his course. Helped by shocking allies, the anti-mutant organization Orchis has finally found a way onto Krakoa. Is this the end of the island?",
+"date":"March 15, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/I-eBrF2Z7qdFuRFELWvGSwrrVFNO4kZZmKGrTAE0RMb3CLW7eRvAfyyV9zdeEXUlmIRIKWO0JiUIA9jnsQOMOhiYk7xhWw-7EbSjrvgkBdY1vQZuGPkrm-3Fv3x_96iMTyQHDJ0VWw=s1600?rhlupa=MzQuMTIxLjEyNy4yNDk=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMTEuMC41NTYzLjY0IFNhZmFyaS81MzcuMzY=",
+"page":"bishopwarcollege(2023)/bishopwarcollege(2023)_2.html"
+}[
+{
+"name":"Black Panther (2021) @6",
+"summary":"Betrayal! The reveal of T’Challa’s darkest secret has the Hatut Zeraze hunting him as a traitor, with orders to kill him on sight. He needs to escape them to clear his name, but are his skills really on par for the challenge? And are Wakanda’s secret police the only force T’Challa has to reckon with for his lies?",
+"date":"June 1, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/RfIusUNv68RsO1uPV2ble8N_Y6z0zQGxJeZsTgHQhXq7jITseZVouTOCADpty5OF3WisxxRuToNI2r3MOn7z5HcKfMzqLM24iwlOoXqIzbPjEbxmO4uy4qE7Ju0PYW4q3_3cnkFrdw=s1600?rhlupa=MTg1LjE4NS4xMC4xNDY=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuNTAwNS42MSBTYWZhcmkvNTM3LjM2",
+"page":"blackpanther(2021)/blackpanther(2021)_6.html"
+},
+{
+"name":"Black Panther (2021) @7",
+"summary":"The Hatut Zeraze have taken control of Wakanda, and with the Black Panther branded a traitor, the future of the nation is at a crossroads. To clear his name and protect his people from his own mistakes, T'Challa must reckon with his legacy - starting with the acknowledgement that leadership is only as strong as the faith of its following.",
+"date":"July 6, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/0y-rW2io8EX8WXUlPQzXcIR-pnwqQOL8ydSBqMDOf6LxhVFKcoBFkwOEveiO_kdLUbZNP8Sy83Rw5HQKviWQXaJVMSrmlcsHQxdYakHwCaDJbXcf03NFdLXuoRba7DmIuDzWGCpjaw=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_7.html"
+},
+{
+"name":"Black Panther (2021) @8",
+"summary":"THE LONG SHADOW, FINALE
+
+'LONG SHADOW' CONCLUDES! The battle for Wakanda comes to a head! T'Challa has owned the path his secrets paved for the Hatut Zeraze's takeover, and ceded command of the resistance to his allies. But doing the right thing doesn't always lead to the outcomes—or answers—one would prefer. T'Challa's undue mistrust must face consequences—choices that will alter the fate of Wakanda and its leadership…forever. ",
+"date":"August 10, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/8UlkUFEUm22LRKFSta97B1awcD6qpBW5zP6zq2tbnu-6kyFTRoqAbwE_gOrdtPM00D3SHhwwbI47PZAgacQCAD-dhfWqyY06PF-8Iz1q_VaQynJVimZrmd2X3qefKeybGZOspAfXwg=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_8.html"
+},
+{
+"name":"Black Panther (2021) @9",
+"summary":"RANGE WARS, BOOK ONE
+
+“RANGE WARS” PART ONE! Black Panther has returned to the Avengers, but after the recent events in Wakanda, Captain America isn’t convinced T’Challa’s head is in the game. When a dangerous new galactic interloper called the Colonialist arrives to take over the Earth, T’Challa will be tested like never before!",
+"date":"September 7, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/qyg1icCiKC9mziQol8MkoDwKKCckmiSWPuJWiITkLHGJZnfFMYXKN33XWToASStdjunsT4z810RuG6xyz8SVBx7qd2rDdcGR6zLdWrqBPGZjzezBd1jKm8tNG-93mg6xJlov1LYpcQ=s1600?rhlupa=MTkyLjI0MS4xMzIuMTc4&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDAuMC40ODk2LjYwIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_9.html"
+},
+{
+"name":"Black Panther (2021) @10",
+"summary":"RANGE WARS, BOOK TWO
+
+The devastating finale of 'RANGE WARS'! While the Colonialist keeps the Avengers busy fighting his army, he sends his most dangerous lieutenant, the Buffalo Soldier, to deal with T'Challa. With advanced weaponry that can damage vibranium, T'Challa must think fast if he hopes to survive this fight and keep Earth from becoming the latest acquisition of the Colonialist!",
+"date":"October 12, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/U4vhI79WB2uH9r6nAd7kSJJ055Ncq6VZoIY8N30JsgQLJLtZzGbuEclOkKHtoHupFkEi4s3UButl6M08WANXhVrJaRD7slGk2PZv94Mhx71jkgzMfMQF7RIriHHN7cdBB-42TioMbg=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_10.html"
+},
+{
+"name":"Black Panther (2021) @11",
+"summary":"ALL THIS AND THE WORLD, TOO: BOOK ONE
+
+THE BEGINNING OF A NEW ARC — 'ALL THIS AND THE WORLD TOO'! When global communications are shut down by an unknown militant force, the Avengers are called to stop them. But armed with powerful vibranium weapons and eerie knowledge on how to take down the Avengers one by one, this new squadron has T'Challa especially worried. And the reveal of who is leading them threatens to shatter everything T'Challa has come to understand and trust!",
+"date":"November 2, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/AIJjB7bWl1Sl_O-i_HTMS1NlUJGdmKFjo7VYRwUNVAdIQ2vmx1ck0kGrZ4F_5gG5UrTRvx18CKEeKTOoR1HDi9-eDH_WkGuBi9rgnACgl0MfpPPCA-oE0AhU_rWotnn2eSoric_LrA=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_11.html"
+},
+{
+"name":"Black Panther (2021) @12",
+"summary":"ALL THIS AND THE WORLD, TOO: BOOK TWO
+
+Just as T’Challa thinks his past secrets lay buried with the dead, the true identity of his latest enemy has left him shaken! Even as he escapes capture and returns to the Avengers, Captain America isn’t too pleased with Black Panther’s role in creating these new terrorists for peace. The message is clear: If T’Challa isn’t ready to be a team player, he doesn’t belong on a team. With no kingdom, no Avengers and no allies, who is left to aid T’Challa against this monster of his own making?",
+"date":"December 21, 2022",
+"tag":"",
+"img":"https://2.bp.blogspot.com/u1f_4SO1wFmU-gAvpDllfyB4W7PqXmqlRPcA2mfsenaXRXPtvwawfO4Fm2S797mWdLYhvucF5B9jO-93c28ojauBXk8xTfGxOCZW98Extdly-xmJK4RMcUBoVw_3fOPSEgm3ifo7IQ=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_12.html"
+},
+{
+"name":"Black Panther (2021) @13",
+"summary":"ALL THIS AND THE WORLD, TOO: BOOK THREE
+
+Removed from the Avengers, exiled from Wakanda, and on his own against a threat with deep ties to his past, T’Challa is at the end of the line. In order to stop this new group of terrorists, Black Panther and his ragtag group of allies get caught up in a heated battle against the Avengers themselves, who are determined to make T’Challa understand that he’s been benched. But the battle’s not lost yet—not when an unexpected ally arrives at the fray to stand at T’Challa’s side!",
+"date":"January 11, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/-wpn_jWuT3w73WEvS098PaXr74prXlhb9xQNtCQ422LS50VA7RFlzhy0fICykEcKOBHQr_pQv5jJfbnXuO8knrb3pKrNzixEv5RnwzIoeyaq3OPxvumvy1Y7JyIwvWnej7xsAnGA8w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_13.html"
+},
+{
+"name":"Black Panther (2021) @14",
+"summary":"ALL THIS AND THE WORLD, TOO: BOOK FOUR
+
+ENTER NAMOR! Battered and beaten after his grueling battle with Captain America, T’Challa has everything to prove and nothing left to lose. So when Namor arrives on the scene, Black Panther is determined to make him pay for the pain he’s inflicted on Wakanda in the past. But the terrorists of his making still loom large, and Namor never goes anywhere without a plan—and an angle…",
+"date":"February 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/953qUBqZLX_gBEyaCWgHSXJ-u_3vQvER8NYI9dMqdYki4DUdAPL6SVTdQwJpg8hxGYOScG0jCFYFAvpNrh2dOehOxhDLO7NJGttaEH7ypi93KdUcd7wXZ2lSxOgqXi4a0DfrYVNO7w=s1600?rhlupa=MjYwNDphODgwOjQ6MWQwOjo1YTQ6NDAwMA&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_14.html"
+},
+{
+"name":"Black Panther (2021) @15",
+"summary":"ALL THIS AND THE WORLD, TOO: FINALE
+
+THE EPIC FINALE OF JOHN RIDLEY’S GAME-CHANGING RUN! Finally, all things must come to a head! Jhai, T’Challa’s best friend and the sleeper agent whose assassination served as the catalyst for all of T’Challa’s recent troubles…is alive. Not only is he alive, but he seeks to seize control of the entire world, all in the name of Wakanda! Still injured, Black Panther rushes forward to take down the man who was once his closest comrade. But T’Challa knows he must still pay his pound of flesh for his role in bringing so much strife to fruition…
+
+FINAL ISSUE",
+"date":"March 8, 2023",
+"tag":"",
+"img":"https://2.bp.blogspot.com/3ZrANDq2oP6vNq_WJxHaQCSrWE2sjrU8DFGlBgeqTV7yUUEEld2VgTRcTYBdAOgC8-uumcbVHrGLd2pzoXBpseIQwpkSGyuDZNDpLCoEW9PsKJqhmkBVkWOG3RhTf1M-8zsucIrqTg=s1600?rhlupa=MTY0LjkyLjExNi4zNw&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBIZWFkbGVzc0Nocm9tZS8xMDYuMC41MjQ5LjkxIFNhZmFyaS81MzcuMzY=",
+"page":"blackpanther(2021)/blackpanther(2021)_15.html"
+}
 {
 "name":"Galaxy - The Prettiest Star (2022) Part 1",
 "summary":"Every day in Taylor Barzelay's life might seem perfect…but every day is torture. Taylor is actually the Galaxy Crowned, an alien princess from the planet Cyandii, and one of the few survivors of an intergalactic war. For six long, painful years, Taylor has accepted her duty to remain in hiding as a boy on Earth. But that all changes when Taylor meets Metropolis girl Katherine 'call me Kat' Silverberg, whose confidence is electrifying. Suddenly, Taylor no longer wants to hide, even if exposing her true identity could attract her greatest enemies.",
