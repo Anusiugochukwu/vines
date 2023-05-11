@@ -1,0 +1,51 @@
+{
+  'version':'1.0',
+'url':'',
+'info':'- Improvement on Home Page UI/UX
+- Brand New layout & Appearance of Comics
+- Users can access to comics and download easily 
+- Join The Telegram Channel to Get More Updates.',
+'app':'Version 1.0',
+
+'display':'yes',
+'key':'FFLlN',
+
+'pick':'[
+{"name":"",
+"tag":"",
+"image":"",
+"fetch":"page1",
+"date":"",
+"status":"",
+"category":"",
+"udate":"",
+"page":"",
+"body":"",
+"text":"",
+"summary":"",
+"banner":"",
+"logo":"",
+"img":"",
+"info":"",
+"poster":""
+},
+{"name":"",
+"tag":"",
+"image":"",
+"fetch":"page1",
+"date":"",
+"status":"",
+"category":"",
+"udate":"",
+"page":"",
+"body":"",
+"text":"",
+"summary":"",
+"banner":"",
+"logo":"",
+"info":"",
+ "img":"",
+"poster":""
+}
+]'
+}
