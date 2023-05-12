@@ -7,7 +7,7 @@
 	"rank":"2",
 	"status":"",
 	"summary":"Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. The adventure begins now!",
-	"page":""
+	"page":"naruto/naruto.json"
 	},
   {
     "name":"SPY x FAMILY",
@@ -17,7 +17,7 @@
     "rank":"3",
     "status":"",
     "summary":"The master spy codenamed <Twilight> has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!",
-    "page":""
+    "page":"spyxfamily/spyxfamily.json"
     },
   {
     "name":"Jujutsu Kaisen",
@@ -27,7 +27,7 @@
     "rank":"4",
     "status":"",
     "summary":"For some strange reason, Yuji Itadori, despite his insane athleticism would rather just hang out with the Occult Club. However, her soon finds out that the occult is as real as it gets when his fellow club members are attacked! Meanwhile, the mysterious Megumi Fushiguro is tracking down a special-grade cursed object, and his search leads him to Itadori...",
-    "page":""
+    "page":"jujutsukaisen/jujutsukaisen.json"
     },
   {
     "name":"Boruto - Naruto Next Generations",
@@ -37,7 +37,7 @@
     "rank":"5",
     "status":"",
     "summary":"Years have passed since Naruto and Sasuke teamed up to defeat Kaguya, the progenitor of chakra and the greatest threat the ninja world has ever faced. Times are now peaceful and the new generation of shinobi has not experienced the same hardships as its parents. Perhaps that is why Boruto would rather play video games than train. However, one passion does burn deep in this ninja boy’s heart, and that is the desire to defeat his father!",
-    "page":""
+    "page":"borutonarutonextgenerations/borutonarutonextgenerations.json"
     },
   {
     "name":"One Piece",
@@ -47,7 +47,7 @@
     "rank":"6",
     "status":"",
     "summary":"As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer 'Red-Haired' Shanks. But Luffy's life changed when he accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary 'One Piece,' said to be the greatest treasure in the world...",
-    "page":""
+    "page":"onepiece/onepiece.json"
     },
   {
     "name":"Yumeochi - Dreaming of Falling For You",
@@ -57,7 +57,7 @@
     "rank":"7",
     "status":"",
     "summary":"Even in university, Chono is stuck in the past regrets of his high school years. His dull days come to an abrupt end when he comes across a mysterious book... A book that allows him to return and re-do his high school life in his dreams. Follow Chono and the girls of his dreams as they reshape their wasted youths!",
-    "page":""
+    "page":"yumeochidreamingoffallingforyou/yumeochidreamingoffallingforyou.json"
     },
   {
     "name":"Dragon Ball Super",
@@ -67,7 +67,7 @@
     "rank":"",
     "status":"",
     "summary":"Having defeated Boo, Goku is starting to get bored with his life on Earth. His wife, Chi-chi, wants him to get a job, but all he wants to do is train and fight stronger enemies. Elsewhere in the universe, the God of Destruction, Beerus, and his attendant Whis are traveling from planet to planet in search of food and entertainment. After blowing up some hapless victims, Beerus is reminded of a man from his dreams with the moniker “Super Saiyan God,” or something like that... The God of Destruction sets his sights on Earth to track down this mysterious man! Maybe this will give Goku something to do?",
-    "page":""
+    "page":"dragonballsuper/dragonballsuper.json"
     },
   {
 	"name":"Chainsaw Man",
@@ -77,6 +77,6 @@
 	"rank":"1",
 	"status":"",
 	"summary":"Denji harbors a chainsaw devil within him. The world is introduced to Chainsaw Man, but...?!",
-	"page":""
+	"page":"chainsawman/chainsawman.json"
 	}
   ]
