@@ -1,0 +1,23 @@
+[
+  {
+    "name":"Jujutsu Kaisen",
+    "title":"RYOMEN SUKUNA",
+	"chapter":"1",
+    "page":"jujutsukaisen/jujutsukaisen_1.json"
+    "date":"20230514"
+    },
+  {
+    "name":"One Piece",
+	"title":"Romance Dawn",
+	"chapter":"1",
+	"page":"onepiece/onepiece_1.json"
+	"date":"20230519"
+    },
+  {
+	"name":"Chainsaw Man",
+	"title":"Dog & Chainsaw",
+	"chapter":"1",
+	"page":"chainsawman/chainsawman_1.json"
+	"date":"20230514"
+	}
+]	
