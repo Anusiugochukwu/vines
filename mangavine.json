@@ -1,5 +1,5 @@
 {
-'version':'1.0',
+'version':'1',
 'url':'',
 'info':'- Improvement on Home Page UI/UX
 - Brand New layout & Appearance of Comics
@@ -13,7 +13,7 @@
 'summary':'As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer ’Red-Haired’ Shanks. But Luffy’s life changed when he accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary ’One Piece,’ said to be the greatest treasure in the world...',
 'banner':'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDSufkTZ2E8qarN4uXsS_12JrmEp64anSyvGdggVrpkxiQQQa82_4-UrqaiByaHQJlZg6pAnyR6e3uKWyx-WAE3T94fYHMx9xkMhk0QX-7nYMeUWy7-_WcAX3UJaCZ4QmXonvyLuwyGS9JDggZ8d8dX2M5z3xF0pvN_T5xUPWv0XSKh3sFmNmyl7FFIw/s1600/One_Piece%28b%29.jpg',
 
-'display':'yes',
+'display':'no',
 'key':'FFLlN',
 
 'pick':'[
