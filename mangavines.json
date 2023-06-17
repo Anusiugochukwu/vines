@@ -59,6 +59,11 @@
 'banner':'[
 
 {
+"name":"My Girlfriend Give Me Goosebumps",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcp01ja2xK4CfWSOn4TEKFOQM93OJNTLJ-nPsL3ciIEvP2c4_yWC0apzUFNjOC3BmSzPiy5XAnp-bdHGBTKsFMtsj-mRXHcZsYjPWnWhV9-xz3pxSKjhiE17JEswKU1U1kyOJ-_1Xq8BhaRe5CHIEywebrg3O8xNTvim_bWJ_lptFr3wLPqN9LS6Gs0w/s0/mygirlfriendgivesmegoosebumps_banner.jpg"
+},
+
+{
 "name":"Dandadan",
 "banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicfUTpael9PV9S8Vexc67npcG-YkIYJkDt19zdy1U4MY8g7V6ZgGEfeWyqozDmdd-92fAE705IOEIpfUwAcDV6zIG8yy-5_5k0yW32mq3e9hG8s7uc6pEV5Xpz8D9ktRQcKaMfvaP7pF_aa1xUN2fVmTYVLFoY07EV4s7X68S8FjxTbRVXDgNw-hb6Bw/s0/Dandadan_page.jpg"
 },
@@ -85,4 +90,5 @@
 
 ]'
 }
+
 
