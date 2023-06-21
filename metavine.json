@@ -29,6 +29,24 @@
 "fetch":"timeline"
 },
 {
+"name":"Black Panther (2021)",
+"tag":"Black Panther (2021)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsA7E249AysNAvjREA49f1Gmrh6jrT633h51w9qAJk60hvMXDSbIQ4B2ddPiqQIUGuhGHPsWMuj_dlfKjK2X5txkgIWzuV6a9dyko8MCLMb7EDad_TP7fsSG6LXr9VvS2P6gPvAPGeQZ6Na3eB7DA_6nXGeuleKn05NrdNCOhpaQsLwpkZiuCTA_2f3I/s1600/blackpanther_poster.jpg",
+"fetch":"pick"
+},
+{
+"name":"She-Hulk (2021)",
+"tag":"She-Hulk (2021)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpqtXSk_zPelRCDjbM34hOkTYr8ScmbxybMrFjJj5rE2RoMGBJe1tcVMkX4oyDXfr_Sv9Z1KbjaijhojXHqlzPMFqwwQCIu3PQKere5eW8E8zR3kR6jWFgjqpX5doPOYkqDFoEqNzTTCBzYqkFeec5TomQwm1qBBcMW5DoiDUfK7_Rsqr1mm0ruuAlm9I/s1600/shehulk_poster.jpg",
+"fetch":"pick"
+},
+{
+"name":"Spider-Man (2022)",
+"tag":"Spider-Man (2022)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbc_kR3pSlmhTWy29GT-PxUpah1hCN6qwAuCPX1emJwqkbuSP1Z4izPbqu2fSC2w4lnIHw2RhdXnKjC5OcdqRdq44lw40qGj3sxeyjJfAMBlWMdGJKGd-8gFjgxbaCEcIf7dOXrYqValApn4o69Tdhchdp2FEi_aUwcDR6hqaVaLdysQMhaIyJovdZgmc/s1600/spiderman_poster.jpg",
+"fetch":"pick"
+},
+{
 "name":"Dark Crisis",
 "tag":"Dark Crisis",
 "poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivBIJrCClZKk7Rfh49PBOEFQkayQtPiLLex88kqN7nmpVdVgmOr9kRQGrSMFTRQZpRvajH_ZZzeEeBf6oz3wi5E2ajhmuTqGmbqDlRgeCQLY7eZZUxXLlrpNSCrgG6g0Q5CbLpl6ywwwYnoM1Udb6qeD_bT4yY3Op0mYkaEALloLLPOUPB8sQFAL80YYM/s0/darkcrisis.jpg",
@@ -36,3 +54,10 @@
 }
 ]'
 }
+
+
+
+
+
+
+
