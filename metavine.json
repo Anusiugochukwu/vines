@@ -23,20 +23,14 @@
 "fetch":"event"
 },
 {
-"name":"Batman - One Bad Day",
-"tag":"Batman - One Bad Day",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGw3kuIWMxS86ire2EfLz1ZpP8V4_ps7uqEqX010BGQYGVXAmxENZ4FeTGsaWqwzlyKE_O8wWTE0fYN_wR67rwU7GtTTpilCqhqIlMwGeL8ImC4oJma4lVm9JhjYemVhYb6Yn7_-jomd0CZwgaySDobj_Mgj765PpVZYCNV01-lTZCtpSkzzD07JPtEc/s0/batmanonebadday.jpg",
-"fetch":"timeline"
-},
-{
 "name":"Black Panther (2021)",
 "tag":"Black Panther (2021)",
 "poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsA7E249AysNAvjREA49f1Gmrh6jrT633h51w9qAJk60hvMXDSbIQ4B2ddPiqQIUGuhGHPsWMuj_dlfKjK2X5txkgIWzuV6a9dyko8MCLMb7EDad_TP7fsSG6LXr9VvS2P6gPvAPGeQZ6Na3eB7DA_6nXGeuleKn05NrdNCOhpaQsLwpkZiuCTA_2f3I/s1600/blackpanther_poster.jpg",
 "fetch":"pick"
 },
 {
-"name":"She-Hulk (2021)",
-"tag":"She-Hulk (2021)",
+"name":"She-Hulk (2022)",
+"tag":"She-Hulk (2022)",
 "poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpqtXSk_zPelRCDjbM34hOkTYr8ScmbxybMrFjJj5rE2RoMGBJe1tcVMkX4oyDXfr_Sv9Z1KbjaijhojXHqlzPMFqwwQCIu3PQKere5eW8E8zR3kR6jWFgjqpX5doPOYkqDFoEqNzTTCBzYqkFeec5TomQwm1qBBcMW5DoiDUfK7_Rsqr1mm0ruuAlm9I/s1600/shehulk_poster.jpg",
 "fetch":"pick"
 },
