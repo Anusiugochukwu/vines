@@ -12,9 +12,15 @@
 
 'pick':'[
 {
-"name":"Scarlet Witch (2023)",
-"tag":"Scarlet Witch (2023)",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfU1NSVACmA3vaTm5H1mN0LA1-Tl88rc3ESz85JpoCyVY1Lf7UuLxj89_DSp4qTBq1WjKEAlGNo6l7MqJbCLi7kNIlSHkE2bMesLxI1rwCkrSpwemkxItZUqygr3rdyjSPPus901l2QFTd8tlNSFa06rygNqihte0CvTLqioX2T8RJIdRQHILb456ccbw/s0/scarletwitch.jpg",
+"name":"The Invincible Iron Man (2022)",
+"tag":"The Invincible Iron Man (2022)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8XxrvvTsg7ymWh1mcnHl0sobR0VsPfPfU9bNlzpkTP7ELnCGaUX6s5CgV4oTjyjGowjEPpI8PHYc4YJKL8LUFplDM3o-I0fBvshJ6NxD8R6kiXujTvLkvGThvl1Y13RIVCx9pEzYEDTakKRtva6rZfq1Edsl1bH2fGdsWcXiPprmOzZeKWm84kji3ZUc/s320/theinvincibleironman_poster.jpg",
+"fetch":"pick"
+},
+{
+"name":"Planet of the Apes (2023)",
+"tag":"Planet of the Apes (2023)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpYqytD-X0yxro9y49YGhmrG6BmYidiT9PKzqFStgyIt2Y4rYJ0tjt-bDu0saOCiJxThfuEScalIzhged4kt0NgZL3Z0QL_ROpq8dE7sYeToMwvOb-1rQX8NZsCyiN9I5OhUDlnu6qw66tydkag6deViAEi4OCANCTS-Z2O29VOKYjfx5cUe9l76Ud8sw/s320/planetoftheapes_poster.jpg",
 "fetch":"pick"
 },
 {
@@ -24,21 +30,15 @@
 "fetch":"event"
 },
 {
-"name":"Black Panther (2021)",
-"tag":"Black Panther (2021)",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsA7E249AysNAvjREA49f1Gmrh6jrT633h51w9qAJk60hvMXDSbIQ4B2ddPiqQIUGuhGHPsWMuj_dlfKjK2X5txkgIWzuV6a9dyko8MCLMb7EDad_TP7fsSG6LXr9VvS2P6gPvAPGeQZ6Na3eB7DA_6nXGeuleKn05NrdNCOhpaQsLwpkZiuCTA_2f3I/s1600/blackpanther_poster.jpg",
+"name":"I Am Iron Man (2023)",
+"tag":"I Am Iron Man (2023)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZaUKZOPzbRw5sxfWchSYw9UDeYpqrgLzXmKVbh2Wn-p5Gfu60j7mDXKBd_uxy4xH0jKVVo8yF7sni7LZE-Un7GBcIf8NAzEe3azypG-e8zEf78LHcJATsTSki4fpOqSIAhcigIOTPAYp4tmGCsuUirRW9Glz7m__IXN6XnLqwZxaCL4pqgqVLcojUTzw/s320/iamironman_poster.jpg",
 "fetch":"pick"
 },
 {
-"name":"She-Hulk (2022)",
-"tag":"She-Hulk (2022)",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpqtXSk_zPelRCDjbM34hOkTYr8ScmbxybMrFjJj5rE2RoMGBJe1tcVMkX4oyDXfr_Sv9Z1KbjaijhojXHqlzPMFqwwQCIu3PQKere5eW8E8zR3kR6jWFgjqpX5doPOYkqDFoEqNzTTCBzYqkFeec5TomQwm1qBBcMW5DoiDUfK7_Rsqr1mm0ruuAlm9I/s1600/shehulk_poster.jpg",
-"fetch":"pick"
-},
-{
-"name":"Spider-Man (2022)",
-"tag":"Spider-Man (2022)",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbc_kR3pSlmhTWy29GT-PxUpah1hCN6qwAuCPX1emJwqkbuSP1Z4izPbqu2fSC2w4lnIHw2RhdXnKjC5OcdqRdq44lw40qGj3sxeyjJfAMBlWMdGJKGd-8gFjgxbaCEcIf7dOXrYqValApn4o69Tdhchdp2FEi_aUwcDR6hqaVaLdysQMhaIyJovdZgmc/s1600/spiderman_poster.jpg",
+"name":"The Joker - The Man Who Stopped Laughing (2022)",
+"tag":"The Joker - The Man Who Stopped Laughing (2022)",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpduPLIyf53XM2_stIwuhcRqRIQd7VI4fkXnAEY2SUuWUlycfL1OK0eXnDdFNKbDdEk12QwWSBaOCf3I_B9vLNc5k9qPxRL6ZIPLm_0_DL9Np0K4ZGk5vEeAdE5zdRrsWKnS7qVgJAjw9baVdbxPFh0fhEheBglgnILtwRgnYwuDxbdjwPh0UPjPRaBz0/s320/thejokerthemanwhostoppedlaughing_poster.jpg",
 "fetch":"pick"
 },
 {
@@ -49,6 +49,8 @@
 }
 ]'
 }
+
+
 
 
 
