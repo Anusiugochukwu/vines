@@ -40,6 +40,17 @@
 ]',
 'event':'[
 	{
+	"name": "Knight Terrors",
+	"summary": "When Batman, Superman, and Wonder Woman find the body of one of their earliest enemies inside the Hall of Justice, their investigation takes them past the land of the living, beyond the land of the dead, and directly to a new villain called Insomnia, who uses his powers to engulf every single hero and villain in their own dark and twisted nightmares. The only way to save the world is to call for the help of an unlikely hero—Deadman!",
+	"text": "#62499A",
+	"body": "#FFFFFF",
+	"info": "Please Share The FlickVine App With Friends And Family",
+	"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBLwEB26uNVpFELjNUwM7xpzqH_zwJWBONSqW4qK1obIVHNYPnk6Jzh7qvmsTenqFcttGQE0Cbb7xzKAMe7_iTscngn5S2bPa1Hw6Qx1IbTO4qRBZCrc_KUK0mCi9d-2k29LW9YDWBLFbztERggHEZWMygK7RedBk5vzvd-tihahJdTNilmELZtIhne1M/s0/knightterrors_logo.png",
+	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBsi8_d9dlh_pI9O_rpzhXM3G32w2yf7mr7sn5rAjhq5BMOk_NplNnsA6s422JasT-rKVtm5MSvj2zQ3Xi3KT-a36UeMSkk3jVSqSb1TjtKVQf9fDUc1I5ghThgjoFZ6WIUpucCEJmlkw9CDtWOKNb5uWQT7Gu9gl9ogw_yZGrLGzOM78EnEqIdSjBf4k/s0/knightterrors_img.jpg",
+	"banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEemteVgYicza2rSF0Trh16kOJ_hMmFPu1zw6OL9uNPqAz5RGgiVSjuIk_BzjeZvBSHITCzmamkG97pO3hcHs5qS01sstDsY5kfE4h8dvPfbkMktG7oU0HD2BqV2CyBs5sS_dfUlI9Lsb7GMtGuevDLlht7yJlNWbBkkjrudgI2QEcVxN2tcLcLnjNR1Q/s0/knightterrors_banner.jpg",
+	"tag": "Knight Terrors"
+	},
+	{
 		"name": "Sins of Sinister",
 		"summary": "This universe-melting X-event will introduce a horrifying timeline that makes the Age of Apocalypse look like the X-Men Swimsuit Special as Mister Sinister’s repulsive plans come to fruition. Currently playing a dangerous game with the very timestream of the Marvel Universe, Sinister’s uncontrollable lust for domination will finally be satisfied, but at what cost? It’s the end of the world as we know it, but at least Sinister feels fine. For now. Can that last? Especially when we discover that he really is his own worst enemy...with a giant one-shot to kick it off written by KIERON GILLEN and finished by LUCAS WERNECK.",		
 		"text": "#C41E3A",
@@ -96,6 +107,5 @@
 	}
 ]'
 }
-
 
 
