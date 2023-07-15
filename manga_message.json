@@ -1,0 +1,24 @@
+{
+'fetch':'preview',
+'name':'Kaiju No. 8',
+'title':'The Man Who Became a Monster',
+'chapter':'1',
+'page':'kaijuno8/kaijuno8_1.json',
+'link':'',
+'poster':'',
+'display':'yes',
+'key':'FFLlNJ',
+
+'poster':'[
+{
+"name":"Kaiju No. 8",
+"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKjETKUwn7j91PGEzrMLH5eTmUoc3D0Pt3BoRjyd8Idg5xFbUTTojwiOQNWBSQyZIeY71yit2EKeR3hBUp2BAgKREYv6xNWgmzUH9nBEqjjbZRiBSz4DQuX2Bqhe1eu_XD7VjUfmcpX5gZP2ypnb6Fa_zNGHNAtrj4DNVxdMLsAQU1jkAxOn4--_ar_8v/s0/20230715_184214.jpg",
+"title":"The Man Who Became a Monster",
+"chapter":"1",
+"page":"kaijuno8/kaijuno8_1.json",
+"link":"",
+"head":"",
+"subhead":"",
+"fetch":"preview"
+}]'
+}
