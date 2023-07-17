@@ -11,7 +11,7 @@
 
 'message':'[{
 "name":"Kaiju No. 8",
-"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKjETKUwn7j91PGEzrMLH5eTmUoc3D0Pt3BoRjyd8Idg5xFbUTTojwiOQNWBSQyZIeY71yit2EKeR3hBUp2BAgKREYv6xNWgmzUH9nBEqjjbZRiBSz4DQuX2Bqhe1eu_XD7VjUfmcpX5gZP2ypnb6Fa_zNGHNAtrj4DNVxdMLsAQU1jkAxOn4--_ar_8v/s0/20230715_184214.jpg",
+"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN9CP02NGvh5cI_DAQ4UoVDLbwKOAIx0HsM6ObEJFdF-sUPIwYakCDH_PamIVlP-uTGZlkHQCqQt0UyPFLqu9nZeSmxT6Rp0A1LswKiLvQ06GEhyeO3a4LCTwk-y2T28R-lRzavPBejn322ic6fV8S4ugXLY9eEQRTIzTSbRH42wYrnXvKM1ZVFe3ySQPa/s0/img.jpg",
 "title":"The Man Who Became a Monster",
 "chapter":"1",
 "page":"kaijuno8/kaijuno8_1.json",
@@ -22,15 +22,15 @@
 "fetch":"preview"
 },
 {
-"name":"Kaiju No. 8",
-"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKjETKUwn7j91PGEzrMLH5eTmUoc3D0Pt3BoRjyd8Idg5xFbUTTojwiOQNWBSQyZIeY71yit2EKeR3hBUp2BAgKREYv6xNWgmzUH9nBEqjjbZRiBSz4DQuX2Bqhe1eu_XD7VjUfmcpX5gZP2ypnb6Fa_zNGHNAtrj4DNVxdMLsAQU1jkAxOn4--_ar_8v/s0/20230715_184214.jpg",
-"title":"The Man Who Became a Monster",
-"chapter":"1",
-"page":"kaijuno8/kaijuno8_1.json",
-"link":"",
-"head":"A Monster In A Man`s Body",
-"subhead":"Start Reading This Epic Series Now...",
-"key":"20230715AB",
-"fetch":"preview"
+"name":"",
+"img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillFN74P_pxICym4UQvrknXQSwjRhgO7bhbY8NvoebnBrC_6RkjGiqdOTg909Qaf6tPYRjgCgfWMXVFCl16qXrvClbVssLRUCocajZsk57iAvhudwIANIqW3uRcF64wn4efHeqEeyq7hr8Na3g_UcsTIgKmF2dhkpmLOBZ3vAkiby0W7YZ6IxemOytOOeN/s0/telegram_page.png",
+"title":"",
+"chapter":"",
+"page":"",
+"link":"https://t.me/MangaWorlds",
+"head":"Welcome To The New Update...",
+"subhead":"Join Our Telegram Channel to Get All Latest Updates.",
+"key":"20230717RE",
+"fetch":"link"
 }]'
 }
