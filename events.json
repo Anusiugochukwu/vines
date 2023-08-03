@@ -40,6 +40,17 @@
 ]',
 'event':'[
 	{
+		"name": "Star Wars - Dark Droids",
+		"summary": "A horror-filled epic arrives, as the stage erupts when a new threat is unleashed throughout the galaxy, corrupting droids, cyborgs, and everything in-between!",
+		"text": "#FFFFFF",
+		"body": "#000000",
+		"info": "",
+		"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmLDDarKzlF1xoWAq7FBajIMN3J4J2efnTX33M-raQup_J0FGRsLz5SJbf_pf38sNvrpFlMncBHmX4BStA0aEXNE1bkydp009GWM0fmiqsJp0YBxphubAWBJjV7QRNytnIW3kSCZfnHGm8ePqxefPRMzlQhPRH5XneuoIhxrrrsvaQv8DHg_0z13II9JQ/s0/starwars_darkdroid_logo.jpg",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbe29vyndkVl4kcEE3i665BIvNlQ_SZGdM3YVRhLzT8Kmgufi4_q0p-GDmTIX3VQf5yughkqDl5YXwjIioCEulC-Ch3fZkSFSvaPeVsuViDX4eMTr4Sc4xsCHuJboksyX8IKfnSp6PFWaAesxuZwb6Dz6nwJz-Aba8KV3rzNVCpu9_uaiwKwxuLPAll-I/s0/starwars_darkdroid_poster.jpg",
+		"banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOiRpdbe05Hz-9s1n2GWnHw1njPHczuDPymdw_tF_y5dxTk6UkeqiO4MUcKES0wFAURSiNsWb73zegrFtoppxFQvC-6WTpyHvDuz89dDtPTiALl1OGInmwEN_d0RmceSk8mNq9MifASjL_9Bsv_ktTDf1HlzBwlQDT0Qn5iP06ocFA8zDDjsgOVS9xZM0/s0/starwars_darkdroid_banner.jpg",
+		"tag": "Star Wars - Dark Droids"
+	},
+	{
 	"name": "Knight Terrors",
 	"summary": "When Batman, Superman, and Wonder Woman find the body of one of their earliest enemies inside the Hall of Justice, their investigation takes them past the land of the living, beyond the land of the dead, and directly to a new villain called Insomnia, who uses his powers to engulf every single hero and villain in their own dark and twisted nightmares. The only way to save the world is to call for the help of an unlikely hero—Deadman!",
 	"text": "#62499A",
@@ -107,5 +118,4 @@
 	}
 ]'
 }
-
 
