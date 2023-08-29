@@ -1,44 +1,44 @@
 {
-'version':'7',
-'url':'https://www.mediafire.com/file/1wuzcwquufce543/MangaVine.apk/file',
+'version':'1',
+'url':'',
 'info':'- Improvement on Home Page UI/UX
-- Brand New layout & Appearance of Manga
-- Users can access to manga and download easily 
+- Brand New layout & Appearance of Comics
+- Users can access to comics and download easily 
 - Join The Telegram Channel to Get More Updates.',
-'app':'Version 2.0',
-'display':'no',
+'app':'Version 1.0',
+'display':'yes',
 'key':'FFLlN',
 
 'poster':'[
 
 {
-"name":"Boruto - Naruto Next Generations",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8TIhf0oMLXONYSwkmJHNPQu0JZI_JB2rmjfXshLEfJ0XJwtcmjmR0tY4dPiazs3urqhJMkbVt7bGZdatzu-UaBdkssJP_z5PqE8JQNNssjz9VDLSdfeyHfaaTXoIZvxmTvWrlovR7BaclBezQdhszrJoX80TWw6xLfw4bYtKFKowbNwa_DwWvwD8WA/s0/boruto_naruto_next_generation.jpeg"
+"name":"Black Cloak",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigPCabVGggy-uvStaBKPPU7FX_bo4BDOTdmVHwyn8FHBoFaYQSvZNTY4wSlQ-Lzs8BZvsBNupX-rpLAv3ypWAJjLCgic1nML9ExlQrpwmm3MaYmfc15r2DjzAsn_Ky0HtJyvEjRE1GcbUF07IWf39BuHhYomwPk7DLv99DC86VVBQb27c_8WLYJ0eNgGs/s320/blackcloak_banner.jpg"
 },
 
 {
-"name":"One Piece",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9tgFxFNYQuKNKs3786yFT2i3gU7IY38NiCPSfgAxUcxOLzvKv-SOzaBZ9GoQtUxT-mJaHmCbSWHd5k-m96Q3wCzqCVv27llGc48TmSW1rcQAE1DCljDl0TSDuwJadJ_mWsBsT9hXWxUNnjozlEPQw_MESI6KcbP0hvYQa2ivYn4Jwtoty4uS2j9FcOQ/s0/one_piece.jpeg"
+"name":"Invincible",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMT0_uyO-LZ6nGMcTtQCRNduq_r6GNLT0ONFPmOfcSsTN6uhxIArrLoe29gWH1wT2qKqslkB-A_X-XP1Vp1DM8v8sKlO6Uklz83fw3Hp722DPDRF6-1Ixh_4MBNawMLwGiX3nWLpccUf_qLIS3WpN1G7jLEemGac17aSqeJRPZ5gdzWTntdXO3nuxjy5A/s320/invincible_banner.jpg"
 },
 
 {
-"name":"Do Retry",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIoYojbV82PTMkKrkYtYUSqHWbnYoja5oTI9FT5q1Bv7m6Ga8nwrREFVrVwoZvl4O2GV5hbKbE0guWtC-j4Z5JUAdLkpBLOLbdM0LTVf78fke3g-SETQ6BhGvU_rUK-aBGT90Fuz09NY0bk3P6RJ4MwTpGzuecMPVHf7OgVdRn-oYTkCaE9xTQt9AWxa5z/s0/DoRetry_banner.jpg"
+"name":"Rogue Sun",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNGvEG-WbpF7qyrYScZd0U25oOL81bQ2obAkdpM4N_jSCJxxzErz6Uh2Qd78c8IKGv_z5Qc_kOLH5VW19ECmd20lelga_kUDpocnIe1g2aXYjdwLvEpxqXbeyg_42nOFz3zhShYWY8Iu0Os1jzPxtav6vFX0QBTXrZmnumsJ8zzO4B47r5pdkQ6Levdho/s320/roguesun_banner.jpg"
 },
 
 {
-"name":"Kindergarten WARS",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrGDEfoKrH7cphjHduehma329-oWVWblWcblsMQRH7A-3fy4nx0Mz-15IPQepJlffR3XG4gQ68Rfo7rj-1nb3whC0MMnj_W0MoT7jqoWvtqnsyc1u_5IdGLYErXiya6O2it-H7bjeQ2KlAWAqEBjdWWV_cLdf7JLOvysydOrro6wmc5q-SK9IJotzXHrNI/s0/KindergartenWars_banner.jpg"
+"name":"Saga",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQGFq86MqkV7DEPCnLFXl6xNT0YKV0oCFm6gsH7eUbX3XNiUgbd_d8dH2e3gPfVV_3xh2IMEpG_U352pKuIr0nSkcA_OEoJjTtGTAitA9pmzas5zrlNDLj2s5OaTU_0ZfUrgL8ztB8vGnkM0b0Ev2y4XlikCoFbWWkMVF6vJ4tz1CTmq36dL4UCHmQGgU/s320/saga_banner.jpg"
 },
 
 {
-"name":"Nue`s Exorcist",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqE2dwTXGSmCn-943Zl_pkCfSysjGlKB3hDQ7FFj72BuIZtDW54n9drPXaKukiZbXFzpEXPYPhhS4cpsdagPXS7inHfymwlxysl-DV3b5c_B-WVh0Icqcy-DskdqH9OGc1zKpN0g3c4PvH6CdZkRP7s7oTcxy2VVSEQzm-PHk_j49UatABNSohHl9XlVhA/s0/NuesExorcist_banner.jpg"
+"name":"Spawn",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8OIhfRDn0szOSKBu9WTs-wn9P0rgOGmZqfMwFUOoM04uWfvVVIFRILGYAI0G-ohRljqQN9SESJHUHoKa5uvM9hP8TqY2R6E6uYkjswlK1JLlo7FQ1TM0N1EGKQoZg3ZvmeuVZmkymnO0YuO6xceh-lqB9PIK2WifF6XZj3nsoR2v8SxIRQm1oKFQvues/s320/spawn_banner.jpg"
 },
 
 {
-"name":"Blooming Love",
-"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZE1UWqk0Eyiqj1wHWAIUHWkbE8lxKAHYFKu03Ab2D4VCGOibhiwyUaSSXId4OBcL8KQC6nDEtw5fhui8DKb3G80PT0ckzq_n6h7x36KfA_0G9vXCic1fIxWsDpa3xecK1hsmswWCo0ayQ0SNNk5zgKjzoFF7iPP3sLIa0MmPhcqVR2JHrbOfFv3Nr7QGS/s0/BloomingLove_banner.jpg"
+"name":"The Walking Dead Deluxe",
+"poster":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5Gw13MXxnBn4-r8sCnH17XeYbt7B9gib1ooMqGbdL65BWqvz9ZT34MfMdx89YwjKUMTRq0BWKTo_ULFqnS8oWLSTR6RiIz3Fg2O3m0Lt-Xu_65djeObg8l0SYaeeA16RkW1odLVnhP2pqGNpXjUja3BdxJZlPpX3g5Fw6BtSbnrBEvyFRqLUFpY-vd4s/s320/thewalkingdead_banner.jpg"
 }
 
 ]',
@@ -46,29 +46,42 @@
 'banner':'[
 
 {
-"name":"Dandadan",
-"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicfUTpael9PV9S8Vexc67npcG-YkIYJkDt19zdy1U4MY8g7V6ZgGEfeWyqozDmdd-92fAE705IOEIpfUwAcDV6zIG8yy-5_5k0yW32mq3e9hG8s7uc6pEV5Xpz8D9ktRQcKaMfvaP7pF_aa1xUN2fVmTYVLFoY07EV4s7X68S8FjxTbRVXDgNw-hb6Bw/s0/Dandadan_page.jpg"
+"name":"Black Cloak",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigPCabVGggy-uvStaBKPPU7FX_bo4BDOTdmVHwyn8FHBoFaYQSvZNTY4wSlQ-Lzs8BZvsBNupX-rpLAv3ypWAJjLCgic1nML9ExlQrpwmm3MaYmfc15r2DjzAsn_Ky0HtJyvEjRE1GcbUF07IWf39BuHhYomwPk7DLv99DC86VVBQb27c_8WLYJ0eNgGs/s320/blackcloak_banner.jpg"
 },
 
 {
-"name":"Romantic Killer",
-"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixMJV2Q1OpQ76phOYnxbYSHKbBCQVNbsArRIgoyhhDKy2twBerOjMj21iOgvozBzpluwFFsh4Mogmiiqfyp47yKX47RBt6CKCn3tqOEiBUmiE2OiqzIaTDmK3qyaKqwTZdPpmZ8q2RO9lOk17dM5FUPcD6yRxPednzW0MhcnI7ZagqedXmtXIUMYnODg/s0/RomanticKiller_page.jpg"
+"name":"Invincible",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMT0_uyO-LZ6nGMcTtQCRNduq_r6GNLT0ONFPmOfcSsTN6uhxIArrLoe29gWH1wT2qKqslkB-A_X-XP1Vp1DM8v8sKlO6Uklz83fw3Hp722DPDRF6-1Ixh_4MBNawMLwGiX3nWLpccUf_qLIS3WpN1G7jLEemGac17aSqeJRPZ5gdzWTntdXO3nuxjy5A/s320/invincible_banner.jpg"
 },
 
 {
-"name":"Kaiju No. 8",
-"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVM3udRqBGsbfxjBTBdLeDtzgYQ7bWIOUDk1MjtIA6h6U9BiaktEVWh0Qre5hggo6sAkfysU3S4rhHlwfWoJQ8WzLEV6mDUk4TiZZWbJ2e0EWvLkR7KQHZZlyunDZM1IgbnolINazzihYbudGVckNq_kUeLGthTDfTor5IxHXSfF02tEtnz4PTBEuSZ0OL/s0/kaijuno8_page.jpg"
+"name":"Rogue Sun",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNGvEG-WbpF7qyrYScZd0U25oOL81bQ2obAkdpM4N_jSCJxxzErz6Uh2Qd78c8IKGv_z5Qc_kOLH5VW19ECmd20lelga_kUDpocnIe1g2aXYjdwLvEpxqXbeyg_42nOFz3zhShYWY8Iu0Os1jzPxtav6vFX0QBTXrZmnumsJ8zzO4B47r5pdkQ6Levdho/s320/roguesun_banner.jpg"
 },
 
 {
-"name":"Tokyo Underworld",
-"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ51-61-vey-7YQEHLY21CQfsC-kIglNtN7F7hia-fbmzqG4y8MPtMRRnae-nPU164MsUxDnw7z8SCzoQIdpNziUF5DnMaqoypyb-RFB9Mqz5R7JViwR-ak6Z2Rx3Dj5WzBrLfKcMD7RYzRISEzqNEKtwI8T7UlVtWK64PCJ0A3fOl9RztFFuSn7ww8fxb/s0/TokyoUnderworld_page.jpg"
+"name":"Saga",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQGFq86MqkV7DEPCnLFXl6xNT0YKV0oCFm6gsH7eUbX3XNiUgbd_d8dH2e3gPfVV_3xh2IMEpG_U352pKuIr0nSkcA_OEoJjTtGTAitA9pmzas5zrlNDLj2s5OaTU_0ZfUrgL8ztB8vGnkM0b0Ev2y4XlikCoFbWWkMVF6vJ4tz1CTmq36dL4UCHmQGgU/s320/saga_banner.jpg"
+},
+
+{
+"name":"Spawn",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8OIhfRDn0szOSKBu9WTs-wn9P0rgOGmZqfMwFUOoM04uWfvVVIFRILGYAI0G-ohRljqQN9SESJHUHoKa5uvM9hP8TqY2R6E6uYkjswlK1JLlo7FQ1TM0N1EGKQoZg3ZvmeuVZmkymnO0YuO6xceh-lqB9PIK2WifF6XZj3nsoR2v8SxIRQm1oKFQvues/s320/spawn_banner.jpg"
+},
+
+{
+"name":"The Walking Dead Deluxe",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5Gw13MXxnBn4-r8sCnH17XeYbt7B9gib1ooMqGbdL65BWqvz9ZT34MfMdx89YwjKUMTRq0BWKTo_ULFqnS8oWLSTR6RiIz3Fg2O3m0Lt-Xu_65djeObg8l0SYaeeA16RkW1odLVnhP2pqGNpXjUja3BdxJZlPpX3g5Fw6BtSbnrBEvyFRqLUFpY-vd4s/s320/thewalkingdead_banner.jpg"
+},
+
+{
+"name":"Time Before Time",
+"banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSRtepyr6PZQ11u3bOHH6ZicL_jKOMMcBkML8flbwUziWJlpIEfgxApzeaZBu4ysZN5YqWwjJwEm2y-ITDs5E6WbSCMA98l66DVwkwB38aGbtOUKn0sceDcIoBY28uTeFvAHb1vqs1T5fhjQ9rC39R-z6dylLyJtQscn5FYK4_rNydTzNr3Mdz4eyiGs/s320/timebeforetime_banner.jpg"
 }
 
 ]'
 }
-
-
 
 
 
