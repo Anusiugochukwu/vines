@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+p#data {
+	border: none;
+	max-height: 20em;
+}
+</style>
+
+</head>
+
+<body>
+
+<div id="container">
+
+  <h1><a href="../index.html" title="simpl.info home page">simpl.info</a> Geolocation</h1>
+
+  <p id="data"></p>
+
+
+
+  <a href="https://github.com/samdutton/simpl/blob/gh-pages/geolocation" title="View source for this page on GitHub" id="viewSource">View source on GitHub</a>
+
+</div></body>
+</html>
+
+
+<script type="text/javascript">
+
+'use strict';
+
+var data = document.querySelector('#data');
+
+function log(message) {
+  data.innerHTML += message + '<br />' + data.innerHTML;
+}
+
+navigator.geolocation.watchPosition(logPosition);
+
+function logPosition(position) {
+  console.log(position);
+  log('latitude: ' + position.coords.latitude +
+    ', longitude: ' + position.coords.longitude);
+}
+
+</script>
+
+</html>
+
+
+
